@@ -1,0 +1,19 @@
+{
+    "order_id": 366621,
+    "client_id": 3763,
+    "produits": [
+        {
+            "produit_id": "P9756",
+            "nom": "Tasty Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 116.67
+        }
+    ],
+    "date_commande": "2024-12-13T04:02:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "488 Royal",
+        "ville": "Granite City"
+    }
+}

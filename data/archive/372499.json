@@ -1,0 +1,31 @@
+{
+    "order_id": 372499,
+    "client_id": 1758,
+    "produits": [
+        {
+            "produit_id": "P3889",
+            "nom": "Handmade Table",
+            "quantite": 1,
+            "prix_unitaire": 322.71
+        },
+        {
+            "produit_id": "P6171",
+            "nom": "Gently Used Fresh Hat",
+            "quantite": 1,
+            "prix_unitaire": 364.8
+        },
+        {
+            "produit_id": "P0451",
+            "nom": "Small Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 237.93
+        }
+    ],
+    "date_commande": "2025-05-24T07:58:38",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1264 Sola",
+        "ville": "Loves Park"
+    }
+}

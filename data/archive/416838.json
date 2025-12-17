@@ -1,0 +1,21 @@
+{
+    "order_id": 416838,
+    "client_id": 7021,
+    "produits": [
+        {
+            "produit_id": "P4676",
+            "nom": "Intelligent Plastic Computer",
+            "quantite": 3,
+            "prix_unitaire": 204.03
+        },
+        {
+            "produit_id": "P2582",
+            "nom": "Unbranded Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 193.79
+        }
+    ],
+    "date_commande": "2024-04-01T08:24:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

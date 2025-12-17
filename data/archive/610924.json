@@ -1,0 +1,25 @@
+{
+    "order_id": 610924,
+    "client_id": 3790,
+    "produits": [
+        {
+            "produit_id": "P0628",
+            "nom": "Sleek Soft Cheese",
+            "quantite": 2,
+            "prix_unitaire": 254.66
+        },
+        {
+            "produit_id": "P1447",
+            "nom": "For repair Tuna",
+            "quantite": 1,
+            "prix_unitaire": 334.95
+        }
+    ],
+    "date_commande": "2024-04-11T05:02:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "614 Laguna Honda",
+        "ville": "Noblesville"
+    }
+}

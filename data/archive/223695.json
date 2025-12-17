@@ -1,0 +1,21 @@
+{
+    "order_id": 223695,
+    "client_id": 8548,
+    "produits": [
+        {
+            "produit_id": "P6454",
+            "nom": "Ergonomic Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 111.56
+        },
+        {
+            "produit_id": "P2322",
+            "nom": "Gently Used Wooden Cheese",
+            "quantite": 3,
+            "prix_unitaire": 278.46
+        }
+    ],
+    "date_commande": "2025-02-09T15:33:34",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

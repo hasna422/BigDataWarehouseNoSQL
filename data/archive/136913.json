@@ -1,0 +1,27 @@
+{
+    "order_id": 136913,
+    "client_id": 1008,
+    "produits": [
+        {
+            "produit_id": "P8619",
+            "nom": "Ergonomic Plastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 404.46
+        },
+        {
+            "produit_id": "P1893",
+            "nom": "Fantastic Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 44.7
+        },
+        {
+            "produit_id": "P1336",
+            "nom": "Sleek Table",
+            "quantite": 1,
+            "prix_unitaire": 213.76
+        }
+    ],
+    "date_commande": "2024-06-11T21:11:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

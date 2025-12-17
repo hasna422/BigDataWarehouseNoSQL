@@ -1,0 +1,27 @@
+{
+    "order_id": 740345,
+    "client_id": 8856,
+    "produits": [
+        {
+            "produit_id": "P2129",
+            "nom": "Practical Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 473.5
+        },
+        {
+            "produit_id": "P5291",
+            "nom": "Licensed Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 104.93
+        },
+        {
+            "produit_id": "P4632",
+            "nom": "Ergonomic Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 211.56
+        }
+    ],
+    "date_commande": "2024-02-25T01:20:32",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

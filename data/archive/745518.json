@@ -1,0 +1,19 @@
+{
+    "order_id": 745518,
+    "client_id": 7051,
+    "produits": [
+        {
+            "produit_id": "P1881",
+            "nom": "Handcrafted Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 355.75
+        }
+    ],
+    "date_commande": "2023-12-12T17:59:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "399 Dickinson",
+        "ville": "Cicero"
+    }
+}

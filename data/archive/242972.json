@@ -1,0 +1,15 @@
+{
+    "order_id": 242972,
+    "client_id": 2432,
+    "produits": [
+        {
+            "produit_id": "P4560",
+            "nom": "Generic Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 398.62
+        }
+    ],
+    "date_commande": "2025-05-26T11:01:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 785569,
+    "client_id": 3637,
+    "produits": [
+        {
+            "produit_id": "P0824",
+            "nom": "Incredible Granite Chair",
+            "quantite": 4,
+            "prix_unitaire": 340.36
+        },
+        {
+            "produit_id": "P1386",
+            "nom": "Tasty Fresh Bacon",
+            "quantite": 3,
+            "prix_unitaire": 389.6
+        },
+        {
+            "produit_id": "P6149",
+            "nom": "Incredible Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 420.32
+        }
+    ],
+    "date_commande": "2024-01-09T12:46:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

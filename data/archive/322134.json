@@ -1,0 +1,15 @@
+{
+    "order_id": 322134,
+    "client_id": 5201,
+    "produits": [
+        {
+            "produit_id": "P8747",
+            "nom": "Generic Bacon",
+            "quantite": 1,
+            "prix_unitaire": 155.63
+        }
+    ],
+    "date_commande": "2025-05-11T01:26:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

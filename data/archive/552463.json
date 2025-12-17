@@ -1,0 +1,19 @@
+{
+    "order_id": 552463,
+    "client_id": 6314,
+    "produits": [
+        {
+            "produit_id": "P1796",
+            "nom": "Unbranded Steel Pizza",
+            "quantite": 2,
+            "prix_unitaire": 180.88
+        }
+    ],
+    "date_commande": "2025-02-04T09:56:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "946 Ney",
+        "ville": "San Rafael"
+    }
+}

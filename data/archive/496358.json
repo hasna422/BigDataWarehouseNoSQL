@@ -1,0 +1,19 @@
+{
+    "order_id": 496358,
+    "client_id": 7418,
+    "produits": [
+        {
+            "produit_id": "P0407",
+            "nom": "Practical Frozen Mouse",
+            "quantite": 2,
+            "prix_unitaire": 417.53
+        }
+    ],
+    "date_commande": "2024-02-17T13:01:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "290 Barry",
+        "ville": "Westmont"
+    }
+}

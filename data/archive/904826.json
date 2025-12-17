@@ -1,0 +1,25 @@
+{
+    "order_id": 904826,
+    "client_id": 8922,
+    "produits": [
+        {
+            "produit_id": "P4968",
+            "nom": "Handmade Frozen Salad",
+            "quantite": 5,
+            "prix_unitaire": 464.53
+        },
+        {
+            "produit_id": "P1610",
+            "nom": "Tasty Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 490.0
+        }
+    ],
+    "date_commande": "2023-10-21T04:17:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1208 Sfgh Access",
+        "ville": "West Mifflin"
+    }
+}

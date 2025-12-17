@@ -1,0 +1,25 @@
+{
+    "order_id": 426076,
+    "client_id": 7129,
+    "produits": [
+        {
+            "produit_id": "P6635",
+            "nom": "Handcrafted Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 368.76
+        },
+        {
+            "produit_id": "P9891",
+            "nom": "Ergonomic Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 53.64
+        }
+    ],
+    "date_commande": "2024-10-26T07:03:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "97 Sturgeon",
+        "ville": "Hawthorne"
+    }
+}

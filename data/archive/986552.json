@@ -1,0 +1,25 @@
+{
+    "order_id": 986552,
+    "client_id": 5837,
+    "produits": [
+        {
+            "produit_id": "P7980",
+            "nom": "Fantastic Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 127.63
+        },
+        {
+            "produit_id": "P3432",
+            "nom": "Sleek Frozen Shoes",
+            "quantite": 3,
+            "prix_unitaire": 241.46
+        }
+    ],
+    "date_commande": "2024-03-04T08:29:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "173 Candlestick Point Sra",
+        "ville": "Oshkosh"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 725945,
+    "client_id": 1547,
+    "produits": [
+        {
+            "produit_id": "P3863",
+            "nom": "Generic Rubber Towels",
+            "quantite": 4,
+            "prix_unitaire": 335.09
+        },
+        {
+            "produit_id": "P7430",
+            "nom": "Used Wooden Fish",
+            "quantite": 5,
+            "prix_unitaire": 416.11
+        }
+    ],
+    "date_commande": "2025-02-20T00:06:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1399 Greenview",
+        "ville": "Springfield"
+    }
+}

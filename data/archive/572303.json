@@ -1,0 +1,25 @@
+{
+    "order_id": 572303,
+    "client_id": 7840,
+    "produits": [
+        {
+            "produit_id": "P3497",
+            "nom": "Licensed Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 429.29
+        },
+        {
+            "produit_id": "P3522",
+            "nom": "Intelligent Frozen Chicken",
+            "quantite": 4,
+            "prix_unitaire": 63.92
+        }
+    ],
+    "date_commande": "2024-08-20T10:23:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "835 Apollo",
+        "ville": "Bradenton"
+    }
+}

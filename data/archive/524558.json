@@ -1,0 +1,25 @@
+{
+    "order_id": 524558,
+    "client_id": 6877,
+    "produits": [
+        {
+            "produit_id": "P9993",
+            "nom": "Intelligent Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 110.05
+        },
+        {
+            "produit_id": "P6651",
+            "nom": "Used Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 426.17
+        }
+    ],
+    "date_commande": "2023-12-20T13:35:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "5 Fair",
+        "ville": "Pascagoula"
+    }
+}

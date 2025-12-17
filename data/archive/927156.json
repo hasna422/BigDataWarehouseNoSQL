@@ -1,0 +1,31 @@
+{
+    "order_id": 927156,
+    "client_id": 3859,
+    "produits": [
+        {
+            "produit_id": "P0711",
+            "nom": "Ergonomic Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 151.12
+        },
+        {
+            "produit_id": "P5921",
+            "nom": "Small Plastic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 345.33
+        },
+        {
+            "produit_id": "P0945",
+            "nom": "Fantastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 345.05
+        }
+    ],
+    "date_commande": "2023-07-27T04:45:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "971 Pilgrim",
+        "ville": "Benicia"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 448468,
+    "client_id": 6996,
+    "produits": [
+        {
+            "produit_id": "P8317",
+            "nom": "Rustic Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 127.57
+        },
+        {
+            "produit_id": "P2590",
+            "nom": "Licensed Soft Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 159.2
+        },
+        {
+            "produit_id": "P1460",
+            "nom": "Generic Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 47.98
+        }
+    ],
+    "date_commande": "2024-01-13T05:29:38",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "123 Ventura",
+        "ville": "Waukegan"
+    }
+}

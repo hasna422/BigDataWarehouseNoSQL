@@ -1,0 +1,27 @@
+{
+    "order_id": 341888,
+    "client_id": 7359,
+    "produits": [
+        {
+            "produit_id": "P7316",
+            "nom": "Rustic Car",
+            "quantite": 5,
+            "prix_unitaire": 438.71
+        },
+        {
+            "produit_id": "P1889",
+            "nom": "New Salad",
+            "quantite": 4,
+            "prix_unitaire": 125.09
+        },
+        {
+            "produit_id": "P1954",
+            "nom": "Used Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 489.87
+        }
+    ],
+    "date_commande": "2024-06-28T12:30:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

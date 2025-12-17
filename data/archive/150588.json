@@ -1,0 +1,31 @@
+{
+    "order_id": 150588,
+    "client_id": 1639,
+    "produits": [
+        {
+            "produit_id": "P8580",
+            "nom": "New Wooden Chips",
+            "quantite": 4,
+            "prix_unitaire": 156.86
+        },
+        {
+            "produit_id": "P3681",
+            "nom": "Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 336.58
+        },
+        {
+            "produit_id": "P6218",
+            "nom": "Generic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 243.86
+        }
+    ],
+    "date_commande": "2024-10-30T03:37:17",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "26 Neptune",
+        "ville": "Ithaca"
+    }
+}

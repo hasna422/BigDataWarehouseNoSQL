@@ -1,0 +1,15 @@
+{
+    "order_id": 475047,
+    "client_id": 4392,
+    "produits": [
+        {
+            "produit_id": "P6997",
+            "nom": "Generic Fish",
+            "quantite": 5,
+            "prix_unitaire": 391.58
+        }
+    ],
+    "date_commande": "2024-12-22T16:39:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

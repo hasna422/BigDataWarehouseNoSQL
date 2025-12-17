@@ -1,0 +1,21 @@
+{
+    "order_id": 841107,
+    "client_id": 7812,
+    "produits": [
+        {
+            "produit_id": "P3020",
+            "nom": "Rubber Bacon",
+            "quantite": 3,
+            "prix_unitaire": 397.63
+        },
+        {
+            "produit_id": "P5071",
+            "nom": "Sleek Fish",
+            "quantite": 4,
+            "prix_unitaire": 309.93
+        }
+    ],
+    "date_commande": "2025-01-23T06:21:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

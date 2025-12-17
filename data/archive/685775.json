@@ -1,0 +1,27 @@
+{
+    "order_id": 685775,
+    "client_id": 5152,
+    "produits": [
+        {
+            "produit_id": "P0213",
+            "nom": "Handmade Wooden Chicken",
+            "quantite": 3,
+            "prix_unitaire": 496.04
+        },
+        {
+            "produit_id": "P5929",
+            "nom": "New Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 63.48
+        },
+        {
+            "produit_id": "P2029",
+            "nom": "Generic Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 28.54
+        }
+    ],
+    "date_commande": "2024-12-23T23:14:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

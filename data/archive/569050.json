@@ -1,0 +1,25 @@
+{
+    "order_id": 569050,
+    "client_id": 2490,
+    "produits": [
+        {
+            "produit_id": "P9679",
+            "nom": "Used Steel Mouse",
+            "quantite": 4,
+            "prix_unitaire": 226.61
+        },
+        {
+            "produit_id": "P6295",
+            "nom": "Intelligent Steel Bike",
+            "quantite": 2,
+            "prix_unitaire": 395.31
+        }
+    ],
+    "date_commande": "2023-10-05T21:23:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "212 Candlestick Point Sra",
+        "ville": "Casselberry"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 440904,
+    "client_id": 4474,
+    "produits": [
+        {
+            "produit_id": "P7833",
+            "nom": "Unbranded Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 21.0
+        },
+        {
+            "produit_id": "P9006",
+            "nom": "For repair Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 427.38
+        },
+        {
+            "produit_id": "P5432",
+            "nom": "New Metal Shirt",
+            "quantite": 1,
+            "prix_unitaire": 144.48
+        }
+    ],
+    "date_commande": "2024-07-31T06:14:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "355 Mccormick",
+        "ville": "La Mesa"
+    }
+}

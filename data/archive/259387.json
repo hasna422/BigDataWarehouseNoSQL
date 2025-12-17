@@ -1,0 +1,27 @@
+{
+    "order_id": 259387,
+    "client_id": 7518,
+    "produits": [
+        {
+            "produit_id": "P5577",
+            "nom": "Awesome Frozen Tuna",
+            "quantite": 3,
+            "prix_unitaire": 298.35
+        },
+        {
+            "produit_id": "P3318",
+            "nom": "Ergonomic Fresh Shirt",
+            "quantite": 3,
+            "prix_unitaire": 49.7
+        },
+        {
+            "produit_id": "P8382",
+            "nom": "Incredible Concrete Ball",
+            "quantite": 1,
+            "prix_unitaire": 346.93
+        }
+    ],
+    "date_commande": "2025-02-02T10:49:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 937214,
+    "client_id": 8636,
+    "produits": [
+        {
+            "produit_id": "P1560",
+            "nom": "Tasty Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 369.0
+        }
+    ],
+    "date_commande": "2023-07-26T03:05:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "152 Tennessee",
+        "ville": "Hammond"
+    }
+}

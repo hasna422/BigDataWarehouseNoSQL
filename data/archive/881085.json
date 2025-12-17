@@ -1,0 +1,15 @@
+{
+    "order_id": 881085,
+    "client_id": 6426,
+    "produits": [
+        {
+            "produit_id": "P7623",
+            "nom": "Unbranded Mouse",
+            "quantite": 5,
+            "prix_unitaire": 292.28
+        }
+    ],
+    "date_commande": "2024-09-19T20:39:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

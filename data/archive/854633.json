@@ -1,0 +1,25 @@
+{
+    "order_id": 854633,
+    "client_id": 9766,
+    "produits": [
+        {
+            "produit_id": "P5075",
+            "nom": "Awesome Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 335.84
+        },
+        {
+            "produit_id": "P5378",
+            "nom": "Small Cotton Sausages",
+            "quantite": 4,
+            "prix_unitaire": 214.51
+        }
+    ],
+    "date_commande": "2025-04-22T11:50:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "946 Byxbee",
+        "ville": "Dallas"
+    }
+}

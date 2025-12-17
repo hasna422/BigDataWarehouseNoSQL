@@ -1,0 +1,19 @@
+{
+    "order_id": 579980,
+    "client_id": 8259,
+    "produits": [
+        {
+            "produit_id": "P6420",
+            "nom": "Incredible Metal Car",
+            "quantite": 1,
+            "prix_unitaire": 349.65
+        }
+    ],
+    "date_commande": "2024-03-25T03:30:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "537 Steiner",
+        "ville": "Gardner"
+    }
+}

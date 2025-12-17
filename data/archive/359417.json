@@ -1,0 +1,19 @@
+{
+    "order_id": 359417,
+    "client_id": 1043,
+    "produits": [
+        {
+            "produit_id": "P1037",
+            "nom": "For repair Towels",
+            "quantite": 1,
+            "prix_unitaire": 21.22
+        }
+    ],
+    "date_commande": "2024-12-05T14:47:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "877 Encanto",
+        "ville": "Glen Ellyn"
+    }
+}

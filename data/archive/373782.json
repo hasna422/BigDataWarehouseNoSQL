@@ -1,0 +1,19 @@
+{
+    "order_id": 373782,
+    "client_id": 3975,
+    "produits": [
+        {
+            "produit_id": "P5815",
+            "nom": "Awesome Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 140.63
+        }
+    ],
+    "date_commande": "2023-10-03T21:13:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "318 Fella",
+        "ville": "Newark"
+    }
+}

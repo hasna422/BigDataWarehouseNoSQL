@@ -1,0 +1,19 @@
+{
+    "order_id": 835680,
+    "client_id": 5236,
+    "produits": [
+        {
+            "produit_id": "P9131",
+            "nom": "Awesome Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 112.79
+        }
+    ],
+    "date_commande": "2023-10-30T17:11:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1117 Lake Forest",
+        "ville": "Arnold"
+    }
+}

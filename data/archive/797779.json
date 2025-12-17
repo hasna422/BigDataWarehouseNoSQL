@@ -1,0 +1,19 @@
+{
+    "order_id": 797779,
+    "client_id": 3811,
+    "produits": [
+        {
+            "produit_id": "P9463",
+            "nom": "Intelligent Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 364.5
+        }
+    ],
+    "date_commande": "2024-10-14T20:34:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1276 Avenue E",
+        "ville": "Jersey City"
+    }
+}

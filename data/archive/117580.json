@@ -1,0 +1,15 @@
+{
+    "order_id": 117580,
+    "client_id": 6705,
+    "produits": [
+        {
+            "produit_id": "P0798",
+            "nom": "Used Cheese",
+            "quantite": 5,
+            "prix_unitaire": 375.0
+        }
+    ],
+    "date_commande": "2024-07-30T15:51:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

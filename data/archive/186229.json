@@ -1,0 +1,25 @@
+{
+    "order_id": 186229,
+    "client_id": 1610,
+    "produits": [
+        {
+            "produit_id": "P6113",
+            "nom": "Gently Used Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 159.85
+        },
+        {
+            "produit_id": "P4944",
+            "nom": "Awesome Concrete Towels",
+            "quantite": 3,
+            "prix_unitaire": 22.24
+        }
+    ],
+    "date_commande": "2023-12-11T03:07:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "932 St. Paul Street-Calvert",
+        "ville": "Abilene"
+    }
+}

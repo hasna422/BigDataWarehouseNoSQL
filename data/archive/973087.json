@@ -1,0 +1,19 @@
+{
+    "order_id": 973087,
+    "client_id": 6412,
+    "produits": [
+        {
+            "produit_id": "P6208",
+            "nom": "Unbranded Rubber Soap",
+            "quantite": 5,
+            "prix_unitaire": 11.67
+        }
+    ],
+    "date_commande": "2023-08-18T21:04:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "205 Clarke",
+        "ville": "Port Huron"
+    }
+}

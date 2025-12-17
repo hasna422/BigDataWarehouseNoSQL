@@ -1,0 +1,25 @@
+{
+    "order_id": 567729,
+    "client_id": 3562,
+    "produits": [
+        {
+            "produit_id": "P5161",
+            "nom": "Tasty Soft Hat",
+            "quantite": 2,
+            "prix_unitaire": 410.68
+        },
+        {
+            "produit_id": "P3654",
+            "nom": "Awesome Frozen Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 229.44
+        }
+    ],
+    "date_commande": "2023-08-12T07:12:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "549 Emerson",
+        "ville": "Wooster"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 941841,
+    "client_id": 3646,
+    "produits": [
+        {
+            "produit_id": "P6615",
+            "nom": "Unbranded Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 177.98
+        },
+        {
+            "produit_id": "P6912",
+            "nom": "Ergonomic Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 224.46
+        }
+    ],
+    "date_commande": "2024-04-17T16:13:13",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "378 Walter U Lum",
+        "ville": "Paducah"
+    }
+}

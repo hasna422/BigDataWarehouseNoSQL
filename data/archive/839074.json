@@ -1,0 +1,19 @@
+{
+    "order_id": 839074,
+    "client_id": 5212,
+    "produits": [
+        {
+            "produit_id": "P0651",
+            "nom": "Intelligent Concrete Cheese",
+            "quantite": 2,
+            "prix_unitaire": 321.17
+        }
+    ],
+    "date_commande": "2024-11-07T11:28:03",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "183 Federal",
+        "ville": "Enterprise"
+    }
+}

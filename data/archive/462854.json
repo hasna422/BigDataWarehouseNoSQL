@@ -1,0 +1,25 @@
+{
+    "order_id": 462854,
+    "client_id": 9012,
+    "produits": [
+        {
+            "produit_id": "P8968",
+            "nom": "Awesome Soft Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 470.58
+        },
+        {
+            "produit_id": "P1392",
+            "nom": "Ergonomic Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 64.86
+        }
+    ],
+    "date_commande": "2025-02-16T16:07:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "155 Fair Oaks",
+        "ville": "Vicksburg"
+    }
+}

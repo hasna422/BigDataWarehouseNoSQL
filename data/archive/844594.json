@@ -1,0 +1,31 @@
+{
+    "order_id": 844594,
+    "client_id": 8732,
+    "produits": [
+        {
+            "produit_id": "P6135",
+            "nom": "Sleek Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 371.03
+        },
+        {
+            "produit_id": "P0784",
+            "nom": "Gorgeous Shoes",
+            "quantite": 1,
+            "prix_unitaire": 166.36
+        },
+        {
+            "produit_id": "P5895",
+            "nom": "Incredible Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 171.25
+        }
+    ],
+    "date_commande": "2023-09-21T09:41:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "554 Lily",
+        "ville": "Kankakee"
+    }
+}

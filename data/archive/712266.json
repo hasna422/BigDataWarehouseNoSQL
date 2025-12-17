@@ -1,0 +1,19 @@
+{
+    "order_id": 712266,
+    "client_id": 9937,
+    "produits": [
+        {
+            "produit_id": "P7144",
+            "nom": "Rustic Wooden Pants",
+            "quantite": 2,
+            "prix_unitaire": 97.82
+        }
+    ],
+    "date_commande": "2025-01-03T10:03:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "953 Woodacre",
+        "ville": "Newberg"
+    }
+}

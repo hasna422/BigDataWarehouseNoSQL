@@ -1,0 +1,25 @@
+{
+    "order_id": 637787,
+    "client_id": 8541,
+    "produits": [
+        {
+            "produit_id": "P0935",
+            "nom": "Handmade Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 240.34
+        },
+        {
+            "produit_id": "P9736",
+            "nom": "Gorgeous Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 387.72
+        }
+    ],
+    "date_commande": "2024-12-20T13:19:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1155 Ecker",
+        "ville": "Plainview"
+    }
+}

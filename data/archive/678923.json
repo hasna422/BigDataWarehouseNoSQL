@@ -1,0 +1,21 @@
+{
+    "order_id": 678923,
+    "client_id": 2748,
+    "produits": [
+        {
+            "produit_id": "P3328",
+            "nom": "Tasty Pizza",
+            "quantite": 4,
+            "prix_unitaire": 435.89
+        },
+        {
+            "produit_id": "P9696",
+            "nom": "Fantastic Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 424.34
+        }
+    ],
+    "date_commande": "2024-09-16T22:27:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 934191,
+    "client_id": 7253,
+    "produits": [
+        {
+            "produit_id": "P3871",
+            "nom": "Gently Used Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 78.89
+        },
+        {
+            "produit_id": "P3397",
+            "nom": "Practical Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 325.79
+        },
+        {
+            "produit_id": "P1592",
+            "nom": "Awesome Cheese",
+            "quantite": 5,
+            "prix_unitaire": 197.12
+        }
+    ],
+    "date_commande": "2024-02-22T04:02:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1071 Saint Marys",
+        "ville": "Central Falls"
+    }
+}

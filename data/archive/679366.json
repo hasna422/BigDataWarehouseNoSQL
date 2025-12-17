@@ -1,0 +1,19 @@
+{
+    "order_id": 679366,
+    "client_id": 6838,
+    "produits": [
+        {
+            "produit_id": "P1908",
+            "nom": "Licensed Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 206.38
+        }
+    ],
+    "date_commande": "2024-05-19T19:49:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "747 Font",
+        "ville": "Alsip"
+    }
+}

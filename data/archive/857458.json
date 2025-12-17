@@ -1,0 +1,25 @@
+{
+    "order_id": 857458,
+    "client_id": 6724,
+    "produits": [
+        {
+            "produit_id": "P2037",
+            "nom": "Handmade Computer",
+            "quantite": 2,
+            "prix_unitaire": 375.62
+        },
+        {
+            "produit_id": "P7178",
+            "nom": "Rustic Chair",
+            "quantite": 4,
+            "prix_unitaire": 22.88
+        }
+    ],
+    "date_commande": "2025-02-09T12:07:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "817 Watt",
+        "ville": "Akron"
+    }
+}

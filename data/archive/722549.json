@@ -1,0 +1,25 @@
+{
+    "order_id": 722549,
+    "client_id": 6685,
+    "produits": [
+        {
+            "produit_id": "P2898",
+            "nom": "Tasty Fish",
+            "quantite": 1,
+            "prix_unitaire": 83.89
+        },
+        {
+            "produit_id": "P6576",
+            "nom": "Refined Gloves",
+            "quantite": 2,
+            "prix_unitaire": 415.13
+        }
+    ],
+    "date_commande": "2024-03-10T12:45:16",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1175 Joice",
+        "ville": "Battle Creek"
+    }
+}

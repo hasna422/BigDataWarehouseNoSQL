@@ -1,0 +1,31 @@
+{
+    "order_id": 836011,
+    "client_id": 8913,
+    "produits": [
+        {
+            "produit_id": "P6066",
+            "nom": "For repair Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 68.42
+        },
+        {
+            "produit_id": "P2191",
+            "nom": "Intelligent Plastic Mouse",
+            "quantite": 1,
+            "prix_unitaire": 195.9
+        },
+        {
+            "produit_id": "P5829",
+            "nom": "Fantastic Concrete Sausages",
+            "quantite": 3,
+            "prix_unitaire": 76.26
+        }
+    ],
+    "date_commande": "2024-01-23T22:21:33",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "917 Collingwood",
+        "ville": "Trussville"
+    }
+}

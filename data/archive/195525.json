@@ -1,0 +1,25 @@
+{
+    "order_id": 195525,
+    "client_id": 1511,
+    "produits": [
+        {
+            "produit_id": "P6102",
+            "nom": "Practical Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 247.55
+        },
+        {
+            "produit_id": "P8083",
+            "nom": "Fantastic Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 115.52
+        }
+    ],
+    "date_commande": "2024-04-23T20:49:27",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "535 Crown",
+        "ville": "Somerville"
+    }
+}

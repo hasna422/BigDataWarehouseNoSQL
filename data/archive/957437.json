@@ -1,0 +1,25 @@
+{
+    "order_id": 957437,
+    "client_id": 2712,
+    "produits": [
+        {
+            "produit_id": "P6664",
+            "nom": "Unbranded Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 78.55
+        },
+        {
+            "produit_id": "P6858",
+            "nom": "Rustic Granite Salad",
+            "quantite": 4,
+            "prix_unitaire": 140.8
+        }
+    ],
+    "date_commande": "2025-02-28T02:57:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "113 Peabody",
+        "ville": "Peekskill"
+    }
+}

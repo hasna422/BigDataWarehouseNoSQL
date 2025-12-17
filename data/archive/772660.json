@@ -1,0 +1,21 @@
+{
+    "order_id": 772660,
+    "client_id": 5064,
+    "produits": [
+        {
+            "produit_id": "P7296",
+            "nom": "Incredible Cotton Salad",
+            "quantite": 5,
+            "prix_unitaire": 38.93
+        },
+        {
+            "produit_id": "P4953",
+            "nom": "Fantastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 476.13
+        }
+    ],
+    "date_commande": "2024-12-22T04:31:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

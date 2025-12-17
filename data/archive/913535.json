@@ -1,0 +1,25 @@
+{
+    "order_id": 913535,
+    "client_id": 1478,
+    "produits": [
+        {
+            "produit_id": "P8489",
+            "nom": "Small Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 332.42
+        },
+        {
+            "produit_id": "P7122",
+            "nom": "Intelligent Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 251.19
+        }
+    ],
+    "date_commande": "2024-06-30T02:02:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1204 Vinton",
+        "ville": "Caldwell"
+    }
+}

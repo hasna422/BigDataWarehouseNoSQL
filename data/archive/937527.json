@@ -1,0 +1,25 @@
+{
+    "order_id": 937527,
+    "client_id": 2542,
+    "produits": [
+        {
+            "produit_id": "P6138",
+            "nom": "Handmade Plastic Sausages",
+            "quantite": 3,
+            "prix_unitaire": 263.06
+        },
+        {
+            "produit_id": "P6758",
+            "nom": "Sleek Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 476.77
+        }
+    ],
+    "date_commande": "2024-09-30T08:25:02",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "533 Lusk",
+        "ville": "Cutler Bay"
+    }
+}

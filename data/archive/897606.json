@@ -1,0 +1,31 @@
+{
+    "order_id": 897606,
+    "client_id": 6893,
+    "produits": [
+        {
+            "produit_id": "P3059",
+            "nom": "Rustic Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 457.8
+        },
+        {
+            "produit_id": "P3425",
+            "nom": "For repair Soap",
+            "quantite": 3,
+            "prix_unitaire": 27.8
+        },
+        {
+            "produit_id": "P8456",
+            "nom": "Intelligent Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 172.01
+        }
+    ],
+    "date_commande": "2024-10-06T09:00:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1069 Lindsay",
+        "ville": "Ames"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 673611,
+    "client_id": 9029,
+    "produits": [
+        {
+            "produit_id": "P1265",
+            "nom": "Sleek Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 54.3
+        },
+        {
+            "produit_id": "P8145",
+            "nom": "Refined Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 420.83
+        }
+    ],
+    "date_commande": "2023-10-18T17:05:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "344 Mclaren",
+        "ville": "Oxford"
+    }
+}

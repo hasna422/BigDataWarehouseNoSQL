@@ -1,0 +1,15 @@
+{
+    "order_id": 620290,
+    "client_id": 8637,
+    "produits": [
+        {
+            "produit_id": "P6009",
+            "nom": "Practical Plastic Chair",
+            "quantite": 1,
+            "prix_unitaire": 212.97
+        }
+    ],
+    "date_commande": "2024-09-04T05:09:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

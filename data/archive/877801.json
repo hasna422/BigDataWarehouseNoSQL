@@ -1,0 +1,25 @@
+{
+    "order_id": 877801,
+    "client_id": 1874,
+    "produits": [
+        {
+            "produit_id": "P4084",
+            "nom": "Small Plastic Table",
+            "quantite": 2,
+            "prix_unitaire": 346.11
+        },
+        {
+            "produit_id": "P9751",
+            "nom": "Licensed Plastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 148.72
+        }
+    ],
+    "date_commande": "2024-03-15T19:59:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "358 Ora",
+        "ville": "Redondo Beach"
+    }
+}

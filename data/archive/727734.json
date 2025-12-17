@@ -1,0 +1,15 @@
+{
+    "order_id": 727734,
+    "client_id": 1497,
+    "produits": [
+        {
+            "produit_id": "P5332",
+            "nom": "Awesome Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 67.27
+        }
+    ],
+    "date_commande": "2023-10-20T06:10:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

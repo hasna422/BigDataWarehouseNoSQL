@@ -1,0 +1,25 @@
+{
+    "order_id": 698691,
+    "client_id": 9983,
+    "produits": [
+        {
+            "produit_id": "P5062",
+            "nom": "Awesome Plastic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 484.83
+        },
+        {
+            "produit_id": "P0856",
+            "nom": "Practical Metal Chips",
+            "quantite": 1,
+            "prix_unitaire": 302.62
+        }
+    ],
+    "date_commande": "2025-02-06T22:19:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1182 Orizaba",
+        "ville": "Plano"
+    }
+}

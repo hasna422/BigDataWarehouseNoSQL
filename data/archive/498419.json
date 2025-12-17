@@ -1,0 +1,27 @@
+{
+    "order_id": 498419,
+    "client_id": 9868,
+    "produits": [
+        {
+            "produit_id": "P0613",
+            "nom": "Sleek Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 63.67
+        },
+        {
+            "produit_id": "P8565",
+            "nom": "Fantastic Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 196.33
+        },
+        {
+            "produit_id": "P1554",
+            "nom": "Incredible Cotton Bacon",
+            "quantite": 2,
+            "prix_unitaire": 275.31
+        }
+    ],
+    "date_commande": "2024-05-14T20:45:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

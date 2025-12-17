@@ -1,0 +1,31 @@
+{
+    "order_id": 911422,
+    "client_id": 3602,
+    "produits": [
+        {
+            "produit_id": "P7899",
+            "nom": "Handmade Towels",
+            "quantite": 3,
+            "prix_unitaire": 252.64
+        },
+        {
+            "produit_id": "P7410",
+            "nom": "Practical Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 166.34
+        },
+        {
+            "produit_id": "P7067",
+            "nom": "Sleek Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 100.85
+        }
+    ],
+    "date_commande": "2024-06-21T12:58:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "935 Ramsel",
+        "ville": "Wyandotte"
+    }
+}

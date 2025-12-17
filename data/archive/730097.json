@@ -1,0 +1,15 @@
+{
+    "order_id": 730097,
+    "client_id": 9131,
+    "produits": [
+        {
+            "produit_id": "P6890",
+            "nom": "Sleek Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 10.76
+        }
+    ],
+    "date_commande": "2025-05-25T15:04:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

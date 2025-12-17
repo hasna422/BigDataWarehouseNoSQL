@@ -1,0 +1,15 @@
+{
+    "order_id": 395415,
+    "client_id": 7934,
+    "produits": [
+        {
+            "produit_id": "P4957",
+            "nom": "Unbranded Frozen Sausages",
+            "quantite": 3,
+            "prix_unitaire": 38.53
+        }
+    ],
+    "date_commande": "2024-10-30T03:09:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

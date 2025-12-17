@@ -1,0 +1,19 @@
+{
+    "order_id": 357194,
+    "client_id": 8588,
+    "produits": [
+        {
+            "produit_id": "P0217",
+            "nom": "Fantastic Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 420.4
+        }
+    ],
+    "date_commande": "2024-05-07T21:42:25",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1210 Custom House",
+        "ville": "Holyoke"
+    }
+}

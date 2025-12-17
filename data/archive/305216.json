@@ -1,0 +1,25 @@
+{
+    "order_id": 305216,
+    "client_id": 7885,
+    "produits": [
+        {
+            "produit_id": "P9240",
+            "nom": "Refined Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 156.71
+        },
+        {
+            "produit_id": "P0907",
+            "nom": "Awesome Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 279.33
+        }
+    ],
+    "date_commande": "2023-11-12T18:52:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "772 West Broadway",
+        "ville": "St. Peters"
+    }
+}

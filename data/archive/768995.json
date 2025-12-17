@@ -1,0 +1,25 @@
+{
+    "order_id": 768995,
+    "client_id": 6572,
+    "produits": [
+        {
+            "produit_id": "P4169",
+            "nom": "Ergonomic Towels",
+            "quantite": 5,
+            "prix_unitaire": 218.06
+        },
+        {
+            "produit_id": "P2837",
+            "nom": "New Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 375.78
+        }
+    ],
+    "date_commande": "2023-07-12T02:15:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1023 Locksley",
+        "ville": "Modesto"
+    }
+}

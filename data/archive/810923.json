@@ -1,0 +1,21 @@
+{
+    "order_id": 810923,
+    "client_id": 2139,
+    "produits": [
+        {
+            "produit_id": "P7498",
+            "nom": "Unbranded Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 469.88
+        },
+        {
+            "produit_id": "P2718",
+            "nom": "Handcrafted Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 487.35
+        }
+    ],
+    "date_commande": "2024-05-28T16:04:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

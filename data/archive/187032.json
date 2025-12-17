@@ -1,0 +1,31 @@
+{
+    "order_id": 187032,
+    "client_id": 3100,
+    "produits": [
+        {
+            "produit_id": "P6434",
+            "nom": "Ergonomic Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 494.29
+        },
+        {
+            "produit_id": "P5294",
+            "nom": "New Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 276.75
+        },
+        {
+            "produit_id": "P6160",
+            "nom": "Generic Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 382.71
+        }
+    ],
+    "date_commande": "2023-10-29T22:59:48",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "456 Bayside",
+        "ville": "Kissimmee"
+    }
+}

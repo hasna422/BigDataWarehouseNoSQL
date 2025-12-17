@@ -1,0 +1,27 @@
+{
+    "order_id": 631771,
+    "client_id": 6840,
+    "produits": [
+        {
+            "produit_id": "P7408",
+            "nom": "Tasty Concrete Towels",
+            "quantite": 4,
+            "prix_unitaire": 459.99
+        },
+        {
+            "produit_id": "P7937",
+            "nom": "Generic Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 192.77
+        },
+        {
+            "produit_id": "P3336",
+            "nom": "Intelligent Soft Cheese",
+            "quantite": 2,
+            "prix_unitaire": 47.95
+        }
+    ],
+    "date_commande": "2024-12-05T20:17:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

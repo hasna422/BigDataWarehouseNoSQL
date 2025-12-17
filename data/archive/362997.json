@@ -1,0 +1,19 @@
+{
+    "order_id": 362997,
+    "client_id": 3279,
+    "produits": [
+        {
+            "produit_id": "P4426",
+            "nom": "Handcrafted Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 89.83
+        }
+    ],
+    "date_commande": "2024-10-08T12:18:17",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "543 Hattie",
+        "ville": "Crystal"
+    }
+}

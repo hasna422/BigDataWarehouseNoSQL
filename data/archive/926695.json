@@ -1,0 +1,31 @@
+{
+    "order_id": 926695,
+    "client_id": 4470,
+    "produits": [
+        {
+            "produit_id": "P8434",
+            "nom": "Unbranded Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 114.16
+        },
+        {
+            "produit_id": "P6256",
+            "nom": "Tasty Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 44.6
+        },
+        {
+            "produit_id": "P4100",
+            "nom": "Unbranded Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 177.3
+        }
+    ],
+    "date_commande": "2025-01-04T00:03:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1244 Gilman",
+        "ville": "Sparks"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 348869,
+    "client_id": 3945,
+    "produits": [
+        {
+            "produit_id": "P9350",
+            "nom": "Ergonomic Rubber Gloves",
+            "quantite": 5,
+            "prix_unitaire": 159.75
+        }
+    ],
+    "date_commande": "2023-06-28T00:44:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "337 La Ferrera",
+        "ville": "New Brighton"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 361848,
+    "client_id": 3485,
+    "produits": [
+        {
+            "produit_id": "P3110",
+            "nom": "Refined Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 357.96
+        },
+        {
+            "produit_id": "P9785",
+            "nom": "Generic Cotton Towels",
+            "quantite": 2,
+            "prix_unitaire": 34.59
+        }
+    ],
+    "date_commande": "2024-07-09T00:54:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

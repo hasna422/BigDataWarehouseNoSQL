@@ -1,0 +1,31 @@
+{
+    "order_id": 413925,
+    "client_id": 6209,
+    "produits": [
+        {
+            "produit_id": "P5130",
+            "nom": "Rustic Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 439.84
+        },
+        {
+            "produit_id": "P9433",
+            "nom": "Awesome Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 387.53
+        },
+        {
+            "produit_id": "P6344",
+            "nom": "Refined Metal Bike",
+            "quantite": 5,
+            "prix_unitaire": 432.7
+        }
+    ],
+    "date_commande": "2023-06-15T05:04:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1153 Roosevelt",
+        "ville": "Rolla"
+    }
+}

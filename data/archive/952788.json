@@ -1,0 +1,25 @@
+{
+    "order_id": 952788,
+    "client_id": 9672,
+    "produits": [
+        {
+            "produit_id": "P8686",
+            "nom": "Practical Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 15.98
+        },
+        {
+            "produit_id": "P5200",
+            "nom": "Handmade Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 134.06
+        }
+    ],
+    "date_commande": "2024-03-09T17:44:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "131 Gardener",
+        "ville": "Woodland"
+    }
+}

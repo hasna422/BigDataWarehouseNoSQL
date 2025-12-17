@@ -1,0 +1,25 @@
+{
+    "order_id": 589422,
+    "client_id": 8695,
+    "produits": [
+        {
+            "produit_id": "P2946",
+            "nom": "Unbranded Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 463.6
+        },
+        {
+            "produit_id": "P0403",
+            "nom": "Intelligent Wooden Chicken",
+            "quantite": 3,
+            "prix_unitaire": 54.25
+        }
+    ],
+    "date_commande": "2024-09-06T17:07:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "147 Seymour",
+        "ville": "St. Charles"
+    }
+}

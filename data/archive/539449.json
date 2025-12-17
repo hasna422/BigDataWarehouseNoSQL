@@ -1,0 +1,27 @@
+{
+    "order_id": 539449,
+    "client_id": 1814,
+    "produits": [
+        {
+            "produit_id": "P0163",
+            "nom": "Fantastic Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 62.54
+        },
+        {
+            "produit_id": "P4497",
+            "nom": "Small Steel Bacon",
+            "quantite": 5,
+            "prix_unitaire": 66.82
+        },
+        {
+            "produit_id": "P9023",
+            "nom": "Rustic Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 383.23
+        }
+    ],
+    "date_commande": "2024-02-23T08:09:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

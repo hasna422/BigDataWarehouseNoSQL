@@ -1,0 +1,25 @@
+{
+    "order_id": 408368,
+    "client_id": 3844,
+    "produits": [
+        {
+            "produit_id": "P6346",
+            "nom": "Refined Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 212.97
+        },
+        {
+            "produit_id": "P8486",
+            "nom": "Generic Soft Mouse",
+            "quantite": 4,
+            "prix_unitaire": 301.19
+        }
+    ],
+    "date_commande": "2025-05-19T06:54:13",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "331 Drummond",
+        "ville": "Buena Park"
+    }
+}

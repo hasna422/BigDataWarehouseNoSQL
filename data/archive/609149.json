@@ -1,0 +1,27 @@
+{
+    "order_id": 609149,
+    "client_id": 4180,
+    "produits": [
+        {
+            "produit_id": "P3085",
+            "nom": "Handmade Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 24.0
+        },
+        {
+            "produit_id": "P7226",
+            "nom": "Generic Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 208.73
+        },
+        {
+            "produit_id": "P4298",
+            "nom": "Generic Soft Salad",
+            "quantite": 2,
+            "prix_unitaire": 280.99
+        }
+    ],
+    "date_commande": "2023-06-28T15:17:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

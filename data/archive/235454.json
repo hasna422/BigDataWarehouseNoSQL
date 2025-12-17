@@ -1,0 +1,25 @@
+{
+    "order_id": 235454,
+    "client_id": 6289,
+    "produits": [
+        {
+            "produit_id": "P1018",
+            "nom": "Handmade Mouse",
+            "quantite": 1,
+            "prix_unitaire": 447.68
+        },
+        {
+            "produit_id": "P3096",
+            "nom": "Rustic Frozen Sausages",
+            "quantite": 2,
+            "prix_unitaire": 28.75
+        }
+    ],
+    "date_commande": "2023-10-08T12:43:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1014 Wall",
+        "ville": "Raleigh"
+    }
+}

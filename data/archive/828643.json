@@ -1,0 +1,19 @@
+{
+    "order_id": 828643,
+    "client_id": 1818,
+    "produits": [
+        {
+            "produit_id": "P5508",
+            "nom": "Gently Used Wooden Fish",
+            "quantite": 1,
+            "prix_unitaire": 232.66
+        }
+    ],
+    "date_commande": "2024-04-25T08:30:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "134 Danton",
+        "ville": "Galt"
+    }
+}

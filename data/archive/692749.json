@@ -1,0 +1,25 @@
+{
+    "order_id": 692749,
+    "client_id": 2498,
+    "produits": [
+        {
+            "produit_id": "P5576",
+            "nom": "Sleek Plastic Soap",
+            "quantite": 4,
+            "prix_unitaire": 149.21
+        },
+        {
+            "produit_id": "P9045",
+            "nom": "Handmade Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 334.54
+        }
+    ],
+    "date_commande": "2025-03-10T14:09:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "177 Phelps",
+        "ville": "Nogales"
+    }
+}

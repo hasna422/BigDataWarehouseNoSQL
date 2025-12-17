@@ -1,0 +1,25 @@
+{
+    "order_id": 471921,
+    "client_id": 3002,
+    "produits": [
+        {
+            "produit_id": "P6001",
+            "nom": "Tasty Plastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 412.02
+        },
+        {
+            "produit_id": "P8344",
+            "nom": "Fantastic Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 91.64
+        }
+    ],
+    "date_commande": "2023-07-18T07:44:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "104 Scotia",
+        "ville": "Holladay"
+    }
+}

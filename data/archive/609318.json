@@ -1,0 +1,15 @@
+{
+    "order_id": 609318,
+    "client_id": 2085,
+    "produits": [
+        {
+            "produit_id": "P6904",
+            "nom": "Used Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 443.75
+        }
+    ],
+    "date_commande": "2024-02-02T04:35:46",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

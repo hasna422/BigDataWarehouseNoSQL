@@ -1,0 +1,15 @@
+{
+    "order_id": 352641,
+    "client_id": 8624,
+    "produits": [
+        {
+            "produit_id": "P0936",
+            "nom": "Tasty Metal Car",
+            "quantite": 5,
+            "prix_unitaire": 324.78
+        }
+    ],
+    "date_commande": "2025-03-23T18:12:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

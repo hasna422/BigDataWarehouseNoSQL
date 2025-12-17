@@ -1,0 +1,19 @@
+{
+    "order_id": 275496,
+    "client_id": 8830,
+    "produits": [
+        {
+            "produit_id": "P2542",
+            "nom": "Licensed Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 337.65
+        }
+    ],
+    "date_commande": "2023-10-22T23:10:48",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "304 Wall",
+        "ville": "Normal"
+    }
+}

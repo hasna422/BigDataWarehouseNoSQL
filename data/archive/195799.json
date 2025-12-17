@@ -1,0 +1,19 @@
+{
+    "order_id": 195799,
+    "client_id": 2286,
+    "produits": [
+        {
+            "produit_id": "P2620",
+            "nom": "Gorgeous Wooden Pants",
+            "quantite": 2,
+            "prix_unitaire": 342.66
+        }
+    ],
+    "date_commande": "2023-08-13T22:39:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "855 Battery Wagner",
+        "ville": "Livonia"
+    }
+}

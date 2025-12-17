@@ -1,0 +1,21 @@
+{
+    "order_id": 226913,
+    "client_id": 9577,
+    "produits": [
+        {
+            "produit_id": "P8460",
+            "nom": "Handcrafted Shirt",
+            "quantite": 2,
+            "prix_unitaire": 38.11
+        },
+        {
+            "produit_id": "P0100",
+            "nom": "Licensed Plastic Car",
+            "quantite": 3,
+            "prix_unitaire": 101.23
+        }
+    ],
+    "date_commande": "2024-09-12T12:06:37",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

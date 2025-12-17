@@ -1,0 +1,31 @@
+{
+    "order_id": 587247,
+    "client_id": 7225,
+    "produits": [
+        {
+            "produit_id": "P7718",
+            "nom": "Intelligent Concrete Computer",
+            "quantite": 1,
+            "prix_unitaire": 435.42
+        },
+        {
+            "produit_id": "P4617",
+            "nom": "Intelligent Fresh Towels",
+            "quantite": 3,
+            "prix_unitaire": 376.7
+        },
+        {
+            "produit_id": "P0340",
+            "nom": "Gently Used Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 129.06
+        }
+    ],
+    "date_commande": "2024-04-04T15:47:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1224 Ritch",
+        "ville": "Mamaroneck"
+    }
+}

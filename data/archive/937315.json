@@ -1,0 +1,31 @@
+{
+    "order_id": 937315,
+    "client_id": 8597,
+    "produits": [
+        {
+            "produit_id": "P4977",
+            "nom": "Incredible Chair",
+            "quantite": 1,
+            "prix_unitaire": 337.45
+        },
+        {
+            "produit_id": "P1967",
+            "nom": "Awesome Steel Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 37.79
+        },
+        {
+            "produit_id": "P8804",
+            "nom": "Tasty Wooden Hat",
+            "quantite": 5,
+            "prix_unitaire": 85.06
+        }
+    ],
+    "date_commande": "2023-12-23T01:39:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1233 Otter Cove",
+        "ville": "Wilsonville"
+    }
+}

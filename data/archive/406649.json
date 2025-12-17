@@ -1,0 +1,15 @@
+{
+    "order_id": 406649,
+    "client_id": 8249,
+    "produits": [
+        {
+            "produit_id": "P9485",
+            "nom": "Awesome Concrete Towels",
+            "quantite": 4,
+            "prix_unitaire": 57.91
+        }
+    ],
+    "date_commande": "2023-11-13T18:35:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

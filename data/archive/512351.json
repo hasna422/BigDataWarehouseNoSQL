@@ -1,0 +1,31 @@
+{
+    "order_id": 512351,
+    "client_id": 5181,
+    "produits": [
+        {
+            "produit_id": "P5066",
+            "nom": "Sleek Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 490.26
+        },
+        {
+            "produit_id": "P1265",
+            "nom": "Unbranded Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 235.02
+        },
+        {
+            "produit_id": "P4795",
+            "nom": "Generic Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 54.26
+        }
+    ],
+    "date_commande": "2023-07-11T03:03:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1195 Kirkham",
+        "ville": "Pleasant Grove"
+    }
+}

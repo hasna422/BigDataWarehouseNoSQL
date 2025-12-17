@@ -1,0 +1,27 @@
+{
+    "order_id": 564443,
+    "client_id": 5813,
+    "produits": [
+        {
+            "produit_id": "P3420",
+            "nom": "Practical Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 255.59
+        },
+        {
+            "produit_id": "P5543",
+            "nom": "Licensed Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 303.41
+        },
+        {
+            "produit_id": "P5671",
+            "nom": "Tasty Concrete Chips",
+            "quantite": 5,
+            "prix_unitaire": 370.11
+        }
+    ],
+    "date_commande": "2025-04-14T12:26:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

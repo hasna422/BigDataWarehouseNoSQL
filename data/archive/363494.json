@@ -1,0 +1,19 @@
+{
+    "order_id": 363494,
+    "client_id": 1231,
+    "produits": [
+        {
+            "produit_id": "P8283",
+            "nom": "Practical Ball",
+            "quantite": 1,
+            "prix_unitaire": 313.49
+        }
+    ],
+    "date_commande": "2024-10-10T21:50:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "216 Bernice Rodgers",
+        "ville": "Benicia"
+    }
+}

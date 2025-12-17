@@ -1,0 +1,31 @@
+{
+    "order_id": 755796,
+    "client_id": 2540,
+    "produits": [
+        {
+            "produit_id": "P0737",
+            "nom": "Intelligent Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 269.87
+        },
+        {
+            "produit_id": "P1208",
+            "nom": "Small Bacon",
+            "quantite": 4,
+            "prix_unitaire": 23.33
+        },
+        {
+            "produit_id": "P5889",
+            "nom": "Steel Shirt",
+            "quantite": 5,
+            "prix_unitaire": 399.78
+        }
+    ],
+    "date_commande": "2023-08-25T12:08:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "118 Bayview",
+        "ville": "Huntington"
+    }
+}

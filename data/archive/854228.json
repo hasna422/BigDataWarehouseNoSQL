@@ -1,0 +1,19 @@
+{
+    "order_id": 854228,
+    "client_id": 5104,
+    "produits": [
+        {
+            "produit_id": "P6084",
+            "nom": "Intelligent Wooden Pants",
+            "quantite": 1,
+            "prix_unitaire": 131.69
+        }
+    ],
+    "date_commande": "2024-11-01T06:40:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "368 Pelton",
+        "ville": "New Bedford"
+    }
+}

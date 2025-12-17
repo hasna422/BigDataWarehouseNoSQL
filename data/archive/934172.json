@@ -1,0 +1,15 @@
+{
+    "order_id": 934172,
+    "client_id": 5664,
+    "produits": [
+        {
+            "produit_id": "P4796",
+            "nom": "Tasty Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 466.68
+        }
+    ],
+    "date_commande": "2024-12-20T08:58:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

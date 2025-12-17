@@ -1,0 +1,25 @@
+{
+    "order_id": 635804,
+    "client_id": 8595,
+    "produits": [
+        {
+            "produit_id": "P8402",
+            "nom": "Handmade Soft Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 390.76
+        },
+        {
+            "produit_id": "P2216",
+            "nom": "Fantastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 448.92
+        }
+    ],
+    "date_commande": "2025-01-02T21:41:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "69 Elsie",
+        "ville": "Homestead"
+    }
+}

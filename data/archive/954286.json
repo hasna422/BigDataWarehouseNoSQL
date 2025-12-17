@@ -1,0 +1,21 @@
+{
+    "order_id": 954286,
+    "client_id": 7411,
+    "produits": [
+        {
+            "produit_id": "P7383",
+            "nom": "Incredible Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 262.73
+        },
+        {
+            "produit_id": "P6550",
+            "nom": "Rustic Concrete Ball",
+            "quantite": 1,
+            "prix_unitaire": 442.2
+        }
+    ],
+    "date_commande": "2024-08-23T09:53:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

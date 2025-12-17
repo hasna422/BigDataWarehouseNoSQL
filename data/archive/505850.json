@@ -1,0 +1,19 @@
+{
+    "order_id": 505850,
+    "client_id": 5496,
+    "produits": [
+        {
+            "produit_id": "P5105",
+            "nom": "Refined Ball",
+            "quantite": 2,
+            "prix_unitaire": 402.27
+        }
+    ],
+    "date_commande": "2025-04-20T05:41:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1122 Graystone",
+        "ville": "Milwaukee"
+    }
+}

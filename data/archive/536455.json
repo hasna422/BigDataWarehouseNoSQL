@@ -1,0 +1,19 @@
+{
+    "order_id": 536455,
+    "client_id": 1666,
+    "produits": [
+        {
+            "produit_id": "P4732",
+            "nom": "Used Soft Shirt",
+            "quantite": 1,
+            "prix_unitaire": 434.37
+        }
+    ],
+    "date_commande": "2023-08-12T02:36:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1246 Moffitt",
+        "ville": "Rocky River"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 599241,
+    "client_id": 7441,
+    "produits": [
+        {
+            "produit_id": "P2434",
+            "nom": "Used Bacon",
+            "quantite": 3,
+            "prix_unitaire": 328.19
+        },
+        {
+            "produit_id": "P3073",
+            "nom": "Refined Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 104.68
+        }
+    ],
+    "date_commande": "2024-11-11T08:40:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

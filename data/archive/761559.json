@@ -1,0 +1,27 @@
+{
+    "order_id": 761559,
+    "client_id": 3523,
+    "produits": [
+        {
+            "produit_id": "P2627",
+            "nom": "Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 33.01
+        },
+        {
+            "produit_id": "P9412",
+            "nom": "Refined Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 198.52
+        },
+        {
+            "produit_id": "P0174",
+            "nom": "Awesome Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 286.22
+        }
+    ],
+    "date_commande": "2023-06-25T04:57:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

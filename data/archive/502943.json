@@ -1,0 +1,25 @@
+{
+    "order_id": 502943,
+    "client_id": 3194,
+    "produits": [
+        {
+            "produit_id": "P5949",
+            "nom": "Intelligent Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 138.14
+        },
+        {
+            "produit_id": "P6747",
+            "nom": "Practical Cotton Ball",
+            "quantite": 3,
+            "prix_unitaire": 293.52
+        }
+    ],
+    "date_commande": "2024-03-04T17:14:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1170 Seal Cove",
+        "ville": "Pueblo"
+    }
+}

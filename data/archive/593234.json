@@ -1,0 +1,19 @@
+{
+    "order_id": 593234,
+    "client_id": 3512,
+    "produits": [
+        {
+            "produit_id": "P6323",
+            "nom": "Tasty Granite Soap",
+            "quantite": 5,
+            "prix_unitaire": 234.14
+        }
+    ],
+    "date_commande": "2023-06-27T03:24:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "872 Langton",
+        "ville": "Huntington"
+    }
+}

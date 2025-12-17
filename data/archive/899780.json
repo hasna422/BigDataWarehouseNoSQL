@@ -1,0 +1,15 @@
+{
+    "order_id": 899780,
+    "client_id": 7942,
+    "produits": [
+        {
+            "produit_id": "P1584",
+            "nom": "Unbranded Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 30.67
+        }
+    ],
+    "date_commande": "2024-06-08T03:16:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

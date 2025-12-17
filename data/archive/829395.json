@@ -1,0 +1,15 @@
+{
+    "order_id": 829395,
+    "client_id": 1316,
+    "produits": [
+        {
+            "produit_id": "P8855",
+            "nom": "Gently Used Steel Chair",
+            "quantite": 3,
+            "prix_unitaire": 124.7
+        }
+    ],
+    "date_commande": "2024-02-01T06:56:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 183956,
+    "client_id": 8649,
+    "produits": [
+        {
+            "produit_id": "P2305",
+            "nom": "Intelligent Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 468.17
+        }
+    ],
+    "date_commande": "2024-05-30T17:57:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

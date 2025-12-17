@@ -1,0 +1,31 @@
+{
+    "order_id": 397382,
+    "client_id": 9098,
+    "produits": [
+        {
+            "produit_id": "P4196",
+            "nom": "Incredible Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 33.17
+        },
+        {
+            "produit_id": "P7047",
+            "nom": "Sleek Granite Table",
+            "quantite": 5,
+            "prix_unitaire": 363.72
+        },
+        {
+            "produit_id": "P4769",
+            "nom": "Tasty Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 486.71
+        }
+    ],
+    "date_commande": "2025-01-29T23:35:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "621 Varela",
+        "ville": "Fontana"
+    }
+}

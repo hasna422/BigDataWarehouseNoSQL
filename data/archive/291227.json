@@ -1,0 +1,19 @@
+{
+    "order_id": 291227,
+    "client_id": 3433,
+    "produits": [
+        {
+            "produit_id": "P9150",
+            "nom": "Sleek Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 278.18
+        }
+    ],
+    "date_commande": "2023-07-11T05:59:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "665 Wheat",
+        "ville": "Calexico"
+    }
+}

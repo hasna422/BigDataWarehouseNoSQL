@@ -1,0 +1,19 @@
+{
+    "order_id": 983691,
+    "client_id": 2459,
+    "produits": [
+        {
+            "produit_id": "P4675",
+            "nom": "Fantastic Steel Towels",
+            "quantite": 5,
+            "prix_unitaire": 407.18
+        }
+    ],
+    "date_commande": "2023-11-03T15:22:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1116 Phelan",
+        "ville": "Christiansburg"
+    }
+}

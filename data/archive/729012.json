@@ -1,0 +1,31 @@
+{
+    "order_id": 729012,
+    "client_id": 1463,
+    "produits": [
+        {
+            "produit_id": "P0111",
+            "nom": "Rustic Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 7.83
+        },
+        {
+            "produit_id": "P6501",
+            "nom": "Generic Fresh Chicken",
+            "quantite": 4,
+            "prix_unitaire": 81.68
+        },
+        {
+            "produit_id": "P3745",
+            "nom": "New Plastic Hat",
+            "quantite": 1,
+            "prix_unitaire": 145.32
+        }
+    ],
+    "date_commande": "2024-12-04T03:30:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "193 Reardon",
+        "ville": "Somerville"
+    }
+}

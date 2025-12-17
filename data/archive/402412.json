@@ -1,0 +1,31 @@
+{
+    "order_id": 402412,
+    "client_id": 6064,
+    "produits": [
+        {
+            "produit_id": "P5444",
+            "nom": "Used Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 446.42
+        },
+        {
+            "produit_id": "P2731",
+            "nom": "Awesome Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 234.98
+        },
+        {
+            "produit_id": "P7865",
+            "nom": "Awesome Sausages",
+            "quantite": 4,
+            "prix_unitaire": 254.35
+        }
+    ],
+    "date_commande": "2023-08-27T05:40:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "175 Crestwell",
+        "ville": "Pacifica"
+    }
+}

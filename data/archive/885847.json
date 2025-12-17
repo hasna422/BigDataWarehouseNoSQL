@@ -1,0 +1,25 @@
+{
+    "order_id": 885847,
+    "client_id": 9104,
+    "produits": [
+        {
+            "produit_id": "P5147",
+            "nom": "Intelligent Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 455.8
+        },
+        {
+            "produit_id": "P6860",
+            "nom": "Ergonomic Rubber Pants",
+            "quantite": 3,
+            "prix_unitaire": 116.16
+        }
+    ],
+    "date_commande": "2025-05-09T18:54:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "889 Taylor",
+        "ville": "New Braunfels"
+    }
+}

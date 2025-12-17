@@ -1,0 +1,15 @@
+{
+    "order_id": 662162,
+    "client_id": 5165,
+    "produits": [
+        {
+            "produit_id": "P2190",
+            "nom": "Used Steel Shirt",
+            "quantite": 4,
+            "prix_unitaire": 299.79
+        }
+    ],
+    "date_commande": "2024-01-09T10:18:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

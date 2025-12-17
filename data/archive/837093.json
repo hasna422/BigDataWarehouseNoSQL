@@ -1,0 +1,19 @@
+{
+    "order_id": 837093,
+    "client_id": 5136,
+    "produits": [
+        {
+            "produit_id": "P7801",
+            "nom": "Incredible Plastic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 396.47
+        }
+    ],
+    "date_commande": "2023-10-30T16:45:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1151 Juri",
+        "ville": "Tualatin"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 233251,
+    "client_id": 3507,
+    "produits": [
+        {
+            "produit_id": "P2695",
+            "nom": "Handmade Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 401.49
+        },
+        {
+            "produit_id": "P1047",
+            "nom": "Intelligent Soft Ball",
+            "quantite": 5,
+            "prix_unitaire": 68.76
+        },
+        {
+            "produit_id": "P2346",
+            "nom": "New Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 112.6
+        }
+    ],
+    "date_commande": "2024-05-18T06:06:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "425 Market",
+        "ville": "Rancho Cordova"
+    }
+}

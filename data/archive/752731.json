@@ -1,0 +1,15 @@
+{
+    "order_id": 752731,
+    "client_id": 4288,
+    "produits": [
+        {
+            "produit_id": "P5081",
+            "nom": "Rustic Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 287.23
+        }
+    ],
+    "date_commande": "2023-10-01T11:54:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

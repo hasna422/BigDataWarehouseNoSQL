@@ -1,0 +1,25 @@
+{
+    "order_id": 865101,
+    "client_id": 5254,
+    "produits": [
+        {
+            "produit_id": "P5454",
+            "nom": "Awesome Plastic Mouse",
+            "quantite": 4,
+            "prix_unitaire": 18.89
+        },
+        {
+            "produit_id": "P0076",
+            "nom": "Unbranded Soft Pants",
+            "quantite": 2,
+            "prix_unitaire": 356.62
+        }
+    ],
+    "date_commande": "2025-01-13T08:51:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1353 Myrtle",
+        "ville": "Hilton Head Island"
+    }
+}

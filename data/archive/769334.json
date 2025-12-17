@@ -1,0 +1,19 @@
+{
+    "order_id": 769334,
+    "client_id": 2519,
+    "produits": [
+        {
+            "produit_id": "P5452",
+            "nom": "Practical Metal Ball",
+            "quantite": 4,
+            "prix_unitaire": 175.46
+        }
+    ],
+    "date_commande": "2024-09-18T20:14:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "724 Whitecliff",
+        "ville": "Rolla"
+    }
+}

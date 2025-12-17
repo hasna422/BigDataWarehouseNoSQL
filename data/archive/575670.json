@@ -1,0 +1,19 @@
+{
+    "order_id": 575670,
+    "client_id": 2191,
+    "produits": [
+        {
+            "produit_id": "P5742",
+            "nom": "Ergonomic Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 381.95
+        }
+    ],
+    "date_commande": "2025-02-03T13:14:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "685 Leo",
+        "ville": "La Vista"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 974065,
+    "client_id": 5058,
+    "produits": [
+        {
+            "produit_id": "P8640",
+            "nom": "Intelligent Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 146.81
+        },
+        {
+            "produit_id": "P9859",
+            "nom": "Licensed Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 425.09
+        },
+        {
+            "produit_id": "P5853",
+            "nom": "Gorgeous Cotton Mouse",
+            "quantite": 3,
+            "prix_unitaire": 32.22
+        }
+    ],
+    "date_commande": "2025-05-05T19:45:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1211 Spruce",
+        "ville": "Manteca"
+    }
+}

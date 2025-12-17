@@ -1,0 +1,25 @@
+{
+    "order_id": 341122,
+    "client_id": 3033,
+    "produits": [
+        {
+            "produit_id": "P0179",
+            "nom": "Licensed Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 428.73
+        },
+        {
+            "produit_id": "P7686",
+            "nom": "Handcrafted Plastic Tuna",
+            "quantite": 4,
+            "prix_unitaire": 484.49
+        }
+    ],
+    "date_commande": "2023-06-11T00:15:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "402 Bergen",
+        "ville": "Montebello"
+    }
+}

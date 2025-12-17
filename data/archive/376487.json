@@ -1,0 +1,19 @@
+{
+    "order_id": 376487,
+    "client_id": 1145,
+    "produits": [
+        {
+            "produit_id": "P8520",
+            "nom": "Handcrafted Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 466.35
+        }
+    ],
+    "date_commande": "2023-10-08T02:02:13",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "358 Chestnut",
+        "ville": "Avondale"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 230157,
+    "client_id": 7159,
+    "produits": [
+        {
+            "produit_id": "P2706",
+            "nom": "Tasty Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 102.01
+        }
+    ],
+    "date_commande": "2024-09-23T00:45:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "344 Liberty",
+        "ville": "Greeley"
+    }
+}

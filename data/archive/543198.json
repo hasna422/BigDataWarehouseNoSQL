@@ -1,0 +1,19 @@
+{
+    "order_id": 543198,
+    "client_id": 2622,
+    "produits": [
+        {
+            "produit_id": "P6304",
+            "nom": "Used Steel Hat",
+            "quantite": 4,
+            "prix_unitaire": 439.11
+        }
+    ],
+    "date_commande": "2024-11-20T09:25:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "93 Winthrop",
+        "ville": "Wooster"
+    }
+}

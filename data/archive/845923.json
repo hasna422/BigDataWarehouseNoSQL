@@ -1,0 +1,25 @@
+{
+    "order_id": 845923,
+    "client_id": 3302,
+    "produits": [
+        {
+            "produit_id": "P1600",
+            "nom": "Small Metal Pizza",
+            "quantite": 5,
+            "prix_unitaire": 367.61
+        },
+        {
+            "produit_id": "P4308",
+            "nom": "Refined Steel Pizza",
+            "quantite": 2,
+            "prix_unitaire": 60.45
+        }
+    ],
+    "date_commande": "2023-11-18T01:39:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1367 Balboa",
+        "ville": "Herndon"
+    }
+}

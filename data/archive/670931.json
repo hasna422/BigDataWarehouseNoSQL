@@ -1,0 +1,31 @@
+{
+    "order_id": 670931,
+    "client_id": 7774,
+    "produits": [
+        {
+            "produit_id": "P7480",
+            "nom": "Generic Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 238.67
+        },
+        {
+            "produit_id": "P0054",
+            "nom": "Ergonomic Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 191.53
+        },
+        {
+            "produit_id": "P9493",
+            "nom": "Awesome Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 321.78
+        }
+    ],
+    "date_commande": "2023-12-09T09:36:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "735 Stoneman",
+        "ville": "Waukesha"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 837489,
+    "client_id": 8032,
+    "produits": [
+        {
+            "produit_id": "P7609",
+            "nom": "Tasty Table",
+            "quantite": 1,
+            "prix_unitaire": 308.4
+        },
+        {
+            "produit_id": "P0585",
+            "nom": "Soft Pants",
+            "quantite": 1,
+            "prix_unitaire": 333.44
+        },
+        {
+            "produit_id": "P2965",
+            "nom": "Fresh Pizza",
+            "quantite": 4,
+            "prix_unitaire": 189.56
+        }
+    ],
+    "date_commande": "2024-02-28T21:29:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

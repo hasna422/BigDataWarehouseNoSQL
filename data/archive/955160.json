@@ -1,0 +1,15 @@
+{
+    "order_id": 955160,
+    "client_id": 7778,
+    "produits": [
+        {
+            "produit_id": "P9420",
+            "nom": "Practical Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 146.45
+        }
+    ],
+    "date_commande": "2024-10-02T08:05:04",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

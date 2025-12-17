@@ -1,0 +1,19 @@
+{
+    "order_id": 448699,
+    "client_id": 3355,
+    "produits": [
+        {
+            "produit_id": "P0190",
+            "nom": "Fantastic Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 472.14
+        }
+    ],
+    "date_commande": "2023-09-04T12:30:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "762 Ervine",
+        "ville": "Mission Viejo"
+    }
+}

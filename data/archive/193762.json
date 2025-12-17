@@ -1,0 +1,25 @@
+{
+    "order_id": 193762,
+    "client_id": 8683,
+    "produits": [
+        {
+            "produit_id": "P2850",
+            "nom": "Gently Used Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 374.98
+        },
+        {
+            "produit_id": "P4650",
+            "nom": "Tasty Metal Bacon",
+            "quantite": 3,
+            "prix_unitaire": 339.64
+        }
+    ],
+    "date_commande": "2024-07-03T00:13:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "96 Prosper",
+        "ville": "Kennewick"
+    }
+}

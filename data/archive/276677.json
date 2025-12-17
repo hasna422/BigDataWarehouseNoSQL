@@ -1,0 +1,19 @@
+{
+    "order_id": 276677,
+    "client_id": 9208,
+    "produits": [
+        {
+            "produit_id": "P3395",
+            "nom": "Tasty Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 438.99
+        }
+    ],
+    "date_commande": "2023-07-04T14:25:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "562 Germania",
+        "ville": "La Verne"
+    }
+}

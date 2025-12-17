@@ -1,0 +1,31 @@
+{
+    "order_id": 995547,
+    "client_id": 4702,
+    "produits": [
+        {
+            "produit_id": "P9617",
+            "nom": "Handmade Metal Shirt",
+            "quantite": 2,
+            "prix_unitaire": 284.33
+        },
+        {
+            "produit_id": "P4259",
+            "nom": "Generic Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 479.73
+        },
+        {
+            "produit_id": "P5876",
+            "nom": "Generic Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 228.93
+        }
+    ],
+    "date_commande": "2024-02-11T05:50:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "434 E",
+        "ville": "Longmont"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 363017,
+    "client_id": 7497,
+    "produits": [
+        {
+            "produit_id": "P6851",
+            "nom": "For repair Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 394.43
+        },
+        {
+            "produit_id": "P5467",
+            "nom": "Generic Fresh Mouse",
+            "quantite": 5,
+            "prix_unitaire": 48.78
+        },
+        {
+            "produit_id": "P2377",
+            "nom": "For repair Rubber Bacon",
+            "quantite": 2,
+            "prix_unitaire": 16.94
+        }
+    ],
+    "date_commande": "2024-08-04T15:56:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "463 Stoneybrook",
+        "ville": "Barberton"
+    }
+}

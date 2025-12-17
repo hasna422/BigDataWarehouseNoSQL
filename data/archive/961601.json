@@ -1,0 +1,21 @@
+{
+    "order_id": 961601,
+    "client_id": 2270,
+    "produits": [
+        {
+            "produit_id": "P1376",
+            "nom": "Awesome Plastic Ball",
+            "quantite": 3,
+            "prix_unitaire": 51.19
+        },
+        {
+            "produit_id": "P2393",
+            "nom": "Incredible Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 157.62
+        }
+    ],
+    "date_commande": "2023-10-01T09:34:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

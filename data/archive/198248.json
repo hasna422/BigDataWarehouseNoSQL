@@ -1,0 +1,31 @@
+{
+    "order_id": 198248,
+    "client_id": 5156,
+    "produits": [
+        {
+            "produit_id": "P1751",
+            "nom": "Fantastic Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 208.4
+        },
+        {
+            "produit_id": "P3068",
+            "nom": "Gorgeous Soft Fish",
+            "quantite": 2,
+            "prix_unitaire": 210.74
+        },
+        {
+            "produit_id": "P5583",
+            "nom": "Small Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 284.15
+        }
+    ],
+    "date_commande": "2024-05-08T10:23:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "446 Vista View",
+        "ville": "Kissimmee"
+    }
+}

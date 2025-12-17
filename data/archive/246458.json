@@ -1,0 +1,31 @@
+{
+    "order_id": 246458,
+    "client_id": 8967,
+    "produits": [
+        {
+            "produit_id": "P7569",
+            "nom": "Sleek Steel Salad",
+            "quantite": 3,
+            "prix_unitaire": 113.47
+        },
+        {
+            "produit_id": "P3590",
+            "nom": "Incredible Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 150.18
+        },
+        {
+            "produit_id": "P0354",
+            "nom": "Fantastic Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 176.39
+        }
+    ],
+    "date_commande": "2024-12-03T13:42:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1378 Virginia",
+        "ville": "Altoona"
+    }
+}

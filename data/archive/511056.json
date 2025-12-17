@@ -1,0 +1,21 @@
+{
+    "order_id": 511056,
+    "client_id": 2698,
+    "produits": [
+        {
+            "produit_id": "P4357",
+            "nom": "Soft Chips",
+            "quantite": 1,
+            "prix_unitaire": 347.66
+        },
+        {
+            "produit_id": "P0778",
+            "nom": "For repair Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 53.74
+        }
+    ],
+    "date_commande": "2023-07-29T06:18:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

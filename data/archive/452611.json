@@ -1,0 +1,21 @@
+{
+    "order_id": 452611,
+    "client_id": 4031,
+    "produits": [
+        {
+            "produit_id": "P9111",
+            "nom": "Incredible Soft Chicken",
+            "quantite": 2,
+            "prix_unitaire": 48.81
+        },
+        {
+            "produit_id": "P3864",
+            "nom": "Unbranded Fresh Tuna",
+            "quantite": 2,
+            "prix_unitaire": 155.77
+        }
+    ],
+    "date_commande": "2024-07-08T09:54:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

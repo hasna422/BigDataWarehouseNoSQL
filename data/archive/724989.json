@@ -1,0 +1,19 @@
+{
+    "order_id": 724989,
+    "client_id": 9438,
+    "produits": [
+        {
+            "produit_id": "P7740",
+            "nom": "Generic Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 154.68
+        }
+    ],
+    "date_commande": "2024-09-06T03:51:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "126 Balhi",
+        "ville": "Santa Rosa"
+    }
+}

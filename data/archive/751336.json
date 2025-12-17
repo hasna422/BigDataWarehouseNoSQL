@@ -1,0 +1,15 @@
+{
+    "order_id": 751336,
+    "client_id": 9117,
+    "produits": [
+        {
+            "produit_id": "P1852",
+            "nom": "Gently Used Soft Bacon",
+            "quantite": 5,
+            "prix_unitaire": 290.69
+        }
+    ],
+    "date_commande": "2024-10-27T17:19:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

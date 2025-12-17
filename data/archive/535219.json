@@ -1,0 +1,25 @@
+{
+    "order_id": 535219,
+    "client_id": 3663,
+    "produits": [
+        {
+            "produit_id": "P4864",
+            "nom": "Handcrafted Rubber Sausages",
+            "quantite": 3,
+            "prix_unitaire": 105.24
+        },
+        {
+            "produit_id": "P5799",
+            "nom": "Handmade Fresh Chair",
+            "quantite": 3,
+            "prix_unitaire": 95.5
+        }
+    ],
+    "date_commande": "2024-06-14T02:13:22",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "328 Folsom",
+        "ville": "Marietta"
+    }
+}

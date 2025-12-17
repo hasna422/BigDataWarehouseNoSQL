@@ -1,0 +1,25 @@
+{
+    "order_id": 337728,
+    "client_id": 6338,
+    "produits": [
+        {
+            "produit_id": "P6745",
+            "nom": "Ergonomic Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 62.0
+        },
+        {
+            "produit_id": "P4151",
+            "nom": "Incredible Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 240.9
+        }
+    ],
+    "date_commande": "2024-11-02T21:24:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1104 Rockland",
+        "ville": "Pflugerville"
+    }
+}

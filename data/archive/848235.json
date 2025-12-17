@@ -1,0 +1,19 @@
+{
+    "order_id": 848235,
+    "client_id": 1987,
+    "produits": [
+        {
+            "produit_id": "P2645",
+            "nom": "New Bacon",
+            "quantite": 1,
+            "prix_unitaire": 404.21
+        }
+    ],
+    "date_commande": "2024-05-06T23:31:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "387 Richard Henry Dana",
+        "ville": "Temple"
+    }
+}

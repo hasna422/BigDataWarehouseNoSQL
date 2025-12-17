@@ -1,0 +1,25 @@
+{
+    "order_id": 247649,
+    "client_id": 6999,
+    "produits": [
+        {
+            "produit_id": "P6554",
+            "nom": "Gently Used Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 126.79
+        },
+        {
+            "produit_id": "P3242",
+            "nom": "Small Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 412.66
+        }
+    ],
+    "date_commande": "2025-04-09T04:11:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "308 Sadowa",
+        "ville": "Salt Lake City"
+    }
+}

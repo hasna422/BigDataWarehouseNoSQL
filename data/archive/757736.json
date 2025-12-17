@@ -1,0 +1,15 @@
+{
+    "order_id": 757736,
+    "client_id": 8233,
+    "produits": [
+        {
+            "produit_id": "P2213",
+            "nom": "Gently Used Rubber Towels",
+            "quantite": 3,
+            "prix_unitaire": 420.19
+        }
+    ],
+    "date_commande": "2023-11-22T05:35:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

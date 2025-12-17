@@ -1,0 +1,21 @@
+{
+    "order_id": 322078,
+    "client_id": 8366,
+    "produits": [
+        {
+            "produit_id": "P7785",
+            "nom": "Small Car",
+            "quantite": 2,
+            "prix_unitaire": 22.76
+        },
+        {
+            "produit_id": "P0785",
+            "nom": "Gently Used Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 83.88
+        }
+    ],
+    "date_commande": "2025-05-26T21:03:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

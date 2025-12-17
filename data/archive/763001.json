@@ -1,0 +1,27 @@
+{
+    "order_id": 763001,
+    "client_id": 9187,
+    "produits": [
+        {
+            "produit_id": "P8080",
+            "nom": "Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 296.61
+        },
+        {
+            "produit_id": "P9526",
+            "nom": "Sleek Metal Ball",
+            "quantite": 4,
+            "prix_unitaire": 357.32
+        },
+        {
+            "produit_id": "P6177",
+            "nom": "Incredible Sausages",
+            "quantite": 5,
+            "prix_unitaire": 435.79
+        }
+    ],
+    "date_commande": "2024-05-20T03:50:33",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

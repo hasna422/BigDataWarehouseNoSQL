@@ -1,0 +1,21 @@
+{
+    "order_id": 564670,
+    "client_id": 6361,
+    "produits": [
+        {
+            "produit_id": "P8270",
+            "nom": "Generic Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 53.36
+        },
+        {
+            "produit_id": "P7101",
+            "nom": "Incredible Cotton Computer",
+            "quantite": 3,
+            "prix_unitaire": 24.58
+        }
+    ],
+    "date_commande": "2024-06-12T16:53:59",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

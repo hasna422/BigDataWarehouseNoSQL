@@ -1,0 +1,25 @@
+{
+    "order_id": 226974,
+    "client_id": 8356,
+    "produits": [
+        {
+            "produit_id": "P7003",
+            "nom": "Awesome Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 225.07
+        },
+        {
+            "produit_id": "P3495",
+            "nom": "Gorgeous Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 207.13
+        }
+    ],
+    "date_commande": "2025-01-09T15:38:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1251 Madrid",
+        "ville": "Gresham"
+    }
+}

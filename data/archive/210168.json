@@ -1,0 +1,27 @@
+{
+    "order_id": 210168,
+    "client_id": 9556,
+    "produits": [
+        {
+            "produit_id": "P3366",
+            "nom": "Handmade Rubber Fish",
+            "quantite": 4,
+            "prix_unitaire": 208.28
+        },
+        {
+            "produit_id": "P8273",
+            "nom": "Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 421.7
+        },
+        {
+            "produit_id": "P7422",
+            "nom": "Unbranded Salad",
+            "quantite": 1,
+            "prix_unitaire": 20.41
+        }
+    ],
+    "date_commande": "2023-10-09T13:44:17",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

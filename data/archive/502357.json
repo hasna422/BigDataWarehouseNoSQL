@@ -1,0 +1,25 @@
+{
+    "order_id": 502357,
+    "client_id": 4220,
+    "produits": [
+        {
+            "produit_id": "P3239",
+            "nom": "Plastic Towels",
+            "quantite": 2,
+            "prix_unitaire": 439.02
+        },
+        {
+            "produit_id": "P3815",
+            "nom": "Rubber Gloves",
+            "quantite": 2,
+            "prix_unitaire": 471.6
+        }
+    ],
+    "date_commande": "2023-10-15T18:54:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1148 Edgehill",
+        "ville": "Independence"
+    }
+}

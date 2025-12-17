@@ -1,0 +1,19 @@
+{
+    "order_id": 807461,
+    "client_id": 5053,
+    "produits": [
+        {
+            "produit_id": "P9103",
+            "nom": "Incredible Frozen Soap",
+            "quantite": 2,
+            "prix_unitaire": 382.98
+        }
+    ],
+    "date_commande": "2024-03-07T14:19:41",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "48 Estero",
+        "ville": "Pekin"
+    }
+}

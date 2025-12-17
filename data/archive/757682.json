@@ -1,0 +1,15 @@
+{
+    "order_id": 757682,
+    "client_id": 8101,
+    "produits": [
+        {
+            "produit_id": "P5159",
+            "nom": "Gently Used Cotton Pants",
+            "quantite": 1,
+            "prix_unitaire": 235.29
+        }
+    ],
+    "date_commande": "2023-08-26T23:46:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

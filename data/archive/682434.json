@@ -1,0 +1,19 @@
+{
+    "order_id": 682434,
+    "client_id": 7701,
+    "produits": [
+        {
+            "produit_id": "P0570",
+            "nom": "Licensed Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 405.63
+        }
+    ],
+    "date_commande": "2024-09-19T10:59:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "838 Desmond",
+        "ville": "Daphne"
+    }
+}

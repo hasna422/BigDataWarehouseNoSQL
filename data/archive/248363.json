@@ -1,0 +1,15 @@
+{
+    "order_id": 248363,
+    "client_id": 3760,
+    "produits": [
+        {
+            "produit_id": "P8043",
+            "nom": "For repair Soft Mouse",
+            "quantite": 3,
+            "prix_unitaire": 453.06
+        }
+    ],
+    "date_commande": "2023-08-12T08:39:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

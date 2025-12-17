@@ -1,0 +1,27 @@
+{
+    "order_id": 762430,
+    "client_id": 7499,
+    "produits": [
+        {
+            "produit_id": "P9050",
+            "nom": "Refined Granite Mouse",
+            "quantite": 3,
+            "prix_unitaire": 496.37
+        },
+        {
+            "produit_id": "P9644",
+            "nom": "Fantastic Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 198.26
+        },
+        {
+            "produit_id": "P9778",
+            "nom": "Incredible Plastic Chair",
+            "quantite": 3,
+            "prix_unitaire": 185.6
+        }
+    ],
+    "date_commande": "2024-04-24T14:31:32",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 710807,
+    "client_id": 2809,
+    "produits": [
+        {
+            "produit_id": "P4619",
+            "nom": "Handmade Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 6.86
+        },
+        {
+            "produit_id": "P4587",
+            "nom": "Awesome Wooden Mouse",
+            "quantite": 3,
+            "prix_unitaire": 303.65
+        }
+    ],
+    "date_commande": "2024-12-09T17:07:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

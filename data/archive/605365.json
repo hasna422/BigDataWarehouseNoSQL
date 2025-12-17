@@ -1,0 +1,15 @@
+{
+    "order_id": 605365,
+    "client_id": 2506,
+    "produits": [
+        {
+            "produit_id": "P2936",
+            "nom": "Rustic Frozen Pizza",
+            "quantite": 4,
+            "prix_unitaire": 265.32
+        }
+    ],
+    "date_commande": "2024-01-11T15:53:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

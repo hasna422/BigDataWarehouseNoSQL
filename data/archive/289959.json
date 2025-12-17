@@ -1,0 +1,19 @@
+{
+    "order_id": 289959,
+    "client_id": 2577,
+    "produits": [
+        {
+            "produit_id": "P9026",
+            "nom": "For repair Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 364.41
+        }
+    ],
+    "date_commande": "2024-05-22T13:49:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "16 Aquavista",
+        "ville": "Columbus"
+    }
+}

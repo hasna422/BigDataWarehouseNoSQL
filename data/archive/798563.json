@@ -1,0 +1,21 @@
+{
+    "order_id": 798563,
+    "client_id": 9596,
+    "produits": [
+        {
+            "produit_id": "P7262",
+            "nom": "Fresh Bacon",
+            "quantite": 5,
+            "prix_unitaire": 390.34
+        },
+        {
+            "produit_id": "P9246",
+            "nom": "Handmade Plastic Computer",
+            "quantite": 3,
+            "prix_unitaire": 277.98
+        }
+    ],
+    "date_commande": "2023-09-02T08:24:37",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

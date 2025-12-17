@@ -1,0 +1,15 @@
+{
+    "order_id": 998812,
+    "client_id": 4591,
+    "produits": [
+        {
+            "produit_id": "P4243",
+            "nom": "Soft Bike",
+            "quantite": 1,
+            "prix_unitaire": 140.6
+        }
+    ],
+    "date_commande": "2024-11-09T11:41:04",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

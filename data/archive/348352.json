@@ -1,0 +1,19 @@
+{
+    "order_id": 348352,
+    "client_id": 2914,
+    "produits": [
+        {
+            "produit_id": "P8594",
+            "nom": "Fantastic Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 153.24
+        }
+    ],
+    "date_commande": "2024-07-11T15:30:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "75 Armory",
+        "ville": "Milwaukee"
+    }
+}

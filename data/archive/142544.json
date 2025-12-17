@@ -1,0 +1,25 @@
+{
+    "order_id": 142544,
+    "client_id": 1825,
+    "produits": [
+        {
+            "produit_id": "P9567",
+            "nom": "Tasty Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 330.82
+        },
+        {
+            "produit_id": "P1322",
+            "nom": "Awesome Table",
+            "quantite": 5,
+            "prix_unitaire": 461.0
+        }
+    ],
+    "date_commande": "2024-08-01T12:47:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "297 Ledyard",
+        "ville": "Tualatin"
+    }
+}

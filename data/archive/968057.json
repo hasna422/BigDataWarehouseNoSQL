@@ -1,0 +1,21 @@
+{
+    "order_id": 968057,
+    "client_id": 2695,
+    "produits": [
+        {
+            "produit_id": "P0403",
+            "nom": "Sleek Towels",
+            "quantite": 1,
+            "prix_unitaire": 141.67
+        },
+        {
+            "produit_id": "P5582",
+            "nom": "Incredible Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 41.38
+        }
+    ],
+    "date_commande": "2024-09-27T22:13:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

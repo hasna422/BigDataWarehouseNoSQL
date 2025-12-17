@@ -1,0 +1,19 @@
+{
+    "order_id": 198291,
+    "client_id": 7199,
+    "produits": [
+        {
+            "produit_id": "P0482",
+            "nom": "Unbranded Mouse",
+            "quantite": 2,
+            "prix_unitaire": 111.47
+        }
+    ],
+    "date_commande": "2024-10-05T11:15:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1259 Eutaw",
+        "ville": "Lathrop"
+    }
+}

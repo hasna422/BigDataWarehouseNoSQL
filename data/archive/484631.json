@@ -1,0 +1,19 @@
+{
+    "order_id": 484631,
+    "client_id": 3381,
+    "produits": [
+        {
+            "produit_id": "P7574",
+            "nom": "Practical Granite Shoes",
+            "quantite": 2,
+            "prix_unitaire": 429.98
+        }
+    ],
+    "date_commande": "2024-03-08T09:59:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1242 Rayburn",
+        "ville": "Puyallup"
+    }
+}

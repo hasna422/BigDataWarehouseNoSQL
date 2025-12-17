@@ -1,0 +1,25 @@
+{
+    "order_id": 172955,
+    "client_id": 6279,
+    "produits": [
+        {
+            "produit_id": "P1043",
+            "nom": "Ergonomic Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 44.34
+        },
+        {
+            "produit_id": "P9479",
+            "nom": "Small Wooden Bike",
+            "quantite": 4,
+            "prix_unitaire": 463.7
+        }
+    ],
+    "date_commande": "2025-05-19T02:48:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1011 Irving",
+        "ville": "Mount Pleasant"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 496368,
+    "client_id": 7896,
+    "produits": [
+        {
+            "produit_id": "P5902",
+            "nom": "Incredible Metal Gloves",
+            "quantite": 3,
+            "prix_unitaire": 498.74
+        },
+        {
+            "produit_id": "P7257",
+            "nom": "For repair Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 319.48
+        }
+    ],
+    "date_commande": "2025-03-01T16:45:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

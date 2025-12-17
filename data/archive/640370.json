@@ -1,0 +1,31 @@
+{
+    "order_id": 640370,
+    "client_id": 3743,
+    "produits": [
+        {
+            "produit_id": "P8469",
+            "nom": "Used Gloves",
+            "quantite": 5,
+            "prix_unitaire": 139.51
+        },
+        {
+            "produit_id": "P1755",
+            "nom": "For repair Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 39.71
+        },
+        {
+            "produit_id": "P5845",
+            "nom": "For repair Pants",
+            "quantite": 1,
+            "prix_unitaire": 304.46
+        }
+    ],
+    "date_commande": "2024-12-22T22:25:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1335 Hattie",
+        "ville": "Largo"
+    }
+}

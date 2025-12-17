@@ -1,0 +1,19 @@
+{
+    "order_id": 191952,
+    "client_id": 9196,
+    "produits": [
+        {
+            "produit_id": "P1786",
+            "nom": "Gorgeous Pizza",
+            "quantite": 4,
+            "prix_unitaire": 97.58
+        }
+    ],
+    "date_commande": "2024-12-15T20:36:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "499 Wentworth",
+        "ville": "Hobart"
+    }
+}

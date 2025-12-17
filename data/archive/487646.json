@@ -1,0 +1,31 @@
+{
+    "order_id": 487646,
+    "client_id": 1713,
+    "produits": [
+        {
+            "produit_id": "P3105",
+            "nom": "Rustic Plastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 147.65
+        },
+        {
+            "produit_id": "P8173",
+            "nom": "For repair Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 111.86
+        },
+        {
+            "produit_id": "P8849",
+            "nom": "Sleek Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 367.97
+        }
+    ],
+    "date_commande": "2023-07-31T04:07:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "897 Jack Kerouac",
+        "ville": "Edina"
+    }
+}

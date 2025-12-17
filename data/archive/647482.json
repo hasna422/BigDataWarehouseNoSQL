@@ -1,0 +1,19 @@
+{
+    "order_id": 647482,
+    "client_id": 2730,
+    "produits": [
+        {
+            "produit_id": "P1634",
+            "nom": "Refined Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 425.78
+        }
+    ],
+    "date_commande": "2023-09-21T15:40:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "334 Webster",
+        "ville": "Newnan"
+    }
+}

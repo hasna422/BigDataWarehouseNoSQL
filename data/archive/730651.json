@@ -1,0 +1,19 @@
+{
+    "order_id": 730651,
+    "client_id": 7492,
+    "produits": [
+        {
+            "produit_id": "P5047",
+            "nom": "Sleek Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 305.66
+        }
+    ],
+    "date_commande": "2023-06-24T10:38:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "392 Corwin",
+        "ville": "Bonita Springs"
+    }
+}

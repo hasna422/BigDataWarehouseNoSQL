@@ -1,0 +1,27 @@
+{
+    "order_id": 147469,
+    "client_id": 3875,
+    "produits": [
+        {
+            "produit_id": "P5417",
+            "nom": "Practical Frozen Hat",
+            "quantite": 2,
+            "prix_unitaire": 454.08
+        },
+        {
+            "produit_id": "P6828",
+            "nom": "Gorgeous Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 491.73
+        },
+        {
+            "produit_id": "P4172",
+            "nom": "Unbranded Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 17.13
+        }
+    ],
+    "date_commande": "2023-12-24T20:26:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 209721,
+    "client_id": 2042,
+    "produits": [
+        {
+            "produit_id": "P6190",
+            "nom": "Used Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 56.85
+        },
+        {
+            "produit_id": "P9501",
+            "nom": "New Plastic Car",
+            "quantite": 3,
+            "prix_unitaire": 261.57
+        },
+        {
+            "produit_id": "P9693",
+            "nom": "Gorgeous Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 389.65
+        }
+    ],
+    "date_commande": "2024-01-15T21:30:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "357 Lottie Bennett",
+        "ville": "Edina"
+    }
+}

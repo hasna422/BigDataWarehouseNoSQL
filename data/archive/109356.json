@@ -1,0 +1,25 @@
+{
+    "order_id": 109356,
+    "client_id": 6461,
+    "produits": [
+        {
+            "produit_id": "P3588",
+            "nom": "New Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 441.85
+        },
+        {
+            "produit_id": "P0821",
+            "nom": "Licensed Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 336.09
+        }
+    ],
+    "date_commande": "2024-01-24T02:27:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "255 Compton",
+        "ville": "Attleboro"
+    }
+}

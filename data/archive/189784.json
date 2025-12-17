@@ -1,0 +1,31 @@
+{
+    "order_id": 189784,
+    "client_id": 3318,
+    "produits": [
+        {
+            "produit_id": "P8856",
+            "nom": "Generic Cotton Chair",
+            "quantite": 5,
+            "prix_unitaire": 243.13
+        },
+        {
+            "produit_id": "P0877",
+            "nom": "New Wooden Sausages",
+            "quantite": 3,
+            "prix_unitaire": 425.84
+        },
+        {
+            "produit_id": "P1123",
+            "nom": "Small Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 451.75
+        }
+    ],
+    "date_commande": "2023-07-30T13:15:54",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "566 Baldwin",
+        "ville": "Boca Raton"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 764361,
+    "client_id": 6316,
+    "produits": [
+        {
+            "produit_id": "P5292",
+            "nom": "Intelligent Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 194.0
+        },
+        {
+            "produit_id": "P0529",
+            "nom": "Refined Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 53.22
+        },
+        {
+            "produit_id": "P4000",
+            "nom": "Generic Mouse",
+            "quantite": 3,
+            "prix_unitaire": 250.65
+        }
+    ],
+    "date_commande": "2024-10-29T15:34:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

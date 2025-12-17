@@ -1,0 +1,15 @@
+{
+    "order_id": 148109,
+    "client_id": 6814,
+    "produits": [
+        {
+            "produit_id": "P2201",
+            "nom": "Rustic Table",
+            "quantite": 2,
+            "prix_unitaire": 53.18
+        }
+    ],
+    "date_commande": "2024-12-23T19:19:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

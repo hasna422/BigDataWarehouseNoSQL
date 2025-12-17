@@ -1,0 +1,21 @@
+{
+    "order_id": 937458,
+    "client_id": 1483,
+    "produits": [
+        {
+            "produit_id": "P1950",
+            "nom": "Generic Wooden Shirt",
+            "quantite": 3,
+            "prix_unitaire": 275.98
+        },
+        {
+            "produit_id": "P5670",
+            "nom": "Tasty Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 204.06
+        }
+    ],
+    "date_commande": "2024-06-05T01:27:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

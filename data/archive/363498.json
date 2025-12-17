@@ -1,0 +1,31 @@
+{
+    "order_id": 363498,
+    "client_id": 7036,
+    "produits": [
+        {
+            "produit_id": "P5639",
+            "nom": "Gorgeous Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 327.68
+        },
+        {
+            "produit_id": "P4955",
+            "nom": "Gently Used Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 379.83
+        },
+        {
+            "produit_id": "P2718",
+            "nom": "Used Frozen Table",
+            "quantite": 2,
+            "prix_unitaire": 233.4
+        }
+    ],
+    "date_commande": "2023-06-29T03:40:54",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "338 San Antonio",
+        "ville": "Yukon"
+    }
+}

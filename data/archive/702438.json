@@ -1,0 +1,15 @@
+{
+    "order_id": 702438,
+    "client_id": 6267,
+    "produits": [
+        {
+            "produit_id": "P7708",
+            "nom": "Incredible Rubber Computer",
+            "quantite": 2,
+            "prix_unitaire": 211.27
+        }
+    ],
+    "date_commande": "2023-09-07T03:28:26",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

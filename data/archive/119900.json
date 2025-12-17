@@ -1,0 +1,27 @@
+{
+    "order_id": 119900,
+    "client_id": 1336,
+    "produits": [
+        {
+            "produit_id": "P0723",
+            "nom": "Sleek Granite Shoes",
+            "quantite": 3,
+            "prix_unitaire": 326.61
+        },
+        {
+            "produit_id": "P0448",
+            "nom": "Practical Plastic Car",
+            "quantite": 3,
+            "prix_unitaire": 356.73
+        },
+        {
+            "produit_id": "P1520",
+            "nom": "Handmade Soft Car",
+            "quantite": 3,
+            "prix_unitaire": 276.25
+        }
+    ],
+    "date_commande": "2024-03-22T10:58:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

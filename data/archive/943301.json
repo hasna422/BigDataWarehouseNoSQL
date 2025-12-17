@@ -1,0 +1,27 @@
+{
+    "order_id": 943301,
+    "client_id": 9414,
+    "produits": [
+        {
+            "produit_id": "P7586",
+            "nom": "Used Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 460.61
+        },
+        {
+            "produit_id": "P0345",
+            "nom": "Handcrafted Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 215.92
+        },
+        {
+            "produit_id": "P2575",
+            "nom": "Used Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 469.61
+        }
+    ],
+    "date_commande": "2024-01-31T18:11:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

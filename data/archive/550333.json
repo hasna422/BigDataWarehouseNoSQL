@@ -1,0 +1,19 @@
+{
+    "order_id": 550333,
+    "client_id": 4943,
+    "produits": [
+        {
+            "produit_id": "P8649",
+            "nom": "Incredible Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 111.43
+        }
+    ],
+    "date_commande": "2023-10-27T05:43:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "796 Delgado",
+        "ville": "Port Arthur"
+    }
+}

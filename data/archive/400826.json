@@ -1,0 +1,25 @@
+{
+    "order_id": 400826,
+    "client_id": 3685,
+    "produits": [
+        {
+            "produit_id": "P1019",
+            "nom": "Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 218.64
+        },
+        {
+            "produit_id": "P6721",
+            "nom": "New Wooden Shoes",
+            "quantite": 1,
+            "prix_unitaire": 344.4
+        }
+    ],
+    "date_commande": "2025-02-08T20:39:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1062 Hill",
+        "ville": "Tinley Park"
+    }
+}

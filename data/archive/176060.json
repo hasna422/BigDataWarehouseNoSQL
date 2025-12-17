@@ -1,0 +1,19 @@
+{
+    "order_id": 176060,
+    "client_id": 6142,
+    "produits": [
+        {
+            "produit_id": "P0550",
+            "nom": "Handmade Soft Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 286.59
+        }
+    ],
+    "date_commande": "2023-10-28T21:44:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "441 Annie",
+        "ville": "Anniston"
+    }
+}

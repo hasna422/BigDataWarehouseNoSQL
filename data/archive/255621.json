@@ -1,0 +1,31 @@
+{
+    "order_id": 255621,
+    "client_id": 3516,
+    "produits": [
+        {
+            "produit_id": "P6394",
+            "nom": "Used Concrete Sausages",
+            "quantite": 2,
+            "prix_unitaire": 141.14
+        },
+        {
+            "produit_id": "P8795",
+            "nom": "Fantastic Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 44.17
+        },
+        {
+            "produit_id": "P0792",
+            "nom": "Generic Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 59.23
+        }
+    ],
+    "date_commande": "2023-09-11T19:18:59",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1195 Goettingen",
+        "ville": "Huntington"
+    }
+}

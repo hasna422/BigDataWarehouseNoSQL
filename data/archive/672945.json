@@ -1,0 +1,19 @@
+{
+    "order_id": 672945,
+    "client_id": 5178,
+    "produits": [
+        {
+            "produit_id": "P1092",
+            "nom": "Incredible Plastic Chair",
+            "quantite": 2,
+            "prix_unitaire": 375.19
+        }
+    ],
+    "date_commande": "2024-04-15T13:20:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1125 Rudden",
+        "ville": "Aventura"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 871675,
+    "client_id": 1577,
+    "produits": [
+        {
+            "produit_id": "P5793",
+            "nom": "Gently Used Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 152.53
+        }
+    ],
+    "date_commande": "2024-01-12T07:19:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "163 Bret Harte",
+        "ville": "Roseville"
+    }
+}

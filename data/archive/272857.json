@@ -1,0 +1,25 @@
+{
+    "order_id": 272857,
+    "client_id": 9295,
+    "produits": [
+        {
+            "produit_id": "P4522",
+            "nom": "Incredible Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 452.67
+        },
+        {
+            "produit_id": "P2093",
+            "nom": "Used Shoes",
+            "quantite": 2,
+            "prix_unitaire": 249.84
+        }
+    ],
+    "date_commande": "2024-05-06T18:31:21",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "80 Copper",
+        "ville": "Highland"
+    }
+}

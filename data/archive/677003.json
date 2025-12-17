@@ -1,0 +1,21 @@
+{
+    "order_id": 677003,
+    "client_id": 1773,
+    "produits": [
+        {
+            "produit_id": "P4236",
+            "nom": "Rustic Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 21.55
+        },
+        {
+            "produit_id": "P4185",
+            "nom": "Ergonomic Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 476.21
+        }
+    ],
+    "date_commande": "2025-04-01T16:59:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

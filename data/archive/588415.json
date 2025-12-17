@@ -1,0 +1,21 @@
+{
+    "order_id": 588415,
+    "client_id": 8089,
+    "produits": [
+        {
+            "produit_id": "P3575",
+            "nom": "Incredible Plastic Sausages",
+            "quantite": 4,
+            "prix_unitaire": 379.74
+        },
+        {
+            "produit_id": "P1765",
+            "nom": "Unbranded Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 460.88
+        }
+    ],
+    "date_commande": "2023-10-16T15:27:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 286099,
+    "client_id": 6838,
+    "produits": [
+        {
+            "produit_id": "P1651",
+            "nom": "Handmade Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 166.45
+        }
+    ],
+    "date_commande": "2024-05-16T12:07:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

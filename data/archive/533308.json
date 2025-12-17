@@ -1,0 +1,31 @@
+{
+    "order_id": 533308,
+    "client_id": 4643,
+    "produits": [
+        {
+            "produit_id": "P6880",
+            "nom": "Refined Soft Hat",
+            "quantite": 2,
+            "prix_unitaire": 177.22
+        },
+        {
+            "produit_id": "P9948",
+            "nom": "Fantastic Cotton Hat",
+            "quantite": 1,
+            "prix_unitaire": 416.53
+        },
+        {
+            "produit_id": "P8250",
+            "nom": "Awesome Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 244.9
+        }
+    ],
+    "date_commande": "2024-06-05T17:45:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "152 Lyndhurst",
+        "ville": "Roanoke"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 924551,
+    "client_id": 8299,
+    "produits": [
+        {
+            "produit_id": "P5676",
+            "nom": "Awesome Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 113.94
+        },
+        {
+            "produit_id": "P8149",
+            "nom": "Incredible Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 448.11
+        }
+    ],
+    "date_commande": "2025-04-18T12:27:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1176 Rockaway",
+        "ville": "Dana Point"
+    }
+}

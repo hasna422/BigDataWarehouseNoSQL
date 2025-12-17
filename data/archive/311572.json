@@ -1,0 +1,31 @@
+{
+    "order_id": 311572,
+    "client_id": 3995,
+    "produits": [
+        {
+            "produit_id": "P8716",
+            "nom": "Awesome Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 228.67
+        },
+        {
+            "produit_id": "P7683",
+            "nom": "Small Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 108.36
+        },
+        {
+            "produit_id": "P8543",
+            "nom": "Awesome Concrete Bacon",
+            "quantite": 4,
+            "prix_unitaire": 89.35
+        }
+    ],
+    "date_commande": "2023-10-15T11:12:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1167 Faxon",
+        "ville": "Beckley"
+    }
+}

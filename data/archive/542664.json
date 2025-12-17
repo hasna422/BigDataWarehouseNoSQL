@@ -1,0 +1,25 @@
+{
+    "order_id": 542664,
+    "client_id": 1455,
+    "produits": [
+        {
+            "produit_id": "P5256",
+            "nom": "Practical Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 367.41
+        },
+        {
+            "produit_id": "P7745",
+            "nom": "Awesome Plastic Gloves",
+            "quantite": 3,
+            "prix_unitaire": 39.98
+        }
+    ],
+    "date_commande": "2024-02-03T06:18:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1334 Aztec",
+        "ville": "Durango"
+    }
+}

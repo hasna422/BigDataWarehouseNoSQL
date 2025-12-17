@@ -1,0 +1,15 @@
+{
+    "order_id": 236585,
+    "client_id": 1449,
+    "produits": [
+        {
+            "produit_id": "P8635",
+            "nom": "Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 319.94
+        }
+    ],
+    "date_commande": "2024-01-14T17:44:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

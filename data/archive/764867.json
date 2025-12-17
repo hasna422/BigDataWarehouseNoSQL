@@ -1,0 +1,27 @@
+{
+    "order_id": 764867,
+    "client_id": 8162,
+    "produits": [
+        {
+            "produit_id": "P8566",
+            "nom": "Gorgeous Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 233.27
+        },
+        {
+            "produit_id": "P7897",
+            "nom": "Rustic Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 73.0
+        },
+        {
+            "produit_id": "P2406",
+            "nom": "Tasty Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 287.88
+        }
+    ],
+    "date_commande": "2023-12-08T17:50:11",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

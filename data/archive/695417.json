@@ -1,0 +1,15 @@
+{
+    "order_id": 695417,
+    "client_id": 2864,
+    "produits": [
+        {
+            "produit_id": "P9381",
+            "nom": "Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 214.47
+        }
+    ],
+    "date_commande": "2025-04-17T21:48:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 936331,
+    "client_id": 7337,
+    "produits": [
+        {
+            "produit_id": "P4333",
+            "nom": "Licensed Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 482.12
+        },
+        {
+            "produit_id": "P6332",
+            "nom": "Fantastic Granite Ball",
+            "quantite": 1,
+            "prix_unitaire": 452.05
+        }
+    ],
+    "date_commande": "2023-11-13T02:11:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

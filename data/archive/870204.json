@@ -1,0 +1,27 @@
+{
+    "order_id": 870204,
+    "client_id": 8548,
+    "produits": [
+        {
+            "produit_id": "P9257",
+            "nom": "Gorgeous Rubber Pizza",
+            "quantite": 1,
+            "prix_unitaire": 482.13
+        },
+        {
+            "produit_id": "P0852",
+            "nom": "Gorgeous Granite Bacon",
+            "quantite": 2,
+            "prix_unitaire": 169.68
+        },
+        {
+            "produit_id": "P4090",
+            "nom": "New Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 58.54
+        }
+    ],
+    "date_commande": "2024-06-13T15:33:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

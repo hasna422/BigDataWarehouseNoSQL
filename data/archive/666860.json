@@ -1,0 +1,31 @@
+{
+    "order_id": 666860,
+    "client_id": 2808,
+    "produits": [
+        {
+            "produit_id": "P6882",
+            "nom": "Intelligent Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 453.94
+        },
+        {
+            "produit_id": "P7773",
+            "nom": "Used Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 408.66
+        },
+        {
+            "produit_id": "P9469",
+            "nom": "Unbranded Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 250.79
+        }
+    ],
+    "date_commande": "2024-05-01T09:26:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "218 Saint Germain",
+        "ville": "San Juan Capistrano"
+    }
+}

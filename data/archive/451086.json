@@ -1,0 +1,25 @@
+{
+    "order_id": 451086,
+    "client_id": 7920,
+    "produits": [
+        {
+            "produit_id": "P5302",
+            "nom": "Awesome Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 370.26
+        },
+        {
+            "produit_id": "P6989",
+            "nom": "Generic Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 47.44
+        }
+    ],
+    "date_commande": "2025-04-07T05:36:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1352 Dukes",
+        "ville": "Menomonee Falls"
+    }
+}

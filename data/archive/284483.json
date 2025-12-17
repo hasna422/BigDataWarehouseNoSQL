@@ -1,0 +1,25 @@
+{
+    "order_id": 284483,
+    "client_id": 2451,
+    "produits": [
+        {
+            "produit_id": "P4458",
+            "nom": "Unbranded Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 387.33
+        },
+        {
+            "produit_id": "P4992",
+            "nom": "Unbranded Metal Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 363.11
+        }
+    ],
+    "date_commande": "2023-10-18T16:46:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "453 Washington",
+        "ville": "St. Marys"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 926705,
+    "client_id": 2211,
+    "produits": [
+        {
+            "produit_id": "P2603",
+            "nom": "Unbranded Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 428.6
+        },
+        {
+            "produit_id": "P2310",
+            "nom": "New Soft Gloves",
+            "quantite": 1,
+            "prix_unitaire": 76.98
+        }
+    ],
+    "date_commande": "2024-10-15T08:12:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

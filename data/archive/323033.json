@@ -1,0 +1,31 @@
+{
+    "order_id": 323033,
+    "client_id": 4179,
+    "produits": [
+        {
+            "produit_id": "P9257",
+            "nom": "Unbranded Frozen Cheese",
+            "quantite": 5,
+            "prix_unitaire": 476.94
+        },
+        {
+            "produit_id": "P7672",
+            "nom": "Tasty Soft Chips",
+            "quantite": 5,
+            "prix_unitaire": 414.32
+        },
+        {
+            "produit_id": "P7914",
+            "nom": "Generic Fresh Ball",
+            "quantite": 2,
+            "prix_unitaire": 160.13
+        }
+    ],
+    "date_commande": "2023-10-16T16:43:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1003 Thrift",
+        "ville": "Iowa City"
+    }
+}

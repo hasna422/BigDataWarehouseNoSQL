@@ -1,0 +1,31 @@
+{
+    "order_id": 919526,
+    "client_id": 2642,
+    "produits": [
+        {
+            "produit_id": "P9268",
+            "nom": "Fantastic Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 325.45
+        },
+        {
+            "produit_id": "P8588",
+            "nom": "Ergonomic Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 371.58
+        },
+        {
+            "produit_id": "P9868",
+            "nom": "Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 439.61
+        }
+    ],
+    "date_commande": "2025-03-18T07:56:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "325 Miguel",
+        "ville": "Corsicana"
+    }
+}

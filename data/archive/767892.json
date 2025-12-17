@@ -1,0 +1,25 @@
+{
+    "order_id": 767892,
+    "client_id": 4058,
+    "produits": [
+        {
+            "produit_id": "P0962",
+            "nom": "Generic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 407.37
+        },
+        {
+            "produit_id": "P6245",
+            "nom": "Plastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 194.78
+        }
+    ],
+    "date_commande": "2024-02-16T23:31:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1254 Staples",
+        "ville": "Dolton"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 714671,
+    "client_id": 5024,
+    "produits": [
+        {
+            "produit_id": "P5230",
+            "nom": "Fantastic Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 45.41
+        }
+    ],
+    "date_commande": "2023-09-06T04:33:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "365 Fort Funston",
+        "ville": "Littleton"
+    }
+}

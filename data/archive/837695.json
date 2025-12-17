@@ -1,0 +1,19 @@
+{
+    "order_id": 837695,
+    "client_id": 6671,
+    "produits": [
+        {
+            "produit_id": "P5483",
+            "nom": "Fantastic Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 203.85
+        }
+    ],
+    "date_commande": "2024-07-24T06:19:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "935 Collingwood",
+        "ville": "Homewood"
+    }
+}

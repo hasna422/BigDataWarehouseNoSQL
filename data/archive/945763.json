@@ -1,0 +1,19 @@
+{
+    "order_id": 945763,
+    "client_id": 9388,
+    "produits": [
+        {
+            "produit_id": "P2704",
+            "nom": "Incredible Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 216.93
+        }
+    ],
+    "date_commande": "2023-09-12T01:53:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "232 Nob Hill",
+        "ville": "Goose Creek"
+    }
+}

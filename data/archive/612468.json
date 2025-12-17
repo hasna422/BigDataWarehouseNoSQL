@@ -1,0 +1,25 @@
+{
+    "order_id": 612468,
+    "client_id": 8790,
+    "produits": [
+        {
+            "produit_id": "P0215",
+            "nom": "Gently Used Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 51.96
+        },
+        {
+            "produit_id": "P2261",
+            "nom": "Handcrafted Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 308.74
+        }
+    ],
+    "date_commande": "2024-12-19T02:54:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1306 Bucareli",
+        "ville": "Rolling Meadows"
+    }
+}

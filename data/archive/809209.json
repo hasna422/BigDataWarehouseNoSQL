@@ -1,0 +1,25 @@
+{
+    "order_id": 809209,
+    "client_id": 7523,
+    "produits": [
+        {
+            "produit_id": "P8796",
+            "nom": "Licensed Rubber Soap",
+            "quantite": 1,
+            "prix_unitaire": 51.29
+        },
+        {
+            "produit_id": "P7634",
+            "nom": "Tasty Cotton Table",
+            "quantite": 5,
+            "prix_unitaire": 496.98
+        }
+    ],
+    "date_commande": "2024-12-13T04:31:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "297 Harkness",
+        "ville": "Boise City"
+    }
+}

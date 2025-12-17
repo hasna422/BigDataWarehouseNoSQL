@@ -1,0 +1,27 @@
+{
+    "order_id": 949281,
+    "client_id": 1754,
+    "produits": [
+        {
+            "produit_id": "P9628",
+            "nom": "Awesome Fresh Cheese",
+            "quantite": 5,
+            "prix_unitaire": 450.52
+        },
+        {
+            "produit_id": "P6377",
+            "nom": "Used Plastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 145.35
+        },
+        {
+            "produit_id": "P0878",
+            "nom": "Ergonomic Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 461.93
+        }
+    ],
+    "date_commande": "2024-05-19T12:46:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

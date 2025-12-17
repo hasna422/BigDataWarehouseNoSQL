@@ -1,0 +1,19 @@
+{
+    "order_id": 385777,
+    "client_id": 5788,
+    "produits": [
+        {
+            "produit_id": "P2488",
+            "nom": "Intelligent Metal Shirt",
+            "quantite": 3,
+            "prix_unitaire": 341.29
+        }
+    ],
+    "date_commande": "2024-11-04T05:19:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1047 Ewing",
+        "ville": "Michigan City"
+    }
+}

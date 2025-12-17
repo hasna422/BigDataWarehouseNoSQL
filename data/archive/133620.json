@@ -1,0 +1,25 @@
+{
+    "order_id": 133620,
+    "client_id": 6021,
+    "produits": [
+        {
+            "produit_id": "P7054",
+            "nom": "Handcrafted Fresh Towels",
+            "quantite": 2,
+            "prix_unitaire": 376.49
+        },
+        {
+            "produit_id": "P7736",
+            "nom": "Intelligent Concrete Soap",
+            "quantite": 2,
+            "prix_unitaire": 194.86
+        }
+    ],
+    "date_commande": "2024-09-21T10:41:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "58 Stanton",
+        "ville": "Carmel"
+    }
+}

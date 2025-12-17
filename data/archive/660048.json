@@ -1,0 +1,31 @@
+{
+    "order_id": 660048,
+    "client_id": 9447,
+    "produits": [
+        {
+            "produit_id": "P6139",
+            "nom": "Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 147.67
+        },
+        {
+            "produit_id": "P5878",
+            "nom": "Rubber Chair",
+            "quantite": 1,
+            "prix_unitaire": 412.34
+        },
+        {
+            "produit_id": "P1545",
+            "nom": "Towels",
+            "quantite": 5,
+            "prix_unitaire": 176.09
+        }
+    ],
+    "date_commande": "2023-08-11T06:37:29",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "541 Saint George",
+        "ville": "Gilbert"
+    }
+}

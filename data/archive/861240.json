@@ -1,0 +1,15 @@
+{
+    "order_id": 861240,
+    "client_id": 7917,
+    "produits": [
+        {
+            "produit_id": "P9225",
+            "nom": "Licensed Cheese",
+            "quantite": 4,
+            "prix_unitaire": 224.74
+        }
+    ],
+    "date_commande": "2024-07-13T21:37:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

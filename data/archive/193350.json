@@ -1,0 +1,19 @@
+{
+    "order_id": 193350,
+    "client_id": 3750,
+    "produits": [
+        {
+            "produit_id": "P2015",
+            "nom": "Practical Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 93.88
+        }
+    ],
+    "date_commande": "2024-05-01T13:58:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1254 Evelyn",
+        "ville": "Grove City"
+    }
+}

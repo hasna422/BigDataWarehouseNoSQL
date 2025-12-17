@@ -1,0 +1,25 @@
+{
+    "order_id": 870995,
+    "client_id": 8302,
+    "produits": [
+        {
+            "produit_id": "P0842",
+            "nom": "Sleek Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 239.75
+        },
+        {
+            "produit_id": "P8703",
+            "nom": "Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 160.04
+        }
+    ],
+    "date_commande": "2024-03-21T08:32:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "443 San Jacinto",
+        "ville": "Montgomery"
+    }
+}

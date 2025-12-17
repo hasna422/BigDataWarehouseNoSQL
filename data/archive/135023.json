@@ -1,0 +1,31 @@
+{
+    "order_id": 135023,
+    "client_id": 9891,
+    "produits": [
+        {
+            "produit_id": "P8315",
+            "nom": "Refined Steel Towels",
+            "quantite": 4,
+            "prix_unitaire": 407.92
+        },
+        {
+            "produit_id": "P1365",
+            "nom": "Generic Metal Sausages",
+            "quantite": 5,
+            "prix_unitaire": 321.2
+        },
+        {
+            "produit_id": "P4506",
+            "nom": "Intelligent Bacon",
+            "quantite": 1,
+            "prix_unitaire": 425.41
+        }
+    ],
+    "date_commande": "2024-02-09T01:57:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "713 Pennsylvania",
+        "ville": "Palm Beach Gardens"
+    }
+}

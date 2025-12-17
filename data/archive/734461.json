@@ -1,0 +1,25 @@
+{
+    "order_id": 734461,
+    "client_id": 1305,
+    "produits": [
+        {
+            "produit_id": "P4260",
+            "nom": "Handmade Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 340.69
+        },
+        {
+            "produit_id": "P9744",
+            "nom": "Sleek Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 473.27
+        }
+    ],
+    "date_commande": "2023-09-06T05:31:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1059 George",
+        "ville": "Statesville"
+    }
+}

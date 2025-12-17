@@ -1,0 +1,19 @@
+{
+    "order_id": 507362,
+    "client_id": 8857,
+    "produits": [
+        {
+            "produit_id": "P6849",
+            "nom": "Unbranded Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 259.72
+        }
+    ],
+    "date_commande": "2024-05-20T11:03:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "610 Mccann",
+        "ville": "Maple Heights"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 359759,
+    "client_id": 5258,
+    "produits": [
+        {
+            "produit_id": "P9122",
+            "nom": "For repair Chicken",
+            "quantite": 3,
+            "prix_unitaire": 149.61
+        }
+    ],
+    "date_commande": "2023-12-29T12:44:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

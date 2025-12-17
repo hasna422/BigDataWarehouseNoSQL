@@ -1,0 +1,25 @@
+{
+    "order_id": 532387,
+    "client_id": 7507,
+    "produits": [
+        {
+            "produit_id": "P5796",
+            "nom": "Refined Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 373.23
+        },
+        {
+            "produit_id": "P2126",
+            "nom": "Incredible Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 288.11
+        }
+    ],
+    "date_commande": "2024-10-24T11:10:29",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "684 Delgado",
+        "ville": "Port Chester"
+    }
+}

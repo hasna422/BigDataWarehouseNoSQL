@@ -1,0 +1,19 @@
+{
+    "order_id": 979951,
+    "client_id": 1206,
+    "produits": [
+        {
+            "produit_id": "P7529",
+            "nom": "Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 178.81
+        }
+    ],
+    "date_commande": "2023-12-24T11:18:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "94 Avenue Of The Palms",
+        "ville": "Newport"
+    }
+}

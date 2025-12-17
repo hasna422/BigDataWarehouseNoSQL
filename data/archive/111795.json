@@ -1,0 +1,21 @@
+{
+    "order_id": 111795,
+    "client_id": 7024,
+    "produits": [
+        {
+            "produit_id": "P0504",
+            "nom": "Unbranded Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 14.15
+        },
+        {
+            "produit_id": "P2859",
+            "nom": "Handmade Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 136.04
+        }
+    ],
+    "date_commande": "2023-08-20T21:57:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

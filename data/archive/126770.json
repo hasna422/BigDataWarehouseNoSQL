@@ -1,0 +1,31 @@
+{
+    "order_id": 126770,
+    "client_id": 7995,
+    "produits": [
+        {
+            "produit_id": "P2193",
+            "nom": "Sleek Steel Shoes",
+            "quantite": 4,
+            "prix_unitaire": 109.89
+        },
+        {
+            "produit_id": "P0131",
+            "nom": "Fantastic Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 456.74
+        },
+        {
+            "produit_id": "P5694",
+            "nom": "For repair Granite Computer",
+            "quantite": 2,
+            "prix_unitaire": 38.78
+        }
+    ],
+    "date_commande": "2024-02-04T03:10:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1064 Perego",
+        "ville": "Goshen"
+    }
+}

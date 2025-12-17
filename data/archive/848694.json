@@ -1,0 +1,27 @@
+{
+    "order_id": 848694,
+    "client_id": 1037,
+    "produits": [
+        {
+            "produit_id": "P5624",
+            "nom": "Refined Rubber Chair",
+            "quantite": 3,
+            "prix_unitaire": 70.82
+        },
+        {
+            "produit_id": "P2720",
+            "nom": "Ergonomic Wooden Pizza",
+            "quantite": 3,
+            "prix_unitaire": 482.39
+        },
+        {
+            "produit_id": "P9603",
+            "nom": "Small Wooden Chips",
+            "quantite": 4,
+            "prix_unitaire": 246.05
+        }
+    ],
+    "date_commande": "2024-05-30T04:57:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

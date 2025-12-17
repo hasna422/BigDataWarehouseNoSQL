@@ -1,0 +1,31 @@
+{
+    "order_id": 286588,
+    "client_id": 5572,
+    "produits": [
+        {
+            "produit_id": "P1039",
+            "nom": "Generic Fish",
+            "quantite": 4,
+            "prix_unitaire": 260.03
+        },
+        {
+            "produit_id": "P5790",
+            "nom": "Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 329.12
+        },
+        {
+            "produit_id": "P1034",
+            "nom": "Tuna",
+            "quantite": 4,
+            "prix_unitaire": 265.91
+        }
+    ],
+    "date_commande": "2024-09-16T01:14:29",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "218 Napier",
+        "ville": "West Lafayette"
+    }
+}

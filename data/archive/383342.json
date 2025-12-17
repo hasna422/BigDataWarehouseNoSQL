@@ -1,0 +1,19 @@
+{
+    "order_id": 383342,
+    "client_id": 5360,
+    "produits": [
+        {
+            "produit_id": "P4567",
+            "nom": "New Wooden Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 126.23
+        }
+    ],
+    "date_commande": "2024-06-14T00:06:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "21 Corbin",
+        "ville": "Tuscaloosa"
+    }
+}

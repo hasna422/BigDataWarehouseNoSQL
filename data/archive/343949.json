@@ -1,0 +1,25 @@
+{
+    "order_id": 343949,
+    "client_id": 7430,
+    "produits": [
+        {
+            "produit_id": "P0138",
+            "nom": "Gently Used Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 342.54
+        },
+        {
+            "produit_id": "P9245",
+            "nom": "Gently Used Granite Bacon",
+            "quantite": 3,
+            "prix_unitaire": 223.13
+        }
+    ],
+    "date_commande": "2025-05-08T21:03:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1140 Enterprise",
+        "ville": "Morristown"
+    }
+}

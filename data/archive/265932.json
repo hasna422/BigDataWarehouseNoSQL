@@ -1,0 +1,31 @@
+{
+    "order_id": 265932,
+    "client_id": 7155,
+    "produits": [
+        {
+            "produit_id": "P4836",
+            "nom": "Refined Granite Pizza",
+            "quantite": 5,
+            "prix_unitaire": 21.29
+        },
+        {
+            "produit_id": "P7132",
+            "nom": "Fantastic Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 142.2
+        },
+        {
+            "produit_id": "P7785",
+            "nom": "Gorgeous Plastic Soap",
+            "quantite": 4,
+            "prix_unitaire": 28.21
+        }
+    ],
+    "date_commande": "2023-09-06T06:56:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "526 Chester",
+        "ville": "East Moline"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 937172,
+    "client_id": 6489,
+    "produits": [
+        {
+            "produit_id": "P8911",
+            "nom": "For repair Concrete Hat",
+            "quantite": 4,
+            "prix_unitaire": 60.18
+        },
+        {
+            "produit_id": "P8493",
+            "nom": "New Plastic Car",
+            "quantite": 1,
+            "prix_unitaire": 104.89
+        },
+        {
+            "produit_id": "P0125",
+            "nom": "Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 113.12
+        }
+    ],
+    "date_commande": "2024-02-16T23:06:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

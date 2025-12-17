@@ -1,0 +1,21 @@
+{
+    "order_id": 337109,
+    "client_id": 9073,
+    "produits": [
+        {
+            "produit_id": "P4989",
+            "nom": "Rustic Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 474.3
+        },
+        {
+            "produit_id": "P7230",
+            "nom": "Handmade Steel Shoes",
+            "quantite": 2,
+            "prix_unitaire": 314.78
+        }
+    ],
+    "date_commande": "2024-01-11T09:18:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

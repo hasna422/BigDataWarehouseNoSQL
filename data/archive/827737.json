@@ -1,0 +1,25 @@
+{
+    "order_id": 827737,
+    "client_id": 5154,
+    "produits": [
+        {
+            "produit_id": "P3734",
+            "nom": "Rustic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 328.04
+        },
+        {
+            "produit_id": "P5261",
+            "nom": "Unbranded Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 105.09
+        }
+    ],
+    "date_commande": "2024-02-03T23:19:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1031 Onondaga",
+        "ville": "Oxnard"
+    }
+}

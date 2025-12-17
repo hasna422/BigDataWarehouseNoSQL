@@ -1,0 +1,25 @@
+{
+    "order_id": 759821,
+    "client_id": 1040,
+    "produits": [
+        {
+            "produit_id": "P0011",
+            "nom": "Tasty Fresh Chair",
+            "quantite": 2,
+            "prix_unitaire": 233.31
+        },
+        {
+            "produit_id": "P9170",
+            "nom": "Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 40.54
+        }
+    ],
+    "date_commande": "2023-09-12T17:37:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "885 Broderick",
+        "ville": "Beverly Hills"
+    }
+}

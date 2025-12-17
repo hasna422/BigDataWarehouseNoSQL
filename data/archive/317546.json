@@ -1,0 +1,25 @@
+{
+    "order_id": 317546,
+    "client_id": 7268,
+    "produits": [
+        {
+            "produit_id": "P1069",
+            "nom": "Licensed Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 221.42
+        },
+        {
+            "produit_id": "P4072",
+            "nom": "Sleek Tuna",
+            "quantite": 2,
+            "prix_unitaire": 5.08
+        }
+    ],
+    "date_commande": "2025-03-17T12:55:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "303 Pinar",
+        "ville": "Baytown"
+    }
+}

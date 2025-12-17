@@ -1,0 +1,19 @@
+{
+    "order_id": 667346,
+    "client_id": 9218,
+    "produits": [
+        {
+            "produit_id": "P5137",
+            "nom": "Licensed Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 415.45
+        }
+    ],
+    "date_commande": "2023-07-13T09:55:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "689 Forsyth",
+        "ville": "Temple"
+    }
+}

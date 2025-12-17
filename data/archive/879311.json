@@ -1,0 +1,15 @@
+{
+    "order_id": 879311,
+    "client_id": 1209,
+    "produits": [
+        {
+            "produit_id": "P4834",
+            "nom": "Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 110.51
+        }
+    ],
+    "date_commande": "2024-07-23T17:27:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 619301,
+    "client_id": 5247,
+    "produits": [
+        {
+            "produit_id": "P4354",
+            "nom": "Steel Soap",
+            "quantite": 3,
+            "prix_unitaire": 482.29
+        }
+    ],
+    "date_commande": "2024-01-02T00:18:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

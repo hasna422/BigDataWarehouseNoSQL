@@ -1,0 +1,25 @@
+{
+    "order_id": 260980,
+    "client_id": 6277,
+    "produits": [
+        {
+            "produit_id": "P4198",
+            "nom": "Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 372.2
+        },
+        {
+            "produit_id": "P4388",
+            "nom": "Incredible Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 80.39
+        }
+    ],
+    "date_commande": "2023-12-28T23:33:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1150 Knollview",
+        "ville": "Northglenn"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 446711,
+    "client_id": 8727,
+    "produits": [
+        {
+            "produit_id": "P1051",
+            "nom": "Used Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 441.94
+        },
+        {
+            "produit_id": "P0318",
+            "nom": "Gently Used Cotton Mouse",
+            "quantite": 5,
+            "prix_unitaire": 425.59
+        },
+        {
+            "produit_id": "P6584",
+            "nom": "Small Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 205.49
+        }
+    ],
+    "date_commande": "2024-04-25T10:57:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1074 Ruckman",
+        "ville": "Holly Springs"
+    }
+}

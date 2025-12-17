@@ -1,0 +1,15 @@
+{
+    "order_id": 347774,
+    "client_id": 2715,
+    "produits": [
+        {
+            "produit_id": "P9868",
+            "nom": "New Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 253.23
+        }
+    ],
+    "date_commande": "2023-08-26T14:46:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

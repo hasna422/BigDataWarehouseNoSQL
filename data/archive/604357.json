@@ -1,0 +1,21 @@
+{
+    "order_id": 604357,
+    "client_id": 7580,
+    "produits": [
+        {
+            "produit_id": "P3146",
+            "nom": "Ergonomic Fish",
+            "quantite": 4,
+            "prix_unitaire": 289.8
+        },
+        {
+            "produit_id": "P2019",
+            "nom": "Tasty Shoes",
+            "quantite": 4,
+            "prix_unitaire": 47.47
+        }
+    ],
+    "date_commande": "2024-10-30T15:44:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

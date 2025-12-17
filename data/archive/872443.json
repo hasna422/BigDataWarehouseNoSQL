@@ -1,0 +1,25 @@
+{
+    "order_id": 872443,
+    "client_id": 1301,
+    "produits": [
+        {
+            "produit_id": "P2164",
+            "nom": "Small Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 282.33
+        },
+        {
+            "produit_id": "P4018",
+            "nom": "Practical Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 182.92
+        }
+    ],
+    "date_commande": "2024-06-17T14:06:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "449 Midway",
+        "ville": "Houma"
+    }
+}

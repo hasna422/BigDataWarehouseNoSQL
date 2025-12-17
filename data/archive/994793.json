@@ -1,0 +1,25 @@
+{
+    "order_id": 994793,
+    "client_id": 4653,
+    "produits": [
+        {
+            "produit_id": "P1036",
+            "nom": "Small Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 131.07
+        },
+        {
+            "produit_id": "P2505",
+            "nom": "Tasty Fresh Car",
+            "quantite": 5,
+            "prix_unitaire": 63.02
+        }
+    ],
+    "date_commande": "2025-03-07T14:33:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "15 Rudden",
+        "ville": "Palisades Park"
+    }
+}

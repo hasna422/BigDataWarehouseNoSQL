@@ -1,0 +1,21 @@
+{
+    "order_id": 250916,
+    "client_id": 8635,
+    "produits": [
+        {
+            "produit_id": "P2817",
+            "nom": "Used Chair",
+            "quantite": 4,
+            "prix_unitaire": 433.08
+        },
+        {
+            "produit_id": "P7251",
+            "nom": "Generic Steel Shirt",
+            "quantite": 4,
+            "prix_unitaire": 361.53
+        }
+    ],
+    "date_commande": "2025-01-04T20:47:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 509602,
+    "client_id": 3448,
+    "produits": [
+        {
+            "produit_id": "P0666",
+            "nom": "Generic Concrete Tuna",
+            "quantite": 3,
+            "prix_unitaire": 364.9
+        },
+        {
+            "produit_id": "P1855",
+            "nom": "Rustic Granite Sausages",
+            "quantite": 1,
+            "prix_unitaire": 439.66
+        },
+        {
+            "produit_id": "P2577",
+            "nom": "Used Metal Gloves",
+            "quantite": 4,
+            "prix_unitaire": 417.79
+        }
+    ],
+    "date_commande": "2024-03-07T22:22:33",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "262 Peralta",
+        "ville": "Reynoldsburg"
+    }
+}

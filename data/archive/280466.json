@@ -1,0 +1,19 @@
+{
+    "order_id": 280466,
+    "client_id": 4730,
+    "produits": [
+        {
+            "produit_id": "P8780",
+            "nom": "Tasty Soap",
+            "quantite": 1,
+            "prix_unitaire": 275.58
+        }
+    ],
+    "date_commande": "2025-04-12T13:24:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "275 Pemberton",
+        "ville": "Saginaw"
+    }
+}

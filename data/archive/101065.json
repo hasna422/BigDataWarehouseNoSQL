@@ -1,0 +1,19 @@
+{
+    "order_id": 101065,
+    "client_id": 5123,
+    "produits": [
+        {
+            "produit_id": "P9996",
+            "nom": "Generic Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 162.87
+        }
+    ],
+    "date_commande": "2025-04-06T17:56:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "122 Acevedo",
+        "ville": "Millville"
+    }
+}

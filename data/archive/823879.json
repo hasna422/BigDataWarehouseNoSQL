@@ -1,0 +1,25 @@
+{
+    "order_id": 823879,
+    "client_id": 2502,
+    "produits": [
+        {
+            "produit_id": "P5748",
+            "nom": "Small Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 94.75
+        },
+        {
+            "produit_id": "P6961",
+            "nom": "Generic Fresh Chair",
+            "quantite": 2,
+            "prix_unitaire": 368.99
+        }
+    ],
+    "date_commande": "2025-02-21T11:07:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "442 Leese",
+        "ville": "Eastpointe"
+    }
+}

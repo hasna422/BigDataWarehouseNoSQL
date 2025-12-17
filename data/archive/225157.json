@@ -1,0 +1,19 @@
+{
+    "order_id": 225157,
+    "client_id": 7703,
+    "produits": [
+        {
+            "produit_id": "P2825",
+            "nom": "Incredible Frozen Pants",
+            "quantite": 1,
+            "prix_unitaire": 211.6
+        }
+    ],
+    "date_commande": "2023-09-13T22:08:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1047 Parque",
+        "ville": "Coral Springs"
+    }
+}

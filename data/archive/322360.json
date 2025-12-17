@@ -1,0 +1,25 @@
+{
+    "order_id": 322360,
+    "client_id": 5742,
+    "produits": [
+        {
+            "produit_id": "P9272",
+            "nom": "Gorgeous Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 41.08
+        },
+        {
+            "produit_id": "P2396",
+            "nom": "Handcrafted Soft Fish",
+            "quantite": 4,
+            "prix_unitaire": 17.22
+        }
+    ],
+    "date_commande": "2024-12-04T19:31:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1027 Santiago",
+        "ville": "Maryland Heights"
+    }
+}

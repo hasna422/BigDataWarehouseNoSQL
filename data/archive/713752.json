@@ -1,0 +1,19 @@
+{
+    "order_id": 713752,
+    "client_id": 3591,
+    "produits": [
+        {
+            "produit_id": "P6387",
+            "nom": "Handmade Soft Car",
+            "quantite": 4,
+            "prix_unitaire": 397.88
+        }
+    ],
+    "date_commande": "2023-07-20T09:56:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "300 Cuesta",
+        "ville": "Tifton"
+    }
+}

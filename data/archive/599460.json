@@ -1,0 +1,31 @@
+{
+    "order_id": 599460,
+    "client_id": 6798,
+    "produits": [
+        {
+            "produit_id": "P9149",
+            "nom": "Small Concrete Ball",
+            "quantite": 3,
+            "prix_unitaire": 22.14
+        },
+        {
+            "produit_id": "P5996",
+            "nom": "Incredible Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 237.21
+        },
+        {
+            "produit_id": "P0690",
+            "nom": "New Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 243.61
+        }
+    ],
+    "date_commande": "2023-09-10T16:57:28",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1029 Lundys",
+        "ville": "Shreveport"
+    }
+}

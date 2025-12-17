@@ -1,0 +1,31 @@
+{
+    "order_id": 168212,
+    "client_id": 5059,
+    "produits": [
+        {
+            "produit_id": "P6301",
+            "nom": "For repair Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 82.68
+        },
+        {
+            "produit_id": "P9480",
+            "nom": "Handmade Frozen Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 117.36
+        },
+        {
+            "produit_id": "P4904",
+            "nom": "Handcrafted Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 173.09
+        }
+    ],
+    "date_commande": "2024-01-16T16:31:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1260 Shakespeare",
+        "ville": "Boynton Beach"
+    }
+}

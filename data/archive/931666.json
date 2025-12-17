@@ -1,0 +1,31 @@
+{
+    "order_id": 931666,
+    "client_id": 5681,
+    "produits": [
+        {
+            "produit_id": "P8605",
+            "nom": "Used Metal Fish",
+            "quantite": 5,
+            "prix_unitaire": 154.52
+        },
+        {
+            "produit_id": "P3161",
+            "nom": "Small Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 65.54
+        },
+        {
+            "produit_id": "P4005",
+            "nom": "Used Granite Pizza",
+            "quantite": 1,
+            "prix_unitaire": 265.51
+        }
+    ],
+    "date_commande": "2025-03-22T05:19:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1174 Sanchez",
+        "ville": "Glen Ellyn"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 603137,
+    "client_id": 2316,
+    "produits": [
+        {
+            "produit_id": "P2305",
+            "nom": "Generic Cotton Pants",
+            "quantite": 1,
+            "prix_unitaire": 222.73
+        }
+    ],
+    "date_commande": "2023-06-26T19:57:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1348 Montgomery",
+        "ville": "Lake Havasu City"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 144323,
+    "client_id": 4797,
+    "produits": [
+        {
+            "produit_id": "P3880",
+            "nom": "New Soft Bacon",
+            "quantite": 5,
+            "prix_unitaire": 237.8
+        },
+        {
+            "produit_id": "P9784",
+            "nom": "Sleek Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 290.69
+        }
+    ],
+    "date_commande": "2024-01-27T01:06:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1348 Willow",
+        "ville": "Woburn"
+    }
+}

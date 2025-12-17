@@ -1,0 +1,31 @@
+{
+    "order_id": 879117,
+    "client_id": 9007,
+    "produits": [
+        {
+            "produit_id": "P1869",
+            "nom": "Fantastic Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 370.39
+        },
+        {
+            "produit_id": "P0527",
+            "nom": "For repair Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 359.73
+        },
+        {
+            "produit_id": "P6256",
+            "nom": "Intelligent Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 336.63
+        }
+    ],
+    "date_commande": "2024-11-19T23:52:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1240 Boyd",
+        "ville": "South Milwaukee"
+    }
+}

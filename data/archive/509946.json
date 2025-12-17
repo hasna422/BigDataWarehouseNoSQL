@@ -1,0 +1,15 @@
+{
+    "order_id": 509946,
+    "client_id": 2485,
+    "produits": [
+        {
+            "produit_id": "P2840",
+            "nom": "Refined Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 163.65
+        }
+    ],
+    "date_commande": "2025-04-16T16:55:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

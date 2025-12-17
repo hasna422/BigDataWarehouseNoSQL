@@ -1,0 +1,19 @@
+{
+    "order_id": 112105,
+    "client_id": 9881,
+    "produits": [
+        {
+            "produit_id": "P2668",
+            "nom": "Intelligent Soap",
+            "quantite": 2,
+            "prix_unitaire": 310.31
+        }
+    ],
+    "date_commande": "2024-03-12T16:31:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1356 Southern Heights",
+        "ville": "Broken Arrow"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 156263,
+    "client_id": 4704,
+    "produits": [
+        {
+            "produit_id": "P5874",
+            "nom": "Practical Car",
+            "quantite": 4,
+            "prix_unitaire": 212.75
+        }
+    ],
+    "date_commande": "2025-02-21T06:16:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

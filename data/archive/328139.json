@@ -1,0 +1,25 @@
+{
+    "order_id": 328139,
+    "client_id": 3981,
+    "produits": [
+        {
+            "produit_id": "P9504",
+            "nom": "Generic Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 481.77
+        },
+        {
+            "produit_id": "P8458",
+            "nom": "Practical Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 81.31
+        }
+    ],
+    "date_commande": "2024-11-12T21:45:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1167 Mcrae",
+        "ville": "Oswego"
+    }
+}

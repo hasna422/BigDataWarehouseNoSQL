@@ -1,0 +1,19 @@
+{
+    "order_id": 224007,
+    "client_id": 2381,
+    "produits": [
+        {
+            "produit_id": "P7489",
+            "nom": "Fantastic Chicken",
+            "quantite": 3,
+            "prix_unitaire": 146.39
+        }
+    ],
+    "date_commande": "2024-02-06T19:46:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "381 Velasco",
+        "ville": "Lynnwood"
+    }
+}

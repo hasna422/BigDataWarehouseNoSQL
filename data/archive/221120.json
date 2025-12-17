@@ -1,0 +1,27 @@
+{
+    "order_id": 221120,
+    "client_id": 5170,
+    "produits": [
+        {
+            "produit_id": "P9834",
+            "nom": "Refined Soft Chicken",
+            "quantite": 2,
+            "prix_unitaire": 156.39
+        },
+        {
+            "produit_id": "P0642",
+            "nom": "Handmade Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 27.78
+        },
+        {
+            "produit_id": "P3926",
+            "nom": "Small Fresh Shirt",
+            "quantite": 1,
+            "prix_unitaire": 142.24
+        }
+    ],
+    "date_commande": "2025-03-24T08:39:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

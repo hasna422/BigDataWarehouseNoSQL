@@ -1,0 +1,27 @@
+{
+    "order_id": 114717,
+    "client_id": 2670,
+    "produits": [
+        {
+            "produit_id": "P6307",
+            "nom": "Gently Used Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 31.51
+        },
+        {
+            "produit_id": "P6263",
+            "nom": "Small Fresh Pizza",
+            "quantite": 2,
+            "prix_unitaire": 98.21
+        },
+        {
+            "produit_id": "P2517",
+            "nom": "Ergonomic Frozen Gloves",
+            "quantite": 3,
+            "prix_unitaire": 131.84
+        }
+    ],
+    "date_commande": "2024-05-09T04:09:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 749730,
+    "client_id": 2592,
+    "produits": [
+        {
+            "produit_id": "P6642",
+            "nom": "Fantastic Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 141.18
+        },
+        {
+            "produit_id": "P4032",
+            "nom": "Refined Wooden Sausages",
+            "quantite": 5,
+            "prix_unitaire": 241.46
+        },
+        {
+            "produit_id": "P6567",
+            "nom": "Gorgeous Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 451.35
+        }
+    ],
+    "date_commande": "2023-09-28T16:51:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

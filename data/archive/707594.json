@@ -1,0 +1,19 @@
+{
+    "order_id": 707594,
+    "client_id": 3393,
+    "produits": [
+        {
+            "produit_id": "P4415",
+            "nom": "Used Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 345.38
+        }
+    ],
+    "date_commande": "2024-03-06T12:58:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "896 Westgate",
+        "ville": "Manteca"
+    }
+}

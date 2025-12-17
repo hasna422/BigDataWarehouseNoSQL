@@ -1,0 +1,21 @@
+{
+    "order_id": 190817,
+    "client_id": 7739,
+    "produits": [
+        {
+            "produit_id": "P6806",
+            "nom": "Unbranded Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 47.33
+        },
+        {
+            "produit_id": "P5095",
+            "nom": "Awesome Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 76.82
+        }
+    ],
+    "date_commande": "2023-06-24T17:57:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

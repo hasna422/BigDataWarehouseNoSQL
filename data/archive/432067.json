@@ -1,0 +1,27 @@
+{
+    "order_id": 432067,
+    "client_id": 1314,
+    "produits": [
+        {
+            "produit_id": "P5570",
+            "nom": "Generic Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 108.06
+        },
+        {
+            "produit_id": "P9230",
+            "nom": "For repair Granite Sausages",
+            "quantite": 5,
+            "prix_unitaire": 462.65
+        },
+        {
+            "produit_id": "P4077",
+            "nom": "Gorgeous Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 347.53
+        }
+    ],
+    "date_commande": "2024-08-14T07:48:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

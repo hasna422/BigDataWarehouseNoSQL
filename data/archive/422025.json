@@ -1,0 +1,21 @@
+{
+    "order_id": 422025,
+    "client_id": 3619,
+    "produits": [
+        {
+            "produit_id": "P5228",
+            "nom": "Incredible Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 405.18
+        },
+        {
+            "produit_id": "P9557",
+            "nom": "Incredible Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 280.39
+        }
+    ],
+    "date_commande": "2024-11-11T11:53:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

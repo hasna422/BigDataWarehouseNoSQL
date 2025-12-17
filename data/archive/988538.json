@@ -1,0 +1,21 @@
+{
+    "order_id": 988538,
+    "client_id": 2214,
+    "produits": [
+        {
+            "produit_id": "P2784",
+            "nom": "Sleek Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 154.18
+        },
+        {
+            "produit_id": "P1953",
+            "nom": "Unbranded Wooden Chicken",
+            "quantite": 5,
+            "prix_unitaire": 471.73
+        }
+    ],
+    "date_commande": "2024-04-10T07:23:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

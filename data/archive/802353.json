@@ -1,0 +1,15 @@
+{
+    "order_id": 802353,
+    "client_id": 7297,
+    "produits": [
+        {
+            "produit_id": "P5598",
+            "nom": "Refined Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 400.98
+        }
+    ],
+    "date_commande": "2024-10-11T15:28:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

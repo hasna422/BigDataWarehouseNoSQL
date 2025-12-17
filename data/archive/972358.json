@@ -1,0 +1,25 @@
+{
+    "order_id": 972358,
+    "client_id": 2728,
+    "produits": [
+        {
+            "produit_id": "P8235",
+            "nom": "Gorgeous Car",
+            "quantite": 5,
+            "prix_unitaire": 367.6
+        },
+        {
+            "produit_id": "P3438",
+            "nom": "Handcrafted Fresh Tuna",
+            "quantite": 4,
+            "prix_unitaire": 155.11
+        }
+    ],
+    "date_commande": "2024-11-19T16:49:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "225 Freeman",
+        "ville": "Baldwin Park"
+    }
+}

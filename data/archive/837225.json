@@ -1,0 +1,27 @@
+{
+    "order_id": 837225,
+    "client_id": 9878,
+    "produits": [
+        {
+            "produit_id": "P4635",
+            "nom": "Gorgeous Cotton Chips",
+            "quantite": 5,
+            "prix_unitaire": 181.47
+        },
+        {
+            "produit_id": "P4448",
+            "nom": "Used Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 440.77
+        },
+        {
+            "produit_id": "P9397",
+            "nom": "Gorgeous Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 109.43
+        }
+    ],
+    "date_commande": "2024-09-28T20:13:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

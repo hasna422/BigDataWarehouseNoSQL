@@ -1,0 +1,15 @@
+{
+    "order_id": 874870,
+    "client_id": 6680,
+    "produits": [
+        {
+            "produit_id": "P3884",
+            "nom": "Refined Cotton Table",
+            "quantite": 1,
+            "prix_unitaire": 238.2
+        }
+    ],
+    "date_commande": "2025-02-21T17:27:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 978622,
+    "client_id": 9400,
+    "produits": [
+        {
+            "produit_id": "P6388",
+            "nom": "Handmade Rubber Fish",
+            "quantite": 4,
+            "prix_unitaire": 472.78
+        },
+        {
+            "produit_id": "P8882",
+            "nom": "Awesome Steel Car",
+            "quantite": 2,
+            "prix_unitaire": 107.58
+        }
+    ],
+    "date_commande": "2024-06-17T21:00:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "524 Fielding",
+        "ville": "Glendale"
+    }
+}

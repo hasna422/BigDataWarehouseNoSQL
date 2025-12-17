@@ -1,0 +1,21 @@
+{
+    "order_id": 367278,
+    "client_id": 9871,
+    "produits": [
+        {
+            "produit_id": "P3250",
+            "nom": "Fantastic Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 468.17
+        },
+        {
+            "produit_id": "P4043",
+            "nom": "Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 367.03
+        }
+    ],
+    "date_commande": "2024-01-23T23:46:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

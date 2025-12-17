@@ -1,0 +1,31 @@
+{
+    "order_id": 333600,
+    "client_id": 1866,
+    "produits": [
+        {
+            "produit_id": "P1810",
+            "nom": "For repair Granite Bacon",
+            "quantite": 4,
+            "prix_unitaire": 328.25
+        },
+        {
+            "produit_id": "P6590",
+            "nom": "Incredible Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 112.01
+        },
+        {
+            "produit_id": "P0075",
+            "nom": "Fantastic Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 203.19
+        }
+    ],
+    "date_commande": "2024-06-16T12:47:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1263 Short",
+        "ville": "Porterville"
+    }
+}

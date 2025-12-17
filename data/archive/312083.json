@@ -1,0 +1,19 @@
+{
+    "order_id": 312083,
+    "client_id": 2484,
+    "produits": [
+        {
+            "produit_id": "P2762",
+            "nom": "Used Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 102.02
+        }
+    ],
+    "date_commande": "2024-04-19T07:39:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "399 Faith",
+        "ville": "Tooele"
+    }
+}

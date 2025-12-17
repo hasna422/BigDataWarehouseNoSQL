@@ -1,0 +1,31 @@
+{
+    "order_id": 920348,
+    "client_id": 8461,
+    "produits": [
+        {
+            "produit_id": "P5023",
+            "nom": "Licensed Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 328.98
+        },
+        {
+            "produit_id": "P3534",
+            "nom": "New Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 410.28
+        },
+        {
+            "produit_id": "P0243",
+            "nom": "Handcrafted Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 481.58
+        }
+    ],
+    "date_commande": "2024-11-02T19:11:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1077 May",
+        "ville": "Gastonia"
+    }
+}

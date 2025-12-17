@@ -1,0 +1,25 @@
+{
+    "order_id": 570948,
+    "client_id": 7414,
+    "produits": [
+        {
+            "produit_id": "P7714",
+            "nom": "Refined Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 443.18
+        },
+        {
+            "produit_id": "P9673",
+            "nom": "Handmade Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 140.5
+        }
+    ],
+    "date_commande": "2025-02-16T17:23:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "560 Auburn",
+        "ville": "Beverly Hills"
+    }
+}

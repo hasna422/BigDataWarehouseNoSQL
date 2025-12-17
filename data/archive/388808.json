@@ -1,0 +1,15 @@
+{
+    "order_id": 388808,
+    "client_id": 2720,
+    "produits": [
+        {
+            "produit_id": "P4966",
+            "nom": "Handmade Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 330.48
+        }
+    ],
+    "date_commande": "2024-04-09T19:47:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

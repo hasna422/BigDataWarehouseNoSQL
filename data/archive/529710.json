@@ -1,0 +1,31 @@
+{
+    "order_id": 529710,
+    "client_id": 2557,
+    "produits": [
+        {
+            "produit_id": "P0320",
+            "nom": "Small Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 310.74
+        },
+        {
+            "produit_id": "P3811",
+            "nom": "Intelligent Wooden Fish",
+            "quantite": 4,
+            "prix_unitaire": 428.89
+        },
+        {
+            "produit_id": "P6880",
+            "nom": "For repair Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 212.67
+        }
+    ],
+    "date_commande": "2023-10-10T15:59:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "539 Pioche",
+        "ville": "Johnstown"
+    }
+}

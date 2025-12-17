@@ -1,0 +1,15 @@
+{
+    "order_id": 789321,
+    "client_id": 7144,
+    "produits": [
+        {
+            "produit_id": "P3174",
+            "nom": "For repair Bike",
+            "quantite": 2,
+            "prix_unitaire": 241.46
+        }
+    ],
+    "date_commande": "2024-08-31T12:16:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

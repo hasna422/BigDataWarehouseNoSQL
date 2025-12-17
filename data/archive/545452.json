@@ -1,0 +1,25 @@
+{
+    "order_id": 545452,
+    "client_id": 1741,
+    "produits": [
+        {
+            "produit_id": "P9424",
+            "nom": "Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 12.14
+        },
+        {
+            "produit_id": "P2902",
+            "nom": "Practical Fresh Bacon",
+            "quantite": 5,
+            "prix_unitaire": 351.2
+        }
+    ],
+    "date_commande": "2024-10-30T17:35:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "238 Monument",
+        "ville": "Bartlesville"
+    }
+}

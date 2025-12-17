@@ -1,0 +1,25 @@
+{
+    "order_id": 524019,
+    "client_id": 8622,
+    "produits": [
+        {
+            "produit_id": "P8697",
+            "nom": "Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 374.3
+        },
+        {
+            "produit_id": "P7194",
+            "nom": "Incredible Fish",
+            "quantite": 1,
+            "prix_unitaire": 417.35
+        }
+    ],
+    "date_commande": "2024-04-24T12:28:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1203 Wedemeyer",
+        "ville": "Pawtucket"
+    }
+}

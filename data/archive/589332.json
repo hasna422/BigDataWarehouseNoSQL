@@ -1,0 +1,15 @@
+{
+    "order_id": 589332,
+    "client_id": 1776,
+    "produits": [
+        {
+            "produit_id": "P8887",
+            "nom": "Intelligent Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 8.99
+        }
+    ],
+    "date_commande": "2024-10-21T16:55:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

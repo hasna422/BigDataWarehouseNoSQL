@@ -1,0 +1,27 @@
+{
+    "order_id": 520145,
+    "client_id": 1283,
+    "produits": [
+        {
+            "produit_id": "P1078",
+            "nom": "Rustic Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 415.07
+        },
+        {
+            "produit_id": "P9678",
+            "nom": "Practical Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 211.19
+        },
+        {
+            "produit_id": "P8858",
+            "nom": "Handcrafted Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 205.03
+        }
+    ],
+    "date_commande": "2023-09-09T14:46:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

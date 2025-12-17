@@ -1,0 +1,19 @@
+{
+    "order_id": 533637,
+    "client_id": 7865,
+    "produits": [
+        {
+            "produit_id": "P6999",
+            "nom": "Rustic Plastic Salad",
+            "quantite": 5,
+            "prix_unitaire": 96.39
+        }
+    ],
+    "date_commande": "2025-01-11T08:04:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1130 Hicks",
+        "ville": "Bixby"
+    }
+}

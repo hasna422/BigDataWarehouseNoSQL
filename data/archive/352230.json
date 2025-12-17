@@ -1,0 +1,19 @@
+{
+    "order_id": 352230,
+    "client_id": 7287,
+    "produits": [
+        {
+            "produit_id": "P0284",
+            "nom": "Handmade Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 195.36
+        }
+    ],
+    "date_commande": "2024-01-22T11:50:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "2 Valletta",
+        "ville": "Revere"
+    }
+}

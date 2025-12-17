@@ -1,0 +1,25 @@
+{
+    "order_id": 348316,
+    "client_id": 1026,
+    "produits": [
+        {
+            "produit_id": "P9967",
+            "nom": "Licensed Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 279.54
+        },
+        {
+            "produit_id": "P0995",
+            "nom": "Handcrafted Soft Bike",
+            "quantite": 1,
+            "prix_unitaire": 397.22
+        }
+    ],
+    "date_commande": "2025-01-21T00:16:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "109 Kern",
+        "ville": "St. George"
+    }
+}

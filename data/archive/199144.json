@@ -1,0 +1,25 @@
+{
+    "order_id": 199144,
+    "client_id": 3313,
+    "produits": [
+        {
+            "produit_id": "P7064",
+            "nom": "Unbranded Ball",
+            "quantite": 5,
+            "prix_unitaire": 304.13
+        },
+        {
+            "produit_id": "P3121",
+            "nom": "Gorgeous Wooden Pizza",
+            "quantite": 4,
+            "prix_unitaire": 384.46
+        }
+    ],
+    "date_commande": "2023-08-12T07:26:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "652 Cottonwood",
+        "ville": "Mandan"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 493967,
+    "client_id": 5218,
+    "produits": [
+        {
+            "produit_id": "P9075",
+            "nom": "Fantastic Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 59.71
+        }
+    ],
+    "date_commande": "2025-03-26T03:56:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "287 Paris",
+        "ville": "Ossining"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 715689,
+    "client_id": 7196,
+    "produits": [
+        {
+            "produit_id": "P0846",
+            "nom": "New Steel Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 233.85
+        },
+        {
+            "produit_id": "P3827",
+            "nom": "Practical Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 273.7
+        },
+        {
+            "produit_id": "P5599",
+            "nom": "Ergonomic Salad",
+            "quantite": 3,
+            "prix_unitaire": 59.61
+        }
+    ],
+    "date_commande": "2024-10-30T03:13:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

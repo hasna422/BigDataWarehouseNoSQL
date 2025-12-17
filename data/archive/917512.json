@@ -1,0 +1,19 @@
+{
+    "order_id": 917512,
+    "client_id": 2764,
+    "produits": [
+        {
+            "produit_id": "P3418",
+            "nom": "Licensed Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 287.14
+        }
+    ],
+    "date_commande": "2024-03-10T14:08:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1025 Morris",
+        "ville": "Enid"
+    }
+}

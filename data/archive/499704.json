@@ -1,0 +1,31 @@
+{
+    "order_id": 499704,
+    "client_id": 2860,
+    "produits": [
+        {
+            "produit_id": "P8620",
+            "nom": "Awesome Soft Fish",
+            "quantite": 2,
+            "prix_unitaire": 364.74
+        },
+        {
+            "produit_id": "P8409",
+            "nom": "Small Bacon",
+            "quantite": 5,
+            "prix_unitaire": 407.46
+        },
+        {
+            "produit_id": "P9897",
+            "nom": "Intelligent Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 329.68
+        }
+    ],
+    "date_commande": "2023-07-30T16:21:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "361 Fredela",
+        "ville": "Palo Alto"
+    }
+}

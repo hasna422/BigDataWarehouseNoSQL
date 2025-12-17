@@ -1,0 +1,19 @@
+{
+    "order_id": 137000,
+    "client_id": 5557,
+    "produits": [
+        {
+            "produit_id": "P7085",
+            "nom": "Incredible Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 366.28
+        }
+    ],
+    "date_commande": "2025-05-22T21:54:09",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "693 Princeton",
+        "ville": "High Point"
+    }
+}

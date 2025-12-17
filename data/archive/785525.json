@@ -1,0 +1,21 @@
+{
+    "order_id": 785525,
+    "client_id": 1257,
+    "produits": [
+        {
+            "produit_id": "P1940",
+            "nom": "Gorgeous Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 164.32
+        },
+        {
+            "produit_id": "P5143",
+            "nom": "Handmade Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 89.7
+        }
+    ],
+    "date_commande": "2023-11-21T20:35:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 775681,
+    "client_id": 5723,
+    "produits": [
+        {
+            "produit_id": "P5384",
+            "nom": "Fantastic Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 246.11
+        }
+    ],
+    "date_commande": "2024-08-08T00:24:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1179 Pierce",
+        "ville": "Tampa"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 112660,
+    "client_id": 3196,
+    "produits": [
+        {
+            "produit_id": "P1776",
+            "nom": "Refined Rubber Cheese",
+            "quantite": 5,
+            "prix_unitaire": 481.71
+        },
+        {
+            "produit_id": "P8049",
+            "nom": "Gently Used Ball",
+            "quantite": 4,
+            "prix_unitaire": 5.98
+        },
+        {
+            "produit_id": "P2448",
+            "nom": "Concrete Bacon",
+            "quantite": 4,
+            "prix_unitaire": 425.64
+        }
+    ],
+    "date_commande": "2024-04-02T23:11:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "242 Florence",
+        "ville": "Pinole"
+    }
+}

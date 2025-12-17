@@ -1,0 +1,25 @@
+{
+    "order_id": 950381,
+    "client_id": 9948,
+    "produits": [
+        {
+            "produit_id": "P8431",
+            "nom": "Fantastic Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 355.19
+        },
+        {
+            "produit_id": "P7443",
+            "nom": "Rustic Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 258.35
+        }
+    ],
+    "date_commande": "2024-09-09T11:34:03",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "801 Jade",
+        "ville": "Pomona"
+    }
+}

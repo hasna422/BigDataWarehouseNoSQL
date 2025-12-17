@@ -1,0 +1,21 @@
+{
+    "order_id": 435601,
+    "client_id": 1265,
+    "produits": [
+        {
+            "produit_id": "P7917",
+            "nom": "Refined Wooden Bike",
+            "quantite": 5,
+            "prix_unitaire": 61.33
+        },
+        {
+            "produit_id": "P0445",
+            "nom": "Fantastic Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 13.21
+        }
+    ],
+    "date_commande": "2024-02-11T17:39:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

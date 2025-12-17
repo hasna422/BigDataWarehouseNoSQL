@@ -1,0 +1,27 @@
+{
+    "order_id": 603196,
+    "client_id": 7271,
+    "produits": [
+        {
+            "produit_id": "P6221",
+            "nom": "Handmade Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 214.6
+        },
+        {
+            "produit_id": "P5900",
+            "nom": "Gently Used Soft Fish",
+            "quantite": 2,
+            "prix_unitaire": 460.71
+        },
+        {
+            "produit_id": "P2701",
+            "nom": "Intelligent Plastic Sausages",
+            "quantite": 2,
+            "prix_unitaire": 342.82
+        }
+    ],
+    "date_commande": "2024-03-18T12:12:14",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

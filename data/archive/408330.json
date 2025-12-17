@@ -1,0 +1,19 @@
+{
+    "order_id": 408330,
+    "client_id": 7327,
+    "produits": [
+        {
+            "produit_id": "P7582",
+            "nom": "Used Soft Cheese",
+            "quantite": 1,
+            "prix_unitaire": 448.97
+        }
+    ],
+    "date_commande": "2024-06-16T19:25:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "226 Eighth",
+        "ville": "El Cajon"
+    }
+}

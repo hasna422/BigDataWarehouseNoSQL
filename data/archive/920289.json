@@ -1,0 +1,27 @@
+{
+    "order_id": 920289,
+    "client_id": 7984,
+    "produits": [
+        {
+            "produit_id": "P9583",
+            "nom": "Incredible Soap",
+            "quantite": 5,
+            "prix_unitaire": 396.36
+        },
+        {
+            "produit_id": "P6267",
+            "nom": "Refined Chicken",
+            "quantite": 5,
+            "prix_unitaire": 454.74
+        },
+        {
+            "produit_id": "P2962",
+            "nom": "Gently Used Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 186.41
+        }
+    ],
+    "date_commande": "2024-03-26T21:22:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

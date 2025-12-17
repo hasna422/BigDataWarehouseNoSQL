@@ -1,0 +1,15 @@
+{
+    "order_id": 742525,
+    "client_id": 2543,
+    "produits": [
+        {
+            "produit_id": "P4097",
+            "nom": "For repair Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 341.51
+        }
+    ],
+    "date_commande": "2025-04-29T12:21:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

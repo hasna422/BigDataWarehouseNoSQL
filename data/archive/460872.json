@@ -1,0 +1,19 @@
+{
+    "order_id": 460872,
+    "client_id": 3426,
+    "produits": [
+        {
+            "produit_id": "P0102",
+            "nom": "Small Wooden Salad",
+            "quantite": 1,
+            "prix_unitaire": 54.35
+        }
+    ],
+    "date_commande": "2023-12-24T20:14:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1372 Hubbell",
+        "ville": "Avondale"
+    }
+}

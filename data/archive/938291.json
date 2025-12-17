@@ -1,0 +1,31 @@
+{
+    "order_id": 938291,
+    "client_id": 3971,
+    "produits": [
+        {
+            "produit_id": "P6991",
+            "nom": "Unbranded Frozen Hat",
+            "quantite": 2,
+            "prix_unitaire": 147.35
+        },
+        {
+            "produit_id": "P2225",
+            "nom": "Sleek Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 235.77
+        },
+        {
+            "produit_id": "P1134",
+            "nom": "New Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 140.98
+        }
+    ],
+    "date_commande": "2025-02-27T08:13:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "192 Rockridge",
+        "ville": "San Mateo"
+    }
+}

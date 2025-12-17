@@ -1,0 +1,25 @@
+{
+    "order_id": 808756,
+    "client_id": 4954,
+    "produits": [
+        {
+            "produit_id": "P6252",
+            "nom": "Generic Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 86.67
+        },
+        {
+            "produit_id": "P8460",
+            "nom": "Intelligent Cotton Bike",
+            "quantite": 2,
+            "prix_unitaire": 35.32
+        }
+    ],
+    "date_commande": "2023-08-12T08:29:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "273 Montecito",
+        "ville": "Kenosha"
+    }
+}

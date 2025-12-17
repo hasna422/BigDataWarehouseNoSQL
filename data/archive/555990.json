@@ -1,0 +1,25 @@
+{
+    "order_id": 555990,
+    "client_id": 6740,
+    "produits": [
+        {
+            "produit_id": "P2300",
+            "nom": "Metal Soap",
+            "quantite": 2,
+            "prix_unitaire": 346.53
+        },
+        {
+            "produit_id": "P8950",
+            "nom": "Gently Used Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 19.63
+        }
+    ],
+    "date_commande": "2024-03-10T14:43:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "351 Westmoorland",
+        "ville": "Pasadena"
+    }
+}

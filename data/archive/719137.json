@@ -1,0 +1,19 @@
+{
+    "order_id": 719137,
+    "client_id": 6635,
+    "produits": [
+        {
+            "produit_id": "P6299",
+            "nom": "Licensed Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 70.44
+        }
+    ],
+    "date_commande": "2024-09-07T06:29:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "698 Wills",
+        "ville": "Garden Grove"
+    }
+}

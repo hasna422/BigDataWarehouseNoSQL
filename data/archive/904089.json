@@ -1,0 +1,27 @@
+{
+    "order_id": 904089,
+    "client_id": 7593,
+    "produits": [
+        {
+            "produit_id": "P9188",
+            "nom": "Unbranded Ball",
+            "quantite": 1,
+            "prix_unitaire": 94.14
+        },
+        {
+            "produit_id": "P8769",
+            "nom": "Rustic Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 120.47
+        },
+        {
+            "produit_id": "P0803",
+            "nom": "Steel Shoes",
+            "quantite": 2,
+            "prix_unitaire": 51.0
+        }
+    ],
+    "date_commande": "2024-08-11T16:21:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

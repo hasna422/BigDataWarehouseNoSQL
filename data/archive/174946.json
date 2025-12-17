@@ -1,0 +1,27 @@
+{
+    "order_id": 174946,
+    "client_id": 8565,
+    "produits": [
+        {
+            "produit_id": "P3642",
+            "nom": "Tasty Fresh Car",
+            "quantite": 5,
+            "prix_unitaire": 192.93
+        },
+        {
+            "produit_id": "P5884",
+            "nom": "Refined Pants",
+            "quantite": 5,
+            "prix_unitaire": 153.82
+        },
+        {
+            "produit_id": "P3184",
+            "nom": "Practical Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 346.43
+        }
+    ],
+    "date_commande": "2024-10-12T18:18:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

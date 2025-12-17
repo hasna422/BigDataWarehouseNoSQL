@@ -1,0 +1,27 @@
+{
+    "order_id": 985491,
+    "client_id": 8034,
+    "produits": [
+        {
+            "produit_id": "P9154",
+            "nom": "Refined Salad",
+            "quantite": 3,
+            "prix_unitaire": 379.29
+        },
+        {
+            "produit_id": "P4198",
+            "nom": "Tasty Rubber Sausages",
+            "quantite": 3,
+            "prix_unitaire": 462.05
+        },
+        {
+            "produit_id": "P4483",
+            "nom": "Fantastic Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 245.02
+        }
+    ],
+    "date_commande": "2024-11-26T03:45:20",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

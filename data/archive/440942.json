@@ -1,0 +1,27 @@
+{
+    "order_id": 440942,
+    "client_id": 7132,
+    "produits": [
+        {
+            "produit_id": "P6440",
+            "nom": "Rustic Metal Pants",
+            "quantite": 1,
+            "prix_unitaire": 102.96
+        },
+        {
+            "produit_id": "P3498",
+            "nom": "Refined Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 140.78
+        },
+        {
+            "produit_id": "P4666",
+            "nom": "Generic Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 320.99
+        }
+    ],
+    "date_commande": "2023-08-10T23:16:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

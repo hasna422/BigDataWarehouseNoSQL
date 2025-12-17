@@ -1,0 +1,21 @@
+{
+    "order_id": 951200,
+    "client_id": 3595,
+    "produits": [
+        {
+            "produit_id": "P4328",
+            "nom": "Rustic Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 479.19
+        },
+        {
+            "produit_id": "P8027",
+            "nom": "Refined Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 331.97
+        }
+    ],
+    "date_commande": "2023-06-02T02:57:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

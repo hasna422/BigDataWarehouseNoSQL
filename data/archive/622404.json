@@ -1,0 +1,25 @@
+{
+    "order_id": 622404,
+    "client_id": 1950,
+    "produits": [
+        {
+            "produit_id": "P1705",
+            "nom": "Gorgeous Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 492.68
+        },
+        {
+            "produit_id": "P7058",
+            "nom": "Refined Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 94.11
+        }
+    ],
+    "date_commande": "2024-04-25T13:25:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "523 Rousseau",
+        "ville": "Pasadena"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 262097,
+    "client_id": 2186,
+    "produits": [
+        {
+            "produit_id": "P7693",
+            "nom": "Refined Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 262.21
+        },
+        {
+            "produit_id": "P8424",
+            "nom": "Intelligent Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 343.23
+        }
+    ],
+    "date_commande": "2023-06-11T12:27:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 232259,
+    "client_id": 8576,
+    "produits": [
+        {
+            "produit_id": "P6281",
+            "nom": "Ergonomic Computer",
+            "quantite": 4,
+            "prix_unitaire": 208.08
+        }
+    ],
+    "date_commande": "2024-05-27T00:58:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

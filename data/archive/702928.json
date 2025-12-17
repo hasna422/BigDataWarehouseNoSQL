@@ -1,0 +1,25 @@
+{
+    "order_id": 702928,
+    "client_id": 1975,
+    "produits": [
+        {
+            "produit_id": "P5199",
+            "nom": "Ergonomic Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 456.08
+        },
+        {
+            "produit_id": "P1464",
+            "nom": "Used Metal Table",
+            "quantite": 3,
+            "prix_unitaire": 384.09
+        }
+    ],
+    "date_commande": "2025-02-04T21:20:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1168 Steiner",
+        "ville": "South Plainfield"
+    }
+}

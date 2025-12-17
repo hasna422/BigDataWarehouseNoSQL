@@ -1,0 +1,25 @@
+{
+    "order_id": 178968,
+    "client_id": 1882,
+    "produits": [
+        {
+            "produit_id": "P4139",
+            "nom": "Fantastic Rubber Pizza",
+            "quantite": 1,
+            "prix_unitaire": 11.01
+        },
+        {
+            "produit_id": "P3172",
+            "nom": "Unbranded Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 339.17
+        }
+    ],
+    "date_commande": "2023-10-02T19:48:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1196 Bayside Village",
+        "ville": "Santa Fe"
+    }
+}

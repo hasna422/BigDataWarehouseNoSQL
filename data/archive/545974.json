@@ -1,0 +1,19 @@
+{
+    "order_id": 545974,
+    "client_id": 1510,
+    "produits": [
+        {
+            "produit_id": "P2847",
+            "nom": "Handcrafted Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 441.71
+        }
+    ],
+    "date_commande": "2023-07-23T04:19:17",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "647 Loyola",
+        "ville": "Ontario"
+    }
+}

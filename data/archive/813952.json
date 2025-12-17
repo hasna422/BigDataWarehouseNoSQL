@@ -1,0 +1,27 @@
+{
+    "order_id": 813952,
+    "client_id": 2005,
+    "produits": [
+        {
+            "produit_id": "P8136",
+            "nom": "Small Fresh Pants",
+            "quantite": 5,
+            "prix_unitaire": 304.57
+        },
+        {
+            "produit_id": "P6409",
+            "nom": "Used Fresh Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 279.41
+        },
+        {
+            "produit_id": "P2656",
+            "nom": "Handmade Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 216.88
+        }
+    ],
+    "date_commande": "2024-06-21T19:57:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

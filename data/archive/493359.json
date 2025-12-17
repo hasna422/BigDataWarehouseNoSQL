@@ -1,0 +1,25 @@
+{
+    "order_id": 493359,
+    "client_id": 6422,
+    "produits": [
+        {
+            "produit_id": "P1564",
+            "nom": "Gorgeous Fish",
+            "quantite": 2,
+            "prix_unitaire": 451.46
+        },
+        {
+            "produit_id": "P6221",
+            "nom": "Sleek Bacon",
+            "quantite": 4,
+            "prix_unitaire": 9.81
+        }
+    ],
+    "date_commande": "2023-09-05T22:03:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "35 Church",
+        "ville": "San Jose"
+    }
+}

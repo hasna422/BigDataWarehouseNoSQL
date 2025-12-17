@@ -1,0 +1,19 @@
+{
+    "order_id": 361246,
+    "client_id": 4186,
+    "produits": [
+        {
+            "produit_id": "P7162",
+            "nom": "Generic Steel Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 421.4
+        }
+    ],
+    "date_commande": "2025-04-09T17:47:31",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "512 Russia",
+        "ville": "North Augusta"
+    }
+}

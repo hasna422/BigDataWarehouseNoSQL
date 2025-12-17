@@ -1,0 +1,19 @@
+{
+    "order_id": 456083,
+    "client_id": 2393,
+    "produits": [
+        {
+            "produit_id": "P9900",
+            "nom": "Awesome Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 366.68
+        }
+    ],
+    "date_commande": "2024-12-26T09:25:59",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "471 Cole",
+        "ville": "Inkster"
+    }
+}

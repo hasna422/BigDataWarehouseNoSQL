@@ -1,0 +1,19 @@
+{
+    "order_id": 113402,
+    "client_id": 6484,
+    "produits": [
+        {
+            "produit_id": "P4140",
+            "nom": "Awesome Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 162.54
+        }
+    ],
+    "date_commande": "2024-03-28T12:01:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "196 Lexington",
+        "ville": "San Diego"
+    }
+}

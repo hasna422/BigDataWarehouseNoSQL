@@ -1,0 +1,25 @@
+{
+    "order_id": 327885,
+    "client_id": 5818,
+    "produits": [
+        {
+            "produit_id": "P6171",
+            "nom": "Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 82.75
+        },
+        {
+            "produit_id": "P1209",
+            "nom": "Generic Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 249.11
+        }
+    ],
+    "date_commande": "2023-08-06T22:28:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "958 Agua",
+        "ville": "Pampa"
+    }
+}

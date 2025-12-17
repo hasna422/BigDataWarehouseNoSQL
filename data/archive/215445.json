@@ -1,0 +1,19 @@
+{
+    "order_id": 215445,
+    "client_id": 2677,
+    "produits": [
+        {
+            "produit_id": "P8816",
+            "nom": "Rustic Plastic Fish",
+            "quantite": 3,
+            "prix_unitaire": 482.48
+        }
+    ],
+    "date_commande": "2024-01-03T08:40:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "865 Bronte",
+        "ville": "Boynton Beach"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 890964,
+    "client_id": 6683,
+    "produits": [
+        {
+            "produit_id": "P7873",
+            "nom": "Used Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 37.09
+        },
+        {
+            "produit_id": "P8948",
+            "nom": "Awesome Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 10.7
+        }
+    ],
+    "date_commande": "2025-02-11T19:56:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "447 Dashiell Hammett",
+        "ville": "Burleson"
+    }
+}

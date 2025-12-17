@@ -1,0 +1,25 @@
+{
+    "order_id": 482415,
+    "client_id": 3377,
+    "produits": [
+        {
+            "produit_id": "P9072",
+            "nom": "New Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 467.05
+        },
+        {
+            "produit_id": "P3256",
+            "nom": "Sleek Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 311.61
+        }
+    ],
+    "date_commande": "2023-06-11T13:37:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1363 Hahn",
+        "ville": "Madison Heights"
+    }
+}

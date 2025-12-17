@@ -1,0 +1,15 @@
+{
+    "order_id": 641532,
+    "client_id": 9478,
+    "produits": [
+        {
+            "produit_id": "P8846",
+            "nom": "Frozen Gloves",
+            "quantite": 2,
+            "prix_unitaire": 86.97
+        }
+    ],
+    "date_commande": "2024-05-06T08:14:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

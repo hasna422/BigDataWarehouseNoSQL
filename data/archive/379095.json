@@ -1,0 +1,19 @@
+{
+    "order_id": 379095,
+    "client_id": 2701,
+    "produits": [
+        {
+            "produit_id": "P2922",
+            "nom": "Licensed Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 335.67
+        }
+    ],
+    "date_commande": "2023-07-21T11:42:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "855 Ellsworth",
+        "ville": "Waltham"
+    }
+}

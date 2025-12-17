@@ -1,0 +1,15 @@
+{
+    "order_id": 581575,
+    "client_id": 9544,
+    "produits": [
+        {
+            "produit_id": "P9153",
+            "nom": "Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 156.57
+        }
+    ],
+    "date_commande": "2024-07-23T15:12:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 238888,
+    "client_id": 7100,
+    "produits": [
+        {
+            "produit_id": "P7827",
+            "nom": "Mouse",
+            "quantite": 1,
+            "prix_unitaire": 179.36
+        }
+    ],
+    "date_commande": "2024-03-28T03:08:55",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1022 Capen",
+        "ville": "Calexico"
+    }
+}

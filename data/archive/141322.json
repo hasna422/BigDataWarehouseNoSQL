@@ -1,0 +1,15 @@
+{
+    "order_id": 141322,
+    "client_id": 9964,
+    "produits": [
+        {
+            "produit_id": "P9881",
+            "nom": "Handcrafted Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 338.39
+        }
+    ],
+    "date_commande": "2024-04-17T18:57:10",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

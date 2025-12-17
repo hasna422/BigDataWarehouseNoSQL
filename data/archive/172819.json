@@ -1,0 +1,25 @@
+{
+    "order_id": 172819,
+    "client_id": 2640,
+    "produits": [
+        {
+            "produit_id": "P7567",
+            "nom": "Small Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 460.31
+        },
+        {
+            "produit_id": "P0293",
+            "nom": "Fantastic Wooden Towels",
+            "quantite": 2,
+            "prix_unitaire": 222.77
+        }
+    ],
+    "date_commande": "2025-02-10T07:01:35",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1195 Mission Rock",
+        "ville": "Bartlett"
+    }
+}

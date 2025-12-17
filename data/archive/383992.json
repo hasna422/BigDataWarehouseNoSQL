@@ -1,0 +1,19 @@
+{
+    "order_id": 383992,
+    "client_id": 8923,
+    "produits": [
+        {
+            "produit_id": "P0101",
+            "nom": "Small Granite Shoes",
+            "quantite": 2,
+            "prix_unitaire": 491.8
+        }
+    ],
+    "date_commande": "2024-02-18T06:46:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "683 Fort Funston",
+        "ville": "North Olmsted"
+    }
+}

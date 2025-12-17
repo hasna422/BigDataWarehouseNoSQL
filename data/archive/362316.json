@@ -1,0 +1,19 @@
+{
+    "order_id": 362316,
+    "client_id": 9125,
+    "produits": [
+        {
+            "produit_id": "P4845",
+            "nom": "Generic Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 460.93
+        }
+    ],
+    "date_commande": "2024-10-11T07:36:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "373 Ravenwood",
+        "ville": "Lexington"
+    }
+}

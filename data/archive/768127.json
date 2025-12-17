@@ -1,0 +1,19 @@
+{
+    "order_id": 768127,
+    "client_id": 3786,
+    "produits": [
+        {
+            "produit_id": "P5811",
+            "nom": "Generic Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 417.12
+        }
+    ],
+    "date_commande": "2025-05-13T15:25:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "109 Faxon",
+        "ville": "Hercules"
+    }
+}

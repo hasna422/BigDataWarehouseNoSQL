@@ -1,0 +1,21 @@
+{
+    "order_id": 428652,
+    "client_id": 1432,
+    "produits": [
+        {
+            "produit_id": "P6826",
+            "nom": "Fantastic Salad",
+            "quantite": 5,
+            "prix_unitaire": 231.12
+        },
+        {
+            "produit_id": "P3967",
+            "nom": "For repair Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 236.29
+        }
+    ],
+    "date_commande": "2025-03-27T07:30:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

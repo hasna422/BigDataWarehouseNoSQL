@@ -1,0 +1,31 @@
+{
+    "order_id": 106887,
+    "client_id": 5859,
+    "produits": [
+        {
+            "produit_id": "P6348",
+            "nom": "Unbranded Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 171.47
+        },
+        {
+            "produit_id": "P2640",
+            "nom": "Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 226.15
+        },
+        {
+            "produit_id": "P0062",
+            "nom": "Generic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 311.65
+        }
+    ],
+    "date_commande": "2023-12-06T01:59:28",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "77 Verdi",
+        "ville": "Petaluma"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 206413,
+    "client_id": 9925,
+    "produits": [
+        {
+            "produit_id": "P0199",
+            "nom": "Handmade Soft Hat",
+            "quantite": 3,
+            "prix_unitaire": 47.86
+        },
+        {
+            "produit_id": "P0425",
+            "nom": "For repair Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 95.96
+        },
+        {
+            "produit_id": "P8215",
+            "nom": "Used Tuna",
+            "quantite": 1,
+            "prix_unitaire": 463.05
+        }
+    ],
+    "date_commande": "2025-04-14T12:07:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "169 Varney",
+        "ville": "Edwardsville"
+    }
+}

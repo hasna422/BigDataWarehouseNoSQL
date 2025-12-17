@@ -1,0 +1,25 @@
+{
+    "order_id": 143132,
+    "client_id": 5344,
+    "produits": [
+        {
+            "produit_id": "P9413",
+            "nom": "New Metal Hat",
+            "quantite": 1,
+            "prix_unitaire": 379.96
+        },
+        {
+            "produit_id": "P8072",
+            "nom": "Gorgeous Shirt",
+            "quantite": 2,
+            "prix_unitaire": 246.4
+        }
+    ],
+    "date_commande": "2023-10-26T17:33:12",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "871 Battery Caulfield",
+        "ville": "Saratoga Springs"
+    }
+}

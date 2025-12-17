@@ -1,0 +1,19 @@
+{
+    "order_id": 431474,
+    "client_id": 1959,
+    "produits": [
+        {
+            "produit_id": "P4995",
+            "nom": "For repair Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 264.66
+        }
+    ],
+    "date_commande": "2025-04-01T11:00:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1347 Lowell",
+        "ville": "Rockford"
+    }
+}

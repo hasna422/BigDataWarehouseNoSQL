@@ -1,0 +1,27 @@
+{
+    "order_id": 226597,
+    "client_id": 2955,
+    "produits": [
+        {
+            "produit_id": "P8751",
+            "nom": "Tasty Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 476.91
+        },
+        {
+            "produit_id": "P7044",
+            "nom": "Used Computer",
+            "quantite": 4,
+            "prix_unitaire": 179.02
+        },
+        {
+            "produit_id": "P2161",
+            "nom": "Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 251.67
+        }
+    ],
+    "date_commande": "2023-09-07T23:33:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 836083,
+    "client_id": 6802,
+    "produits": [
+        {
+            "produit_id": "P9901",
+            "nom": "Licensed Cotton Bike",
+            "quantite": 3,
+            "prix_unitaire": 118.08
+        },
+        {
+            "produit_id": "P8716",
+            "nom": "Incredible Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 243.06
+        },
+        {
+            "produit_id": "P7902",
+            "nom": "Awesome Granite Bacon",
+            "quantite": 1,
+            "prix_unitaire": 60.35
+        }
+    ],
+    "date_commande": "2025-03-02T19:26:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "803 Sycamore",
+        "ville": "Gladstone"
+    }
+}

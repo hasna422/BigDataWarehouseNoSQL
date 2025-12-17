@@ -1,0 +1,19 @@
+{
+    "order_id": 188479,
+    "client_id": 8803,
+    "produits": [
+        {
+            "produit_id": "P4933",
+            "nom": "Gorgeous Hat",
+            "quantite": 5,
+            "prix_unitaire": 382.46
+        }
+    ],
+    "date_commande": "2023-12-19T17:41:26",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "9 Boyd",
+        "ville": "Darien"
+    }
+}

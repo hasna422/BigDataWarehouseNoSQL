@@ -1,0 +1,31 @@
+{
+    "order_id": 187356,
+    "client_id": 5184,
+    "produits": [
+        {
+            "produit_id": "P5808",
+            "nom": "Generic Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 101.34
+        },
+        {
+            "produit_id": "P0591",
+            "nom": "Sleek Concrete Chicken",
+            "quantite": 4,
+            "prix_unitaire": 291.45
+        },
+        {
+            "produit_id": "P4781",
+            "nom": "Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 404.16
+        }
+    ],
+    "date_commande": "2025-04-24T18:04:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1320 View",
+        "ville": "Woodland"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 349190,
+    "client_id": 2246,
+    "produits": [
+        {
+            "produit_id": "P1404",
+            "nom": "Generic Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 5.71
+        }
+    ],
+    "date_commande": "2023-10-27T18:20:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

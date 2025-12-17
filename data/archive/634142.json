@@ -1,0 +1,25 @@
+{
+    "order_id": 634142,
+    "client_id": 6182,
+    "produits": [
+        {
+            "produit_id": "P0466",
+            "nom": "Practical Soft Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 444.44
+        },
+        {
+            "produit_id": "P1296",
+            "nom": "Tasty Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 352.33
+        }
+    ],
+    "date_commande": "2023-07-28T15:48:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1143 Getz",
+        "ville": "Lomita"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 589169,
+    "client_id": 7125,
+    "produits": [
+        {
+            "produit_id": "P4742",
+            "nom": "Incredible Plastic Pants",
+            "quantite": 4,
+            "prix_unitaire": 18.28
+        },
+        {
+            "produit_id": "P1733",
+            "nom": "Licensed Concrete Ball",
+            "quantite": 1,
+            "prix_unitaire": 495.88
+        }
+    ],
+    "date_commande": "2024-12-18T11:32:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

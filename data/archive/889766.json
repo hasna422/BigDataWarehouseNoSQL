@@ -1,0 +1,19 @@
+{
+    "order_id": 889766,
+    "client_id": 9300,
+    "produits": [
+        {
+            "produit_id": "P9807",
+            "nom": "Practical Plastic Salad",
+            "quantite": 1,
+            "prix_unitaire": 336.41
+        }
+    ],
+    "date_commande": "2023-12-02T22:59:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1187 Koret",
+        "ville": "Klamath Falls"
+    }
+}

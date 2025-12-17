@@ -1,0 +1,31 @@
+{
+    "order_id": 509758,
+    "client_id": 5653,
+    "produits": [
+        {
+            "produit_id": "P3888",
+            "nom": "For repair Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 7.6
+        },
+        {
+            "produit_id": "P4462",
+            "nom": "Handmade Steel Pizza",
+            "quantite": 5,
+            "prix_unitaire": 147.24
+        },
+        {
+            "produit_id": "P7265",
+            "nom": "Rustic Metal Pizza",
+            "quantite": 3,
+            "prix_unitaire": 484.56
+        }
+    ],
+    "date_commande": "2024-11-17T03:20:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "931 Hubbell",
+        "ville": "Pelham"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 324427,
+    "client_id": 3217,
+    "produits": [
+        {
+            "produit_id": "P4350",
+            "nom": "Ergonomic Rubber Towels",
+            "quantite": 1,
+            "prix_unitaire": 277.79
+        },
+        {
+            "produit_id": "P6090",
+            "nom": "Small Wooden Gloves",
+            "quantite": 1,
+            "prix_unitaire": 458.1
+        }
+    ],
+    "date_commande": "2025-02-15T11:18:57",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1379 Cotter",
+        "ville": "Fort Myers"
+    }
+}

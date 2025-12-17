@@ -1,0 +1,31 @@
+{
+    "order_id": 564807,
+    "client_id": 6892,
+    "produits": [
+        {
+            "produit_id": "P9946",
+            "nom": "Used Soap",
+            "quantite": 4,
+            "prix_unitaire": 431.85
+        },
+        {
+            "produit_id": "P4518",
+            "nom": "Refined Concrete Mouse",
+            "quantite": 3,
+            "prix_unitaire": 164.57
+        },
+        {
+            "produit_id": "P3016",
+            "nom": "Handcrafted Wooden Salad",
+            "quantite": 3,
+            "prix_unitaire": 284.2
+        }
+    ],
+    "date_commande": "2025-03-15T06:07:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "636 Pizarro",
+        "ville": "Missouri City"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 533817,
+    "client_id": 2360,
+    "produits": [
+        {
+            "produit_id": "P3669",
+            "nom": "For repair Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 448.14
+        },
+        {
+            "produit_id": "P0136",
+            "nom": "Refined Concrete Fish",
+            "quantite": 1,
+            "prix_unitaire": 392.5
+        }
+    ],
+    "date_commande": "2023-08-29T08:27:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1123 Dorland",
+        "ville": "Norfolk"
+    }
+}

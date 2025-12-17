@@ -1,0 +1,25 @@
+{
+    "order_id": 828069,
+    "client_id": 9484,
+    "produits": [
+        {
+            "produit_id": "P7991",
+            "nom": "Refined Fresh Hat",
+            "quantite": 3,
+            "prix_unitaire": 101.21
+        },
+        {
+            "produit_id": "P9106",
+            "nom": "Licensed Frozen Soap",
+            "quantite": 4,
+            "prix_unitaire": 142.28
+        }
+    ],
+    "date_commande": "2025-01-09T03:10:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "179 Daniel Burnham",
+        "ville": "Clearfield"
+    }
+}

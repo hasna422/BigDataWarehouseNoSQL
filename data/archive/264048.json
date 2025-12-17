@@ -1,0 +1,27 @@
+{
+    "order_id": 264048,
+    "client_id": 5886,
+    "produits": [
+        {
+            "produit_id": "P8079",
+            "nom": "Tasty Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 69.6
+        },
+        {
+            "produit_id": "P2630",
+            "nom": "New Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 76.8
+        },
+        {
+            "produit_id": "P6852",
+            "nom": "For repair Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 171.12
+        }
+    ],
+    "date_commande": "2023-09-24T15:50:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 676784,
+    "client_id": 1078,
+    "produits": [
+        {
+            "produit_id": "P7139",
+            "nom": "Generic Wooden Bacon",
+            "quantite": 5,
+            "prix_unitaire": 60.59
+        }
+    ],
+    "date_commande": "2024-10-09T10:40:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "101 Lottie Bennett",
+        "ville": "Moreno Valley"
+    }
+}

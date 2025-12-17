@@ -1,0 +1,21 @@
+{
+    "order_id": 609022,
+    "client_id": 2066,
+    "produits": [
+        {
+            "produit_id": "P0942",
+            "nom": "Ergonomic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 21.68
+        },
+        {
+            "produit_id": "P3464",
+            "nom": "Licensed Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 232.24
+        }
+    ],
+    "date_commande": "2024-10-09T03:50:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

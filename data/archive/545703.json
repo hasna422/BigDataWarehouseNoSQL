@@ -1,0 +1,31 @@
+{
+    "order_id": 545703,
+    "client_id": 7341,
+    "produits": [
+        {
+            "produit_id": "P5552",
+            "nom": "Gorgeous Rubber Computer",
+            "quantite": 2,
+            "prix_unitaire": 423.79
+        },
+        {
+            "produit_id": "P3035",
+            "nom": "Small Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 98.16
+        },
+        {
+            "produit_id": "P7044",
+            "nom": "Incredible Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 431.12
+        }
+    ],
+    "date_commande": "2024-04-16T00:22:24",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "553 Shrader",
+        "ville": "State College"
+    }
+}

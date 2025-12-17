@@ -1,0 +1,31 @@
+{
+    "order_id": 612432,
+    "client_id": 9312,
+    "produits": [
+        {
+            "produit_id": "P6838",
+            "nom": "Handmade Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 82.31
+        },
+        {
+            "produit_id": "P8886",
+            "nom": "Refined Steel Cheese",
+            "quantite": 5,
+            "prix_unitaire": 436.41
+        },
+        {
+            "produit_id": "P4910",
+            "nom": "Incredible Wooden Shirt",
+            "quantite": 4,
+            "prix_unitaire": 38.15
+        }
+    ],
+    "date_commande": "2023-10-01T11:52:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1102 Canby",
+        "ville": "South Euclid"
+    }
+}

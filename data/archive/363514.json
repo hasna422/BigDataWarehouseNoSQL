@@ -1,0 +1,27 @@
+{
+    "order_id": 363514,
+    "client_id": 4084,
+    "produits": [
+        {
+            "produit_id": "P0039",
+            "nom": "Used Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 204.41
+        },
+        {
+            "produit_id": "P4590",
+            "nom": "Awesome Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 158.4
+        },
+        {
+            "produit_id": "P1278",
+            "nom": "Gently Used Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 489.68
+        }
+    ],
+    "date_commande": "2024-07-09T16:04:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

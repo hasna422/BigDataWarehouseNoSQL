@@ -1,0 +1,21 @@
+{
+    "order_id": 482101,
+    "client_id": 6357,
+    "produits": [
+        {
+            "produit_id": "P1574",
+            "nom": "Handmade Ball",
+            "quantite": 4,
+            "prix_unitaire": 30.96
+        },
+        {
+            "produit_id": "P8843",
+            "nom": "Handcrafted Fish",
+            "quantite": 5,
+            "prix_unitaire": 149.25
+        }
+    ],
+    "date_commande": "2024-07-01T06:24:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

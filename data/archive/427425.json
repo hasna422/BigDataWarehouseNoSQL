@@ -1,0 +1,15 @@
+{
+    "order_id": 427425,
+    "client_id": 6457,
+    "produits": [
+        {
+            "produit_id": "P7493",
+            "nom": "Handcrafted Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 288.9
+        }
+    ],
+    "date_commande": "2024-01-14T23:24:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

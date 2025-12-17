@@ -1,0 +1,19 @@
+{
+    "order_id": 660433,
+    "client_id": 6839,
+    "produits": [
+        {
+            "produit_id": "P3025",
+            "nom": "Gorgeous Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 255.03
+        }
+    ],
+    "date_commande": "2025-03-13T15:59:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1091 San Bruno",
+        "ville": "Watauga"
+    }
+}

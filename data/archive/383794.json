@@ -1,0 +1,15 @@
+{
+    "order_id": 383794,
+    "client_id": 6245,
+    "produits": [
+        {
+            "produit_id": "P6783",
+            "nom": "Incredible Plastic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 115.55
+        }
+    ],
+    "date_commande": "2024-06-30T20:02:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

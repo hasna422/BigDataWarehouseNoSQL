@@ -1,0 +1,27 @@
+{
+    "order_id": 988777,
+    "client_id": 2979,
+    "produits": [
+        {
+            "produit_id": "P4533",
+            "nom": "Handcrafted Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 353.16
+        },
+        {
+            "produit_id": "P8191",
+            "nom": "Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 303.98
+        },
+        {
+            "produit_id": "P7592",
+            "nom": "Small Metal Fish",
+            "quantite": 5,
+            "prix_unitaire": 343.58
+        }
+    ],
+    "date_commande": "2025-04-18T15:14:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

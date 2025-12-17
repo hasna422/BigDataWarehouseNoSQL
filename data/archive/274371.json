@@ -1,0 +1,15 @@
+{
+    "order_id": 274371,
+    "client_id": 1409,
+    "produits": [
+        {
+            "produit_id": "P9271",
+            "nom": "Gently Used Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 196.23
+        }
+    ],
+    "date_commande": "2024-12-26T00:23:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 988986,
+    "client_id": 2309,
+    "produits": [
+        {
+            "produit_id": "P3852",
+            "nom": "Small Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 86.91
+        },
+        {
+            "produit_id": "P5028",
+            "nom": "Practical Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 94.62
+        },
+        {
+            "produit_id": "P8930",
+            "nom": "Fantastic Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 330.44
+        }
+    ],
+    "date_commande": "2024-08-11T04:53:52",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

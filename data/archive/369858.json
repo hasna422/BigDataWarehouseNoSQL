@@ -1,0 +1,31 @@
+{
+    "order_id": 369858,
+    "client_id": 7815,
+    "produits": [
+        {
+            "produit_id": "P8843",
+            "nom": "Gorgeous Pants",
+            "quantite": 5,
+            "prix_unitaire": 306.42
+        },
+        {
+            "produit_id": "P4434",
+            "nom": "Fantastic Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 301.92
+        },
+        {
+            "produit_id": "P0823",
+            "nom": "Handmade Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 469.78
+        }
+    ],
+    "date_commande": "2024-07-22T15:13:17",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1221 Carolina",
+        "ville": "Rome"
+    }
+}

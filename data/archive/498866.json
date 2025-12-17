@@ -1,0 +1,25 @@
+{
+    "order_id": 498866,
+    "client_id": 5720,
+    "produits": [
+        {
+            "produit_id": "P5823",
+            "nom": "Incredible Salad",
+            "quantite": 2,
+            "prix_unitaire": 336.95
+        },
+        {
+            "produit_id": "P2930",
+            "nom": "Tasty Concrete Pants",
+            "quantite": 5,
+            "prix_unitaire": 91.4
+        }
+    ],
+    "date_commande": "2024-09-06T23:20:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1315 Guerrero",
+        "ville": "Vernon Hills"
+    }
+}

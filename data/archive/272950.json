@@ -1,0 +1,31 @@
+{
+    "order_id": 272950,
+    "client_id": 7360,
+    "produits": [
+        {
+            "produit_id": "P4127",
+            "nom": "Incredible Granite Bacon",
+            "quantite": 2,
+            "prix_unitaire": 178.3
+        },
+        {
+            "produit_id": "P9730",
+            "nom": "For repair Cotton Cheese",
+            "quantite": 1,
+            "prix_unitaire": 164.05
+        },
+        {
+            "produit_id": "P6354",
+            "nom": "Gently Used Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 270.67
+        }
+    ],
+    "date_commande": "2024-07-20T17:56:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1006 Cottage",
+        "ville": "Elizabethtown"
+    }
+}

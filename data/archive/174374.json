@@ -1,0 +1,31 @@
+{
+    "order_id": 174374,
+    "client_id": 6043,
+    "produits": [
+        {
+            "produit_id": "P4171",
+            "nom": "Ergonomic Chicken",
+            "quantite": 3,
+            "prix_unitaire": 416.07
+        },
+        {
+            "produit_id": "P4964",
+            "nom": "Refined Mouse",
+            "quantite": 2,
+            "prix_unitaire": 112.79
+        },
+        {
+            "produit_id": "P5969",
+            "nom": "Refined Car",
+            "quantite": 4,
+            "prix_unitaire": 308.05
+        }
+    ],
+    "date_commande": "2023-12-20T08:29:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "493 Macondray",
+        "ville": "Paducah"
+    }
+}

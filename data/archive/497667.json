@@ -1,0 +1,15 @@
+{
+    "order_id": 497667,
+    "client_id": 4970,
+    "produits": [
+        {
+            "produit_id": "P9057",
+            "nom": "Practical Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 106.61
+        }
+    ],
+    "date_commande": "2023-10-13T12:40:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

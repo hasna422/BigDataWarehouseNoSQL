@@ -1,0 +1,27 @@
+{
+    "order_id": 151089,
+    "client_id": 5829,
+    "produits": [
+        {
+            "produit_id": "P3389",
+            "nom": "Practical Chicken",
+            "quantite": 3,
+            "prix_unitaire": 207.28
+        },
+        {
+            "produit_id": "P6213",
+            "nom": "Intelligent Cotton Chips",
+            "quantite": 3,
+            "prix_unitaire": 485.51
+        },
+        {
+            "produit_id": "P4171",
+            "nom": "Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 273.87
+        }
+    ],
+    "date_commande": "2023-12-20T11:43:17",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

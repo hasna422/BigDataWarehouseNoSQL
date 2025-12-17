@@ -1,0 +1,19 @@
+{
+    "order_id": 632058,
+    "client_id": 8780,
+    "produits": [
+        {
+            "produit_id": "P1411",
+            "nom": "Practical Granite Salad",
+            "quantite": 5,
+            "prix_unitaire": 234.09
+        }
+    ],
+    "date_commande": "2024-03-04T00:39:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "765 Carrie",
+        "ville": "Dunedin"
+    }
+}

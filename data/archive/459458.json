@@ -1,0 +1,19 @@
+{
+    "order_id": 459458,
+    "client_id": 4525,
+    "produits": [
+        {
+            "produit_id": "P7708",
+            "nom": "Licensed Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 268.87
+        }
+    ],
+    "date_commande": "2023-07-21T02:27:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1096 Battery Blaney",
+        "ville": "Hutchinson"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 591224,
+    "client_id": 1759,
+    "produits": [
+        {
+            "produit_id": "P7385",
+            "nom": "Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 420.4
+        },
+        {
+            "produit_id": "P4328",
+            "nom": "Ergonomic Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 291.13
+        }
+    ],
+    "date_commande": "2024-11-19T09:57:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "501 Shakespeare",
+        "ville": "Albany"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 335646,
+    "client_id": 1488,
+    "produits": [
+        {
+            "produit_id": "P0372",
+            "nom": "Tasty Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 229.41
+        }
+    ],
+    "date_commande": "2024-02-22T10:45:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1225 Santa Ana",
+        "ville": "Colton"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 497550,
+    "client_id": 6368,
+    "produits": [
+        {
+            "produit_id": "P7407",
+            "nom": "Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 490.9
+        }
+    ],
+    "date_commande": "2024-11-29T05:46:08",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

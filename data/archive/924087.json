@@ -1,0 +1,31 @@
+{
+    "order_id": 924087,
+    "client_id": 3882,
+    "produits": [
+        {
+            "produit_id": "P3252",
+            "nom": "Unbranded Cotton Bacon",
+            "quantite": 2,
+            "prix_unitaire": 289.09
+        },
+        {
+            "produit_id": "P2810",
+            "nom": "Sleek Plastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 80.37
+        },
+        {
+            "produit_id": "P0822",
+            "nom": "Handcrafted Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 366.11
+        }
+    ],
+    "date_commande": "2023-09-03T08:39:15",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "914 Bonview",
+        "ville": "Athens"
+    }
+}

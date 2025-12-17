@@ -1,0 +1,21 @@
+{
+    "order_id": 269567,
+    "client_id": 4712,
+    "produits": [
+        {
+            "produit_id": "P9311",
+            "nom": "Ergonomic Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 146.5
+        },
+        {
+            "produit_id": "P9283",
+            "nom": "Handcrafted Granite Shoes",
+            "quantite": 1,
+            "prix_unitaire": 369.09
+        }
+    ],
+    "date_commande": "2024-08-13T01:24:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

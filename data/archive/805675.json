@@ -1,0 +1,31 @@
+{
+    "order_id": 805675,
+    "client_id": 8416,
+    "produits": [
+        {
+            "produit_id": "P9760",
+            "nom": "Ergonomic Wooden Bacon",
+            "quantite": 2,
+            "prix_unitaire": 187.51
+        },
+        {
+            "produit_id": "P0775",
+            "nom": "Incredible Steel Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 156.41
+        },
+        {
+            "produit_id": "P4728",
+            "nom": "Small Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 101.27
+        }
+    ],
+    "date_commande": "2025-04-10T09:39:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "918 Mahan",
+        "ville": "Holland"
+    }
+}

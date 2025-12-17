@@ -1,0 +1,31 @@
+{
+    "order_id": 106032,
+    "client_id": 1072,
+    "produits": [
+        {
+            "produit_id": "P0142",
+            "nom": "Generic Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 462.98
+        },
+        {
+            "produit_id": "P0878",
+            "nom": "Handmade Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 369.71
+        },
+        {
+            "produit_id": "P9809",
+            "nom": "Handmade Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 117.03
+        }
+    ],
+    "date_commande": "2024-01-01T00:18:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "625 Candlestick Cove",
+        "ville": "Rancho Cordova"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 749062,
+    "client_id": 6278,
+    "produits": [
+        {
+            "produit_id": "P0379",
+            "nom": "Intelligent Mouse",
+            "quantite": 4,
+            "prix_unitaire": 319.61
+        }
+    ],
+    "date_commande": "2024-10-08T22:43:53",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "396 Hillway",
+        "ville": "Auburn Hills"
+    }
+}

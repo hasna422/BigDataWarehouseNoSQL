@@ -1,0 +1,19 @@
+{
+    "order_id": 345447,
+    "client_id": 2530,
+    "produits": [
+        {
+            "produit_id": "P9982",
+            "nom": "Gently Used Granite Pizza",
+            "quantite": 3,
+            "prix_unitaire": 144.12
+        }
+    ],
+    "date_commande": "2025-02-06T11:13:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "294 Venard",
+        "ville": "Diamond Bar"
+    }
+}

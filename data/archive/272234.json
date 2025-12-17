@@ -1,0 +1,25 @@
+{
+    "order_id": 272234,
+    "client_id": 4513,
+    "produits": [
+        {
+            "produit_id": "P2555",
+            "nom": "Handmade Wooden Bike",
+            "quantite": 1,
+            "prix_unitaire": 27.06
+        },
+        {
+            "produit_id": "P9548",
+            "nom": "Practical Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 223.06
+        }
+    ],
+    "date_commande": "2024-08-09T01:30:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1344 Gene Friend",
+        "ville": "Pekin"
+    }
+}

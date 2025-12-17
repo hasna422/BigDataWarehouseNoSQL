@@ -1,0 +1,31 @@
+{
+    "order_id": 837478,
+    "client_id": 6021,
+    "produits": [
+        {
+            "produit_id": "P0631",
+            "nom": "Incredible Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 20.74
+        },
+        {
+            "produit_id": "P6163",
+            "nom": "New Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 76.57
+        },
+        {
+            "produit_id": "P2760",
+            "nom": "For repair Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 426.21
+        }
+    ],
+    "date_commande": "2024-02-07T19:56:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "219 Mullen",
+        "ville": "Cathedral City"
+    }
+}

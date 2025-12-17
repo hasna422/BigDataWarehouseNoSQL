@@ -1,0 +1,25 @@
+{
+    "order_id": 926763,
+    "client_id": 5363,
+    "produits": [
+        {
+            "produit_id": "P6390",
+            "nom": "For repair Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 248.86
+        },
+        {
+            "produit_id": "P6074",
+            "nom": "Rustic Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 412.24
+        }
+    ],
+    "date_commande": "2024-01-18T02:18:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "464 Shrader",
+        "ville": "Chapel Hill"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 329468,
+    "client_id": 7157,
+    "produits": [
+        {
+            "produit_id": "P3763",
+            "nom": "Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 475.87
+        },
+        {
+            "produit_id": "P2426",
+            "nom": "Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 62.9
+        },
+        {
+            "produit_id": "P6141",
+            "nom": "Intelligent Cotton Chair",
+            "quantite": 1,
+            "prix_unitaire": 394.07
+        }
+    ],
+    "date_commande": "2024-05-30T19:40:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "253 Osage",
+        "ville": "Midlothian"
+    }
+}

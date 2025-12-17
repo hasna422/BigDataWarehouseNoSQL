@@ -1,0 +1,19 @@
+{
+    "order_id": 327759,
+    "client_id": 8909,
+    "produits": [
+        {
+            "produit_id": "P4776",
+            "nom": "Gorgeous Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 34.7
+        }
+    ],
+    "date_commande": "2025-05-07T09:02:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "546 Lunado",
+        "ville": "Muskogee"
+    }
+}

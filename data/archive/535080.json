@@ -1,0 +1,25 @@
+{
+    "order_id": 535080,
+    "client_id": 9365,
+    "produits": [
+        {
+            "produit_id": "P6425",
+            "nom": "New Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 163.21
+        },
+        {
+            "produit_id": "P5029",
+            "nom": "Gently Used Frozen Hat",
+            "quantite": 5,
+            "prix_unitaire": 16.53
+        }
+    ],
+    "date_commande": "2023-10-16T03:10:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "465 Moulton",
+        "ville": "Largo"
+    }
+}

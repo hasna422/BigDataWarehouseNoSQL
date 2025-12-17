@@ -1,0 +1,15 @@
+{
+    "order_id": 264629,
+    "client_id": 5509,
+    "produits": [
+        {
+            "produit_id": "P9184",
+            "nom": "Sleek Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 454.07
+        }
+    ],
+    "date_commande": "2023-08-07T23:54:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 870186,
+    "client_id": 5842,
+    "produits": [
+        {
+            "produit_id": "P4766",
+            "nom": "Ergonomic Fresh Bacon",
+            "quantite": 2,
+            "prix_unitaire": 447.35
+        }
+    ],
+    "date_commande": "2024-05-23T08:12:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1233 Elmira",
+        "ville": "Palisades Park"
+    }
+}

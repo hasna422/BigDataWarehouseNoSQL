@@ -1,0 +1,19 @@
+{
+    "order_id": 400697,
+    "client_id": 5461,
+    "produits": [
+        {
+            "produit_id": "P6195",
+            "nom": "Handcrafted Bike",
+            "quantite": 1,
+            "prix_unitaire": 382.79
+        }
+    ],
+    "date_commande": "2024-01-17T13:30:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "987 Ofarrell",
+        "ville": "Thousand Oaks"
+    }
+}

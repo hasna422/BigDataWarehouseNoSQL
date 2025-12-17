@@ -1,0 +1,19 @@
+{
+    "order_id": 794032,
+    "client_id": 2903,
+    "produits": [
+        {
+            "produit_id": "P1922",
+            "nom": "Unbranded Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 339.84
+        }
+    ],
+    "date_commande": "2025-04-21T19:21:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "17 Zircon",
+        "ville": "Temple"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 279529,
+    "client_id": 8528,
+    "produits": [
+        {
+            "produit_id": "P4485",
+            "nom": "Used Wooden Bacon",
+            "quantite": 1,
+            "prix_unitaire": 75.98
+        }
+    ],
+    "date_commande": "2023-12-29T19:58:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

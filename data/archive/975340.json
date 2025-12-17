@@ -1,0 +1,27 @@
+{
+    "order_id": 975340,
+    "client_id": 4510,
+    "produits": [
+        {
+            "produit_id": "P3000",
+            "nom": "Gorgeous Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 128.62
+        },
+        {
+            "produit_id": "P8217",
+            "nom": "Unbranded Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 238.91
+        },
+        {
+            "produit_id": "P7966",
+            "nom": "Gorgeous Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 321.36
+        }
+    ],
+    "date_commande": "2024-10-18T07:43:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

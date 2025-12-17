@@ -1,0 +1,25 @@
+{
+    "order_id": 447608,
+    "client_id": 8402,
+    "produits": [
+        {
+            "produit_id": "P4897",
+            "nom": "Sleek Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 41.22
+        },
+        {
+            "produit_id": "P9088",
+            "nom": "Small Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 171.31
+        }
+    ],
+    "date_commande": "2025-03-12T13:57:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "547 Reposa",
+        "ville": "Watertown"
+    }
+}

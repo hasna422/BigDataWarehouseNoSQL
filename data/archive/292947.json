@@ -1,0 +1,19 @@
+{
+    "order_id": 292947,
+    "client_id": 9554,
+    "produits": [
+        {
+            "produit_id": "P6649",
+            "nom": "Rustic Wooden Shirt",
+            "quantite": 4,
+            "prix_unitaire": 473.15
+        }
+    ],
+    "date_commande": "2024-11-24T12:19:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "893 Taber",
+        "ville": "Wyandotte"
+    }
+}

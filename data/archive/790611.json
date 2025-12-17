@@ -1,0 +1,19 @@
+{
+    "order_id": 790611,
+    "client_id": 5848,
+    "produits": [
+        {
+            "produit_id": "P8319",
+            "nom": "Used Granite Mouse",
+            "quantite": 2,
+            "prix_unitaire": 472.9
+        }
+    ],
+    "date_commande": "2024-05-17T22:01:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "624 Newburg",
+        "ville": "San Diego"
+    }
+}

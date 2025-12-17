@@ -1,0 +1,25 @@
+{
+    "order_id": 711617,
+    "client_id": 5630,
+    "produits": [
+        {
+            "produit_id": "P9826",
+            "nom": "Ergonomic Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 93.01
+        },
+        {
+            "produit_id": "P1108",
+            "nom": "Unbranded Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 35.94
+        }
+    ],
+    "date_commande": "2024-12-31T16:15:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "338 Fielding",
+        "ville": "Hempstead"
+    }
+}

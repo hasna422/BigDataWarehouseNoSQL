@@ -1,0 +1,31 @@
+{
+    "order_id": 520618,
+    "client_id": 2419,
+    "produits": [
+        {
+            "produit_id": "P6490",
+            "nom": "Generic Granite Shoes",
+            "quantite": 5,
+            "prix_unitaire": 102.69
+        },
+        {
+            "produit_id": "P3145",
+            "nom": "Used Soft Hat",
+            "quantite": 3,
+            "prix_unitaire": 76.17
+        },
+        {
+            "produit_id": "P8049",
+            "nom": "Unbranded Plastic Table",
+            "quantite": 3,
+            "prix_unitaire": 302.58
+        }
+    ],
+    "date_commande": "2024-09-16T19:19:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "215 Hermann",
+        "ville": "Carson"
+    }
+}

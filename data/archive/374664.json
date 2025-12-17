@@ -1,0 +1,27 @@
+{
+    "order_id": 374664,
+    "client_id": 6530,
+    "produits": [
+        {
+            "produit_id": "P2649",
+            "nom": "New Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 373.25
+        },
+        {
+            "produit_id": "P5200",
+            "nom": "Handcrafted Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 159.78
+        },
+        {
+            "produit_id": "P4748",
+            "nom": "Licensed Granite Mouse",
+            "quantite": 4,
+            "prix_unitaire": 35.84
+        }
+    ],
+    "date_commande": "2025-01-01T08:58:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

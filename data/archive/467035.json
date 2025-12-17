@@ -1,0 +1,31 @@
+{
+    "order_id": 467035,
+    "client_id": 8751,
+    "produits": [
+        {
+            "produit_id": "P3589",
+            "nom": "Intelligent Bike",
+            "quantite": 4,
+            "prix_unitaire": 336.31
+        },
+        {
+            "produit_id": "P3594",
+            "nom": "Small Chair",
+            "quantite": 1,
+            "prix_unitaire": 481.5
+        },
+        {
+            "produit_id": "P2123",
+            "nom": "Handmade Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 285.74
+        }
+    ],
+    "date_commande": "2024-06-01T17:44:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "617 Acadia",
+        "ville": "Chambersburg"
+    }
+}

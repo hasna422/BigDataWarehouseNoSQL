@@ -1,0 +1,31 @@
+{
+    "order_id": 463549,
+    "client_id": 6616,
+    "produits": [
+        {
+            "produit_id": "P5732",
+            "nom": "Fantastic Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 138.07
+        },
+        {
+            "produit_id": "P7882",
+            "nom": "Shirt",
+            "quantite": 3,
+            "prix_unitaire": 218.2
+        },
+        {
+            "produit_id": "P5281",
+            "nom": "Incredible Fish",
+            "quantite": 4,
+            "prix_unitaire": 274.74
+        }
+    ],
+    "date_commande": "2024-12-20T06:04:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "908 Colonial",
+        "ville": "Riverton"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 564966,
+    "client_id": 7401,
+    "produits": [
+        {
+            "produit_id": "P6569",
+            "nom": "Used Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 470.24
+        },
+        {
+            "produit_id": "P8156",
+            "nom": "Incredible Metal Bacon",
+            "quantite": 2,
+            "prix_unitaire": 104.25
+        }
+    ],
+    "date_commande": "2024-09-10T15:23:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

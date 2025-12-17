@@ -1,0 +1,25 @@
+{
+    "order_id": 992015,
+    "client_id": 1788,
+    "produits": [
+        {
+            "produit_id": "P9559",
+            "nom": "Awesome Hat",
+            "quantite": 1,
+            "prix_unitaire": 320.45
+        },
+        {
+            "produit_id": "P4364",
+            "nom": "Awesome Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 133.06
+        }
+    ],
+    "date_commande": "2024-01-18T17:40:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "189 Kent",
+        "ville": "Moline"
+    }
+}

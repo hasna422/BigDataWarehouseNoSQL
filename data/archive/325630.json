@@ -1,0 +1,19 @@
+{
+    "order_id": 325630,
+    "client_id": 5851,
+    "produits": [
+        {
+            "produit_id": "P3196",
+            "nom": "Refined Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 458.13
+        }
+    ],
+    "date_commande": "2024-12-25T07:04:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1215 Verdi",
+        "ville": "Burton"
+    }
+}

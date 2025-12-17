@@ -1,0 +1,25 @@
+{
+    "order_id": 999559,
+    "client_id": 7487,
+    "produits": [
+        {
+            "produit_id": "P9674",
+            "nom": "Unbranded Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 281.66
+        },
+        {
+            "produit_id": "P7314",
+            "nom": "Fantastic Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 110.24
+        }
+    ],
+    "date_commande": "2025-05-28T06:49:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "776 Kronquist",
+        "ville": "Lindenhurst"
+    }
+}

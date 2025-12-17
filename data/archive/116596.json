@@ -1,0 +1,19 @@
+{
+    "order_id": 116596,
+    "client_id": 7338,
+    "produits": [
+        {
+            "produit_id": "P3472",
+            "nom": "Handmade Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 221.62
+        }
+    ],
+    "date_commande": "2025-03-05T02:37:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "830 Treat",
+        "ville": "Romulus"
+    }
+}

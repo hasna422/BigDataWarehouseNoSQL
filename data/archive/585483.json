@@ -1,0 +1,31 @@
+{
+    "order_id": 585483,
+    "client_id": 2215,
+    "produits": [
+        {
+            "produit_id": "P9392",
+            "nom": "Fantastic Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 117.91
+        },
+        {
+            "produit_id": "P0851",
+            "nom": "Unbranded Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 475.19
+        },
+        {
+            "produit_id": "P7234",
+            "nom": "Tasty Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 13.38
+        }
+    ],
+    "date_commande": "2024-10-24T10:37:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1372 Keyes",
+        "ville": "San Diego"
+    }
+}

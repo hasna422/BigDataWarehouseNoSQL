@@ -1,0 +1,31 @@
+{
+    "order_id": 756179,
+    "client_id": 7159,
+    "produits": [
+        {
+            "produit_id": "P1942",
+            "nom": "Small Cotton Table",
+            "quantite": 2,
+            "prix_unitaire": 27.42
+        },
+        {
+            "produit_id": "P5973",
+            "nom": "New Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 64.9
+        },
+        {
+            "produit_id": "P8972",
+            "nom": "Incredible Cotton Salad",
+            "quantite": 3,
+            "prix_unitaire": 121.66
+        }
+    ],
+    "date_commande": "2023-10-27T12:09:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "426 Battery Caulfield",
+        "ville": "Edwardsville"
+    }
+}

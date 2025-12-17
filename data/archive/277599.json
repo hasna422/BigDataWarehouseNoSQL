@@ -1,0 +1,15 @@
+{
+    "order_id": 277599,
+    "client_id": 5520,
+    "produits": [
+        {
+            "produit_id": "P7628",
+            "nom": "Tasty Computer",
+            "quantite": 4,
+            "prix_unitaire": 107.37
+        }
+    ],
+    "date_commande": "2023-12-07T00:21:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

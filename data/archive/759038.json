@@ -1,0 +1,25 @@
+{
+    "order_id": 759038,
+    "client_id": 5047,
+    "produits": [
+        {
+            "produit_id": "P7634",
+            "nom": "Refined Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 23.42
+        },
+        {
+            "produit_id": "P0573",
+            "nom": "Handmade Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 203.23
+        }
+    ],
+    "date_commande": "2023-07-01T23:50:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "307 Edna",
+        "ville": "Columbia"
+    }
+}

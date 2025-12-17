@@ -1,0 +1,27 @@
+{
+    "order_id": 297919,
+    "client_id": 2475,
+    "produits": [
+        {
+            "produit_id": "P2127",
+            "nom": "Generic Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 399.18
+        },
+        {
+            "produit_id": "P0051",
+            "nom": "Gorgeous Concrete Chips",
+            "quantite": 2,
+            "prix_unitaire": 452.54
+        },
+        {
+            "produit_id": "P3679",
+            "nom": "Sleek Plastic Tuna",
+            "quantite": 3,
+            "prix_unitaire": 227.27
+        }
+    ],
+    "date_commande": "2025-04-08T15:00:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

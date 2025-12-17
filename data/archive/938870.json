@@ -1,0 +1,25 @@
+{
+    "order_id": 938870,
+    "client_id": 2620,
+    "produits": [
+        {
+            "produit_id": "P4172",
+            "nom": "Rustic Soft Computer",
+            "quantite": 3,
+            "prix_unitaire": 463.92
+        },
+        {
+            "produit_id": "P3767",
+            "nom": "Awesome Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 396.33
+        }
+    ],
+    "date_commande": "2023-09-06T04:02:19",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1122 Kissling",
+        "ville": "Parma"
+    }
+}

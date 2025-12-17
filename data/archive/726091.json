@@ -1,0 +1,31 @@
+{
+    "order_id": 726091,
+    "client_id": 1503,
+    "produits": [
+        {
+            "produit_id": "P0671",
+            "nom": "Gorgeous Plastic Chicken",
+            "quantite": 3,
+            "prix_unitaire": 322.08
+        },
+        {
+            "produit_id": "P2472",
+            "nom": "Fantastic Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 441.87
+        },
+        {
+            "produit_id": "P6484",
+            "nom": "Refined Granite Towels",
+            "quantite": 4,
+            "prix_unitaire": 133.52
+        }
+    ],
+    "date_commande": "2023-12-09T04:40:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "732 Sonora",
+        "ville": "Twin Falls"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 523901,
+    "client_id": 1088,
+    "produits": [
+        {
+            "produit_id": "P1879",
+            "nom": "Small Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 193.61
+        }
+    ],
+    "date_commande": "2023-10-13T13:17:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1336 Ash",
+        "ville": "Chula Vista"
+    }
+}

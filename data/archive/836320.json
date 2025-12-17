@@ -1,0 +1,27 @@
+{
+    "order_id": 836320,
+    "client_id": 6771,
+    "produits": [
+        {
+            "produit_id": "P2950",
+            "nom": "Gorgeous Car",
+            "quantite": 1,
+            "prix_unitaire": 14.84
+        },
+        {
+            "produit_id": "P4479",
+            "nom": "Sleek Wooden Bacon",
+            "quantite": 2,
+            "prix_unitaire": 429.75
+        },
+        {
+            "produit_id": "P4277",
+            "nom": "Awesome Granite Bacon",
+            "quantite": 3,
+            "prix_unitaire": 99.29
+        }
+    ],
+    "date_commande": "2024-03-01T13:43:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 638437,
+    "client_id": 5227,
+    "produits": [
+        {
+            "produit_id": "P9210",
+            "nom": "Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 133.24
+        },
+        {
+            "produit_id": "P7952",
+            "nom": "Licensed Rubber Tuna",
+            "quantite": 3,
+            "prix_unitaire": 319.69
+        }
+    ],
+    "date_commande": "2024-05-20T13:22:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1244 Levant",
+        "ville": "Knoxville"
+    }
+}

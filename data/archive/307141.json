@@ -1,0 +1,27 @@
+{
+    "order_id": 307141,
+    "client_id": 5392,
+    "produits": [
+        {
+            "produit_id": "P4839",
+            "nom": "Ergonomic Fresh Chips",
+            "quantite": 3,
+            "prix_unitaire": 271.43
+        },
+        {
+            "produit_id": "P5980",
+            "nom": "New Metal Bacon",
+            "quantite": 3,
+            "prix_unitaire": 273.81
+        },
+        {
+            "produit_id": "P3331",
+            "nom": "Rustic Metal Mouse",
+            "quantite": 4,
+            "prix_unitaire": 437.07
+        }
+    ],
+    "date_commande": "2024-07-21T13:27:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

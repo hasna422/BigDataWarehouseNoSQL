@@ -1,0 +1,21 @@
+{
+    "order_id": 136517,
+    "client_id": 3248,
+    "produits": [
+        {
+            "produit_id": "P7264",
+            "nom": "Handcrafted Table",
+            "quantite": 4,
+            "prix_unitaire": 125.04
+        },
+        {
+            "produit_id": "P8929",
+            "nom": "Handcrafted Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 28.07
+        }
+    ],
+    "date_commande": "2024-06-09T00:54:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

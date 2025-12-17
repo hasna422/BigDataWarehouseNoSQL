@@ -1,0 +1,15 @@
+{
+    "order_id": 857779,
+    "client_id": 4294,
+    "produits": [
+        {
+            "produit_id": "P1771",
+            "nom": "Sleek Soft Pants",
+            "quantite": 1,
+            "prix_unitaire": 41.6
+        }
+    ],
+    "date_commande": "2024-03-20T02:46:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 628577,
+    "client_id": 6920,
+    "produits": [
+        {
+            "produit_id": "P2309",
+            "nom": "Gorgeous Frozen Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 252.7
+        }
+    ],
+    "date_commande": "2024-03-03T15:05:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "515 Marsily",
+        "ville": "Bismarck"
+    }
+}

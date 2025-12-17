@@ -1,0 +1,19 @@
+{
+    "order_id": 243601,
+    "client_id": 3576,
+    "produits": [
+        {
+            "produit_id": "P9346",
+            "nom": "Tasty Pants",
+            "quantite": 2,
+            "prix_unitaire": 111.14
+        }
+    ],
+    "date_commande": "2023-07-03T19:30:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "841 Ames",
+        "ville": "Lake Havasu City"
+    }
+}

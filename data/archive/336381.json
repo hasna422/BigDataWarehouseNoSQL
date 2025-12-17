@@ -1,0 +1,25 @@
+{
+    "order_id": 336381,
+    "client_id": 9106,
+    "produits": [
+        {
+            "produit_id": "P2845",
+            "nom": "New Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 143.2
+        },
+        {
+            "produit_id": "P2181",
+            "nom": "Ergonomic Granite Shoes",
+            "quantite": 5,
+            "prix_unitaire": 207.08
+        }
+    ],
+    "date_commande": "2023-12-31T11:12:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1178 Oriole",
+        "ville": "Madera"
+    }
+}

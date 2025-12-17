@@ -1,0 +1,19 @@
+{
+    "order_id": 608829,
+    "client_id": 4169,
+    "produits": [
+        {
+            "produit_id": "P6193",
+            "nom": "Gently Used Plastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 130.07
+        }
+    ],
+    "date_commande": "2025-03-13T05:35:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "773 Joost",
+        "ville": "Golden"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 205932,
+    "client_id": 7487,
+    "produits": [
+        {
+            "produit_id": "P9035",
+            "nom": "Sleek Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 387.61
+        },
+        {
+            "produit_id": "P2254",
+            "nom": "Licensed Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 71.43
+        }
+    ],
+    "date_commande": "2024-10-01T21:44:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "856 Treat",
+        "ville": "Rock Island"
+    }
+}

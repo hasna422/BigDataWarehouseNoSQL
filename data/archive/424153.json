@@ -1,0 +1,27 @@
+{
+    "order_id": 424153,
+    "client_id": 5191,
+    "produits": [
+        {
+            "produit_id": "P6288",
+            "nom": "Handcrafted Frozen Shirt",
+            "quantite": 1,
+            "prix_unitaire": 433.7
+        },
+        {
+            "produit_id": "P9728",
+            "nom": "Incredible Granite Pants",
+            "quantite": 1,
+            "prix_unitaire": 209.75
+        },
+        {
+            "produit_id": "P4211",
+            "nom": "Gorgeous Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 357.23
+        }
+    ],
+    "date_commande": "2024-04-23T08:07:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

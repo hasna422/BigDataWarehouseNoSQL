@@ -1,0 +1,31 @@
+{
+    "order_id": 379847,
+    "client_id": 1748,
+    "produits": [
+        {
+            "produit_id": "P2771",
+            "nom": "Licensed Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 363.15
+        },
+        {
+            "produit_id": "P3309",
+            "nom": "Incredible Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 184.31
+        },
+        {
+            "produit_id": "P0497",
+            "nom": "Handmade Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 304.41
+        }
+    ],
+    "date_commande": "2025-01-23T10:48:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1281 Abbey",
+        "ville": "Palm Bay"
+    }
+}

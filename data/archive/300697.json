@@ -1,0 +1,19 @@
+{
+    "order_id": 300697,
+    "client_id": 2409,
+    "produits": [
+        {
+            "produit_id": "P8266",
+            "nom": "Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 486.21
+        }
+    ],
+    "date_commande": "2024-09-04T12:15:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "568 Ellert",
+        "ville": "Santa Barbara"
+    }
+}

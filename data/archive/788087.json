@@ -1,0 +1,19 @@
+{
+    "order_id": 788087,
+    "client_id": 2256,
+    "produits": [
+        {
+            "produit_id": "P6006",
+            "nom": "For repair Rubber Mouse",
+            "quantite": 2,
+            "prix_unitaire": 36.14
+        }
+    ],
+    "date_commande": "2023-12-03T18:34:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "978 Emerson",
+        "ville": "Fullerton"
+    }
+}

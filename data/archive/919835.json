@@ -1,0 +1,19 @@
+{
+    "order_id": 919835,
+    "client_id": 1615,
+    "produits": [
+        {
+            "produit_id": "P1141",
+            "nom": "Gently Used Cotton Shoes",
+            "quantite": 5,
+            "prix_unitaire": 416.5
+        }
+    ],
+    "date_commande": "2024-05-17T20:14:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1202 Pratt",
+        "ville": "Cleveland"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 864070,
+    "client_id": 3050,
+    "produits": [
+        {
+            "produit_id": "P3803",
+            "nom": "Refined Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 219.16
+        },
+        {
+            "produit_id": "P0889",
+            "nom": "For repair Shoes",
+            "quantite": 5,
+            "prix_unitaire": 184.19
+        }
+    ],
+    "date_commande": "2024-10-16T05:29:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "803 Beckett",
+        "ville": "Papillion"
+    }
+}

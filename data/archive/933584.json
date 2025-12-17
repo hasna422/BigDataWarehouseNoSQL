@@ -1,0 +1,19 @@
+{
+    "order_id": 933584,
+    "client_id": 1366,
+    "produits": [
+        {
+            "produit_id": "P8556",
+            "nom": "Ergonomic Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 314.67
+        }
+    ],
+    "date_commande": "2024-07-28T02:17:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "54 Stow Lake",
+        "ville": "East Ridge"
+    }
+}

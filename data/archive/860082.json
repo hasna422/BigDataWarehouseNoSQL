@@ -1,0 +1,19 @@
+{
+    "order_id": 860082,
+    "client_id": 5787,
+    "produits": [
+        {
+            "produit_id": "P3673",
+            "nom": "Soft Chips",
+            "quantite": 5,
+            "prix_unitaire": 270.11
+        }
+    ],
+    "date_commande": "2024-07-06T21:09:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "734 Cameo",
+        "ville": "Evansville"
+    }
+}

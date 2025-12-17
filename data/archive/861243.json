@@ -1,0 +1,25 @@
+{
+    "order_id": 861243,
+    "client_id": 2147,
+    "produits": [
+        {
+            "produit_id": "P8709",
+            "nom": "Incredible Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 133.23
+        },
+        {
+            "produit_id": "P8281",
+            "nom": "Unbranded Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 161.96
+        }
+    ],
+    "date_commande": "2025-02-05T14:36:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "559 Fielding",
+        "ville": "Galesburg"
+    }
+}

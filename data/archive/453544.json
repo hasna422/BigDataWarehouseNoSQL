@@ -1,0 +1,31 @@
+{
+    "order_id": 453544,
+    "client_id": 7204,
+    "produits": [
+        {
+            "produit_id": "P7482",
+            "nom": "Small Cotton Towels",
+            "quantite": 2,
+            "prix_unitaire": 456.25
+        },
+        {
+            "produit_id": "P5627",
+            "nom": "Used Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 498.52
+        },
+        {
+            "produit_id": "P6813",
+            "nom": "Practical Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 16.74
+        }
+    ],
+    "date_commande": "2023-11-14T05:42:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1022 Hemdale",
+        "ville": "Griffin"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 881022,
+    "client_id": 7760,
+    "produits": [
+        {
+            "produit_id": "P5914",
+            "nom": "New Bike",
+            "quantite": 4,
+            "prix_unitaire": 138.06
+        }
+    ],
+    "date_commande": "2024-04-18T18:01:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

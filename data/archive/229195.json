@@ -1,0 +1,25 @@
+{
+    "order_id": 229195,
+    "client_id": 6456,
+    "produits": [
+        {
+            "produit_id": "P4717",
+            "nom": "Practical Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 18.67
+        },
+        {
+            "produit_id": "P9490",
+            "nom": "Fantastic Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 128.84
+        }
+    ],
+    "date_commande": "2023-09-03T13:57:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "901 Golden",
+        "ville": "East Lansing"
+    }
+}

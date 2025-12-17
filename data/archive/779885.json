@@ -1,0 +1,21 @@
+{
+    "order_id": 779885,
+    "client_id": 4003,
+    "produits": [
+        {
+            "produit_id": "P5616",
+            "nom": "Handmade Granite Table",
+            "quantite": 4,
+            "prix_unitaire": 386.21
+        },
+        {
+            "produit_id": "P9578",
+            "nom": "Tasty Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 453.0
+        }
+    ],
+    "date_commande": "2025-02-25T01:17:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

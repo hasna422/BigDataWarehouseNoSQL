@@ -1,0 +1,19 @@
+{
+    "order_id": 398291,
+    "client_id": 8543,
+    "produits": [
+        {
+            "produit_id": "P7592",
+            "nom": "Gently Used Metal Sausages",
+            "quantite": 3,
+            "prix_unitaire": 246.71
+        }
+    ],
+    "date_commande": "2024-05-27T14:52:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1177 Kaplan",
+        "ville": "Moline"
+    }
+}

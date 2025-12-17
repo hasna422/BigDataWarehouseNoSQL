@@ -1,0 +1,19 @@
+{
+    "order_id": 283878,
+    "client_id": 2710,
+    "produits": [
+        {
+            "produit_id": "P9564",
+            "nom": "Used Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 349.29
+        }
+    ],
+    "date_commande": "2023-06-18T06:06:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1131 Kobbe",
+        "ville": "Redwood City"
+    }
+}

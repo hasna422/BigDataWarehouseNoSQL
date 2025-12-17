@@ -1,0 +1,21 @@
+{
+    "order_id": 654620,
+    "client_id": 2980,
+    "produits": [
+        {
+            "produit_id": "P7123",
+            "nom": "Licensed Pants",
+            "quantite": 2,
+            "prix_unitaire": 210.2
+        },
+        {
+            "produit_id": "P7007",
+            "nom": "Rubber Fish",
+            "quantite": 4,
+            "prix_unitaire": 257.38
+        }
+    ],
+    "date_commande": "2023-05-31T06:16:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

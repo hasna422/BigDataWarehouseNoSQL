@@ -1,0 +1,15 @@
+{
+    "order_id": 513520,
+    "client_id": 2619,
+    "produits": [
+        {
+            "produit_id": "P9196",
+            "nom": "Incredible Cheese",
+            "quantite": 4,
+            "prix_unitaire": 435.31
+        }
+    ],
+    "date_commande": "2024-04-06T08:54:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

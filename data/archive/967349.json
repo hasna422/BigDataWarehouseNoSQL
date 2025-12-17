@@ -1,0 +1,31 @@
+{
+    "order_id": 967349,
+    "client_id": 6657,
+    "produits": [
+        {
+            "produit_id": "P4214",
+            "nom": "Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 87.49
+        },
+        {
+            "produit_id": "P8047",
+            "nom": "Intelligent Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 93.12
+        },
+        {
+            "produit_id": "P8610",
+            "nom": "Small Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 439.79
+        }
+    ],
+    "date_commande": "2023-06-05T05:19:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "905 Sonoma",
+        "ville": "Avon"
+    }
+}

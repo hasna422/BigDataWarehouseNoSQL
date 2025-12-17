@@ -1,0 +1,19 @@
+{
+    "order_id": 913196,
+    "client_id": 8991,
+    "produits": [
+        {
+            "produit_id": "P8785",
+            "nom": "Refined Metal Pants",
+            "quantite": 5,
+            "prix_unitaire": 498.34
+        }
+    ],
+    "date_commande": "2024-12-03T11:00:21",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "837 Craut",
+        "ville": "Grand Prairie"
+    }
+}

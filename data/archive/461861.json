@@ -1,0 +1,15 @@
+{
+    "order_id": 461861,
+    "client_id": 7234,
+    "produits": [
+        {
+            "produit_id": "P9558",
+            "nom": "Generic Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 364.03
+        }
+    ],
+    "date_commande": "2025-02-28T22:19:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

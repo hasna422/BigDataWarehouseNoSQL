@@ -1,0 +1,31 @@
+{
+    "order_id": 364647,
+    "client_id": 3122,
+    "produits": [
+        {
+            "produit_id": "P2080",
+            "nom": "Handcrafted Concrete Gloves",
+            "quantite": 4,
+            "prix_unitaire": 41.57
+        },
+        {
+            "produit_id": "P8961",
+            "nom": "Ergonomic Frozen Ball",
+            "quantite": 2,
+            "prix_unitaire": 487.8
+        },
+        {
+            "produit_id": "P5902",
+            "nom": "Tasty Chair",
+            "quantite": 5,
+            "prix_unitaire": 277.84
+        }
+    ],
+    "date_commande": "2024-09-15T23:22:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "221 Young",
+        "ville": "Acworth"
+    }
+}

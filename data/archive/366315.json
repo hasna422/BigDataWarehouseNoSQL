@@ -1,0 +1,15 @@
+{
+    "order_id": 366315,
+    "client_id": 3256,
+    "produits": [
+        {
+            "produit_id": "P3614",
+            "nom": "Incredible Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 49.44
+        }
+    ],
+    "date_commande": "2025-05-24T15:29:28",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

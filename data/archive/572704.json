@@ -1,0 +1,19 @@
+{
+    "order_id": 572704,
+    "client_id": 9453,
+    "produits": [
+        {
+            "produit_id": "P5832",
+            "nom": "Licensed Frozen Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 198.63
+        }
+    ],
+    "date_commande": "2023-10-04T04:34:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1351 Isola",
+        "ville": "Ridgeland"
+    }
+}

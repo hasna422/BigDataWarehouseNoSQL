@@ -1,0 +1,27 @@
+{
+    "order_id": 945026,
+    "client_id": 5117,
+    "produits": [
+        {
+            "produit_id": "P8008",
+            "nom": "Ergonomic Soft Bacon",
+            "quantite": 1,
+            "prix_unitaire": 72.19
+        },
+        {
+            "produit_id": "P5677",
+            "nom": "Rustic Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 156.62
+        },
+        {
+            "produit_id": "P9089",
+            "nom": "Practical Rubber Ball",
+            "quantite": 1,
+            "prix_unitaire": 439.7
+        }
+    ],
+    "date_commande": "2023-06-01T22:29:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

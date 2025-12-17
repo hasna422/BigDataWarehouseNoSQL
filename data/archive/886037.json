@@ -1,0 +1,27 @@
+{
+    "order_id": 886037,
+    "client_id": 1275,
+    "produits": [
+        {
+            "produit_id": "P9823",
+            "nom": "Fantastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 158.98
+        },
+        {
+            "produit_id": "P8010",
+            "nom": "Fantastic Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 410.98
+        },
+        {
+            "produit_id": "P5939",
+            "nom": "Generic Table",
+            "quantite": 4,
+            "prix_unitaire": 121.91
+        }
+    ],
+    "date_commande": "2024-11-16T05:45:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

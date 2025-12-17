@@ -1,0 +1,15 @@
+{
+    "order_id": 549690,
+    "client_id": 9578,
+    "produits": [
+        {
+            "produit_id": "P9846",
+            "nom": "Rustic Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 424.62
+        }
+    ],
+    "date_commande": "2023-08-18T12:39:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

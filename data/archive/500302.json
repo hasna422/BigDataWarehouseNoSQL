@@ -1,0 +1,31 @@
+{
+    "order_id": 500302,
+    "client_id": 4372,
+    "produits": [
+        {
+            "produit_id": "P5672",
+            "nom": "Licensed Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 365.44
+        },
+        {
+            "produit_id": "P0075",
+            "nom": "Handmade Rubber Towels",
+            "quantite": 4,
+            "prix_unitaire": 336.12
+        },
+        {
+            "produit_id": "P9260",
+            "nom": "Unbranded Bike",
+            "quantite": 2,
+            "prix_unitaire": 355.86
+        }
+    ],
+    "date_commande": "2023-11-04T03:04:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "930 Amherst",
+        "ville": "Indio"
+    }
+}

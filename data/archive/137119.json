@@ -1,0 +1,19 @@
+{
+    "order_id": 137119,
+    "client_id": 3956,
+    "produits": [
+        {
+            "produit_id": "P8396",
+            "nom": "For repair Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 380.03
+        }
+    ],
+    "date_commande": "2024-07-15T02:18:38",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "453 Fenton",
+        "ville": "Anniston"
+    }
+}

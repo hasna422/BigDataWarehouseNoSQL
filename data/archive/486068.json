@@ -1,0 +1,21 @@
+{
+    "order_id": 486068,
+    "client_id": 8466,
+    "produits": [
+        {
+            "produit_id": "P8247",
+            "nom": "Cotton Chair",
+            "quantite": 5,
+            "prix_unitaire": 25.64
+        },
+        {
+            "produit_id": "P0217",
+            "nom": "Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 239.22
+        }
+    ],
+    "date_commande": "2023-06-07T10:02:24",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

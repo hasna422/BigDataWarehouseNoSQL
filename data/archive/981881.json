@@ -1,0 +1,27 @@
+{
+    "order_id": 981881,
+    "client_id": 9986,
+    "produits": [
+        {
+            "produit_id": "P4572",
+            "nom": "Awesome Hat",
+            "quantite": 2,
+            "prix_unitaire": 19.04
+        },
+        {
+            "produit_id": "P9344",
+            "nom": "For repair Cotton Computer",
+            "quantite": 5,
+            "prix_unitaire": 311.33
+        },
+        {
+            "produit_id": "P6318",
+            "nom": "Steel Gloves",
+            "quantite": 3,
+            "prix_unitaire": 495.12
+        }
+    ],
+    "date_commande": "2023-06-17T23:55:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

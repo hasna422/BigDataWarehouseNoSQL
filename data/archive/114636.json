@@ -1,0 +1,25 @@
+{
+    "order_id": 114636,
+    "client_id": 2630,
+    "produits": [
+        {
+            "produit_id": "P2909",
+            "nom": "Tasty Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 194.2
+        },
+        {
+            "produit_id": "P8767",
+            "nom": "Fantastic Plastic Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 290.07
+        }
+    ],
+    "date_commande": "2024-11-02T03:50:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "364 Montague",
+        "ville": "La Quinta"
+    }
+}

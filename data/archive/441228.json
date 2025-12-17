@@ -1,0 +1,19 @@
+{
+    "order_id": 441228,
+    "client_id": 2850,
+    "produits": [
+        {
+            "produit_id": "P7922",
+            "nom": "Sleek Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 366.32
+        }
+    ],
+    "date_commande": "2023-07-16T00:54:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "703 Annie",
+        "ville": "Hemet"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 287185,
+    "client_id": 6543,
+    "produits": [
+        {
+            "produit_id": "P6645",
+            "nom": "Gently Used Soft Chicken",
+            "quantite": 3,
+            "prix_unitaire": 497.28
+        },
+        {
+            "produit_id": "P0542",
+            "nom": "Handcrafted Granite Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 28.57
+        },
+        {
+            "produit_id": "P1220",
+            "nom": "Handcrafted Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 190.87
+        }
+    ],
+    "date_commande": "2024-05-30T17:39:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

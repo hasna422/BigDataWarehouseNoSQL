@@ -1,0 +1,19 @@
+{
+    "order_id": 987573,
+    "client_id": 3533,
+    "produits": [
+        {
+            "produit_id": "P0312",
+            "nom": "Handcrafted Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 349.69
+        }
+    ],
+    "date_commande": "2023-07-12T21:21:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "582 Science",
+        "ville": "Plainfield"
+    }
+}

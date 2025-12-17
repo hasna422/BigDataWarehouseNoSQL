@@ -1,0 +1,25 @@
+{
+    "order_id": 917746,
+    "client_id": 2017,
+    "produits": [
+        {
+            "produit_id": "P6094",
+            "nom": "Handmade Rubber Tuna",
+            "quantite": 3,
+            "prix_unitaire": 151.41
+        },
+        {
+            "produit_id": "P8203",
+            "nom": "Generic Concrete Cheese",
+            "quantite": 3,
+            "prix_unitaire": 83.99
+        }
+    ],
+    "date_commande": "2024-12-09T20:17:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "289 Carpenter",
+        "ville": "Idaho Falls"
+    }
+}

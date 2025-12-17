@@ -1,0 +1,31 @@
+{
+    "order_id": 274082,
+    "client_id": 3328,
+    "produits": [
+        {
+            "produit_id": "P0336",
+            "nom": "For repair Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 21.56
+        },
+        {
+            "produit_id": "P5297",
+            "nom": "Gorgeous Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 45.61
+        },
+        {
+            "produit_id": "P3293",
+            "nom": "New Soap",
+            "quantite": 4,
+            "prix_unitaire": 83.78
+        }
+    ],
+    "date_commande": "2023-06-07T12:37:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1234 Jules",
+        "ville": "Elk Grove"
+    }
+}

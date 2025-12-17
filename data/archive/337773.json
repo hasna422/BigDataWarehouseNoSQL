@@ -1,0 +1,15 @@
+{
+    "order_id": 337773,
+    "client_id": 3874,
+    "produits": [
+        {
+            "produit_id": "P6215",
+            "nom": "New Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 484.93
+        }
+    ],
+    "date_commande": "2025-02-27T15:28:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

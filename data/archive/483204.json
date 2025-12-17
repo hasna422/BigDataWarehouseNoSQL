@@ -1,0 +1,31 @@
+{
+    "order_id": 483204,
+    "client_id": 6875,
+    "produits": [
+        {
+            "produit_id": "P0094",
+            "nom": "Handmade Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 52.34
+        },
+        {
+            "produit_id": "P5308",
+            "nom": "Ergonomic Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 70.66
+        },
+        {
+            "produit_id": "P3558",
+            "nom": "Gorgeous Plastic Ball",
+            "quantite": 2,
+            "prix_unitaire": 198.17
+        }
+    ],
+    "date_commande": "2023-10-08T07:51:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "546 Morningside",
+        "ville": "Alexandria"
+    }
+}

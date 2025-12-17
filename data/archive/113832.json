@@ -1,0 +1,19 @@
+{
+    "order_id": 113832,
+    "client_id": 5929,
+    "produits": [
+        {
+            "produit_id": "P8749",
+            "nom": "Sleek Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 155.71
+        }
+    ],
+    "date_commande": "2023-08-06T05:04:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "989 Dove",
+        "ville": "Deer Park"
+    }
+}

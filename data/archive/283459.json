@@ -1,0 +1,31 @@
+{
+    "order_id": 283459,
+    "client_id": 3310,
+    "produits": [
+        {
+            "produit_id": "P6561",
+            "nom": "Incredible Frozen Shirt",
+            "quantite": 3,
+            "prix_unitaire": 277.45
+        },
+        {
+            "produit_id": "P1526",
+            "nom": "Tasty Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 293.99
+        },
+        {
+            "produit_id": "P4550",
+            "nom": "Practical Rubber Gloves",
+            "quantite": 2,
+            "prix_unitaire": 62.58
+        }
+    ],
+    "date_commande": "2024-05-16T13:03:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "404 Nantucket",
+        "ville": "Bonney Lake"
+    }
+}

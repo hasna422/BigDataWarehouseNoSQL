@@ -1,0 +1,19 @@
+{
+    "order_id": 114531,
+    "client_id": 8686,
+    "produits": [
+        {
+            "produit_id": "P6669",
+            "nom": "Gorgeous Wooden Sausages",
+            "quantite": 5,
+            "prix_unitaire": 491.66
+        }
+    ],
+    "date_commande": "2024-07-02T14:40:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "751 Caine",
+        "ville": "Palatine"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 821142,
+    "client_id": 4751,
+    "produits": [
+        {
+            "produit_id": "P4329",
+            "nom": "Handcrafted Concrete Hat",
+            "quantite": 4,
+            "prix_unitaire": 433.07
+        }
+    ],
+    "date_commande": "2025-04-26T14:09:53",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

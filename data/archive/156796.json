@@ -1,0 +1,27 @@
+{
+    "order_id": 156796,
+    "client_id": 7504,
+    "produits": [
+        {
+            "produit_id": "P4922",
+            "nom": "Intelligent Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 416.65
+        },
+        {
+            "produit_id": "P9693",
+            "nom": "Tasty Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 226.01
+        },
+        {
+            "produit_id": "P2345",
+            "nom": "Gently Used Cotton Table",
+            "quantite": 4,
+            "prix_unitaire": 362.65
+        }
+    ],
+    "date_commande": "2025-02-28T07:56:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

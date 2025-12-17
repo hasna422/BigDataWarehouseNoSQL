@@ -1,0 +1,21 @@
+{
+    "order_id": 534721,
+    "client_id": 2957,
+    "produits": [
+        {
+            "produit_id": "P2315",
+            "nom": "For repair Granite Car",
+            "quantite": 1,
+            "prix_unitaire": 373.12
+        },
+        {
+            "produit_id": "P2139",
+            "nom": "For repair Frozen Ball",
+            "quantite": 2,
+            "prix_unitaire": 376.1
+        }
+    ],
+    "date_commande": "2025-04-09T14:11:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

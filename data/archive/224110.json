@@ -1,0 +1,25 @@
+{
+    "order_id": 224110,
+    "client_id": 1895,
+    "produits": [
+        {
+            "produit_id": "P6626",
+            "nom": "Gorgeous Gloves",
+            "quantite": 2,
+            "prix_unitaire": 68.69
+        },
+        {
+            "produit_id": "P6294",
+            "nom": "Rustic Wooden Tuna",
+            "quantite": 1,
+            "prix_unitaire": 306.31
+        }
+    ],
+    "date_commande": "2023-10-13T22:03:34",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "228 Acadia",
+        "ville": "Grand Forks"
+    }
+}

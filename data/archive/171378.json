@@ -1,0 +1,25 @@
+{
+    "order_id": 171378,
+    "client_id": 5497,
+    "produits": [
+        {
+            "produit_id": "P4385",
+            "nom": "Fantastic Granite Bacon",
+            "quantite": 3,
+            "prix_unitaire": 97.89
+        },
+        {
+            "produit_id": "P3443",
+            "nom": "Licensed Wooden Chicken",
+            "quantite": 5,
+            "prix_unitaire": 228.66
+        }
+    ],
+    "date_commande": "2024-12-27T04:11:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "787 E",
+        "ville": "Hinesville"
+    }
+}

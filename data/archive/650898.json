@@ -1,0 +1,15 @@
+{
+    "order_id": 650898,
+    "client_id": 9617,
+    "produits": [
+        {
+            "produit_id": "P6798",
+            "nom": "Small Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 367.95
+        }
+    ],
+    "date_commande": "2024-06-10T16:48:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

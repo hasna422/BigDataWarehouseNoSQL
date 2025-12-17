@@ -1,0 +1,15 @@
+{
+    "order_id": 516431,
+    "client_id": 4136,
+    "produits": [
+        {
+            "produit_id": "P2874",
+            "nom": "Handmade Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 80.87
+        }
+    ],
+    "date_commande": "2023-10-14T05:57:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 331639,
+    "client_id": 7067,
+    "produits": [
+        {
+            "produit_id": "P5494",
+            "nom": "Gorgeous Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 232.44
+        },
+        {
+            "produit_id": "P0414",
+            "nom": "Sleek Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 239.12
+        }
+    ],
+    "date_commande": "2023-10-02T16:56:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

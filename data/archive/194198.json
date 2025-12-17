@@ -1,0 +1,25 @@
+{
+    "order_id": 194198,
+    "client_id": 2524,
+    "produits": [
+        {
+            "produit_id": "P9908",
+            "nom": "Shoes",
+            "quantite": 3,
+            "prix_unitaire": 134.49
+        },
+        {
+            "produit_id": "P1107",
+            "nom": "Incredible Plastic Bike",
+            "quantite": 2,
+            "prix_unitaire": 38.32
+        }
+    ],
+    "date_commande": "2024-11-10T02:14:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "526 Avenue C",
+        "ville": "Weirton"
+    }
+}

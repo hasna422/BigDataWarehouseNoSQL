@@ -1,0 +1,27 @@
+{
+    "order_id": 655645,
+    "client_id": 7398,
+    "produits": [
+        {
+            "produit_id": "P3379",
+            "nom": "Rubber Gloves",
+            "quantite": 3,
+            "prix_unitaire": 274.43
+        },
+        {
+            "produit_id": "P7636",
+            "nom": "Plastic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 47.99
+        },
+        {
+            "produit_id": "P4785",
+            "nom": "Unbranded Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 126.67
+        }
+    ],
+    "date_commande": "2023-10-24T01:18:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 510268,
+    "client_id": 2276,
+    "produits": [
+        {
+            "produit_id": "P5890",
+            "nom": "Refined Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 191.98
+        },
+        {
+            "produit_id": "P1243",
+            "nom": "New Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 446.81
+        },
+        {
+            "produit_id": "P4388",
+            "nom": "Generic Chair",
+            "quantite": 5,
+            "prix_unitaire": 438.3
+        }
+    ],
+    "date_commande": "2024-03-04T03:57:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1073 Huntington",
+        "ville": "Owensboro"
+    }
+}

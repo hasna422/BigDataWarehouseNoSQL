@@ -1,0 +1,21 @@
+{
+    "order_id": 781895,
+    "client_id": 3551,
+    "produits": [
+        {
+            "produit_id": "P8085",
+            "nom": "Ergonomic Fresh Shoes",
+            "quantite": 5,
+            "prix_unitaire": 149.78
+        },
+        {
+            "produit_id": "P4209",
+            "nom": "Small Granite Chicken",
+            "quantite": 3,
+            "prix_unitaire": 454.89
+        }
+    ],
+    "date_commande": "2024-11-14T20:43:06",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

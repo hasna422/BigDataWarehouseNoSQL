@@ -1,0 +1,27 @@
+{
+    "order_id": 387192,
+    "client_id": 7908,
+    "produits": [
+        {
+            "produit_id": "P7247",
+            "nom": "Unbranded Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 359.62
+        },
+        {
+            "produit_id": "P7861",
+            "nom": "For repair Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 141.1
+        },
+        {
+            "produit_id": "P7345",
+            "nom": "Ergonomic Metal Computer",
+            "quantite": 5,
+            "prix_unitaire": 68.31
+        }
+    ],
+    "date_commande": "2024-06-08T07:35:38",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

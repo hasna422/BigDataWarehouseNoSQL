@@ -1,0 +1,25 @@
+{
+    "order_id": 104435,
+    "client_id": 3506,
+    "produits": [
+        {
+            "produit_id": "P8451",
+            "nom": "Practical Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 139.61
+        },
+        {
+            "produit_id": "P7067",
+            "nom": "Refined Cotton Pizza",
+            "quantite": 2,
+            "prix_unitaire": 148.19
+        }
+    ],
+    "date_commande": "2024-12-17T06:47:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "72 Bessie",
+        "ville": "North Plainfield"
+    }
+}

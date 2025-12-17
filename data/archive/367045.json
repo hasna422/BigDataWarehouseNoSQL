@@ -1,0 +1,25 @@
+{
+    "order_id": 367045,
+    "client_id": 8740,
+    "produits": [
+        {
+            "produit_id": "P6186",
+            "nom": "Handmade Wooden Bike",
+            "quantite": 1,
+            "prix_unitaire": 85.46
+        },
+        {
+            "produit_id": "P3562",
+            "nom": "Tasty Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 379.59
+        }
+    ],
+    "date_commande": "2023-07-01T17:22:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "448 Allen",
+        "ville": "Baldwin Park"
+    }
+}

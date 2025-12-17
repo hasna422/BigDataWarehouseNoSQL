@@ -1,0 +1,27 @@
+{
+    "order_id": 339573,
+    "client_id": 1290,
+    "produits": [
+        {
+            "produit_id": "P9792",
+            "nom": "Licensed Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 419.42
+        },
+        {
+            "produit_id": "P0329",
+            "nom": "Generic Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 484.68
+        },
+        {
+            "produit_id": "P8448",
+            "nom": "New Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 342.39
+        }
+    ],
+    "date_commande": "2025-03-29T02:53:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

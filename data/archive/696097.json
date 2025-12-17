@@ -1,0 +1,25 @@
+{
+    "order_id": 696097,
+    "client_id": 3900,
+    "produits": [
+        {
+            "produit_id": "P8807",
+            "nom": "Gently Used Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 209.22
+        },
+        {
+            "produit_id": "P6491",
+            "nom": "Licensed Cotton Table",
+            "quantite": 4,
+            "prix_unitaire": 492.04
+        }
+    ],
+    "date_commande": "2025-05-09T21:45:15",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "379 Malta",
+        "ville": "Northport"
+    }
+}

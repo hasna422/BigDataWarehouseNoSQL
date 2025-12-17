@@ -1,0 +1,15 @@
+{
+    "order_id": 410276,
+    "client_id": 2486,
+    "produits": [
+        {
+            "produit_id": "P8295",
+            "nom": "Ergonomic Granite Bacon",
+            "quantite": 2,
+            "prix_unitaire": 285.93
+        }
+    ],
+    "date_commande": "2025-01-07T02:04:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

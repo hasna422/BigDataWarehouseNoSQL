@@ -1,0 +1,19 @@
+{
+    "order_id": 636517,
+    "client_id": 6155,
+    "produits": [
+        {
+            "produit_id": "P9236",
+            "nom": "Licensed Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 206.61
+        }
+    ],
+    "date_commande": "2023-12-23T03:38:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "990 Pemberton",
+        "ville": "West Des Moines"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 772342,
+    "client_id": 8770,
+    "produits": [
+        {
+            "produit_id": "P6733",
+            "nom": "Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 24.93
+        }
+    ],
+    "date_commande": "2025-05-28T04:11:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "406 Manchester",
+        "ville": "Grants Pass"
+    }
+}

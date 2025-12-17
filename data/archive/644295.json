@@ -1,0 +1,15 @@
+{
+    "order_id": 644295,
+    "client_id": 2230,
+    "produits": [
+        {
+            "produit_id": "P5272",
+            "nom": "Awesome Mouse",
+            "quantite": 4,
+            "prix_unitaire": 418.15
+        }
+    ],
+    "date_commande": "2024-09-23T15:58:07",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 921591,
+    "client_id": 9781,
+    "produits": [
+        {
+            "produit_id": "P9021",
+            "nom": "For repair Frozen Pizza",
+            "quantite": 3,
+            "prix_unitaire": 495.53
+        }
+    ],
+    "date_commande": "2024-01-26T09:48:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1326 Rodgers",
+        "ville": "Plum"
+    }
+}

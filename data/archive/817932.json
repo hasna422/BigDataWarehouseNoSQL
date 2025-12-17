@@ -1,0 +1,15 @@
+{
+    "order_id": 817932,
+    "client_id": 6637,
+    "produits": [
+        {
+            "produit_id": "P1993",
+            "nom": "Handcrafted Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 122.1
+        }
+    ],
+    "date_commande": "2024-02-22T04:44:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

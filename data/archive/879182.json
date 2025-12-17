@@ -1,0 +1,25 @@
+{
+    "order_id": 879182,
+    "client_id": 2617,
+    "produits": [
+        {
+            "produit_id": "P1838",
+            "nom": "Sleek Metal Mouse",
+            "quantite": 3,
+            "prix_unitaire": 390.81
+        },
+        {
+            "produit_id": "P5708",
+            "nom": "Rustic Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 355.92
+        }
+    ],
+    "date_commande": "2024-06-11T14:25:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "223 Georgia",
+        "ville": "Lake Oswego"
+    }
+}

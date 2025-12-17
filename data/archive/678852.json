@@ -1,0 +1,25 @@
+{
+    "order_id": 678852,
+    "client_id": 1676,
+    "produits": [
+        {
+            "produit_id": "P4507",
+            "nom": "Handmade Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 454.47
+        },
+        {
+            "produit_id": "P5329",
+            "nom": "Rustic Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 214.88
+        }
+    ],
+    "date_commande": "2023-06-01T05:43:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "348 Arleta",
+        "ville": "Centennial"
+    }
+}

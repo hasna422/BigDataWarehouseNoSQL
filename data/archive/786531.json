@@ -1,0 +1,31 @@
+{
+    "order_id": 786531,
+    "client_id": 6083,
+    "produits": [
+        {
+            "produit_id": "P7997",
+            "nom": "Fish",
+            "quantite": 4,
+            "prix_unitaire": 322.27
+        },
+        {
+            "produit_id": "P6048",
+            "nom": "Rustic Mouse",
+            "quantite": 3,
+            "prix_unitaire": 405.08
+        },
+        {
+            "produit_id": "P8326",
+            "nom": "Fantastic Pizza",
+            "quantite": 3,
+            "prix_unitaire": 36.48
+        }
+    ],
+    "date_commande": "2023-12-06T06:30:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1344 Austin",
+        "ville": "Chester"
+    }
+}

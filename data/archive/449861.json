@@ -1,0 +1,21 @@
+{
+    "order_id": 449861,
+    "client_id": 5505,
+    "produits": [
+        {
+            "produit_id": "P2521",
+            "nom": "Used Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 33.95
+        },
+        {
+            "produit_id": "P5307",
+            "nom": "Handcrafted Fresh Computer",
+            "quantite": 5,
+            "prix_unitaire": 254.57
+        }
+    ],
+    "date_commande": "2024-07-25T19:14:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

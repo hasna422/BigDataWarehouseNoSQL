@@ -1,0 +1,19 @@
+{
+    "order_id": 556816,
+    "client_id": 2135,
+    "produits": [
+        {
+            "produit_id": "P2941",
+            "nom": "Used Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 457.83
+        }
+    ],
+    "date_commande": "2025-03-31T02:40:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1233 San Luis",
+        "ville": "Ferndale"
+    }
+}

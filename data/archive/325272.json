@@ -1,0 +1,19 @@
+{
+    "order_id": 325272,
+    "client_id": 2044,
+    "produits": [
+        {
+            "produit_id": "P0514",
+            "nom": "Handmade Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 9.43
+        }
+    ],
+    "date_commande": "2024-08-24T20:07:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "947 Magellan",
+        "ville": "Bridgeton"
+    }
+}

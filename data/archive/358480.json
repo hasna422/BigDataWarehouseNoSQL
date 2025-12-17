@@ -1,0 +1,21 @@
+{
+    "order_id": 358480,
+    "client_id": 9256,
+    "produits": [
+        {
+            "produit_id": "P7977",
+            "nom": "Used Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 365.86
+        },
+        {
+            "produit_id": "P4146",
+            "nom": "Refined Metal Pizza",
+            "quantite": 3,
+            "prix_unitaire": 418.38
+        }
+    ],
+    "date_commande": "2023-07-20T04:58:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

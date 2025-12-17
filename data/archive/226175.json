@@ -1,0 +1,31 @@
+{
+    "order_id": 226175,
+    "client_id": 9807,
+    "produits": [
+        {
+            "produit_id": "P9456",
+            "nom": "Tasty Gloves",
+            "quantite": 1,
+            "prix_unitaire": 368.11
+        },
+        {
+            "produit_id": "P6941",
+            "nom": "Awesome Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 334.39
+        },
+        {
+            "produit_id": "P4463",
+            "nom": "For repair Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 73.12
+        }
+    ],
+    "date_commande": "2023-10-28T00:15:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "757 Conrad",
+        "ville": "Zanesville"
+    }
+}

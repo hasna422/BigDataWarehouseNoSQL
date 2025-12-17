@@ -1,0 +1,25 @@
+{
+    "order_id": 610568,
+    "client_id": 7081,
+    "produits": [
+        {
+            "produit_id": "P0893",
+            "nom": "New Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 353.64
+        },
+        {
+            "produit_id": "P7618",
+            "nom": "Awesome Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 187.56
+        }
+    ],
+    "date_commande": "2024-08-13T19:29:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1274 Cowles",
+        "ville": "Port Huron"
+    }
+}

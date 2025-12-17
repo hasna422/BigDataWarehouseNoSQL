@@ -1,0 +1,27 @@
+{
+    "order_id": 337146,
+    "client_id": 8950,
+    "produits": [
+        {
+            "produit_id": "P7585",
+            "nom": "Gorgeous Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 439.66
+        },
+        {
+            "produit_id": "P6659",
+            "nom": "For repair Metal Computer",
+            "quantite": 3,
+            "prix_unitaire": 62.11
+        },
+        {
+            "produit_id": "P1753",
+            "nom": "Gorgeous Frozen Hat",
+            "quantite": 5,
+            "prix_unitaire": 188.33
+        }
+    ],
+    "date_commande": "2025-02-15T10:23:58",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

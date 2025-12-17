@@ -1,0 +1,31 @@
+{
+    "order_id": 246971,
+    "client_id": 1905,
+    "produits": [
+        {
+            "produit_id": "P2904",
+            "nom": "Ergonomic Table",
+            "quantite": 3,
+            "prix_unitaire": 99.94
+        },
+        {
+            "produit_id": "P9912",
+            "nom": "Used Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 186.03
+        },
+        {
+            "produit_id": "P1817",
+            "nom": "New Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 179.53
+        }
+    ],
+    "date_commande": "2023-07-02T18:52:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "577 Gorgas",
+        "ville": "El Reno"
+    }
+}

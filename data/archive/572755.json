@@ -1,0 +1,25 @@
+{
+    "order_id": 572755,
+    "client_id": 6750,
+    "produits": [
+        {
+            "produit_id": "P4849",
+            "nom": "Wooden Ball",
+            "quantite": 3,
+            "prix_unitaire": 66.25
+        },
+        {
+            "produit_id": "P5839",
+            "nom": "Awesome Pizza",
+            "quantite": 5,
+            "prix_unitaire": 357.79
+        }
+    ],
+    "date_commande": "2023-10-02T19:38:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "331 Stow Lake",
+        "ville": "Kennewick"
+    }
+}

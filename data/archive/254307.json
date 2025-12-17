@@ -1,0 +1,25 @@
+{
+    "order_id": 254307,
+    "client_id": 7659,
+    "produits": [
+        {
+            "produit_id": "P8607",
+            "nom": "Intelligent Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 206.13
+        },
+        {
+            "produit_id": "P3497",
+            "nom": "Licensed Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 94.43
+        }
+    ],
+    "date_commande": "2025-01-18T18:52:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "589 Tunnel",
+        "ville": "Santa Clara"
+    }
+}

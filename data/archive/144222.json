@@ -1,0 +1,27 @@
+{
+    "order_id": 144222,
+    "client_id": 9104,
+    "produits": [
+        {
+            "produit_id": "P2493",
+            "nom": "New Cheese",
+            "quantite": 5,
+            "prix_unitaire": 374.66
+        },
+        {
+            "produit_id": "P3138",
+            "nom": "Generic Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 372.12
+        },
+        {
+            "produit_id": "P5050",
+            "nom": "Gently Used Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 493.09
+        }
+    ],
+    "date_commande": "2024-12-03T14:20:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

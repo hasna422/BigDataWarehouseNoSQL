@@ -1,0 +1,21 @@
+{
+    "order_id": 138278,
+    "client_id": 6142,
+    "produits": [
+        {
+            "produit_id": "P8013",
+            "nom": "Intelligent Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 117.04
+        },
+        {
+            "produit_id": "P0374",
+            "nom": "Practical Steel Computer",
+            "quantite": 1,
+            "prix_unitaire": 135.45
+        }
+    ],
+    "date_commande": "2024-03-13T12:12:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

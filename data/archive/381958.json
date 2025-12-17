@@ -1,0 +1,27 @@
+{
+    "order_id": 381958,
+    "client_id": 1665,
+    "produits": [
+        {
+            "produit_id": "P0015",
+            "nom": "Ergonomic Metal Gloves",
+            "quantite": 5,
+            "prix_unitaire": 381.21
+        },
+        {
+            "produit_id": "P5187",
+            "nom": "Handmade Concrete Car",
+            "quantite": 5,
+            "prix_unitaire": 40.14
+        },
+        {
+            "produit_id": "P3522",
+            "nom": "Unbranded Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 423.43
+        }
+    ],
+    "date_commande": "2023-10-10T13:49:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

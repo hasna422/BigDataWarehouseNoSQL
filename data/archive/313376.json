@@ -1,0 +1,25 @@
+{
+    "order_id": 313376,
+    "client_id": 8367,
+    "produits": [
+        {
+            "produit_id": "P0930",
+            "nom": "Licensed Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 481.94
+        },
+        {
+            "produit_id": "P7450",
+            "nom": "Intelligent Cotton Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 46.32
+        }
+    ],
+    "date_commande": "2024-07-27T16:55:54",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "441 Rey",
+        "ville": "Vicksburg"
+    }
+}

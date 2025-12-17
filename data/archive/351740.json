@@ -1,0 +1,15 @@
+{
+    "order_id": 351740,
+    "client_id": 9854,
+    "produits": [
+        {
+            "produit_id": "P3051",
+            "nom": "Ergonomic Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 295.15
+        }
+    ],
+    "date_commande": "2025-04-11T18:07:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

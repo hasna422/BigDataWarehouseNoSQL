@@ -1,0 +1,31 @@
+{
+    "order_id": 293742,
+    "client_id": 1355,
+    "produits": [
+        {
+            "produit_id": "P5674",
+            "nom": "Intelligent Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 15.93
+        },
+        {
+            "produit_id": "P7248",
+            "nom": "Used Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 175.97
+        },
+        {
+            "produit_id": "P3812",
+            "nom": "Licensed Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 400.44
+        }
+    ],
+    "date_commande": "2023-06-02T08:52:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "509 El Camino Del Mar",
+        "ville": "Santa Fe"
+    }
+}

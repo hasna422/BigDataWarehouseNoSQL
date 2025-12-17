@@ -1,0 +1,21 @@
+{
+    "order_id": 337154,
+    "client_id": 8755,
+    "produits": [
+        {
+            "produit_id": "P4456",
+            "nom": "Practical Steel Shoes",
+            "quantite": 1,
+            "prix_unitaire": 217.22
+        },
+        {
+            "produit_id": "P0563",
+            "nom": "Fantastic Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 371.38
+        }
+    ],
+    "date_commande": "2024-06-05T11:07:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

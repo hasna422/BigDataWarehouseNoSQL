@@ -1,0 +1,25 @@
+{
+    "order_id": 970686,
+    "client_id": 7355,
+    "produits": [
+        {
+            "produit_id": "P1122",
+            "nom": "Refined Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 486.25
+        },
+        {
+            "produit_id": "P5226",
+            "nom": "Rustic Soap",
+            "quantite": 1,
+            "prix_unitaire": 12.98
+        }
+    ],
+    "date_commande": "2025-02-23T09:44:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1350 Mcnair",
+        "ville": "Michigan City"
+    }
+}

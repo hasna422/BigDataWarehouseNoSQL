@@ -1,0 +1,15 @@
+{
+    "order_id": 111712,
+    "client_id": 6423,
+    "produits": [
+        {
+            "produit_id": "P6468",
+            "nom": "Tasty Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 24.84
+        }
+    ],
+    "date_commande": "2024-06-03T23:04:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

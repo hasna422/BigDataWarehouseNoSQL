@@ -1,0 +1,19 @@
+{
+    "order_id": 161169,
+    "client_id": 5590,
+    "produits": [
+        {
+            "produit_id": "P7289",
+            "nom": "Sleek Frozen Pants",
+            "quantite": 2,
+            "prix_unitaire": 274.21
+        }
+    ],
+    "date_commande": "2024-11-10T13:14:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "899 Montcalm",
+        "ville": "Yorkville"
+    }
+}

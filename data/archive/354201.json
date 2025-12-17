@@ -1,0 +1,19 @@
+{
+    "order_id": 354201,
+    "client_id": 6005,
+    "produits": [
+        {
+            "produit_id": "P9709",
+            "nom": "Gorgeous Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 81.32
+        }
+    ],
+    "date_commande": "2025-02-28T08:19:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "847 Louisburg",
+        "ville": "Universal City"
+    }
+}

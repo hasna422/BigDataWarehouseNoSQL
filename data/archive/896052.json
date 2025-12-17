@@ -1,0 +1,19 @@
+{
+    "order_id": 896052,
+    "client_id": 7772,
+    "produits": [
+        {
+            "produit_id": "P0735",
+            "nom": "Handcrafted Towels",
+            "quantite": 1,
+            "prix_unitaire": 332.93
+        }
+    ],
+    "date_commande": "2025-02-18T22:21:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "187 Georgia",
+        "ville": "Belleville"
+    }
+}

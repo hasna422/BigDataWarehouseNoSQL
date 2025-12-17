@@ -1,0 +1,25 @@
+{
+    "order_id": 580859,
+    "client_id": 4804,
+    "produits": [
+        {
+            "produit_id": "P6320",
+            "nom": "Handmade Sausages",
+            "quantite": 4,
+            "prix_unitaire": 364.98
+        },
+        {
+            "produit_id": "P4640",
+            "nom": "For repair Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 423.64
+        }
+    ],
+    "date_commande": "2025-04-08T18:39:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "322 Deems",
+        "ville": "Green Bay"
+    }
+}

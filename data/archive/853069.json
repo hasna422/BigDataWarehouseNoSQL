@@ -1,0 +1,31 @@
+{
+    "order_id": 853069,
+    "client_id": 5956,
+    "produits": [
+        {
+            "produit_id": "P3279",
+            "nom": "Fantastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 51.7
+        },
+        {
+            "produit_id": "P3213",
+            "nom": "Tasty Cheese",
+            "quantite": 1,
+            "prix_unitaire": 427.02
+        },
+        {
+            "produit_id": "P1329",
+            "nom": "Used Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 282.29
+        }
+    ],
+    "date_commande": "2025-02-07T02:57:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "869 Brighton",
+        "ville": "Ellensburg"
+    }
+}

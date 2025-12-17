@@ -1,0 +1,27 @@
+{
+    "order_id": 571858,
+    "client_id": 3052,
+    "produits": [
+        {
+            "produit_id": "P3654",
+            "nom": "Ergonomic Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 72.18
+        },
+        {
+            "produit_id": "P5953",
+            "nom": "Fantastic Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 68.85
+        },
+        {
+            "produit_id": "P5786",
+            "nom": "Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 17.24
+        }
+    ],
+    "date_commande": "2024-12-27T12:49:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

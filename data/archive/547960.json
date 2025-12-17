@@ -1,0 +1,25 @@
+{
+    "order_id": 547960,
+    "client_id": 3846,
+    "produits": [
+        {
+            "produit_id": "P5492",
+            "nom": "Licensed Bike",
+            "quantite": 3,
+            "prix_unitaire": 165.3
+        },
+        {
+            "produit_id": "P9718",
+            "nom": "Refined Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 436.54
+        }
+    ],
+    "date_commande": "2023-12-01T23:55:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "507 Rosie Lee",
+        "ville": "Prescott Valley"
+    }
+}

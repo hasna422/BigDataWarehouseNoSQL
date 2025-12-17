@@ -1,0 +1,31 @@
+{
+    "order_id": 216004,
+    "client_id": 3255,
+    "produits": [
+        {
+            "produit_id": "P7129",
+            "nom": "New Granite Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 14.7
+        },
+        {
+            "produit_id": "P2726",
+            "nom": "Ergonomic Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 351.59
+        },
+        {
+            "produit_id": "P8975",
+            "nom": "Practical Cotton Table",
+            "quantite": 1,
+            "prix_unitaire": 101.83
+        }
+    ],
+    "date_commande": "2024-06-11T08:48:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "670 Sibley",
+        "ville": "Lawrenceville"
+    }
+}

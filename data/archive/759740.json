@@ -1,0 +1,31 @@
+{
+    "order_id": 759740,
+    "client_id": 5815,
+    "produits": [
+        {
+            "produit_id": "P1056",
+            "nom": "Rustic Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 489.55
+        },
+        {
+            "produit_id": "P7051",
+            "nom": "For repair Wooden Fish",
+            "quantite": 3,
+            "prix_unitaire": 451.52
+        },
+        {
+            "produit_id": "P5849",
+            "nom": "Used Soft Chicken",
+            "quantite": 5,
+            "prix_unitaire": 159.87
+        }
+    ],
+    "date_commande": "2025-03-24T11:35:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "833 Cayuga",
+        "ville": "Papillion"
+    }
+}

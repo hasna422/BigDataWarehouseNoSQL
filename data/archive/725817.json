@@ -1,0 +1,19 @@
+{
+    "order_id": 725817,
+    "client_id": 9908,
+    "produits": [
+        {
+            "produit_id": "P2745",
+            "nom": "Fantastic Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 70.74
+        }
+    ],
+    "date_commande": "2025-02-27T16:02:25",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "567 Cuvier",
+        "ville": "Chula Vista"
+    }
+}

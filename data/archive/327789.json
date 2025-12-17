@@ -1,0 +1,21 @@
+{
+    "order_id": 327789,
+    "client_id": 2608,
+    "produits": [
+        {
+            "produit_id": "P6510",
+            "nom": "Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 197.05
+        },
+        {
+            "produit_id": "P4959",
+            "nom": "Small Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 369.21
+        }
+    ],
+    "date_commande": "2023-10-12T08:35:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

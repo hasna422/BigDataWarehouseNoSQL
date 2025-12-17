@@ -1,0 +1,15 @@
+{
+    "order_id": 950359,
+    "client_id": 5069,
+    "produits": [
+        {
+            "produit_id": "P5717",
+            "nom": "Handcrafted Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 29.77
+        }
+    ],
+    "date_commande": "2023-11-10T12:16:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

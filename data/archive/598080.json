@@ -1,0 +1,21 @@
+{
+    "order_id": 598080,
+    "client_id": 5990,
+    "produits": [
+        {
+            "produit_id": "P3208",
+            "nom": "Handcrafted Granite Pants",
+            "quantite": 1,
+            "prix_unitaire": 118.09
+        },
+        {
+            "produit_id": "P8656",
+            "nom": "Handmade Cotton Pants",
+            "quantite": 1,
+            "prix_unitaire": 495.46
+        }
+    ],
+    "date_commande": "2025-01-22T17:56:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

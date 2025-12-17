@@ -1,0 +1,25 @@
+{
+    "order_id": 405443,
+    "client_id": 6070,
+    "produits": [
+        {
+            "produit_id": "P0119",
+            "nom": "Small Wooden Chips",
+            "quantite": 3,
+            "prix_unitaire": 289.49
+        },
+        {
+            "produit_id": "P1474",
+            "nom": "Unbranded Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 270.86
+        }
+    ],
+    "date_commande": "2023-07-19T17:07:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1243 Florence",
+        "ville": "Baton Rouge"
+    }
+}

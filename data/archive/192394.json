@@ -1,0 +1,21 @@
+{
+    "order_id": 192394,
+    "client_id": 8975,
+    "produits": [
+        {
+            "produit_id": "P5175",
+            "nom": "Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 71.5
+        },
+        {
+            "produit_id": "P2979",
+            "nom": "Small Towels",
+            "quantite": 3,
+            "prix_unitaire": 93.14
+        }
+    ],
+    "date_commande": "2023-06-03T22:35:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

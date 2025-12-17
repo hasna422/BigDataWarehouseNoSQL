@@ -1,0 +1,27 @@
+{
+    "order_id": 959543,
+    "client_id": 8549,
+    "produits": [
+        {
+            "produit_id": "P7195",
+            "nom": "Refined Sausages",
+            "quantite": 3,
+            "prix_unitaire": 282.59
+        },
+        {
+            "produit_id": "P4505",
+            "nom": "Gorgeous Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 105.22
+        },
+        {
+            "produit_id": "P9336",
+            "nom": "Practical Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 318.29
+        }
+    ],
+    "date_commande": "2024-07-01T20:29:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

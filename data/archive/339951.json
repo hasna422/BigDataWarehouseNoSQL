@@ -1,0 +1,25 @@
+{
+    "order_id": 339951,
+    "client_id": 3326,
+    "produits": [
+        {
+            "produit_id": "P7675",
+            "nom": "Awesome Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 115.88
+        },
+        {
+            "produit_id": "P8560",
+            "nom": "For repair Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 84.63
+        }
+    ],
+    "date_commande": "2023-10-30T14:14:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1363 Opal",
+        "ville": "Laguna Niguel"
+    }
+}

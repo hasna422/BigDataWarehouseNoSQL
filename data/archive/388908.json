@@ -1,0 +1,31 @@
+{
+    "order_id": 388908,
+    "client_id": 3404,
+    "produits": [
+        {
+            "produit_id": "P6034",
+            "nom": "Incredible Wooden Hat",
+            "quantite": 5,
+            "prix_unitaire": 171.57
+        },
+        {
+            "produit_id": "P5756",
+            "nom": "Fantastic Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 241.74
+        },
+        {
+            "produit_id": "P8464",
+            "nom": "Ergonomic Concrete Chicken",
+            "quantite": 4,
+            "prix_unitaire": 12.46
+        }
+    ],
+    "date_commande": "2024-06-25T14:55:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "257 Crane",
+        "ville": "Huntington Beach"
+    }
+}

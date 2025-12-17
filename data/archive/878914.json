@@ -1,0 +1,27 @@
+{
+    "order_id": 878914,
+    "client_id": 9893,
+    "produits": [
+        {
+            "produit_id": "P0441",
+            "nom": "Ergonomic Granite Gloves",
+            "quantite": 1,
+            "prix_unitaire": 288.7
+        },
+        {
+            "produit_id": "P9369",
+            "nom": "Fantastic Soft Hat",
+            "quantite": 4,
+            "prix_unitaire": 375.58
+        },
+        {
+            "produit_id": "P1349",
+            "nom": "Small Bike",
+            "quantite": 5,
+            "prix_unitaire": 331.19
+        }
+    ],
+    "date_commande": "2023-08-28T23:29:04",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 823067,
+    "client_id": 2031,
+    "produits": [
+        {
+            "produit_id": "P8871",
+            "nom": "Gently Used Frozen Tuna",
+            "quantite": 4,
+            "prix_unitaire": 487.66
+        }
+    ],
+    "date_commande": "2024-11-20T04:50:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1038 Tiffany",
+        "ville": "Bangor"
+    }
+}

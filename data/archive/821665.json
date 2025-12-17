@@ -1,0 +1,31 @@
+{
+    "order_id": 821665,
+    "client_id": 7363,
+    "produits": [
+        {
+            "produit_id": "P6658",
+            "nom": "Generic Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 476.93
+        },
+        {
+            "produit_id": "P1775",
+            "nom": "Fantastic Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 495.39
+        },
+        {
+            "produit_id": "P3191",
+            "nom": "Generic Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 193.89
+        }
+    ],
+    "date_commande": "2025-01-31T02:40:38",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "456 Randolph",
+        "ville": "Waterbury"
+    }
+}

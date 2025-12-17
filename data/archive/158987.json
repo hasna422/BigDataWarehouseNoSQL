@@ -1,0 +1,31 @@
+{
+    "order_id": 158987,
+    "client_id": 5315,
+    "produits": [
+        {
+            "produit_id": "P3955",
+            "nom": "Generic Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 248.29
+        },
+        {
+            "produit_id": "P1131",
+            "nom": "Intelligent Wooden Hat",
+            "quantite": 3,
+            "prix_unitaire": 398.68
+        },
+        {
+            "produit_id": "P5971",
+            "nom": "Intelligent Granite Pizza",
+            "quantite": 5,
+            "prix_unitaire": 165.72
+        }
+    ],
+    "date_commande": "2023-12-20T22:09:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "528 Prosper",
+        "ville": "Wilmette"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 994253,
+    "client_id": 7310,
+    "produits": [
+        {
+            "produit_id": "P4434",
+            "nom": "Rustic Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 320.01
+        }
+    ],
+    "date_commande": "2023-09-11T09:50:21",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1393 Pershing",
+        "ville": "Schaumburg"
+    }
+}

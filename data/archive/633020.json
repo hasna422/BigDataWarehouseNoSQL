@@ -1,0 +1,21 @@
+{
+    "order_id": 633020,
+    "client_id": 2590,
+    "produits": [
+        {
+            "produit_id": "P6460",
+            "nom": "Incredible Ball",
+            "quantite": 1,
+            "prix_unitaire": 447.85
+        },
+        {
+            "produit_id": "P8988",
+            "nom": "Practical Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 460.04
+        }
+    ],
+    "date_commande": "2024-09-07T04:06:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

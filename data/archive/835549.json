@@ -1,0 +1,19 @@
+{
+    "order_id": 835549,
+    "client_id": 5627,
+    "produits": [
+        {
+            "produit_id": "P3600",
+            "nom": "Licensed Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 330.65
+        }
+    ],
+    "date_commande": "2025-05-24T10:48:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1351 Fresnel",
+        "ville": "Dunedin"
+    }
+}

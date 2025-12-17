@@ -1,0 +1,25 @@
+{
+    "order_id": 176603,
+    "client_id": 7224,
+    "produits": [
+        {
+            "produit_id": "P8001",
+            "nom": "Handmade Concrete Car",
+            "quantite": 3,
+            "prix_unitaire": 6.36
+        },
+        {
+            "produit_id": "P9883",
+            "nom": "Generic Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 336.15
+        }
+    ],
+    "date_commande": "2023-08-15T04:22:15",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1227 Holly",
+        "ville": "Solon"
+    }
+}

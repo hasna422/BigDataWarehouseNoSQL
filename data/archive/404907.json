@@ -1,0 +1,25 @@
+{
+    "order_id": 404907,
+    "client_id": 3466,
+    "produits": [
+        {
+            "produit_id": "P5173",
+            "nom": "Used Granite Pizza",
+            "quantite": 5,
+            "prix_unitaire": 136.53
+        },
+        {
+            "produit_id": "P4355",
+            "nom": "Licensed Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 264.32
+        }
+    ],
+    "date_commande": "2025-05-23T11:14:25",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "851 Lexington",
+        "ville": "Leesburg"
+    }
+}

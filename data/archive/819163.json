@@ -1,0 +1,25 @@
+{
+    "order_id": 819163,
+    "client_id": 8146,
+    "produits": [
+        {
+            "produit_id": "P7526",
+            "nom": "Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 249.05
+        },
+        {
+            "produit_id": "P4259",
+            "nom": "For repair Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 79.62
+        }
+    ],
+    "date_commande": "2024-07-21T09:06:13",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "332 Harold",
+        "ville": "Atlantic City"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 426524,
+    "client_id": 6112,
+    "produits": [
+        {
+            "produit_id": "P4262",
+            "nom": "Ball",
+            "quantite": 4,
+            "prix_unitaire": 349.21
+        },
+        {
+            "produit_id": "P6214",
+            "nom": "Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 489.18
+        }
+    ],
+    "date_commande": "2024-12-26T17:11:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

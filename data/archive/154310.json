@@ -1,0 +1,31 @@
+{
+    "order_id": 154310,
+    "client_id": 8690,
+    "produits": [
+        {
+            "produit_id": "P3171",
+            "nom": "Handmade Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 143.62
+        },
+        {
+            "produit_id": "P3715",
+            "nom": "Unbranded Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 177.16
+        },
+        {
+            "produit_id": "P7971",
+            "nom": "Licensed Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 340.28
+        }
+    ],
+    "date_commande": "2025-05-03T19:15:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "13 Glenview",
+        "ville": "Indianapolis"
+    }
+}

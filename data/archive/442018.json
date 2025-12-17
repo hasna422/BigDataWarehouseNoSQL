@@ -1,0 +1,31 @@
+{
+    "order_id": 442018,
+    "client_id": 7158,
+    "produits": [
+        {
+            "produit_id": "P1057",
+            "nom": "Plastic Ball",
+            "quantite": 1,
+            "prix_unitaire": 224.23
+        },
+        {
+            "produit_id": "P7430",
+            "nom": "Handcrafted Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 107.21
+        },
+        {
+            "produit_id": "P5020",
+            "nom": "Fantastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 330.58
+        }
+    ],
+    "date_commande": "2025-03-19T22:41:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "564 Spreckels Lake",
+        "ville": "Garfield Heights"
+    }
+}

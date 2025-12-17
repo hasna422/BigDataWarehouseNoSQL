@@ -1,0 +1,19 @@
+{
+    "order_id": 589857,
+    "client_id": 1193,
+    "produits": [
+        {
+            "produit_id": "P0835",
+            "nom": "Awesome Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 247.13
+        }
+    ],
+    "date_commande": "2024-04-22T20:25:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "524 Bucareli",
+        "ville": "Bullhead City"
+    }
+}

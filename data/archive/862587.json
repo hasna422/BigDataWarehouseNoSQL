@@ -1,0 +1,15 @@
+{
+    "order_id": 862587,
+    "client_id": 4982,
+    "produits": [
+        {
+            "produit_id": "P1346",
+            "nom": "Gently Used Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 27.08
+        }
+    ],
+    "date_commande": "2024-08-18T16:27:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

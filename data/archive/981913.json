@@ -1,0 +1,21 @@
+{
+    "order_id": 981913,
+    "client_id": 3940,
+    "produits": [
+        {
+            "produit_id": "P7051",
+            "nom": "Intelligent Hat",
+            "quantite": 1,
+            "prix_unitaire": 381.59
+        },
+        {
+            "produit_id": "P8685",
+            "nom": "Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 321.4
+        }
+    ],
+    "date_commande": "2024-08-21T10:50:33",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

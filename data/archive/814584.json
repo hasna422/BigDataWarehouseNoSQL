@@ -1,0 +1,25 @@
+{
+    "order_id": 814584,
+    "client_id": 6419,
+    "produits": [
+        {
+            "produit_id": "P4847",
+            "nom": "Unbranded Cotton Bike",
+            "quantite": 4,
+            "prix_unitaire": 203.68
+        },
+        {
+            "produit_id": "P5134",
+            "nom": "Tasty Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 395.46
+        }
+    ],
+    "date_commande": "2024-10-31T05:33:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "380 Lakewood",
+        "ville": "Fishers"
+    }
+}

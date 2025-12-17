@@ -1,0 +1,31 @@
+{
+    "order_id": 778026,
+    "client_id": 3284,
+    "produits": [
+        {
+            "produit_id": "P1787",
+            "nom": "Licensed Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 133.46
+        },
+        {
+            "produit_id": "P4626",
+            "nom": "Incredible Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 108.0
+        },
+        {
+            "produit_id": "P8035",
+            "nom": "For repair Cotton Hat",
+            "quantite": 1,
+            "prix_unitaire": 326.42
+        }
+    ],
+    "date_commande": "2024-05-05T06:21:15",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "645 Kobbe",
+        "ville": "Livonia"
+    }
+}

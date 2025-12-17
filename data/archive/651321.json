@@ -1,0 +1,21 @@
+{
+    "order_id": 651321,
+    "client_id": 6243,
+    "produits": [
+        {
+            "produit_id": "P8836",
+            "nom": "Fantastic Cotton Shoes",
+            "quantite": 3,
+            "prix_unitaire": 485.14
+        },
+        {
+            "produit_id": "P5138",
+            "nom": "Sleek Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 457.97
+        }
+    ],
+    "date_commande": "2024-10-02T14:15:01",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

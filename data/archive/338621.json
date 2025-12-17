@@ -1,0 +1,19 @@
+{
+    "order_id": 338621,
+    "client_id": 2490,
+    "produits": [
+        {
+            "produit_id": "P5564",
+            "nom": "Handmade Fresh Bike",
+            "quantite": 5,
+            "prix_unitaire": 198.63
+        }
+    ],
+    "date_commande": "2025-04-24T09:59:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "992 Vara",
+        "ville": "Loma Linda"
+    }
+}

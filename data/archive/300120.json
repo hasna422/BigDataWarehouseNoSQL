@@ -1,0 +1,21 @@
+{
+    "order_id": 300120,
+    "client_id": 8746,
+    "produits": [
+        {
+            "produit_id": "P0068",
+            "nom": "Sleek Plastic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 48.19
+        },
+        {
+            "produit_id": "P3632",
+            "nom": "Intelligent Granite Sausages",
+            "quantite": 1,
+            "prix_unitaire": 165.26
+        }
+    ],
+    "date_commande": "2023-12-24T06:04:08",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

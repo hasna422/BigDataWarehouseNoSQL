@@ -1,0 +1,21 @@
+{
+    "order_id": 709187,
+    "client_id": 9055,
+    "produits": [
+        {
+            "produit_id": "P8704",
+            "nom": "New Plastic Fish",
+            "quantite": 3,
+            "prix_unitaire": 399.07
+        },
+        {
+            "produit_id": "P1442",
+            "nom": "Intelligent Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 416.15
+        }
+    ],
+    "date_commande": "2023-12-28T07:21:46",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

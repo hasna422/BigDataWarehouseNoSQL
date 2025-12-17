@@ -1,0 +1,25 @@
+{
+    "order_id": 263626,
+    "client_id": 9678,
+    "produits": [
+        {
+            "produit_id": "P7979",
+            "nom": "Rustic Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 255.94
+        },
+        {
+            "produit_id": "P6234",
+            "nom": "Incredible Metal Tuna",
+            "quantite": 5,
+            "prix_unitaire": 439.65
+        }
+    ],
+    "date_commande": "2023-12-08T04:42:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "593 Gateview 3",
+        "ville": "Howard"
+    }
+}

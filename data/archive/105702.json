@@ -1,0 +1,19 @@
+{
+    "order_id": 105702,
+    "client_id": 9684,
+    "produits": [
+        {
+            "produit_id": "P4039",
+            "nom": "Gorgeous Steel Chair",
+            "quantite": 1,
+            "prix_unitaire": 53.5
+        }
+    ],
+    "date_commande": "2025-01-30T02:32:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1248 Pacific",
+        "ville": "Pearl"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 464187,
+    "client_id": 8554,
+    "produits": [
+        {
+            "produit_id": "P5436",
+            "nom": "Practical Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 154.05
+        },
+        {
+            "produit_id": "P1941",
+            "nom": "Used Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 122.03
+        }
+    ],
+    "date_commande": "2024-11-22T10:42:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "330 Varney",
+        "ville": "Laconia"
+    }
+}

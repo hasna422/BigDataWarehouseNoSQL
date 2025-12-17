@@ -1,0 +1,21 @@
+{
+    "order_id": 561680,
+    "client_id": 1123,
+    "produits": [
+        {
+            "produit_id": "P6405",
+            "nom": "Licensed Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 38.82
+        },
+        {
+            "produit_id": "P9731",
+            "nom": "Intelligent Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 179.46
+        }
+    ],
+    "date_commande": "2025-02-08T12:12:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

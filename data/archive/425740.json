@@ -1,0 +1,19 @@
+{
+    "order_id": 425740,
+    "client_id": 9482,
+    "produits": [
+        {
+            "produit_id": "P3512",
+            "nom": "Rustic Soft Shirt",
+            "quantite": 3,
+            "prix_unitaire": 438.54
+        }
+    ],
+    "date_commande": "2025-05-25T04:51:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "372 Folsom",
+        "ville": "Mamaroneck"
+    }
+}

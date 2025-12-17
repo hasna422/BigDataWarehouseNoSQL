@@ -1,0 +1,19 @@
+{
+    "order_id": 264039,
+    "client_id": 2474,
+    "produits": [
+        {
+            "produit_id": "P4248",
+            "nom": "Used Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 404.46
+        }
+    ],
+    "date_commande": "2025-04-14T05:15:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "92 Olympic Country Club",
+        "ville": "Fort Myers"
+    }
+}

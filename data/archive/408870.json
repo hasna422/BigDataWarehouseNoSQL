@@ -1,0 +1,25 @@
+{
+    "order_id": 408870,
+    "client_id": 7661,
+    "produits": [
+        {
+            "produit_id": "P3735",
+            "nom": "Intelligent Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 322.22
+        },
+        {
+            "produit_id": "P5445",
+            "nom": "Incredible Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 172.86
+        }
+    ],
+    "date_commande": "2024-10-10T03:49:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "705 Gerke",
+        "ville": "Port Chester"
+    }
+}

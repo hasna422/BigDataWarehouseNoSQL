@@ -1,0 +1,19 @@
+{
+    "order_id": 984792,
+    "client_id": 6408,
+    "produits": [
+        {
+            "produit_id": "P4387",
+            "nom": "Tasty Rubber Chips",
+            "quantite": 5,
+            "prix_unitaire": 183.92
+        }
+    ],
+    "date_commande": "2023-11-04T10:39:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1257 Lone Mountain",
+        "ville": "Berea"
+    }
+}

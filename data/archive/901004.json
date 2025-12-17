@@ -1,0 +1,27 @@
+{
+    "order_id": 901004,
+    "client_id": 5644,
+    "produits": [
+        {
+            "produit_id": "P4793",
+            "nom": "Incredible Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 217.53
+        },
+        {
+            "produit_id": "P8837",
+            "nom": "Gorgeous Cotton Shoes",
+            "quantite": 4,
+            "prix_unitaire": 185.6
+        },
+        {
+            "produit_id": "P0110",
+            "nom": "Used Cotton Towels",
+            "quantite": 2,
+            "prix_unitaire": 238.67
+        }
+    ],
+    "date_commande": "2025-05-03T15:26:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

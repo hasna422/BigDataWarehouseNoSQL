@@ -1,0 +1,25 @@
+{
+    "order_id": 519190,
+    "client_id": 5964,
+    "produits": [
+        {
+            "produit_id": "P1829",
+            "nom": "Small Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 37.26
+        },
+        {
+            "produit_id": "P0131",
+            "nom": "Small Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 464.29
+        }
+    ],
+    "date_commande": "2025-01-23T13:39:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "307 Carter",
+        "ville": "Conway"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 306976,
+    "client_id": 6762,
+    "produits": [
+        {
+            "produit_id": "P7320",
+            "nom": "Sleek Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 161.36
+        }
+    ],
+    "date_commande": "2024-06-11T14:19:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1281 Iron",
+        "ville": "Flower Mound"
+    }
+}

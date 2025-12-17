@@ -1,0 +1,15 @@
+{
+    "order_id": 602938,
+    "client_id": 9404,
+    "produits": [
+        {
+            "produit_id": "P1238",
+            "nom": "Practical Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 471.38
+        }
+    ],
+    "date_commande": "2023-07-06T07:00:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

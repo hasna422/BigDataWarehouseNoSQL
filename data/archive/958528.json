@@ -1,0 +1,27 @@
+{
+    "order_id": 958528,
+    "client_id": 1362,
+    "produits": [
+        {
+            "produit_id": "P5082",
+            "nom": "New Gloves",
+            "quantite": 4,
+            "prix_unitaire": 476.12
+        },
+        {
+            "produit_id": "P4334",
+            "nom": "Gorgeous Soft Pizza",
+            "quantite": 1,
+            "prix_unitaire": 389.2
+        },
+        {
+            "produit_id": "P0641",
+            "nom": "Tasty Cotton Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 271.71
+        }
+    ],
+    "date_commande": "2025-03-09T02:41:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

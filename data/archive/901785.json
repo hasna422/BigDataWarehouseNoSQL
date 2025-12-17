@@ -1,0 +1,31 @@
+{
+    "order_id": 901785,
+    "client_id": 5858,
+    "produits": [
+        {
+            "produit_id": "P6112",
+            "nom": "Sleek Chicken",
+            "quantite": 2,
+            "prix_unitaire": 345.91
+        },
+        {
+            "produit_id": "P9834",
+            "nom": "Cotton Salad",
+            "quantite": 1,
+            "prix_unitaire": 131.11
+        },
+        {
+            "produit_id": "P1689",
+            "nom": "Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 121.91
+        }
+    ],
+    "date_commande": "2024-04-27T05:23:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "175 Harlow",
+        "ville": "Buffalo Grove"
+    }
+}

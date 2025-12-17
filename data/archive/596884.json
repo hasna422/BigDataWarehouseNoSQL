@@ -1,0 +1,31 @@
+{
+    "order_id": 596884,
+    "client_id": 2065,
+    "produits": [
+        {
+            "produit_id": "P2066",
+            "nom": "Unbranded Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 176.52
+        },
+        {
+            "produit_id": "P3287",
+            "nom": "Small Plastic Bacon",
+            "quantite": 1,
+            "prix_unitaire": 474.43
+        },
+        {
+            "produit_id": "P7939",
+            "nom": "Incredible Steel Chips",
+            "quantite": 5,
+            "prix_unitaire": 363.85
+        }
+    ],
+    "date_commande": "2024-06-19T11:54:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1325 Stevenson",
+        "ville": "Paramus"
+    }
+}

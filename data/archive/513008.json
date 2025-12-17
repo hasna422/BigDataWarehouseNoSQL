@@ -1,0 +1,25 @@
+{
+    "order_id": 513008,
+    "client_id": 5928,
+    "produits": [
+        {
+            "produit_id": "P0603",
+            "nom": "Sleek Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 119.85
+        },
+        {
+            "produit_id": "P4773",
+            "nom": "New Table",
+            "quantite": 4,
+            "prix_unitaire": 353.4
+        }
+    ],
+    "date_commande": "2025-05-17T05:55:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "451 Borica",
+        "ville": "Rosemead"
+    }
+}

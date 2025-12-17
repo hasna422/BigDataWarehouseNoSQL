@@ -1,0 +1,21 @@
+{
+    "order_id": 916268,
+    "client_id": 2045,
+    "produits": [
+        {
+            "produit_id": "P9263",
+            "nom": "For repair Metal Bike",
+            "quantite": 3,
+            "prix_unitaire": 356.55
+        },
+        {
+            "produit_id": "P3898",
+            "nom": "For repair Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 86.55
+        }
+    ],
+    "date_commande": "2024-10-14T10:28:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

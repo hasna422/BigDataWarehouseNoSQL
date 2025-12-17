@@ -1,0 +1,27 @@
+{
+    "order_id": 713094,
+    "client_id": 9151,
+    "produits": [
+        {
+            "produit_id": "P2748",
+            "nom": "Licensed Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 71.96
+        },
+        {
+            "produit_id": "P8268",
+            "nom": "Gently Used Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 308.49
+        },
+        {
+            "produit_id": "P9185",
+            "nom": "Tasty Fresh Pants",
+            "quantite": 3,
+            "prix_unitaire": 313.76
+        }
+    ],
+    "date_commande": "2023-07-30T14:55:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

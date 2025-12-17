@@ -1,0 +1,21 @@
+{
+    "order_id": 710647,
+    "client_id": 6528,
+    "produits": [
+        {
+            "produit_id": "P0873",
+            "nom": "For repair Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 298.91
+        },
+        {
+            "produit_id": "P3717",
+            "nom": "For repair Computer",
+            "quantite": 3,
+            "prix_unitaire": 229.46
+        }
+    ],
+    "date_commande": "2024-06-18T06:17:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

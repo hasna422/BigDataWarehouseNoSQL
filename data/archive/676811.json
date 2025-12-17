@@ -1,0 +1,21 @@
+{
+    "order_id": 676811,
+    "client_id": 9618,
+    "produits": [
+        {
+            "produit_id": "P2441",
+            "nom": "Small Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 96.55
+        },
+        {
+            "produit_id": "P7155",
+            "nom": "Used Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 206.09
+        }
+    ],
+    "date_commande": "2023-11-26T22:46:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

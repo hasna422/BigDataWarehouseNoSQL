@@ -1,0 +1,25 @@
+{
+    "order_id": 913295,
+    "client_id": 8732,
+    "produits": [
+        {
+            "produit_id": "P5886",
+            "nom": "Used Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 226.1
+        },
+        {
+            "produit_id": "P6272",
+            "nom": "Unbranded Wooden Table",
+            "quantite": 2,
+            "prix_unitaire": 12.79
+        }
+    ],
+    "date_commande": "2023-12-30T06:59:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "5 Adele",
+        "ville": "North Plainfield"
+    }
+}

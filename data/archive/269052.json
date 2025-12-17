@@ -1,0 +1,25 @@
+{
+    "order_id": 269052,
+    "client_id": 1430,
+    "produits": [
+        {
+            "produit_id": "P4696",
+            "nom": "Generic Granite Tuna",
+            "quantite": 5,
+            "prix_unitaire": 143.35
+        },
+        {
+            "produit_id": "P1318",
+            "nom": "Ergonomic Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 51.04
+        }
+    ],
+    "date_commande": "2025-01-23T22:55:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "711 Cedro",
+        "ville": "Arroyo Grande"
+    }
+}

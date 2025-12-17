@@ -1,0 +1,25 @@
+{
+    "order_id": 385376,
+    "client_id": 8166,
+    "produits": [
+        {
+            "produit_id": "P3836",
+            "nom": "Gorgeous Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 429.2
+        },
+        {
+            "produit_id": "P9686",
+            "nom": "Gorgeous Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 273.55
+        }
+    ],
+    "date_commande": "2023-12-03T22:12:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "864 Bay",
+        "ville": "North Little Rock"
+    }
+}

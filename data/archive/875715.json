@@ -1,0 +1,19 @@
+{
+    "order_id": 875715,
+    "client_id": 6157,
+    "produits": [
+        {
+            "produit_id": "P5705",
+            "nom": "Handcrafted Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 51.87
+        }
+    ],
+    "date_commande": "2023-12-30T10:33:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "389 Maddux",
+        "ville": "Boston"
+    }
+}

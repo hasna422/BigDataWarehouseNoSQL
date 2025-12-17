@@ -1,0 +1,31 @@
+{
+    "order_id": 702361,
+    "client_id": 9557,
+    "produits": [
+        {
+            "produit_id": "P9170",
+            "nom": "For repair Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 359.77
+        },
+        {
+            "produit_id": "P1324",
+            "nom": "Awesome Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 402.53
+        },
+        {
+            "produit_id": "P8395",
+            "nom": "Handcrafted Steel Hat",
+            "quantite": 2,
+            "prix_unitaire": 349.91
+        }
+    ],
+    "date_commande": "2024-01-12T21:01:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "480 Langdon",
+        "ville": "Munster"
+    }
+}

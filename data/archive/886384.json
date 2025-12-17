@@ -1,0 +1,19 @@
+{
+    "order_id": 886384,
+    "client_id": 8899,
+    "produits": [
+        {
+            "produit_id": "P8425",
+            "nom": "Practical Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 60.57
+        }
+    ],
+    "date_commande": "2023-11-12T19:13:45",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "311 Claremont",
+        "ville": "Forest Park"
+    }
+}

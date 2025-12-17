@@ -1,0 +1,27 @@
+{
+    "order_id": 317151,
+    "client_id": 3574,
+    "produits": [
+        {
+            "produit_id": "P0724",
+            "nom": "Intelligent Shirt",
+            "quantite": 5,
+            "prix_unitaire": 226.84
+        },
+        {
+            "produit_id": "P1335",
+            "nom": "Used Towels",
+            "quantite": 2,
+            "prix_unitaire": 66.03
+        },
+        {
+            "produit_id": "P5768",
+            "nom": "Hat",
+            "quantite": 1,
+            "prix_unitaire": 247.18
+        }
+    ],
+    "date_commande": "2023-12-15T12:46:08",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

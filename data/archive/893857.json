@@ -1,0 +1,31 @@
+{
+    "order_id": 893857,
+    "client_id": 1482,
+    "produits": [
+        {
+            "produit_id": "P2595",
+            "nom": "Intelligent Rubber Computer",
+            "quantite": 3,
+            "prix_unitaire": 353.52
+        },
+        {
+            "produit_id": "P1516",
+            "nom": "Gorgeous Fresh Shoes",
+            "quantite": 2,
+            "prix_unitaire": 122.8
+        },
+        {
+            "produit_id": "P6984",
+            "nom": "Generic Soft Ball",
+            "quantite": 3,
+            "prix_unitaire": 106.21
+        }
+    ],
+    "date_commande": "2024-10-30T22:23:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1061 Granada",
+        "ville": "Bismarck"
+    }
+}

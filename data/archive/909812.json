@@ -1,0 +1,27 @@
+{
+    "order_id": 909812,
+    "client_id": 4298,
+    "produits": [
+        {
+            "produit_id": "P0212",
+            "nom": "Sleek Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 290.48
+        },
+        {
+            "produit_id": "P6336",
+            "nom": "Incredible Car",
+            "quantite": 5,
+            "prix_unitaire": 130.71
+        },
+        {
+            "produit_id": "P7925",
+            "nom": "Handcrafted Rubber Gloves",
+            "quantite": 2,
+            "prix_unitaire": 277.5
+        }
+    ],
+    "date_commande": "2025-02-03T12:04:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

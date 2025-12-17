@@ -1,0 +1,19 @@
+{
+    "order_id": 420825,
+    "client_id": 4307,
+    "produits": [
+        {
+            "produit_id": "P1778",
+            "nom": "Generic Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 315.11
+        }
+    ],
+    "date_commande": "2024-01-19T11:47:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "89 Alemany",
+        "ville": "Bay City"
+    }
+}

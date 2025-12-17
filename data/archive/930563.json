@@ -1,0 +1,21 @@
+{
+    "order_id": 930563,
+    "client_id": 7197,
+    "produits": [
+        {
+            "produit_id": "P3639",
+            "nom": "Incredible Frozen Hat",
+            "quantite": 2,
+            "prix_unitaire": 306.47
+        },
+        {
+            "produit_id": "P6992",
+            "nom": "Generic Frozen Pizza",
+            "quantite": 5,
+            "prix_unitaire": 80.37
+        }
+    ],
+    "date_commande": "2025-01-08T15:23:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

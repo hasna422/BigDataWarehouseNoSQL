@@ -1,0 +1,25 @@
+{
+    "order_id": 386426,
+    "client_id": 1829,
+    "produits": [
+        {
+            "produit_id": "P2208",
+            "nom": "Rustic Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 374.16
+        },
+        {
+            "produit_id": "P8705",
+            "nom": "Fantastic Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 352.2
+        }
+    ],
+    "date_commande": "2024-08-21T07:23:25",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "695 Balhi",
+        "ville": "Kokomo"
+    }
+}

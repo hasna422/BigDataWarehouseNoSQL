@@ -1,0 +1,31 @@
+{
+    "order_id": 219099,
+    "client_id": 4565,
+    "produits": [
+        {
+            "produit_id": "P0416",
+            "nom": "Gorgeous Table",
+            "quantite": 2,
+            "prix_unitaire": 323.89
+        },
+        {
+            "produit_id": "P4663",
+            "nom": "Intelligent Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 310.89
+        },
+        {
+            "produit_id": "P4497",
+            "nom": "Generic Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 153.33
+        }
+    ],
+    "date_commande": "2023-06-15T07:57:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "864 Ward",
+        "ville": "Temple"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 666683,
+    "client_id": 7916,
+    "produits": [
+        {
+            "produit_id": "P5824",
+            "nom": "Generic Sausages",
+            "quantite": 2,
+            "prix_unitaire": 281.17
+        },
+        {
+            "produit_id": "P3507",
+            "nom": "Gently Used Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 189.19
+        }
+    ],
+    "date_commande": "2023-11-13T20:27:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "339 La Bica",
+        "ville": "Balch Springs"
+    }
+}

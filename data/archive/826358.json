@@ -1,0 +1,19 @@
+{
+    "order_id": 826358,
+    "client_id": 3649,
+    "produits": [
+        {
+            "produit_id": "P9760",
+            "nom": "New Mouse",
+            "quantite": 4,
+            "prix_unitaire": 303.45
+        }
+    ],
+    "date_commande": "2024-09-27T04:51:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "795 Havenside",
+        "ville": "Louisville"
+    }
+}

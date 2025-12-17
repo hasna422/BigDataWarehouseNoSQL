@@ -1,0 +1,21 @@
+{
+    "order_id": 639642,
+    "client_id": 7303,
+    "produits": [
+        {
+            "produit_id": "P7942",
+            "nom": "Incredible Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 318.58
+        },
+        {
+            "produit_id": "P0175",
+            "nom": "Gently Used Rubber Soap",
+            "quantite": 2,
+            "prix_unitaire": 448.73
+        }
+    ],
+    "date_commande": "2025-02-07T04:07:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

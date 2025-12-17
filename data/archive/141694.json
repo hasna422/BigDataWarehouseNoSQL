@@ -1,0 +1,27 @@
+{
+    "order_id": 141694,
+    "client_id": 7978,
+    "produits": [
+        {
+            "produit_id": "P0805",
+            "nom": "Rustic Hat",
+            "quantite": 5,
+            "prix_unitaire": 223.38
+        },
+        {
+            "produit_id": "P8904",
+            "nom": "Soft Computer",
+            "quantite": 1,
+            "prix_unitaire": 321.3
+        },
+        {
+            "produit_id": "P5271",
+            "nom": "Refined Granite Chicken",
+            "quantite": 4,
+            "prix_unitaire": 31.87
+        }
+    ],
+    "date_commande": "2023-10-08T10:42:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

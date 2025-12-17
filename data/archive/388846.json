@@ -1,0 +1,31 @@
+{
+    "order_id": 388846,
+    "client_id": 7673,
+    "produits": [
+        {
+            "produit_id": "P6556",
+            "nom": "Licensed Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 114.24
+        },
+        {
+            "produit_id": "P8818",
+            "nom": "Generic Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 155.88
+        },
+        {
+            "produit_id": "P6863",
+            "nom": "Used Granite Shoes",
+            "quantite": 1,
+            "prix_unitaire": 385.61
+        }
+    ],
+    "date_commande": "2024-06-10T13:41:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "653 Walbridge",
+        "ville": "Horn Lake"
+    }
+}

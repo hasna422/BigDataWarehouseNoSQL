@@ -1,0 +1,19 @@
+{
+    "order_id": 347028,
+    "client_id": 6415,
+    "produits": [
+        {
+            "produit_id": "P1679",
+            "nom": "Unbranded Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 127.78
+        }
+    ],
+    "date_commande": "2025-04-19T20:28:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "902 Horne",
+        "ville": "Sun Prairie"
+    }
+}

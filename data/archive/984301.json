@@ -1,0 +1,25 @@
+{
+    "order_id": 984301,
+    "client_id": 3570,
+    "produits": [
+        {
+            "produit_id": "P3952",
+            "nom": "Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 317.37
+        },
+        {
+            "produit_id": "P1986",
+            "nom": "Steel Computer",
+            "quantite": 4,
+            "prix_unitaire": 97.62
+        }
+    ],
+    "date_commande": "2024-08-31T05:07:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "870 Mint",
+        "ville": "Douglas"
+    }
+}

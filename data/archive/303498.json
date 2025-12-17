@@ -1,0 +1,31 @@
+{
+    "order_id": 303498,
+    "client_id": 6101,
+    "produits": [
+        {
+            "produit_id": "P2784",
+            "nom": "Practical Fresh Gloves",
+            "quantite": 2,
+            "prix_unitaire": 391.96
+        },
+        {
+            "produit_id": "P0011",
+            "nom": "For repair Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 176.18
+        },
+        {
+            "produit_id": "P4735",
+            "nom": "Fantastic Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 328.76
+        }
+    ],
+    "date_commande": "2024-07-16T13:16:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "601 Madison",
+        "ville": "Eagle"
+    }
+}

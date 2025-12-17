@@ -1,0 +1,19 @@
+{
+    "order_id": 750543,
+    "client_id": 2203,
+    "produits": [
+        {
+            "produit_id": "P6047",
+            "nom": "Used Wooden Table",
+            "quantite": 1,
+            "prix_unitaire": 352.03
+        }
+    ],
+    "date_commande": "2024-06-27T18:47:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1324 Cameron",
+        "ville": "Port Hueneme"
+    }
+}

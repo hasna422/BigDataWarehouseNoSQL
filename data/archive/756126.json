@@ -1,0 +1,27 @@
+{
+    "order_id": 756126,
+    "client_id": 7843,
+    "produits": [
+        {
+            "produit_id": "P7984",
+            "nom": "Unbranded Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 37.43
+        },
+        {
+            "produit_id": "P3003",
+            "nom": "Refined Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 136.51
+        },
+        {
+            "produit_id": "P6010",
+            "nom": "Unbranded Wooden Sausages",
+            "quantite": 5,
+            "prix_unitaire": 274.23
+        }
+    ],
+    "date_commande": "2023-08-30T06:26:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

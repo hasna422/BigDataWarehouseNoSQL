@@ -1,0 +1,27 @@
+{
+    "order_id": 152055,
+    "client_id": 6448,
+    "produits": [
+        {
+            "produit_id": "P5673",
+            "nom": "Gently Used Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 271.38
+        },
+        {
+            "produit_id": "P6977",
+            "nom": "Handcrafted Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 13.73
+        },
+        {
+            "produit_id": "P6301",
+            "nom": "Sleek Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 252.69
+        }
+    ],
+    "date_commande": "2024-08-03T13:30:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

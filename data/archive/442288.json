@@ -1,0 +1,31 @@
+{
+    "order_id": 442288,
+    "client_id": 9712,
+    "produits": [
+        {
+            "produit_id": "P5507",
+            "nom": "Handcrafted Metal Tuna",
+            "quantite": 5,
+            "prix_unitaire": 386.01
+        },
+        {
+            "produit_id": "P3494",
+            "nom": "Gently Used Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 269.43
+        },
+        {
+            "produit_id": "P2589",
+            "nom": "Gently Used Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 361.77
+        }
+    ],
+    "date_commande": "2023-06-18T13:02:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1325 Hoffman",
+        "ville": "Dearborn"
+    }
+}

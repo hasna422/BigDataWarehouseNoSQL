@@ -1,0 +1,19 @@
+{
+    "order_id": 277551,
+    "client_id": 7234,
+    "produits": [
+        {
+            "produit_id": "P8369",
+            "nom": "Gorgeous Rubber Car",
+            "quantite": 5,
+            "prix_unitaire": 363.23
+        }
+    ],
+    "date_commande": "2023-06-22T08:53:45",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "293 Lyell",
+        "ville": "Nacogdoches"
+    }
+}

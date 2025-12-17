@@ -1,0 +1,27 @@
+{
+    "order_id": 403640,
+    "client_id": 6917,
+    "produits": [
+        {
+            "produit_id": "P8594",
+            "nom": "Handcrafted Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 229.02
+        },
+        {
+            "produit_id": "P9291",
+            "nom": "Fantastic Soft Shoes",
+            "quantite": 5,
+            "prix_unitaire": 16.15
+        },
+        {
+            "produit_id": "P8347",
+            "nom": "Rustic Salad",
+            "quantite": 4,
+            "prix_unitaire": 175.21
+        }
+    ],
+    "date_commande": "2023-07-30T22:04:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 555086,
+    "client_id": 4148,
+    "produits": [
+        {
+            "produit_id": "P8020",
+            "nom": "Used Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 203.58
+        },
+        {
+            "produit_id": "P1823",
+            "nom": "Awesome Tuna",
+            "quantite": 4,
+            "prix_unitaire": 374.27
+        }
+    ],
+    "date_commande": "2024-06-29T17:56:07",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "956 Hale",
+        "ville": "Wylie"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 482234,
+    "client_id": 7932,
+    "produits": [
+        {
+            "produit_id": "P2430",
+            "nom": "New Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 437.35
+        },
+        {
+            "produit_id": "P7454",
+            "nom": "Tasty Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 20.27
+        }
+    ],
+    "date_commande": "2024-07-01T04:40:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "710 Florentine",
+        "ville": "Edmonds"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 124698,
+    "client_id": 1307,
+    "produits": [
+        {
+            "produit_id": "P5554",
+            "nom": "Gorgeous Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 240.65
+        },
+        {
+            "produit_id": "P8351",
+            "nom": "Gently Used Pants",
+            "quantite": 4,
+            "prix_unitaire": 437.21
+        }
+    ],
+    "date_commande": "2024-07-11T08:07:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

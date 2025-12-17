@@ -1,0 +1,31 @@
+{
+    "order_id": 580428,
+    "client_id": 6149,
+    "produits": [
+        {
+            "produit_id": "P6774",
+            "nom": "Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 6.61
+        },
+        {
+            "produit_id": "P0442",
+            "nom": "Awesome Soft Shoes",
+            "quantite": 3,
+            "prix_unitaire": 266.04
+        },
+        {
+            "produit_id": "P8229",
+            "nom": "Used Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 447.92
+        }
+    ],
+    "date_commande": "2024-12-23T20:22:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "744 Louisiana",
+        "ville": "West Haven"
+    }
+}

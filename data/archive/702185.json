@@ -1,0 +1,21 @@
+{
+    "order_id": 702185,
+    "client_id": 3026,
+    "produits": [
+        {
+            "produit_id": "P1683",
+            "nom": "Practical Wooden Ball",
+            "quantite": 5,
+            "prix_unitaire": 146.76
+        },
+        {
+            "produit_id": "P8255",
+            "nom": "Rustic Steel Table",
+            "quantite": 4,
+            "prix_unitaire": 477.67
+        }
+    ],
+    "date_commande": "2023-07-18T13:09:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

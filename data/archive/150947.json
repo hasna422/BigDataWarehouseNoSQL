@@ -1,0 +1,19 @@
+{
+    "order_id": 150947,
+    "client_id": 7467,
+    "produits": [
+        {
+            "produit_id": "P5015",
+            "nom": "Tasty Shirt",
+            "quantite": 4,
+            "prix_unitaire": 161.44
+        }
+    ],
+    "date_commande": "2023-07-30T22:41:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "341 Post",
+        "ville": "Haverhill"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 261881,
+    "client_id": 2156,
+    "produits": [
+        {
+            "produit_id": "P9103",
+            "nom": "Concrete Cheese",
+            "quantite": 1,
+            "prix_unitaire": 15.91
+        },
+        {
+            "produit_id": "P9202",
+            "nom": "Frozen Fish",
+            "quantite": 3,
+            "prix_unitaire": 287.78
+        }
+    ],
+    "date_commande": "2023-09-22T14:43:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

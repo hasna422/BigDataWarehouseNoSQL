@@ -1,0 +1,25 @@
+{
+    "order_id": 434135,
+    "client_id": 9511,
+    "produits": [
+        {
+            "produit_id": "P1005",
+            "nom": "Practical Steel Table",
+            "quantite": 3,
+            "prix_unitaire": 439.85
+        },
+        {
+            "produit_id": "P5307",
+            "nom": "Handmade Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 156.53
+        }
+    ],
+    "date_commande": "2024-03-26T06:38:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "411 Quintara",
+        "ville": "Moscow"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 515024,
+    "client_id": 9017,
+    "produits": [
+        {
+            "produit_id": "P1110",
+            "nom": "Gently Used Granite Salad",
+            "quantite": 3,
+            "prix_unitaire": 305.63
+        }
+    ],
+    "date_commande": "2024-07-19T10:43:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "270 Cooper",
+        "ville": "Colton"
+    }
+}

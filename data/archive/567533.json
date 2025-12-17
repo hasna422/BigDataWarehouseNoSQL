@@ -1,0 +1,15 @@
+{
+    "order_id": 567533,
+    "client_id": 6892,
+    "produits": [
+        {
+            "produit_id": "P9143",
+            "nom": "Generic Wooden Pants",
+            "quantite": 5,
+            "prix_unitaire": 137.8
+        }
+    ],
+    "date_commande": "2024-04-12T23:22:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

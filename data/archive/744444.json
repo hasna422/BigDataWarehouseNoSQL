@@ -1,0 +1,25 @@
+{
+    "order_id": 744444,
+    "client_id": 8237,
+    "produits": [
+        {
+            "produit_id": "P3542",
+            "nom": "Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 152.35
+        },
+        {
+            "produit_id": "P2474",
+            "nom": "Unbranded Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 424.24
+        }
+    ],
+    "date_commande": "2024-06-03T03:48:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1170 Dorland",
+        "ville": "Angleton"
+    }
+}

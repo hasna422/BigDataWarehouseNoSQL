@@ -1,0 +1,19 @@
+{
+    "order_id": 228784,
+    "client_id": 7426,
+    "produits": [
+        {
+            "produit_id": "P1513",
+            "nom": "Awesome Concrete Shoes",
+            "quantite": 4,
+            "prix_unitaire": 202.34
+        }
+    ],
+    "date_commande": "2024-11-29T17:52:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "878 Crown",
+        "ville": "LaGrange"
+    }
+}

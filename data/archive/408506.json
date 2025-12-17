@@ -1,0 +1,25 @@
+{
+    "order_id": 408506,
+    "client_id": 9672,
+    "produits": [
+        {
+            "produit_id": "P9430",
+            "nom": "Practical Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 170.47
+        },
+        {
+            "produit_id": "P6610",
+            "nom": "Intelligent Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 403.85
+        }
+    ],
+    "date_commande": "2025-01-05T01:51:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1016 Newman",
+        "ville": "Atascadero"
+    }
+}

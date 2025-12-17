@@ -1,0 +1,25 @@
+{
+    "order_id": 214091,
+    "client_id": 7397,
+    "produits": [
+        {
+            "produit_id": "P8112",
+            "nom": "Cotton Gloves",
+            "quantite": 1,
+            "prix_unitaire": 211.62
+        },
+        {
+            "produit_id": "P3378",
+            "nom": "Soft Bacon",
+            "quantite": 1,
+            "prix_unitaire": 41.49
+        }
+    ],
+    "date_commande": "2024-07-17T13:41:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1205 Juanita",
+        "ville": "Bell"
+    }
+}

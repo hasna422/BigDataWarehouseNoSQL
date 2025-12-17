@@ -1,0 +1,19 @@
+{
+    "order_id": 877333,
+    "client_id": 9458,
+    "produits": [
+        {
+            "produit_id": "P1014",
+            "nom": "Generic Concrete Soap",
+            "quantite": 1,
+            "prix_unitaire": 219.79
+        }
+    ],
+    "date_commande": "2024-04-03T04:35:23",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "380 Tennessee",
+        "ville": "Asheville"
+    }
+}

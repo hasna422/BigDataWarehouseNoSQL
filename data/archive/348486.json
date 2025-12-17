@@ -1,0 +1,19 @@
+{
+    "order_id": 348486,
+    "client_id": 3216,
+    "produits": [
+        {
+            "produit_id": "P7336",
+            "nom": "Used Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 220.54
+        }
+    ],
+    "date_commande": "2025-04-10T22:25:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1219 Ross",
+        "ville": "Lauderdale Lakes"
+    }
+}

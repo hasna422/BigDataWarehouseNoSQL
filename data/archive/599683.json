@@ -1,0 +1,25 @@
+{
+    "order_id": 599683,
+    "client_id": 1581,
+    "produits": [
+        {
+            "produit_id": "P7126",
+            "nom": "Licensed Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 331.71
+        },
+        {
+            "produit_id": "P0358",
+            "nom": "Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 332.47
+        }
+    ],
+    "date_commande": "2024-11-12T23:01:29",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "397 Harriet",
+        "ville": "Coeur d'Alene"
+    }
+}

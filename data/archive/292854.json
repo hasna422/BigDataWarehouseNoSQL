@@ -1,0 +1,31 @@
+{
+    "order_id": 292854,
+    "client_id": 9793,
+    "produits": [
+        {
+            "produit_id": "P3905",
+            "nom": "Refined Granite Sausages",
+            "quantite": 3,
+            "prix_unitaire": 347.6
+        },
+        {
+            "produit_id": "P5712",
+            "nom": "Unbranded Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 458.35
+        },
+        {
+            "produit_id": "P3294",
+            "nom": "Refined Granite Car",
+            "quantite": 3,
+            "prix_unitaire": 156.56
+        }
+    ],
+    "date_commande": "2024-01-27T23:03:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "361 Dwight",
+        "ville": "New Castle"
+    }
+}

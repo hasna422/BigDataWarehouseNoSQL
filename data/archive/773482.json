@@ -1,0 +1,31 @@
+{
+    "order_id": 773482,
+    "client_id": 2349,
+    "produits": [
+        {
+            "produit_id": "P9620",
+            "nom": "For repair Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 445.64
+        },
+        {
+            "produit_id": "P6311",
+            "nom": "New Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 153.84
+        },
+        {
+            "produit_id": "P4375",
+            "nom": "Incredible Bacon",
+            "quantite": 4,
+            "prix_unitaire": 299.82
+        }
+    ],
+    "date_commande": "2025-03-29T02:45:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "410 Lillian",
+        "ville": "Fort Walton Beach"
+    }
+}

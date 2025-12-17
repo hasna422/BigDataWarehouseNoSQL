@@ -1,0 +1,19 @@
+{
+    "order_id": 250439,
+    "client_id": 4285,
+    "produits": [
+        {
+            "produit_id": "P6172",
+            "nom": "New Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 199.11
+        }
+    ],
+    "date_commande": "2025-01-09T16:56:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "129 Stanley",
+        "ville": "Beverly"
+    }
+}

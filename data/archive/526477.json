@@ -1,0 +1,19 @@
+{
+    "order_id": 526477,
+    "client_id": 6636,
+    "produits": [
+        {
+            "produit_id": "P0679",
+            "nom": "Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 138.36
+        }
+    ],
+    "date_commande": "2024-12-24T15:57:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "258 Holloway",
+        "ville": "Desert Hot Springs"
+    }
+}

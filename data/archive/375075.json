@@ -1,0 +1,31 @@
+{
+    "order_id": 375075,
+    "client_id": 7270,
+    "produits": [
+        {
+            "produit_id": "P7641",
+            "nom": "For repair Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 245.4
+        },
+        {
+            "produit_id": "P3699",
+            "nom": "Intelligent Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 230.91
+        },
+        {
+            "produit_id": "P5038",
+            "nom": "Gorgeous Wooden Fish",
+            "quantite": 3,
+            "prix_unitaire": 54.99
+        }
+    ],
+    "date_commande": "2024-04-15T22:25:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "406 Page",
+        "ville": "Walla Walla"
+    }
+}

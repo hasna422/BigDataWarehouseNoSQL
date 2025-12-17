@@ -1,0 +1,19 @@
+{
+    "order_id": 138408,
+    "client_id": 1399,
+    "produits": [
+        {
+            "produit_id": "P2704",
+            "nom": "New Rubber Shoes",
+            "quantite": 5,
+            "prix_unitaire": 192.77
+        }
+    ],
+    "date_commande": "2025-02-10T16:34:35",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1023 Maddux",
+        "ville": "Liberty"
+    }
+}

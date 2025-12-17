@@ -1,0 +1,15 @@
+{
+    "order_id": 993314,
+    "client_id": 7785,
+    "produits": [
+        {
+            "produit_id": "P5216",
+            "nom": "Gorgeous Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 212.92
+        }
+    ],
+    "date_commande": "2024-12-24T03:05:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

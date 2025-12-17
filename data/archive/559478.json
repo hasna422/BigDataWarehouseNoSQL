@@ -1,0 +1,25 @@
+{
+    "order_id": 559478,
+    "client_id": 1740,
+    "produits": [
+        {
+            "produit_id": "P4546",
+            "nom": "Handmade Cotton Sausages",
+            "quantite": 3,
+            "prix_unitaire": 264.34
+        },
+        {
+            "produit_id": "P6463",
+            "nom": "Gently Used Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 461.18
+        }
+    ],
+    "date_commande": "2024-10-05T17:38:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "193 Lafayette",
+        "ville": "Georgetown"
+    }
+}

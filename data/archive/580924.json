@@ -1,0 +1,21 @@
+{
+    "order_id": 580924,
+    "client_id": 1659,
+    "produits": [
+        {
+            "produit_id": "P6392",
+            "nom": "Cheese",
+            "quantite": 2,
+            "prix_unitaire": 173.05
+        },
+        {
+            "produit_id": "P7663",
+            "nom": "Intelligent Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 110.13
+        }
+    ],
+    "date_commande": "2024-11-17T04:17:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

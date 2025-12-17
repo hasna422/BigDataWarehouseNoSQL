@@ -1,0 +1,31 @@
+{
+    "order_id": 195116,
+    "client_id": 7340,
+    "produits": [
+        {
+            "produit_id": "P4541",
+            "nom": "Refined Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 164.8
+        },
+        {
+            "produit_id": "P0216",
+            "nom": "Awesome Granite Chicken",
+            "quantite": 4,
+            "prix_unitaire": 462.41
+        },
+        {
+            "produit_id": "P1405",
+            "nom": "Handmade Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 283.7
+        }
+    ],
+    "date_commande": "2023-06-20T23:04:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1255 Heritage",
+        "ville": "Westbrook"
+    }
+}

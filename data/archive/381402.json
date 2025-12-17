@@ -1,0 +1,15 @@
+{
+    "order_id": 381402,
+    "client_id": 1471,
+    "produits": [
+        {
+            "produit_id": "P1244",
+            "nom": "Generic Plastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 66.29
+        }
+    ],
+    "date_commande": "2024-11-02T21:54:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

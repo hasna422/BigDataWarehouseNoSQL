@@ -1,0 +1,19 @@
+{
+    "order_id": 885352,
+    "client_id": 5564,
+    "produits": [
+        {
+            "produit_id": "P2326",
+            "nom": "Handmade Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 109.34
+        }
+    ],
+    "date_commande": "2024-04-21T22:50:16",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "678 Burgoyne",
+        "ville": "Duncanville"
+    }
+}

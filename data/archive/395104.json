@@ -1,0 +1,21 @@
+{
+    "order_id": 395104,
+    "client_id": 1153,
+    "produits": [
+        {
+            "produit_id": "P7279",
+            "nom": "Handcrafted Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 488.45
+        },
+        {
+            "produit_id": "P9536",
+            "nom": "Awesome Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 478.3
+        }
+    ],
+    "date_commande": "2024-05-19T08:37:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 473309,
+    "client_id": 5267,
+    "produits": [
+        {
+            "produit_id": "P7221",
+            "nom": "Incredible Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 30.53
+        },
+        {
+            "produit_id": "P5087",
+            "nom": "Refined Frozen Pants",
+            "quantite": 1,
+            "prix_unitaire": 446.22
+        }
+    ],
+    "date_commande": "2023-09-28T01:01:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 714336,
+    "client_id": 8504,
+    "produits": [
+        {
+            "produit_id": "P3150",
+            "nom": "Incredible Steel Cheese",
+            "quantite": 4,
+            "prix_unitaire": 228.51
+        },
+        {
+            "produit_id": "P8458",
+            "nom": "Gently Used Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 385.63
+        }
+    ],
+    "date_commande": "2023-09-04T15:00:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

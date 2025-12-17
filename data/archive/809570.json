@@ -1,0 +1,25 @@
+{
+    "order_id": 809570,
+    "client_id": 7088,
+    "produits": [
+        {
+            "produit_id": "P5878",
+            "nom": "Incredible Fresh Fish",
+            "quantite": 2,
+            "prix_unitaire": 202.23
+        },
+        {
+            "produit_id": "P9440",
+            "nom": "Licensed Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 194.39
+        }
+    ],
+    "date_commande": "2024-09-29T17:35:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "224 Brady",
+        "ville": "Hendersonville"
+    }
+}

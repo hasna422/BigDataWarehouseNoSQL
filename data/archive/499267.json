@@ -1,0 +1,21 @@
+{
+    "order_id": 499267,
+    "client_id": 4763,
+    "produits": [
+        {
+            "produit_id": "P0939",
+            "nom": "Car",
+            "quantite": 4,
+            "prix_unitaire": 195.81
+        },
+        {
+            "produit_id": "P1155",
+            "nom": "Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 282.99
+        }
+    ],
+    "date_commande": "2024-10-28T08:14:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

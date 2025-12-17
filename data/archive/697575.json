@@ -1,0 +1,25 @@
+{
+    "order_id": 697575,
+    "client_id": 1793,
+    "produits": [
+        {
+            "produit_id": "P9717",
+            "nom": "New Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 227.35
+        },
+        {
+            "produit_id": "P6213",
+            "nom": "Small Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 496.66
+        }
+    ],
+    "date_commande": "2024-02-13T09:49:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "799 Edna",
+        "ville": "New Rochelle"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 728686,
+    "client_id": 1429,
+    "produits": [
+        {
+            "produit_id": "P3421",
+            "nom": "Fantastic Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 321.56
+        },
+        {
+            "produit_id": "P9655",
+            "nom": "Generic Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 208.84
+        }
+    ],
+    "date_commande": "2024-02-01T15:30:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1017 Parker",
+        "ville": "St. Matthews"
+    }
+}

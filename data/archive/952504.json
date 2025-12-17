@@ -1,0 +1,27 @@
+{
+    "order_id": 952504,
+    "client_id": 8744,
+    "produits": [
+        {
+            "produit_id": "P3393",
+            "nom": "Generic Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 172.1
+        },
+        {
+            "produit_id": "P6837",
+            "nom": "Intelligent Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 441.36
+        },
+        {
+            "produit_id": "P6276",
+            "nom": "Used Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 139.67
+        }
+    ],
+    "date_commande": "2024-04-04T13:00:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

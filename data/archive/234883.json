@@ -1,0 +1,27 @@
+{
+    "order_id": 234883,
+    "client_id": 5367,
+    "produits": [
+        {
+            "produit_id": "P8484",
+            "nom": "Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 252.34
+        },
+        {
+            "produit_id": "P1687",
+            "nom": "Unbranded Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 69.72
+        },
+        {
+            "produit_id": "P6533",
+            "nom": "Soft Fish",
+            "quantite": 3,
+            "prix_unitaire": 363.12
+        }
+    ],
+    "date_commande": "2024-06-17T18:57:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

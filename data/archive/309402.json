@@ -1,0 +1,15 @@
+{
+    "order_id": 309402,
+    "client_id": 5444,
+    "produits": [
+        {
+            "produit_id": "P5572",
+            "nom": "Practical Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 404.18
+        }
+    ],
+    "date_commande": "2025-04-20T04:32:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

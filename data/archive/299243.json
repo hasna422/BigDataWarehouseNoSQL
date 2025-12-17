@@ -1,0 +1,27 @@
+{
+    "order_id": 299243,
+    "client_id": 8171,
+    "produits": [
+        {
+            "produit_id": "P5385",
+            "nom": "Intelligent Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 498.24
+        },
+        {
+            "produit_id": "P3145",
+            "nom": "Generic Wooden Ball",
+            "quantite": 5,
+            "prix_unitaire": 7.64
+        },
+        {
+            "produit_id": "P2789",
+            "nom": "Rustic Frozen Cheese",
+            "quantite": 5,
+            "prix_unitaire": 419.14
+        }
+    ],
+    "date_commande": "2023-11-26T19:28:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

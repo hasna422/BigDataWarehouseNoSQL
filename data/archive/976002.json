@@ -1,0 +1,15 @@
+{
+    "order_id": 976002,
+    "client_id": 9632,
+    "produits": [
+        {
+            "produit_id": "P7412",
+            "nom": "Handmade Table",
+            "quantite": 3,
+            "prix_unitaire": 211.09
+        }
+    ],
+    "date_commande": "2023-11-01T02:49:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

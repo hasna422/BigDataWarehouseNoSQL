@@ -1,0 +1,15 @@
+{
+    "order_id": 189142,
+    "client_id": 9161,
+    "produits": [
+        {
+            "produit_id": "P7862",
+            "nom": "Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 377.01
+        }
+    ],
+    "date_commande": "2024-09-12T10:55:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

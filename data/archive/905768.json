@@ -1,0 +1,27 @@
+{
+    "order_id": 905768,
+    "client_id": 7933,
+    "produits": [
+        {
+            "produit_id": "P8627",
+            "nom": "Soft Ball",
+            "quantite": 1,
+            "prix_unitaire": 320.59
+        },
+        {
+            "produit_id": "P8269",
+            "nom": "Frozen Table",
+            "quantite": 3,
+            "prix_unitaire": 374.76
+        },
+        {
+            "produit_id": "P2057",
+            "nom": "Gently Used Wooden Shoes",
+            "quantite": 1,
+            "prix_unitaire": 46.42
+        }
+    ],
+    "date_commande": "2024-02-01T01:15:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 337531,
+    "client_id": 7390,
+    "produits": [
+        {
+            "produit_id": "P0010",
+            "nom": "Gorgeous Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 267.61
+        },
+        {
+            "produit_id": "P5934",
+            "nom": "Ergonomic Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 121.38
+        },
+        {
+            "produit_id": "P2705",
+            "nom": "Awesome Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 289.58
+        }
+    ],
+    "date_commande": "2023-06-14T11:12:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

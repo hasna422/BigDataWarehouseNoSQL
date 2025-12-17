@@ -1,0 +1,27 @@
+{
+    "order_id": 324707,
+    "client_id": 1408,
+    "produits": [
+        {
+            "produit_id": "P8234",
+            "nom": "Generic Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 482.19
+        },
+        {
+            "produit_id": "P4310",
+            "nom": "Awesome Chicken",
+            "quantite": 5,
+            "prix_unitaire": 383.47
+        },
+        {
+            "produit_id": "P3701",
+            "nom": "Handmade Chips",
+            "quantite": 5,
+            "prix_unitaire": 227.26
+        }
+    ],
+    "date_commande": "2025-03-30T20:17:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

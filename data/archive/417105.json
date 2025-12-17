@@ -1,0 +1,15 @@
+{
+    "order_id": 417105,
+    "client_id": 6357,
+    "produits": [
+        {
+            "produit_id": "P5942",
+            "nom": "Used Fresh Table",
+            "quantite": 4,
+            "prix_unitaire": 376.86
+        }
+    ],
+    "date_commande": "2023-12-13T02:59:05",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 117499,
+    "client_id": 4055,
+    "produits": [
+        {
+            "produit_id": "P3856",
+            "nom": "Refined Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 326.64
+        },
+        {
+            "produit_id": "P3936",
+            "nom": "Fantastic Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 60.71
+        }
+    ],
+    "date_commande": "2024-11-26T21:23:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "386 Perasto",
+        "ville": "Covina"
+    }
+}

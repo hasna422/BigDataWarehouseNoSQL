@@ -1,0 +1,15 @@
+{
+    "order_id": 284167,
+    "client_id": 8129,
+    "produits": [
+        {
+            "produit_id": "P2923",
+            "nom": "Incredible Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 399.35
+        }
+    ],
+    "date_commande": "2024-08-16T16:38:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

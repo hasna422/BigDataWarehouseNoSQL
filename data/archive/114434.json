@@ -1,0 +1,31 @@
+{
+    "order_id": 114434,
+    "client_id": 7046,
+    "produits": [
+        {
+            "produit_id": "P6422",
+            "nom": "Refined Pizza",
+            "quantite": 2,
+            "prix_unitaire": 490.13
+        },
+        {
+            "produit_id": "P3180",
+            "nom": "Unbranded Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 6.08
+        },
+        {
+            "produit_id": "P7640",
+            "nom": "Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 90.32
+        }
+    ],
+    "date_commande": "2024-03-08T20:19:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1067 Nimitz",
+        "ville": "Santa Fe Springs"
+    }
+}

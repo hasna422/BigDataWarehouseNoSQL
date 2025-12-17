@@ -1,0 +1,19 @@
+{
+    "order_id": 200054,
+    "client_id": 8498,
+    "produits": [
+        {
+            "produit_id": "P7923",
+            "nom": "New Concrete Pizza",
+            "quantite": 4,
+            "prix_unitaire": 411.08
+        }
+    ],
+    "date_commande": "2024-01-17T17:04:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1292 Peralta",
+        "ville": "Overland Park"
+    }
+}

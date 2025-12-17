@@ -1,0 +1,25 @@
+{
+    "order_id": 658034,
+    "client_id": 9289,
+    "produits": [
+        {
+            "produit_id": "P6506",
+            "nom": "Used Rubber Tuna",
+            "quantite": 4,
+            "prix_unitaire": 74.5
+        },
+        {
+            "produit_id": "P9953",
+            "nom": "Used Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 276.67
+        }
+    ],
+    "date_commande": "2024-07-27T10:36:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1197 Lippard",
+        "ville": "Herriman"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 694553,
+    "client_id": 6106,
+    "produits": [
+        {
+            "produit_id": "P8213",
+            "nom": "Incredible Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 305.25
+        }
+    ],
+    "date_commande": "2023-11-29T13:04:14",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

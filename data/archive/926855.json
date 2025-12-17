@@ -1,0 +1,31 @@
+{
+    "order_id": 926855,
+    "client_id": 9998,
+    "produits": [
+        {
+            "produit_id": "P1697",
+            "nom": "Tasty Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 110.76
+        },
+        {
+            "produit_id": "P3465",
+            "nom": "Tasty Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 364.54
+        },
+        {
+            "produit_id": "P0794",
+            "nom": "Tasty Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 490.33
+        }
+    ],
+    "date_commande": "2024-07-14T15:34:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "674 Banneker",
+        "ville": "Keizer"
+    }
+}

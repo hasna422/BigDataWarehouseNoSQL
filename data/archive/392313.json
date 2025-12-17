@@ -1,0 +1,19 @@
+{
+    "order_id": 392313,
+    "client_id": 9911,
+    "produits": [
+        {
+            "produit_id": "P5713",
+            "nom": "Generic Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 169.21
+        }
+    ],
+    "date_commande": "2024-11-12T22:31:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "88 Gerard",
+        "ville": "Brownsburg"
+    }
+}

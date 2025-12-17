@@ -1,0 +1,15 @@
+{
+    "order_id": 436053,
+    "client_id": 5439,
+    "produits": [
+        {
+            "produit_id": "P3603",
+            "nom": "Used Plastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 188.51
+        }
+    ],
+    "date_commande": "2024-08-11T03:45:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

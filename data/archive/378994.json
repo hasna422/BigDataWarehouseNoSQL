@@ -1,0 +1,31 @@
+{
+    "order_id": 378994,
+    "client_id": 2886,
+    "produits": [
+        {
+            "produit_id": "P1885",
+            "nom": "Handmade Soft Fish",
+            "quantite": 4,
+            "prix_unitaire": 129.41
+        },
+        {
+            "produit_id": "P5960",
+            "nom": "Handmade Plastic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 192.87
+        },
+        {
+            "produit_id": "P3924",
+            "nom": "Ergonomic Cotton Tuna",
+            "quantite": 5,
+            "prix_unitaire": 223.69
+        }
+    ],
+    "date_commande": "2023-06-05T14:18:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "166 Stoneyford",
+        "ville": "Honolulu"
+    }
+}

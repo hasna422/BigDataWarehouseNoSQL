@@ -1,0 +1,25 @@
+{
+    "order_id": 915148,
+    "client_id": 9865,
+    "produits": [
+        {
+            "produit_id": "P5265",
+            "nom": "Fantastic Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 323.0
+        },
+        {
+            "produit_id": "P3111",
+            "nom": "Unbranded Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 409.74
+        }
+    ],
+    "date_commande": "2024-06-25T08:18:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "187 Sturgeon",
+        "ville": "Garfield Heights"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 849496,
+    "client_id": 2612,
+    "produits": [
+        {
+            "produit_id": "P7588",
+            "nom": "Unbranded Concrete Table",
+            "quantite": 1,
+            "prix_unitaire": 361.71
+        }
+    ],
+    "date_commande": "2024-10-16T04:33:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1032 De Long",
+        "ville": "South Portland"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 134999,
+    "client_id": 6234,
+    "produits": [
+        {
+            "produit_id": "P7424",
+            "nom": "Incredible Car",
+            "quantite": 1,
+            "prix_unitaire": 471.24
+        },
+        {
+            "produit_id": "P4417",
+            "nom": "Gently Used Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 401.88
+        },
+        {
+            "produit_id": "P5779",
+            "nom": "Fantastic Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 150.64
+        }
+    ],
+    "date_commande": "2024-06-12T18:13:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1032 Somerset",
+        "ville": "Hialeah Gardens"
+    }
+}

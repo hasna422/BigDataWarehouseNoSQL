@@ -1,0 +1,21 @@
+{
+    "order_id": 266306,
+    "client_id": 2425,
+    "produits": [
+        {
+            "produit_id": "P7802",
+            "nom": "Unbranded Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 354.46
+        },
+        {
+            "produit_id": "P1882",
+            "nom": "Practical Steel Soap",
+            "quantite": 4,
+            "prix_unitaire": 118.4
+        }
+    ],
+    "date_commande": "2024-04-05T12:45:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

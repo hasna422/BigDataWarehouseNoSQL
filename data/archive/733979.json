@@ -1,0 +1,27 @@
+{
+    "order_id": 733979,
+    "client_id": 7228,
+    "produits": [
+        {
+            "produit_id": "P8438",
+            "nom": "Awesome Shoes",
+            "quantite": 2,
+            "prix_unitaire": 233.57
+        },
+        {
+            "produit_id": "P8563",
+            "nom": "Unbranded Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 342.43
+        },
+        {
+            "produit_id": "P7871",
+            "nom": "Gorgeous Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 272.65
+        }
+    ],
+    "date_commande": "2023-11-18T07:57:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 650968,
+    "client_id": 9747,
+    "produits": [
+        {
+            "produit_id": "P5610",
+            "nom": "Handmade Granite Chair",
+            "quantite": 3,
+            "prix_unitaire": 304.96
+        },
+        {
+            "produit_id": "P1585",
+            "nom": "Rustic Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 383.6
+        },
+        {
+            "produit_id": "P9920",
+            "nom": "Rustic Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 315.32
+        }
+    ],
+    "date_commande": "2024-03-05T04:26:09",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "182 Loyola",
+        "ville": "Clearwater"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 479406,
+    "client_id": 7398,
+    "produits": [
+        {
+            "produit_id": "P7882",
+            "nom": "Generic Concrete Chips",
+            "quantite": 5,
+            "prix_unitaire": 209.03
+        },
+        {
+            "produit_id": "P4412",
+            "nom": "Handcrafted Computer",
+            "quantite": 2,
+            "prix_unitaire": 239.23
+        }
+    ],
+    "date_commande": "2024-04-26T15:13:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "154 Campton",
+        "ville": "Shelbyville"
+    }
+}

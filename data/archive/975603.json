@@ -1,0 +1,21 @@
+{
+    "order_id": 975603,
+    "client_id": 7334,
+    "produits": [
+        {
+            "produit_id": "P7175",
+            "nom": "Gently Used Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 36.45
+        },
+        {
+            "produit_id": "P0121",
+            "nom": "Practical Granite Shirt",
+            "quantite": 3,
+            "prix_unitaire": 301.22
+        }
+    ],
+    "date_commande": "2023-08-27T00:21:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

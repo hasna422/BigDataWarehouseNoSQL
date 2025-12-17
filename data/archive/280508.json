@@ -1,0 +1,27 @@
+{
+    "order_id": 280508,
+    "client_id": 4873,
+    "produits": [
+        {
+            "produit_id": "P8816",
+            "nom": "Rustic Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 297.73
+        },
+        {
+            "produit_id": "P3538",
+            "nom": "Licensed Shirt",
+            "quantite": 1,
+            "prix_unitaire": 233.1
+        },
+        {
+            "produit_id": "P0697",
+            "nom": "Small Ball",
+            "quantite": 5,
+            "prix_unitaire": 5.9
+        }
+    ],
+    "date_commande": "2023-07-23T13:32:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 181678,
+    "client_id": 9231,
+    "produits": [
+        {
+            "produit_id": "P2030",
+            "nom": "New Metal Bike",
+            "quantite": 1,
+            "prix_unitaire": 23.56
+        },
+        {
+            "produit_id": "P1961",
+            "nom": "Practical Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 438.22
+        }
+    ],
+    "date_commande": "2023-06-01T06:38:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

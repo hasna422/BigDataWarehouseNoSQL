@@ -1,0 +1,15 @@
+{
+    "order_id": 684485,
+    "client_id": 3310,
+    "produits": [
+        {
+            "produit_id": "P8757",
+            "nom": "Practical Frozen Pizza",
+            "quantite": 5,
+            "prix_unitaire": 34.67
+        }
+    ],
+    "date_commande": "2023-06-04T18:55:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

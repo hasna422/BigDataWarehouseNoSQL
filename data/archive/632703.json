@@ -1,0 +1,19 @@
+{
+    "order_id": 632703,
+    "client_id": 1315,
+    "produits": [
+        {
+            "produit_id": "P4634",
+            "nom": "Small Pizza",
+            "quantite": 4,
+            "prix_unitaire": 246.94
+        }
+    ],
+    "date_commande": "2023-12-12T09:00:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "38 Rivera",
+        "ville": "Nicholasville"
+    }
+}

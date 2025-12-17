@@ -1,0 +1,25 @@
+{
+    "order_id": 178499,
+    "client_id": 3628,
+    "produits": [
+        {
+            "produit_id": "P7387",
+            "nom": "Tasty Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 299.57
+        },
+        {
+            "produit_id": "P9044",
+            "nom": "Tasty Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 291.82
+        }
+    ],
+    "date_commande": "2024-07-29T02:09:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "77 Ashbury",
+        "ville": "Clifton"
+    }
+}

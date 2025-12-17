@@ -1,0 +1,19 @@
+{
+    "order_id": 531117,
+    "client_id": 8677,
+    "produits": [
+        {
+            "produit_id": "P8697",
+            "nom": "Gently Used Rubber Chair",
+            "quantite": 1,
+            "prix_unitaire": 198.32
+        }
+    ],
+    "date_commande": "2025-02-23T13:50:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1071 Princeton",
+        "ville": "Winston-Salem"
+    }
+}

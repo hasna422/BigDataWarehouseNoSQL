@@ -1,0 +1,25 @@
+{
+    "order_id": 241052,
+    "client_id": 2644,
+    "produits": [
+        {
+            "produit_id": "P9812",
+            "nom": "Ergonomic Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 158.41
+        },
+        {
+            "produit_id": "P8087",
+            "nom": "Ergonomic Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 6.54
+        }
+    ],
+    "date_commande": "2023-08-29T22:01:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "203 Jasper",
+        "ville": "Goldsboro"
+    }
+}

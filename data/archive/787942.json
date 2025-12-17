@@ -1,0 +1,25 @@
+{
+    "order_id": 787942,
+    "client_id": 3212,
+    "produits": [
+        {
+            "produit_id": "P4464",
+            "nom": "Rubber Chicken",
+            "quantite": 2,
+            "prix_unitaire": 360.03
+        },
+        {
+            "produit_id": "P3897",
+            "nom": "Rustic Concrete Computer",
+            "quantite": 1,
+            "prix_unitaire": 149.59
+        }
+    ],
+    "date_commande": "2024-10-31T11:11:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "816 Leona",
+        "ville": "Brownwood"
+    }
+}

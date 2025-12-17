@@ -1,0 +1,25 @@
+{
+    "order_id": 373804,
+    "client_id": 2416,
+    "produits": [
+        {
+            "produit_id": "P2648",
+            "nom": "For repair Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 316.4
+        },
+        {
+            "produit_id": "P0918",
+            "nom": "Used Soft Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 351.62
+        }
+    ],
+    "date_commande": "2025-01-30T15:25:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1169 Berwick",
+        "ville": "Cutler Bay"
+    }
+}

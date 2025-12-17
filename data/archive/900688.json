@@ -1,0 +1,19 @@
+{
+    "order_id": 900688,
+    "client_id": 8973,
+    "produits": [
+        {
+            "produit_id": "P8950",
+            "nom": "Refined Rubber Sausages",
+            "quantite": 5,
+            "prix_unitaire": 493.16
+        }
+    ],
+    "date_commande": "2024-02-05T14:27:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1174 Blair",
+        "ville": "Grand Prairie"
+    }
+}

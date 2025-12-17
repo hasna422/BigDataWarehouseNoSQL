@@ -1,0 +1,25 @@
+{
+    "order_id": 579894,
+    "client_id": 2773,
+    "produits": [
+        {
+            "produit_id": "P1383",
+            "nom": "Small Rubber Fish",
+            "quantite": 3,
+            "prix_unitaire": 418.62
+        },
+        {
+            "produit_id": "P2093",
+            "nom": "Gorgeous Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 67.59
+        }
+    ],
+    "date_commande": "2024-11-30T20:47:59",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "226 Horne",
+        "ville": "Woodstock"
+    }
+}

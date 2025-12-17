@@ -1,0 +1,31 @@
+{
+    "order_id": 608604,
+    "client_id": 9025,
+    "produits": [
+        {
+            "produit_id": "P5244",
+            "nom": "Incredible Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 149.46
+        },
+        {
+            "produit_id": "P4023",
+            "nom": "Rustic Gloves",
+            "quantite": 5,
+            "prix_unitaire": 188.76
+        },
+        {
+            "produit_id": "P6843",
+            "nom": "Handmade Rubber Chair",
+            "quantite": 4,
+            "prix_unitaire": 477.45
+        }
+    ],
+    "date_commande": "2023-08-02T15:54:28",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "579 Ortega",
+        "ville": "Temecula"
+    }
+}

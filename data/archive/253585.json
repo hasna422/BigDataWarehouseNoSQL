@@ -1,0 +1,25 @@
+{
+    "order_id": 253585,
+    "client_id": 6347,
+    "produits": [
+        {
+            "produit_id": "P7434",
+            "nom": "Granite Sausages",
+            "quantite": 1,
+            "prix_unitaire": 136.92
+        },
+        {
+            "produit_id": "P1002",
+            "nom": "Intelligent Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 147.56
+        }
+    ],
+    "date_commande": "2024-03-01T07:27:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "77 Willard",
+        "ville": "Phoenix"
+    }
+}

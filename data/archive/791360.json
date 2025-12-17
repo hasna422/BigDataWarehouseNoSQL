@@ -1,0 +1,25 @@
+{
+    "order_id": 791360,
+    "client_id": 4579,
+    "produits": [
+        {
+            "produit_id": "P7451",
+            "nom": "Gorgeous Plastic Chair",
+            "quantite": 3,
+            "prix_unitaire": 63.64
+        },
+        {
+            "produit_id": "P5628",
+            "nom": "Practical Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 397.6
+        }
+    ],
+    "date_commande": "2024-07-28T17:02:14",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "829 Vallejo",
+        "ville": "Eagle Mountain"
+    }
+}

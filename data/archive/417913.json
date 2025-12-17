@@ -1,0 +1,31 @@
+{
+    "order_id": 417913,
+    "client_id": 3158,
+    "produits": [
+        {
+            "produit_id": "P7350",
+            "nom": "Tasty Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 270.13
+        },
+        {
+            "produit_id": "P8538",
+            "nom": "Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 317.67
+        },
+        {
+            "produit_id": "P6324",
+            "nom": "Awesome Table",
+            "quantite": 1,
+            "prix_unitaire": 275.98
+        }
+    ],
+    "date_commande": "2023-12-09T09:47:29",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "150 Blairwood",
+        "ville": "Hanford"
+    }
+}

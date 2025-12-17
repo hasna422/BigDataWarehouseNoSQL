@@ -1,0 +1,25 @@
+{
+    "order_id": 307547,
+    "client_id": 6975,
+    "produits": [
+        {
+            "produit_id": "P0828",
+            "nom": "Handmade Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 227.95
+        },
+        {
+            "produit_id": "P6204",
+            "nom": "Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 317.33
+        }
+    ],
+    "date_commande": "2024-10-03T08:53:13",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "440 Erkson",
+        "ville": "Mason"
+    }
+}

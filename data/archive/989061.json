@@ -1,0 +1,15 @@
+{
+    "order_id": 989061,
+    "client_id": 1263,
+    "produits": [
+        {
+            "produit_id": "P2985",
+            "nom": "Refined Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 379.68
+        }
+    ],
+    "date_commande": "2024-11-20T00:50:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

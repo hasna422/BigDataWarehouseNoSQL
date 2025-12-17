@@ -1,0 +1,19 @@
+{
+    "order_id": 771902,
+    "client_id": 5902,
+    "produits": [
+        {
+            "produit_id": "P7926",
+            "nom": "Unbranded Steel Mouse",
+            "quantite": 1,
+            "prix_unitaire": 43.32
+        }
+    ],
+    "date_commande": "2025-05-08T11:44:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "13 Amethyst",
+        "ville": "Homestead"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 904648,
+    "client_id": 7125,
+    "produits": [
+        {
+            "produit_id": "P0518",
+            "nom": "Used Computer",
+            "quantite": 1,
+            "prix_unitaire": 90.26
+        }
+    ],
+    "date_commande": "2024-10-23T15:15:58",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "438 Mississippi",
+        "ville": "Gahanna"
+    }
+}

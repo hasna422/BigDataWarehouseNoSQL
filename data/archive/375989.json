@@ -1,0 +1,25 @@
+{
+    "order_id": 375989,
+    "client_id": 4308,
+    "produits": [
+        {
+            "produit_id": "P1099",
+            "nom": "Tasty Frozen Bike",
+            "quantite": 3,
+            "prix_unitaire": 310.54
+        },
+        {
+            "produit_id": "P2136",
+            "nom": "Incredible Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 273.23
+        }
+    ],
+    "date_commande": "2025-02-19T02:49:34",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "49 Joice",
+        "ville": "Buffalo Grove"
+    }
+}

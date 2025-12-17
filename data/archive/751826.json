@@ -1,0 +1,15 @@
+{
+    "order_id": 751826,
+    "client_id": 9733,
+    "produits": [
+        {
+            "produit_id": "P8721",
+            "nom": "Handmade Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 107.33
+        }
+    ],
+    "date_commande": "2023-12-28T16:40:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

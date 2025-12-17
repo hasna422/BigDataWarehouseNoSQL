@@ -1,0 +1,19 @@
+{
+    "order_id": 531759,
+    "client_id": 9313,
+    "produits": [
+        {
+            "produit_id": "P7351",
+            "nom": "Incredible Frozen Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 232.87
+        }
+    ],
+    "date_commande": "2025-03-25T11:13:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "181 Highland",
+        "ville": "Mukilteo"
+    }
+}

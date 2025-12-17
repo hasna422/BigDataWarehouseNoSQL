@@ -1,0 +1,31 @@
+{
+    "order_id": 310574,
+    "client_id": 3939,
+    "produits": [
+        {
+            "produit_id": "P8822",
+            "nom": "Concrete Shoes",
+            "quantite": 2,
+            "prix_unitaire": 264.35
+        },
+        {
+            "produit_id": "P3280",
+            "nom": "Refined Chair",
+            "quantite": 1,
+            "prix_unitaire": 404.35
+        },
+        {
+            "produit_id": "P6545",
+            "nom": "Sleek Ball",
+            "quantite": 5,
+            "prix_unitaire": 156.31
+        }
+    ],
+    "date_commande": "2025-04-30T10:47:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "994 Roselyn",
+        "ville": "North Canton"
+    }
+}

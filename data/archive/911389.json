@@ -1,0 +1,27 @@
+{
+    "order_id": 911389,
+    "client_id": 6606,
+    "produits": [
+        {
+            "produit_id": "P3931",
+            "nom": "Gently Used Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 335.46
+        },
+        {
+            "produit_id": "P9275",
+            "nom": "Used Tuna",
+            "quantite": 4,
+            "prix_unitaire": 225.45
+        },
+        {
+            "produit_id": "P0375",
+            "nom": "Ergonomic Metal Chips",
+            "quantite": 3,
+            "prix_unitaire": 273.04
+        }
+    ],
+    "date_commande": "2023-09-14T11:14:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

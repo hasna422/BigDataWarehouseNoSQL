@@ -1,0 +1,15 @@
+{
+    "order_id": 498711,
+    "client_id": 1462,
+    "produits": [
+        {
+            "produit_id": "P6676",
+            "nom": "For repair Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 362.66
+        }
+    ],
+    "date_commande": "2023-10-03T04:03:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

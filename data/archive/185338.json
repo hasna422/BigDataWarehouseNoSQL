@@ -1,0 +1,31 @@
+{
+    "order_id": 185338,
+    "client_id": 4104,
+    "produits": [
+        {
+            "produit_id": "P9671",
+            "nom": "Unbranded Wooden Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 133.79
+        },
+        {
+            "produit_id": "P5942",
+            "nom": "Fantastic Granite Bacon",
+            "quantite": 4,
+            "prix_unitaire": 232.54
+        },
+        {
+            "produit_id": "P8345",
+            "nom": "Ergonomic Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 348.83
+        }
+    ],
+    "date_commande": "2023-06-30T12:51:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1190 C",
+        "ville": "Christiansburg"
+    }
+}

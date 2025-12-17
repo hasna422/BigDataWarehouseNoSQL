@@ -1,0 +1,19 @@
+{
+    "order_id": 939985,
+    "client_id": 9066,
+    "produits": [
+        {
+            "produit_id": "P0154",
+            "nom": "Handcrafted Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 134.33
+        }
+    ],
+    "date_commande": "2023-12-18T01:02:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1001 Genoa",
+        "ville": "Liberty"
+    }
+}

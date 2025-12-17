@@ -1,0 +1,15 @@
+{
+    "order_id": 465646,
+    "client_id": 3658,
+    "produits": [
+        {
+            "produit_id": "P1632",
+            "nom": "Handcrafted Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 427.09
+        }
+    ],
+    "date_commande": "2024-05-06T20:45:28",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

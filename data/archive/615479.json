@@ -1,0 +1,19 @@
+{
+    "order_id": 615479,
+    "client_id": 2509,
+    "produits": [
+        {
+            "produit_id": "P8365",
+            "nom": "New Plastic Shoes",
+            "quantite": 3,
+            "prix_unitaire": 271.62
+        }
+    ],
+    "date_commande": "2025-04-11T01:25:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1156 Funston",
+        "ville": "Sanford"
+    }
+}

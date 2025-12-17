@@ -1,0 +1,21 @@
+{
+    "order_id": 635072,
+    "client_id": 9413,
+    "produits": [
+        {
+            "produit_id": "P0041",
+            "nom": "Used Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 233.61
+        },
+        {
+            "produit_id": "P4214",
+            "nom": "Refined Cotton Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 16.97
+        }
+    ],
+    "date_commande": "2025-04-23T23:14:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

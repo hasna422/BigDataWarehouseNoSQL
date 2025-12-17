@@ -1,0 +1,21 @@
+{
+    "order_id": 179961,
+    "client_id": 6786,
+    "produits": [
+        {
+            "produit_id": "P2477",
+            "nom": "Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 316.49
+        },
+        {
+            "produit_id": "P6665",
+            "nom": "Handcrafted Metal Table",
+            "quantite": 5,
+            "prix_unitaire": 389.37
+        }
+    ],
+    "date_commande": "2024-12-02T23:59:03",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

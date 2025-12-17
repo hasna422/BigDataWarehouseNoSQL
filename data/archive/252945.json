@@ -1,0 +1,25 @@
+{
+    "order_id": 252945,
+    "client_id": 9860,
+    "produits": [
+        {
+            "produit_id": "P0103",
+            "nom": "Intelligent Steel Salad",
+            "quantite": 1,
+            "prix_unitaire": 295.21
+        },
+        {
+            "produit_id": "P4701",
+            "nom": "Sleek Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 291.76
+        }
+    ],
+    "date_commande": "2024-11-09T02:07:23",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1261 Naglee",
+        "ville": "Elizabeth City"
+    }
+}

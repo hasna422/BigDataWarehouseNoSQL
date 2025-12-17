@@ -1,0 +1,19 @@
+{
+    "order_id": 639238,
+    "client_id": 9519,
+    "produits": [
+        {
+            "produit_id": "P6082",
+            "nom": "Gently Used Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 146.8
+        }
+    ],
+    "date_commande": "2023-09-06T14:59:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1027 Newman",
+        "ville": "Livermore"
+    }
+}

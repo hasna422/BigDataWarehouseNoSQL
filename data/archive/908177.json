@@ -1,0 +1,21 @@
+{
+    "order_id": 908177,
+    "client_id": 3995,
+    "produits": [
+        {
+            "produit_id": "P1061",
+            "nom": "Handmade Soft Table",
+            "quantite": 1,
+            "prix_unitaire": 240.09
+        },
+        {
+            "produit_id": "P7745",
+            "nom": "Incredible Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 300.08
+        }
+    ],
+    "date_commande": "2024-05-17T08:27:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

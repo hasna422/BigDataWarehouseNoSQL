@@ -1,0 +1,15 @@
+{
+    "order_id": 798944,
+    "client_id": 8837,
+    "produits": [
+        {
+            "produit_id": "P4521",
+            "nom": "For repair Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 440.29
+        }
+    ],
+    "date_commande": "2024-09-06T03:00:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

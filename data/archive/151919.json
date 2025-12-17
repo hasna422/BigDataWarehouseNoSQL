@@ -1,0 +1,15 @@
+{
+    "order_id": 151919,
+    "client_id": 9804,
+    "produits": [
+        {
+            "produit_id": "P3280",
+            "nom": "Incredible Bacon",
+            "quantite": 3,
+            "prix_unitaire": 39.12
+        }
+    ],
+    "date_commande": "2024-01-25T20:29:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

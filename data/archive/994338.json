@@ -1,0 +1,19 @@
+{
+    "order_id": 994338,
+    "client_id": 6268,
+    "produits": [
+        {
+            "produit_id": "P2753",
+            "nom": "Incredible Rubber Car",
+            "quantite": 5,
+            "prix_unitaire": 350.17
+        }
+    ],
+    "date_commande": "2024-11-24T18:59:02",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "662 Heather",
+        "ville": "Houston"
+    }
+}

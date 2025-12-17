@@ -1,0 +1,25 @@
+{
+    "order_id": 255685,
+    "client_id": 3890,
+    "produits": [
+        {
+            "produit_id": "P5428",
+            "nom": "Gently Used Granite Ball",
+            "quantite": 1,
+            "prix_unitaire": 335.18
+        },
+        {
+            "produit_id": "P2280",
+            "nom": "Handcrafted Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 461.69
+        }
+    ],
+    "date_commande": "2024-11-01T07:38:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1107 Geary",
+        "ville": "Euclid"
+    }
+}

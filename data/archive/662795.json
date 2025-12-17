@@ -1,0 +1,15 @@
+{
+    "order_id": 662795,
+    "client_id": 7642,
+    "produits": [
+        {
+            "produit_id": "P4361",
+            "nom": "Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 140.55
+        }
+    ],
+    "date_commande": "2024-02-07T00:22:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

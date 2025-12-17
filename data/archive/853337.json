@@ -1,0 +1,19 @@
+{
+    "order_id": 853337,
+    "client_id": 6781,
+    "produits": [
+        {
+            "produit_id": "P7993",
+            "nom": "Unbranded Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 12.34
+        }
+    ],
+    "date_commande": "2024-03-27T17:59:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "46 Johnstone",
+        "ville": "Stow"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 368568,
+    "client_id": 5519,
+    "produits": [
+        {
+            "produit_id": "P6456",
+            "nom": "Refined Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 356.52
+        },
+        {
+            "produit_id": "P8687",
+            "nom": "Ergonomic Cotton Bacon",
+            "quantite": 5,
+            "prix_unitaire": 312.08
+        },
+        {
+            "produit_id": "P9419",
+            "nom": "Generic Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 326.85
+        }
+    ],
+    "date_commande": "2024-11-18T13:40:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "645 Canby",
+        "ville": "Las Vegas"
+    }
+}

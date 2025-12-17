@@ -1,0 +1,15 @@
+{
+    "order_id": 854674,
+    "client_id": 9229,
+    "produits": [
+        {
+            "produit_id": "P8962",
+            "nom": "For repair Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 486.41
+        }
+    ],
+    "date_commande": "2024-11-13T12:55:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

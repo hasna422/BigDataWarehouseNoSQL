@@ -1,0 +1,19 @@
+{
+    "order_id": 104974,
+    "client_id": 5164,
+    "produits": [
+        {
+            "produit_id": "P3127",
+            "nom": "Small Chicken",
+            "quantite": 2,
+            "prix_unitaire": 85.76
+        }
+    ],
+    "date_commande": "2024-03-07T22:48:58",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "852 Arco",
+        "ville": "Frederick"
+    }
+}

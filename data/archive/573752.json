@@ -1,0 +1,15 @@
+{
+    "order_id": 573752,
+    "client_id": 6520,
+    "produits": [
+        {
+            "produit_id": "P5278",
+            "nom": "Concrete Shirt",
+            "quantite": 3,
+            "prix_unitaire": 158.79
+        }
+    ],
+    "date_commande": "2024-12-07T20:47:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

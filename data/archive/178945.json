@@ -1,0 +1,31 @@
+{
+    "order_id": 178945,
+    "client_id": 9644,
+    "produits": [
+        {
+            "produit_id": "P3641",
+            "nom": "Intelligent Metal Bike",
+            "quantite": 3,
+            "prix_unitaire": 236.88
+        },
+        {
+            "produit_id": "P1177",
+            "nom": "Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 295.68
+        },
+        {
+            "produit_id": "P3051",
+            "nom": "Small Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 440.2
+        }
+    ],
+    "date_commande": "2023-07-02T16:33:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1020 Cooper",
+        "ville": "Santa Fe"
+    }
+}

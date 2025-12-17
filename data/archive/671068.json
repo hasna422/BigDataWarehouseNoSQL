@@ -1,0 +1,31 @@
+{
+    "order_id": 671068,
+    "client_id": 9719,
+    "produits": [
+        {
+            "produit_id": "P3085",
+            "nom": "New Concrete Bacon",
+            "quantite": 3,
+            "prix_unitaire": 352.75
+        },
+        {
+            "produit_id": "P3651",
+            "nom": "Practical Plastic Soap",
+            "quantite": 1,
+            "prix_unitaire": 198.97
+        },
+        {
+            "produit_id": "P0258",
+            "nom": "Small Steel Shirt",
+            "quantite": 3,
+            "prix_unitaire": 322.9
+        }
+    ],
+    "date_commande": "2024-06-24T03:00:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1325 Hill",
+        "ville": "Trenton"
+    }
+}

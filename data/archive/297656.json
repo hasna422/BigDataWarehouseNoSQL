@@ -1,0 +1,15 @@
+{
+    "order_id": 297656,
+    "client_id": 4178,
+    "produits": [
+        {
+            "produit_id": "P4289",
+            "nom": "New Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 137.11
+        }
+    ],
+    "date_commande": "2023-08-29T14:23:20",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

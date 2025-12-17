@@ -1,0 +1,15 @@
+{
+    "order_id": 880280,
+    "client_id": 3747,
+    "produits": [
+        {
+            "produit_id": "P8691",
+            "nom": "Licensed Wooden Chicken",
+            "quantite": 1,
+            "prix_unitaire": 396.45
+        }
+    ],
+    "date_commande": "2025-02-15T01:03:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

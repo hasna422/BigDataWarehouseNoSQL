@@ -1,0 +1,19 @@
+{
+    "order_id": 671983,
+    "client_id": 7417,
+    "produits": [
+        {
+            "produit_id": "P8415",
+            "nom": "Small Granite Tuna",
+            "quantite": 5,
+            "prix_unitaire": 116.93
+        }
+    ],
+    "date_commande": "2024-10-15T08:34:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "50 Saratoga",
+        "ville": "Northglenn"
+    }
+}

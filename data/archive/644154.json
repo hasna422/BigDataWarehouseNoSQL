@@ -1,0 +1,21 @@
+{
+    "order_id": 644154,
+    "client_id": 3573,
+    "produits": [
+        {
+            "produit_id": "P7780",
+            "nom": "Ergonomic Metal Table",
+            "quantite": 2,
+            "prix_unitaire": 165.85
+        },
+        {
+            "produit_id": "P1387",
+            "nom": "Practical Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 230.0
+        }
+    ],
+    "date_commande": "2024-12-29T16:56:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 630120,
+    "client_id": 8670,
+    "produits": [
+        {
+            "produit_id": "P0129",
+            "nom": "Fantastic Soap",
+            "quantite": 1,
+            "prix_unitaire": 108.96
+        }
+    ],
+    "date_commande": "2023-12-04T15:23:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1131 Revello",
+        "ville": "Holladay"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 286962,
+    "client_id": 8201,
+    "produits": [
+        {
+            "produit_id": "P5720",
+            "nom": "Awesome Plastic Sausages",
+            "quantite": 4,
+            "prix_unitaire": 426.76
+        },
+        {
+            "produit_id": "P3896",
+            "nom": "Gorgeous Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 56.91
+        },
+        {
+            "produit_id": "P6983",
+            "nom": "Unbranded Computer",
+            "quantite": 2,
+            "prix_unitaire": 19.46
+        }
+    ],
+    "date_commande": "2025-05-18T05:28:59",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

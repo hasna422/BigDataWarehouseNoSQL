@@ -1,0 +1,21 @@
+{
+    "order_id": 176250,
+    "client_id": 2728,
+    "produits": [
+        {
+            "produit_id": "P1409",
+            "nom": "Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 299.8
+        },
+        {
+            "produit_id": "P2680",
+            "nom": "Awesome Soft Bacon",
+            "quantite": 5,
+            "prix_unitaire": 457.37
+        }
+    ],
+    "date_commande": "2024-08-04T14:10:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

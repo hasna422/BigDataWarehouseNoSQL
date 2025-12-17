@@ -1,0 +1,31 @@
+{
+    "order_id": 814516,
+    "client_id": 1409,
+    "produits": [
+        {
+            "produit_id": "P7114",
+            "nom": "Bike",
+            "quantite": 5,
+            "prix_unitaire": 428.18
+        },
+        {
+            "produit_id": "P4547",
+            "nom": "Mouse",
+            "quantite": 5,
+            "prix_unitaire": 87.62
+        },
+        {
+            "produit_id": "P4708",
+            "nom": "Sausages",
+            "quantite": 1,
+            "prix_unitaire": 290.08
+        }
+    ],
+    "date_commande": "2023-09-10T10:14:25",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "318 Friedell",
+        "ville": "Elmira"
+    }
+}

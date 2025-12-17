@@ -1,0 +1,19 @@
+{
+    "order_id": 515064,
+    "client_id": 6828,
+    "produits": [
+        {
+            "produit_id": "P8775",
+            "nom": "Generic Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 497.99
+        }
+    ],
+    "date_commande": "2024-06-29T10:20:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "391 Font",
+        "ville": "Matteson"
+    }
+}

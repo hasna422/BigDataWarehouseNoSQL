@@ -1,0 +1,27 @@
+{
+    "order_id": 274326,
+    "client_id": 1409,
+    "produits": [
+        {
+            "produit_id": "P4137",
+            "nom": "Gently Used Cotton Cheese",
+            "quantite": 3,
+            "prix_unitaire": 207.19
+        },
+        {
+            "produit_id": "P5208",
+            "nom": "Gently Used Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 84.75
+        },
+        {
+            "produit_id": "P9267",
+            "nom": "Unbranded Metal Shoes",
+            "quantite": 5,
+            "prix_unitaire": 221.26
+        }
+    ],
+    "date_commande": "2024-07-04T07:56:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

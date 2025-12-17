@@ -1,0 +1,19 @@
+{
+    "order_id": 311364,
+    "client_id": 2245,
+    "produits": [
+        {
+            "produit_id": "P9516",
+            "nom": "Awesome Concrete Chicken",
+            "quantite": 1,
+            "prix_unitaire": 167.25
+        }
+    ],
+    "date_commande": "2024-04-09T21:53:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "270 Lapu-Lapu",
+        "ville": "Papillion"
+    }
+}

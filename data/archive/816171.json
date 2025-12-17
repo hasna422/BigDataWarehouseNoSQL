@@ -1,0 +1,27 @@
+{
+    "order_id": 816171,
+    "client_id": 9133,
+    "produits": [
+        {
+            "produit_id": "P8354",
+            "nom": "Awesome Ball",
+            "quantite": 1,
+            "prix_unitaire": 334.36
+        },
+        {
+            "produit_id": "P3876",
+            "nom": "Incredible Computer",
+            "quantite": 2,
+            "prix_unitaire": 329.49
+        },
+        {
+            "produit_id": "P8422",
+            "nom": "Licensed Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 377.46
+        }
+    ],
+    "date_commande": "2023-10-06T16:33:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

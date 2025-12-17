@@ -1,0 +1,25 @@
+{
+    "order_id": 986972,
+    "client_id": 9735,
+    "produits": [
+        {
+            "produit_id": "P9026",
+            "nom": "Refined Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 121.4
+        },
+        {
+            "produit_id": "P4591",
+            "nom": "Unbranded Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 393.17
+        }
+    ],
+    "date_commande": "2025-05-06T11:32:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "959 Amethyst",
+        "ville": "Fort Wayne"
+    }
+}

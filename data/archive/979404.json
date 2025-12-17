@@ -1,0 +1,31 @@
+{
+    "order_id": 979404,
+    "client_id": 4537,
+    "produits": [
+        {
+            "produit_id": "P3486",
+            "nom": "Incredible Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 134.95
+        },
+        {
+            "produit_id": "P9017",
+            "nom": "Gorgeous Cotton Pizza",
+            "quantite": 3,
+            "prix_unitaire": 39.22
+        },
+        {
+            "produit_id": "P6344",
+            "nom": "Handcrafted Rubber Shoes",
+            "quantite": 5,
+            "prix_unitaire": 470.72
+        }
+    ],
+    "date_commande": "2024-10-08T07:35:21",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "355 Elim",
+        "ville": "Maryville"
+    }
+}

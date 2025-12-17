@@ -1,0 +1,31 @@
+{
+    "order_id": 742143,
+    "client_id": 5625,
+    "produits": [
+        {
+            "produit_id": "P0174",
+            "nom": "Generic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 370.09
+        },
+        {
+            "produit_id": "P2013",
+            "nom": "Awesome Pants",
+            "quantite": 4,
+            "prix_unitaire": 279.85
+        },
+        {
+            "produit_id": "P5219",
+            "nom": "Practical Rubber Towels",
+            "quantite": 4,
+            "prix_unitaire": 112.22
+        }
+    ],
+    "date_commande": "2024-01-30T23:03:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "400 Robert C Levy",
+        "ville": "Avenal"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 946220,
+    "client_id": 9011,
+    "produits": [
+        {
+            "produit_id": "P2237",
+            "nom": "Refined Shirt",
+            "quantite": 2,
+            "prix_unitaire": 230.85
+        },
+        {
+            "produit_id": "P2387",
+            "nom": "Sleek Chair",
+            "quantite": 2,
+            "prix_unitaire": 419.86
+        }
+    ],
+    "date_commande": "2023-12-23T20:22:50",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

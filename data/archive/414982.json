@@ -1,0 +1,31 @@
+{
+    "order_id": 414982,
+    "client_id": 3749,
+    "produits": [
+        {
+            "produit_id": "P1133",
+            "nom": "Refined Computer",
+            "quantite": 5,
+            "prix_unitaire": 125.72
+        },
+        {
+            "produit_id": "P0560",
+            "nom": "Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 202.13
+        },
+        {
+            "produit_id": "P6891",
+            "nom": "Gently Used Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 310.76
+        }
+    ],
+    "date_commande": "2023-06-25T23:58:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "220 Gardener",
+        "ville": "Hesperia"
+    }
+}

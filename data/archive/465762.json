@@ -1,0 +1,25 @@
+{
+    "order_id": 465762,
+    "client_id": 6771,
+    "produits": [
+        {
+            "produit_id": "P9660",
+            "nom": "Unbranded Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 238.71
+        },
+        {
+            "produit_id": "P6302",
+            "nom": "Fantastic Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 251.57
+        }
+    ],
+    "date_commande": "2024-10-25T03:27:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "882 Daggett",
+        "ville": "Rowlett"
+    }
+}

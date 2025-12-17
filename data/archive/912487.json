@@ -1,0 +1,15 @@
+{
+    "order_id": 912487,
+    "client_id": 4142,
+    "produits": [
+        {
+            "produit_id": "P1637",
+            "nom": "Unbranded Steel Bacon",
+            "quantite": 4,
+            "prix_unitaire": 366.86
+        }
+    ],
+    "date_commande": "2023-06-11T16:10:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

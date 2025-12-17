@@ -1,0 +1,19 @@
+{
+    "order_id": 911723,
+    "client_id": 9779,
+    "produits": [
+        {
+            "produit_id": "P9870",
+            "nom": "Practical Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 92.14
+        }
+    ],
+    "date_commande": "2025-04-10T22:43:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "86 Mirando",
+        "ville": "Montgomery"
+    }
+}

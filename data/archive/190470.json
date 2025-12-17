@@ -1,0 +1,25 @@
+{
+    "order_id": 190470,
+    "client_id": 5040,
+    "produits": [
+        {
+            "produit_id": "P4299",
+            "nom": "Sleek Computer",
+            "quantite": 4,
+            "prix_unitaire": 103.69
+        },
+        {
+            "produit_id": "P9629",
+            "nom": "For repair Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 406.02
+        }
+    ],
+    "date_commande": "2025-02-08T06:32:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1045 Flood",
+        "ville": "Ardmore"
+    }
+}

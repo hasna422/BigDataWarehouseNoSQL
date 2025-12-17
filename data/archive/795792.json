@@ -1,0 +1,19 @@
+{
+    "order_id": 795792,
+    "client_id": 2977,
+    "produits": [
+        {
+            "produit_id": "P4229",
+            "nom": "Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 401.75
+        }
+    ],
+    "date_commande": "2024-02-07T21:17:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "794 Gatun",
+        "ville": "Homestead"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 473019,
+    "client_id": 6971,
+    "produits": [
+        {
+            "produit_id": "P4024",
+            "nom": "Generic Towels",
+            "quantite": 2,
+            "prix_unitaire": 266.89
+        }
+    ],
+    "date_commande": "2024-03-03T14:52:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "216 Roanoke",
+        "ville": "Melbourne"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 195432,
+    "client_id": 2411,
+    "produits": [
+        {
+            "produit_id": "P6328",
+            "nom": "Generic Plastic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 471.18
+        },
+        {
+            "produit_id": "P4602",
+            "nom": "Licensed Plastic Ball",
+            "quantite": 3,
+            "prix_unitaire": 414.81
+        }
+    ],
+    "date_commande": "2025-04-15T20:41:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "220 Melba",
+        "ville": "Oswego"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 690503,
+    "client_id": 4740,
+    "produits": [
+        {
+            "produit_id": "P1217",
+            "nom": "Rustic Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 236.81
+        },
+        {
+            "produit_id": "P2821",
+            "nom": "Fantastic Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 29.93
+        },
+        {
+            "produit_id": "P7418",
+            "nom": "Handcrafted Metal Soap",
+            "quantite": 5,
+            "prix_unitaire": 251.6
+        }
+    ],
+    "date_commande": "2025-05-04T18:23:57",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "225 Madison",
+        "ville": "North Little Rock"
+    }
+}

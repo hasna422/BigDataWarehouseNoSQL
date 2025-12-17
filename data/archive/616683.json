@@ -1,0 +1,15 @@
+{
+    "order_id": 616683,
+    "client_id": 8006,
+    "produits": [
+        {
+            "produit_id": "P4017",
+            "nom": "Small Plastic Hat",
+            "quantite": 2,
+            "prix_unitaire": 154.35
+        }
+    ],
+    "date_commande": "2024-09-04T05:20:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

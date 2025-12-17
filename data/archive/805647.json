@@ -1,0 +1,25 @@
+{
+    "order_id": 805647,
+    "client_id": 9148,
+    "produits": [
+        {
+            "produit_id": "P3625",
+            "nom": "Sleek Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 423.03
+        },
+        {
+            "produit_id": "P3685",
+            "nom": "Intelligent Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 133.88
+        }
+    ],
+    "date_commande": "2023-05-30T06:44:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "384 Webster",
+        "ville": "Mountain View"
+    }
+}

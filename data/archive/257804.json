@@ -1,0 +1,15 @@
+{
+    "order_id": 257804,
+    "client_id": 1485,
+    "produits": [
+        {
+            "produit_id": "P4800",
+            "nom": "Tasty Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 314.38
+        }
+    ],
+    "date_commande": "2024-05-26T16:43:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 742039,
+    "client_id": 8146,
+    "produits": [
+        {
+            "produit_id": "P5683",
+            "nom": "Intelligent Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 408.6
+        },
+        {
+            "produit_id": "P0409",
+            "nom": "Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 498.25
+        },
+        {
+            "produit_id": "P5471",
+            "nom": "Rustic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 149.64
+        }
+    ],
+    "date_commande": "2024-08-14T04:10:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

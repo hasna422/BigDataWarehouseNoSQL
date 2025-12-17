@@ -1,0 +1,31 @@
+{
+    "order_id": 736864,
+    "client_id": 3720,
+    "produits": [
+        {
+            "produit_id": "P1277",
+            "nom": "New Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 468.98
+        },
+        {
+            "produit_id": "P8082",
+            "nom": "Generic Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 385.84
+        },
+        {
+            "produit_id": "P5913",
+            "nom": "Generic Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 129.23
+        }
+    ],
+    "date_commande": "2023-06-08T13:27:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "450 Rivera",
+        "ville": "Alamo"
+    }
+}

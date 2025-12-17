@@ -1,0 +1,25 @@
+{
+    "order_id": 307013,
+    "client_id": 9247,
+    "produits": [
+        {
+            "produit_id": "P3149",
+            "nom": "Generic Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 349.45
+        },
+        {
+            "produit_id": "P7038",
+            "nom": "For repair Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 381.18
+        }
+    ],
+    "date_commande": "2024-02-20T07:08:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "393 Verdi",
+        "ville": "Banning"
+    }
+}

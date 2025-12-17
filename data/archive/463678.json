@@ -1,0 +1,15 @@
+{
+    "order_id": 463678,
+    "client_id": 6262,
+    "produits": [
+        {
+            "produit_id": "P2988",
+            "nom": "Awesome Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 296.46
+        }
+    ],
+    "date_commande": "2025-02-22T17:35:36",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

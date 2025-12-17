@@ -1,0 +1,31 @@
+{
+    "order_id": 241199,
+    "client_id": 1992,
+    "produits": [
+        {
+            "produit_id": "P8543",
+            "nom": "Handcrafted Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 466.41
+        },
+        {
+            "produit_id": "P1453",
+            "nom": "Concrete Ball",
+            "quantite": 2,
+            "prix_unitaire": 311.4
+        },
+        {
+            "produit_id": "P0551",
+            "nom": "Unbranded Tuna",
+            "quantite": 1,
+            "prix_unitaire": 122.41
+        }
+    ],
+    "date_commande": "2023-07-23T05:53:01",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "797 Gladeview",
+        "ville": "Hilton Head Island"
+    }
+}

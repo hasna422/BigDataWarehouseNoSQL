@@ -1,0 +1,31 @@
+{
+    "order_id": 948553,
+    "client_id": 3276,
+    "produits": [
+        {
+            "produit_id": "P2851",
+            "nom": "Rustic Plastic Computer",
+            "quantite": 2,
+            "prix_unitaire": 166.56
+        },
+        {
+            "produit_id": "P9279",
+            "nom": "Intelligent Fresh Salad",
+            "quantite": 1,
+            "prix_unitaire": 234.16
+        },
+        {
+            "produit_id": "P3321",
+            "nom": "Handcrafted Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 163.81
+        }
+    ],
+    "date_commande": "2023-09-28T10:48:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "37 Steuart",
+        "ville": "Muscatine"
+    }
+}

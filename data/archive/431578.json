@@ -1,0 +1,15 @@
+{
+    "order_id": 431578,
+    "client_id": 7385,
+    "produits": [
+        {
+            "produit_id": "P2631",
+            "nom": "New Metal Pizza",
+            "quantite": 5,
+            "prix_unitaire": 395.19
+        }
+    ],
+    "date_commande": "2024-02-17T10:15:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

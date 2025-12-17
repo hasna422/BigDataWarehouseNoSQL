@@ -1,0 +1,31 @@
+{
+    "order_id": 769589,
+    "client_id": 2312,
+    "produits": [
+        {
+            "produit_id": "P9591",
+            "nom": "Awesome Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 435.08
+        },
+        {
+            "produit_id": "P5886",
+            "nom": "Sleek Towels",
+            "quantite": 1,
+            "prix_unitaire": 199.26
+        },
+        {
+            "produit_id": "P6598",
+            "nom": "Rustic Pants",
+            "quantite": 5,
+            "prix_unitaire": 302.4
+        }
+    ],
+    "date_commande": "2024-08-31T02:15:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1303 Mill",
+        "ville": "San Francisco"
+    }
+}

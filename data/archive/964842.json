@@ -1,0 +1,19 @@
+{
+    "order_id": 964842,
+    "client_id": 3130,
+    "produits": [
+        {
+            "produit_id": "P4346",
+            "nom": "Gorgeous Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 223.83
+        }
+    ],
+    "date_commande": "2024-05-11T19:30:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "842 Holland",
+        "ville": "College Station"
+    }
+}

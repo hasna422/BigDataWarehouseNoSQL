@@ -1,0 +1,19 @@
+{
+    "order_id": 828762,
+    "client_id": 4961,
+    "produits": [
+        {
+            "produit_id": "P3179",
+            "nom": "Licensed Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 10.23
+        }
+    ],
+    "date_commande": "2025-01-29T06:33:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "737 Windsor Mill",
+        "ville": "Austin"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 587065,
+    "client_id": 6969,
+    "produits": [
+        {
+            "produit_id": "P0053",
+            "nom": "Fantastic Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 118.4
+        }
+    ],
+    "date_commande": "2023-07-08T22:42:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

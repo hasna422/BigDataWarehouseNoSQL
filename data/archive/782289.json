@@ -1,0 +1,19 @@
+{
+    "order_id": 782289,
+    "client_id": 2890,
+    "produits": [
+        {
+            "produit_id": "P2327",
+            "nom": "Handmade Frozen Towels",
+            "quantite": 4,
+            "prix_unitaire": 389.19
+        }
+    ],
+    "date_commande": "2023-05-30T04:29:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "211 Pico",
+        "ville": "Harlingen"
+    }
+}

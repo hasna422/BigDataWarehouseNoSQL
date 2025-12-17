@@ -1,0 +1,31 @@
+{
+    "order_id": 128413,
+    "client_id": 8248,
+    "produits": [
+        {
+            "produit_id": "P0329",
+            "nom": "Intelligent Soft Hat",
+            "quantite": 4,
+            "prix_unitaire": 40.51
+        },
+        {
+            "produit_id": "P4983",
+            "nom": "Tasty Plastic Bike",
+            "quantite": 2,
+            "prix_unitaire": 349.88
+        },
+        {
+            "produit_id": "P1210",
+            "nom": "Awesome Concrete Bacon",
+            "quantite": 4,
+            "prix_unitaire": 424.65
+        }
+    ],
+    "date_commande": "2023-10-18T11:43:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "94 Norton",
+        "ville": "Oak Ridge"
+    }
+}

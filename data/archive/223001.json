@@ -1,0 +1,27 @@
+{
+    "order_id": 223001,
+    "client_id": 1910,
+    "produits": [
+        {
+            "produit_id": "P9121",
+            "nom": "Rustic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 341.09
+        },
+        {
+            "produit_id": "P9656",
+            "nom": "Gorgeous Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 16.02
+        },
+        {
+            "produit_id": "P4968",
+            "nom": "Licensed Wooden Hat",
+            "quantite": 3,
+            "prix_unitaire": 180.2
+        }
+    ],
+    "date_commande": "2024-05-26T19:43:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

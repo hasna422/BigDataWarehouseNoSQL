@@ -1,0 +1,25 @@
+{
+    "order_id": 402160,
+    "client_id": 9206,
+    "produits": [
+        {
+            "produit_id": "P1103",
+            "nom": "Rustic Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 46.64
+        },
+        {
+            "produit_id": "P6061",
+            "nom": "Awesome Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 411.54
+        }
+    ],
+    "date_commande": "2025-01-16T01:10:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "547 Blairwood",
+        "ville": "Sherwood"
+    }
+}

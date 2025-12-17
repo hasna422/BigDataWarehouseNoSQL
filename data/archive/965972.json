@@ -1,0 +1,25 @@
+{
+    "order_id": 965972,
+    "client_id": 2932,
+    "produits": [
+        {
+            "produit_id": "P0219",
+            "nom": "Handmade Rubber Cheese",
+            "quantite": 5,
+            "prix_unitaire": 390.07
+        },
+        {
+            "produit_id": "P0946",
+            "nom": "Intelligent Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 161.08
+        }
+    ],
+    "date_commande": "2023-12-12T17:37:07",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1235 Milton",
+        "ville": "Fountain Valley"
+    }
+}

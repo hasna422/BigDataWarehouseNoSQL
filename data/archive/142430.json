@@ -1,0 +1,15 @@
+{
+    "order_id": 142430,
+    "client_id": 1483,
+    "produits": [
+        {
+            "produit_id": "P5920",
+            "nom": "Practical Concrete Car",
+            "quantite": 4,
+            "prix_unitaire": 437.3
+        }
+    ],
+    "date_commande": "2024-09-09T17:14:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

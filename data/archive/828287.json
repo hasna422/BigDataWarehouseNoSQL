@@ -1,0 +1,25 @@
+{
+    "order_id": 828287,
+    "client_id": 6637,
+    "produits": [
+        {
+            "produit_id": "P8666",
+            "nom": "Incredible Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 246.53
+        },
+        {
+            "produit_id": "P6997",
+            "nom": "Ergonomic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 458.59
+        }
+    ],
+    "date_commande": "2023-10-13T16:11:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1095 Keppler",
+        "ville": "Pearland"
+    }
+}

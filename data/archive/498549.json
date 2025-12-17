@@ -1,0 +1,21 @@
+{
+    "order_id": 498549,
+    "client_id": 6812,
+    "produits": [
+        {
+            "produit_id": "P5302",
+            "nom": "Ergonomic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 15.24
+        },
+        {
+            "produit_id": "P5238",
+            "nom": "Unbranded Pizza",
+            "quantite": 4,
+            "prix_unitaire": 419.66
+        }
+    ],
+    "date_commande": "2025-04-15T10:19:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

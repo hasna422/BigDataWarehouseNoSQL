@@ -1,0 +1,15 @@
+{
+    "order_id": 806296,
+    "client_id": 1308,
+    "produits": [
+        {
+            "produit_id": "P7052",
+            "nom": "Licensed Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 108.59
+        }
+    ],
+    "date_commande": "2025-02-06T02:43:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

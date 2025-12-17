@@ -1,0 +1,25 @@
+{
+    "order_id": 703315,
+    "client_id": 2279,
+    "produits": [
+        {
+            "produit_id": "P1359",
+            "nom": "Refined Concrete Gloves",
+            "quantite": 5,
+            "prix_unitaire": 207.02
+        },
+        {
+            "produit_id": "P0720",
+            "nom": "Tasty Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 291.62
+        }
+    ],
+    "date_commande": "2023-07-31T22:02:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "957 Gibb",
+        "ville": "Hagerstown"
+    }
+}

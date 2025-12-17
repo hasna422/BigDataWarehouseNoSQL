@@ -1,0 +1,25 @@
+{
+    "order_id": 767034,
+    "client_id": 5537,
+    "produits": [
+        {
+            "produit_id": "P9007",
+            "nom": "Incredible Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 176.71
+        },
+        {
+            "produit_id": "P7811",
+            "nom": "Practical Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 333.88
+        }
+    ],
+    "date_commande": "2024-08-22T14:10:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "858 Galilee",
+        "ville": "Suisun City"
+    }
+}

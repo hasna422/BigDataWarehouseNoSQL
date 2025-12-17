@@ -1,0 +1,27 @@
+{
+    "order_id": 783541,
+    "client_id": 7587,
+    "produits": [
+        {
+            "produit_id": "P6295",
+            "nom": "Tasty Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 350.21
+        },
+        {
+            "produit_id": "P7187",
+            "nom": "Sleek Frozen Bike",
+            "quantite": 3,
+            "prix_unitaire": 36.66
+        },
+        {
+            "produit_id": "P4981",
+            "nom": "Unbranded Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 99.53
+        }
+    ],
+    "date_commande": "2024-02-02T06:46:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

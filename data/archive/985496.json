@@ -1,0 +1,21 @@
+{
+    "order_id": 985496,
+    "client_id": 7991,
+    "produits": [
+        {
+            "produit_id": "P2231",
+            "nom": "Rustic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 7.91
+        },
+        {
+            "produit_id": "P0711",
+            "nom": "Handmade Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 181.65
+        }
+    ],
+    "date_commande": "2025-05-19T17:23:34",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

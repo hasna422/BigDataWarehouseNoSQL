@@ -1,0 +1,19 @@
+{
+    "order_id": 822258,
+    "client_id": 8895,
+    "produits": [
+        {
+            "produit_id": "P3137",
+            "nom": "Practical Plastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 116.42
+        }
+    ],
+    "date_commande": "2024-04-28T15:28:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "464 Edgemont",
+        "ville": "Huntington Beach"
+    }
+}

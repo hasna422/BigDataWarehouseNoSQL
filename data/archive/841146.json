@@ -1,0 +1,19 @@
+{
+    "order_id": 841146,
+    "client_id": 7385,
+    "produits": [
+        {
+            "produit_id": "P8665",
+            "nom": "Licensed Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 199.56
+        }
+    ],
+    "date_commande": "2024-08-04T08:21:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "616 Anzavista",
+        "ville": "Wilmington"
+    }
+}

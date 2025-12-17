@@ -1,0 +1,19 @@
+{
+    "order_id": 906647,
+    "client_id": 5900,
+    "produits": [
+        {
+            "produit_id": "P9646",
+            "nom": "Small Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 97.49
+        }
+    ],
+    "date_commande": "2024-10-17T23:05:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "47 Casitas",
+        "ville": "Deerfield Beach"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 418864,
+    "client_id": 1178,
+    "produits": [
+        {
+            "produit_id": "P0811",
+            "nom": "Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 207.37
+        }
+    ],
+    "date_commande": "2024-03-14T23:49:22",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "359 East Crystal Cove",
+        "ville": "Adelanto"
+    }
+}

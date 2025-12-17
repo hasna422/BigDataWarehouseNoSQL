@@ -1,0 +1,25 @@
+{
+    "order_id": 860468,
+    "client_id": 8555,
+    "produits": [
+        {
+            "produit_id": "P5520",
+            "nom": "Awesome Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 5.47
+        },
+        {
+            "produit_id": "P6211",
+            "nom": "Fresh Chair",
+            "quantite": 4,
+            "prix_unitaire": 271.69
+        }
+    ],
+    "date_commande": "2023-06-23T04:52:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1290 Lapidge",
+        "ville": "Kenosha"
+    }
+}

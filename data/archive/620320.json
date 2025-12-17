@@ -1,0 +1,25 @@
+{
+    "order_id": 620320,
+    "client_id": 3585,
+    "produits": [
+        {
+            "produit_id": "P1240",
+            "nom": "Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 151.95
+        },
+        {
+            "produit_id": "P1589",
+            "nom": "Incredible Tuna",
+            "quantite": 1,
+            "prix_unitaire": 78.82
+        }
+    ],
+    "date_commande": "2024-07-09T13:33:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1275 Pollock",
+        "ville": "Gadsden"
+    }
+}

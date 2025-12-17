@@ -1,0 +1,19 @@
+{
+    "order_id": 796806,
+    "client_id": 7051,
+    "produits": [
+        {
+            "produit_id": "P9196",
+            "nom": "New Frozen Soap",
+            "quantite": 4,
+            "prix_unitaire": 14.8
+        }
+    ],
+    "date_commande": "2023-07-27T20:22:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1400 Goldberg",
+        "ville": "Edina"
+    }
+}

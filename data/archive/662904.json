@@ -1,0 +1,19 @@
+{
+    "order_id": 662904,
+    "client_id": 8320,
+    "produits": [
+        {
+            "produit_id": "P6464",
+            "nom": "Unbranded Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 123.65
+        }
+    ],
+    "date_commande": "2024-03-17T17:25:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1257 Millwright Cottage Access",
+        "ville": "Rome"
+    }
+}

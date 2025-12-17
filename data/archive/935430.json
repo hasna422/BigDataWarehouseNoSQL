@@ -1,0 +1,15 @@
+{
+    "order_id": 935430,
+    "client_id": 1912,
+    "produits": [
+        {
+            "produit_id": "P5609",
+            "nom": "Gently Used Plastic Chair",
+            "quantite": 4,
+            "prix_unitaire": 202.7
+        }
+    ],
+    "date_commande": "2023-10-08T17:09:08",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

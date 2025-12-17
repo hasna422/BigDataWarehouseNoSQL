@@ -1,0 +1,19 @@
+{
+    "order_id": 273339,
+    "client_id": 9600,
+    "produits": [
+        {
+            "produit_id": "P8652",
+            "nom": "Awesome Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 412.93
+        }
+    ],
+    "date_commande": "2024-03-18T02:55:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "620 Gladiolus",
+        "ville": "Holladay"
+    }
+}

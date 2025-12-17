@@ -1,0 +1,31 @@
+{
+    "order_id": 576030,
+    "client_id": 8563,
+    "produits": [
+        {
+            "produit_id": "P7971",
+            "nom": "Refined Salad",
+            "quantite": 1,
+            "prix_unitaire": 159.2
+        },
+        {
+            "produit_id": "P7406",
+            "nom": "Refined Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 278.75
+        },
+        {
+            "produit_id": "P2363",
+            "nom": "New Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 441.56
+        }
+    ],
+    "date_commande": "2024-05-16T10:58:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "184 Cortland",
+        "ville": "Farmington"
+    }
+}

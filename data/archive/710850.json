@@ -1,0 +1,31 @@
+{
+    "order_id": 710850,
+    "client_id": 7741,
+    "produits": [
+        {
+            "produit_id": "P9930",
+            "nom": "Small Metal Salad",
+            "quantite": 3,
+            "prix_unitaire": 269.66
+        },
+        {
+            "produit_id": "P9231",
+            "nom": "Awesome Granite Tuna",
+            "quantite": 5,
+            "prix_unitaire": 69.28
+        },
+        {
+            "produit_id": "P6794",
+            "nom": "New Pizza",
+            "quantite": 2,
+            "prix_unitaire": 97.96
+        }
+    ],
+    "date_commande": "2024-08-08T15:45:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "601 Perasto",
+        "ville": "Dothan"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 356166,
+    "client_id": 5837,
+    "produits": [
+        {
+            "produit_id": "P2836",
+            "nom": "Granite Shirt",
+            "quantite": 1,
+            "prix_unitaire": 100.53
+        },
+        {
+            "produit_id": "P1358",
+            "nom": "Granite Bike",
+            "quantite": 4,
+            "prix_unitaire": 311.84
+        }
+    ],
+    "date_commande": "2024-01-20T05:23:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "87 Kohler",
+        "ville": "DeSoto"
+    }
+}

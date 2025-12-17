@@ -1,0 +1,19 @@
+{
+    "order_id": 527875,
+    "client_id": 3963,
+    "produits": [
+        {
+            "produit_id": "P2537",
+            "nom": "Tasty Wooden Salad",
+            "quantite": 1,
+            "prix_unitaire": 264.99
+        }
+    ],
+    "date_commande": "2025-05-27T06:49:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "524 Riverton",
+        "ville": "Longview"
+    }
+}

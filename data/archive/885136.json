@@ -1,0 +1,27 @@
+{
+    "order_id": 885136,
+    "client_id": 7616,
+    "produits": [
+        {
+            "produit_id": "P2662",
+            "nom": "Handcrafted Soft Tuna",
+            "quantite": 1,
+            "prix_unitaire": 319.35
+        },
+        {
+            "produit_id": "P6437",
+            "nom": "Gorgeous Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 467.85
+        },
+        {
+            "produit_id": "P1768",
+            "nom": "Intelligent Concrete Pizza",
+            "quantite": 3,
+            "prix_unitaire": 10.89
+        }
+    ],
+    "date_commande": "2023-11-08T18:32:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 147363,
+    "client_id": 1938,
+    "produits": [
+        {
+            "produit_id": "P0236",
+            "nom": "New Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 56.58
+        },
+        {
+            "produit_id": "P0570",
+            "nom": "Intelligent Granite Table",
+            "quantite": 4,
+            "prix_unitaire": 255.39
+        }
+    ],
+    "date_commande": "2024-06-28T19:45:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "132 Sonoma",
+        "ville": "Gardena"
+    }
+}

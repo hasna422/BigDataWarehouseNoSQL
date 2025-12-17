@@ -1,0 +1,19 @@
+{
+    "order_id": 127925,
+    "client_id": 4417,
+    "produits": [
+        {
+            "produit_id": "P3538",
+            "nom": "Incredible Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 468.6
+        }
+    ],
+    "date_commande": "2024-05-01T15:34:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1186 Halyburton",
+        "ville": "Yuba City"
+    }
+}

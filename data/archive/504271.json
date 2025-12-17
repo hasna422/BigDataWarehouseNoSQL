@@ -1,0 +1,21 @@
+{
+    "order_id": 504271,
+    "client_id": 3092,
+    "produits": [
+        {
+            "produit_id": "P3550",
+            "nom": "Small Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 388.07
+        },
+        {
+            "produit_id": "P5597",
+            "nom": "Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 26.61
+        }
+    ],
+    "date_commande": "2024-09-10T01:04:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

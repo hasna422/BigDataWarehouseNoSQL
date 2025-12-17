@@ -1,0 +1,21 @@
+{
+    "order_id": 598670,
+    "client_id": 2534,
+    "produits": [
+        {
+            "produit_id": "P0035",
+            "nom": "Sleek Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 117.97
+        },
+        {
+            "produit_id": "P1473",
+            "nom": "Practical Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 392.27
+        }
+    ],
+    "date_commande": "2025-05-21T17:53:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 236129,
+    "client_id": 6856,
+    "produits": [
+        {
+            "produit_id": "P7514",
+            "nom": "Handcrafted Frozen Bacon",
+            "quantite": 3,
+            "prix_unitaire": 5.51
+        },
+        {
+            "produit_id": "P0892",
+            "nom": "Intelligent Wooden Bacon",
+            "quantite": 3,
+            "prix_unitaire": 175.74
+        }
+    ],
+    "date_commande": "2025-05-02T18:33:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1270 South Van Ness",
+        "ville": "Mission"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 525863,
+    "client_id": 1741,
+    "produits": [
+        {
+            "produit_id": "P5430",
+            "nom": "Gently Used Plastic Gloves",
+            "quantite": 4,
+            "prix_unitaire": 477.78
+        },
+        {
+            "produit_id": "P2714",
+            "nom": "Gorgeous Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 40.75
+        }
+    ],
+    "date_commande": "2024-11-15T14:39:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "457 Capp",
+        "ville": "Lackawanna"
+    }
+}

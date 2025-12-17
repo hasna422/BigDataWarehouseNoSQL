@@ -1,0 +1,25 @@
+{
+    "order_id": 312639,
+    "client_id": 3890,
+    "produits": [
+        {
+            "produit_id": "P2076",
+            "nom": "Handcrafted Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 470.96
+        },
+        {
+            "produit_id": "P8056",
+            "nom": "Awesome Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 426.87
+        }
+    ],
+    "date_commande": "2024-01-20T22:32:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1001 Rome",
+        "ville": "Medina"
+    }
+}

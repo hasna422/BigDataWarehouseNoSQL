@@ -1,0 +1,19 @@
+{
+    "order_id": 491295,
+    "client_id": 9668,
+    "produits": [
+        {
+            "produit_id": "P5401",
+            "nom": "Intelligent Frozen Fish",
+            "quantite": 2,
+            "prix_unitaire": 306.08
+        }
+    ],
+    "date_commande": "2024-01-11T12:16:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "341 Lapidge",
+        "ville": "Santa Monica"
+    }
+}

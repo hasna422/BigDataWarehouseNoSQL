@@ -1,0 +1,19 @@
+{
+    "order_id": 617466,
+    "client_id": 9254,
+    "produits": [
+        {
+            "produit_id": "P1258",
+            "nom": "Generic Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 425.54
+        }
+    ],
+    "date_commande": "2024-12-01T00:36:49",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1108 Fargo",
+        "ville": "Gaithersburg"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 315413,
+    "client_id": 1096,
+    "produits": [
+        {
+            "produit_id": "P9811",
+            "nom": "Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 250.94
+        },
+        {
+            "produit_id": "P6622",
+            "nom": "Small Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 242.38
+        },
+        {
+            "produit_id": "P1434",
+            "nom": "Sleek Fresh Ball",
+            "quantite": 2,
+            "prix_unitaire": 362.72
+        }
+    ],
+    "date_commande": "2024-02-15T18:26:57",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "183 Valdez",
+        "ville": "Laconia"
+    }
+}

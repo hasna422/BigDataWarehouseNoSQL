@@ -1,0 +1,19 @@
+{
+    "order_id": 906320,
+    "client_id": 9154,
+    "produits": [
+        {
+            "produit_id": "P4350",
+            "nom": "Small Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 309.84
+        }
+    ],
+    "date_commande": "2024-11-10T16:20:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "220 Beideman",
+        "ville": "Oakland"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 831034,
+    "client_id": 8808,
+    "produits": [
+        {
+            "produit_id": "P8629",
+            "nom": "Handcrafted Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 360.57
+        },
+        {
+            "produit_id": "P0528",
+            "nom": "Small Steel Mouse",
+            "quantite": 5,
+            "prix_unitaire": 12.77
+        },
+        {
+            "produit_id": "P7000",
+            "nom": "Unbranded Fresh Chicken",
+            "quantite": 4,
+            "prix_unitaire": 82.61
+        }
+    ],
+    "date_commande": "2025-05-28T14:02:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "753 Mistral",
+        "ville": "Sahuarita"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 618609,
+    "client_id": 4990,
+    "produits": [
+        {
+            "produit_id": "P0615",
+            "nom": "New Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 137.22
+        },
+        {
+            "produit_id": "P5174",
+            "nom": "Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 23.8
+        }
+    ],
+    "date_commande": "2025-03-19T01:59:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "227 Church",
+        "ville": "Maplewood"
+    }
+}

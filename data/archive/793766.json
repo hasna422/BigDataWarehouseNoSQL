@@ -1,0 +1,25 @@
+{
+    "order_id": 793766,
+    "client_id": 3241,
+    "produits": [
+        {
+            "produit_id": "P2159",
+            "nom": "Fantastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 470.23
+        },
+        {
+            "produit_id": "P3202",
+            "nom": "Unbranded Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 216.79
+        }
+    ],
+    "date_commande": "2024-04-29T00:17:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "27 Vicksburg",
+        "ville": "Little Elm"
+    }
+}

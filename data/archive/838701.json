@@ -1,0 +1,15 @@
+{
+    "order_id": 838701,
+    "client_id": 1826,
+    "produits": [
+        {
+            "produit_id": "P4351",
+            "nom": "Used Plastic Shirt",
+            "quantite": 2,
+            "prix_unitaire": 31.54
+        }
+    ],
+    "date_commande": "2023-06-26T00:03:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

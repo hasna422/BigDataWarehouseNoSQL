@@ -1,0 +1,25 @@
+{
+    "order_id": 718286,
+    "client_id": 2008,
+    "produits": [
+        {
+            "produit_id": "P2447",
+            "nom": "New Metal Pants",
+            "quantite": 1,
+            "prix_unitaire": 157.1
+        },
+        {
+            "produit_id": "P0723",
+            "nom": "Practical Fresh Bike",
+            "quantite": 1,
+            "prix_unitaire": 15.76
+        }
+    ],
+    "date_commande": "2024-06-03T08:01:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "408 Rutledge",
+        "ville": "Noblesville"
+    }
+}

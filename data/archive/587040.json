@@ -1,0 +1,19 @@
+{
+    "order_id": 587040,
+    "client_id": 8436,
+    "produits": [
+        {
+            "produit_id": "P9932",
+            "nom": "Licensed Soft Table",
+            "quantite": 1,
+            "prix_unitaire": 47.03
+        }
+    ],
+    "date_commande": "2024-06-09T05:59:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1206 Munich",
+        "ville": "Clarksville"
+    }
+}

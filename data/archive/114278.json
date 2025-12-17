@@ -1,0 +1,19 @@
+{
+    "order_id": 114278,
+    "client_id": 2597,
+    "produits": [
+        {
+            "produit_id": "P2756",
+            "nom": "Refined Chips",
+            "quantite": 4,
+            "prix_unitaire": 56.28
+        }
+    ],
+    "date_commande": "2025-04-14T16:38:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "520 Lake",
+        "ville": "Cartersville"
+    }
+}

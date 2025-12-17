@@ -1,0 +1,25 @@
+{
+    "order_id": 594546,
+    "client_id": 8644,
+    "produits": [
+        {
+            "produit_id": "P6732",
+            "nom": "Handmade Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 119.65
+        },
+        {
+            "produit_id": "P5341",
+            "nom": "Small Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 76.53
+        }
+    ],
+    "date_commande": "2024-04-27T13:50:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "537 Benton",
+        "ville": "Liberty"
+    }
+}

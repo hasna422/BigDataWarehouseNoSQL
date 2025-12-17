@@ -1,0 +1,31 @@
+{
+    "order_id": 508687,
+    "client_id": 2112,
+    "produits": [
+        {
+            "produit_id": "P1101",
+            "nom": "Rustic Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 472.22
+        },
+        {
+            "produit_id": "P8022",
+            "nom": "Tasty Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 464.13
+        },
+        {
+            "produit_id": "P9604",
+            "nom": "Gently Used Plastic Towels",
+            "quantite": 2,
+            "prix_unitaire": 296.52
+        }
+    ],
+    "date_commande": "2023-11-27T03:00:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1002 Walter",
+        "ville": "Arnold"
+    }
+}

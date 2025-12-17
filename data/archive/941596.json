@@ -1,0 +1,31 @@
+{
+    "order_id": 941596,
+    "client_id": 2612,
+    "produits": [
+        {
+            "produit_id": "P7503",
+            "nom": "Generic Frozen Chair",
+            "quantite": 3,
+            "prix_unitaire": 360.53
+        },
+        {
+            "produit_id": "P9323",
+            "nom": "Licensed Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 138.3
+        },
+        {
+            "produit_id": "P0497",
+            "nom": "For repair Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 282.06
+        }
+    ],
+    "date_commande": "2024-05-06T15:10:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1373 Carver",
+        "ville": "Schererville"
+    }
+}

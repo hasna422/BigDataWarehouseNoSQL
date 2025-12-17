@@ -1,0 +1,19 @@
+{
+    "order_id": 705536,
+    "client_id": 6136,
+    "produits": [
+        {
+            "produit_id": "P1938",
+            "nom": "Rustic Soft Soap",
+            "quantite": 2,
+            "prix_unitaire": 326.89
+        }
+    ],
+    "date_commande": "2024-01-26T16:55:19",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1028 Chatham",
+        "ville": "Niles"
+    }
+}

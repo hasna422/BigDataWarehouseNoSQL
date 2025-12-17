@@ -1,0 +1,25 @@
+{
+    "order_id": 694677,
+    "client_id": 2587,
+    "produits": [
+        {
+            "produit_id": "P3819",
+            "nom": "Rustic Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 221.44
+        },
+        {
+            "produit_id": "P1721",
+            "nom": "Gorgeous Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 301.18
+        }
+    ],
+    "date_commande": "2025-01-18T17:49:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "763 Copper",
+        "ville": "La Vergne"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 389308,
+    "client_id": 4237,
+    "produits": [
+        {
+            "produit_id": "P5988",
+            "nom": "Rustic Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 122.69
+        },
+        {
+            "produit_id": "P5817",
+            "nom": "Awesome Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 275.73
+        }
+    ],
+    "date_commande": "2024-08-14T12:08:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "573 Green",
+        "ville": "Arcata"
+    }
+}

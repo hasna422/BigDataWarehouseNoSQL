@@ -1,0 +1,27 @@
+{
+    "order_id": 211153,
+    "client_id": 1715,
+    "produits": [
+        {
+            "produit_id": "P3964",
+            "nom": "For repair Granite Pants",
+            "quantite": 3,
+            "prix_unitaire": 310.08
+        },
+        {
+            "produit_id": "P8805",
+            "nom": "Gently Used Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 169.84
+        },
+        {
+            "produit_id": "P1667",
+            "nom": "Awesome Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 330.15
+        }
+    ],
+    "date_commande": "2024-07-12T04:18:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

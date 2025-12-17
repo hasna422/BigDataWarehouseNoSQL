@@ -1,0 +1,15 @@
+{
+    "order_id": 824920,
+    "client_id": 1597,
+    "produits": [
+        {
+            "produit_id": "P9123",
+            "nom": "Small Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 327.6
+        }
+    ],
+    "date_commande": "2025-02-09T05:34:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

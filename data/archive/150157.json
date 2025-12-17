@@ -1,0 +1,25 @@
+{
+    "order_id": 150157,
+    "client_id": 4667,
+    "produits": [
+        {
+            "produit_id": "P6592",
+            "nom": "Metal Hat",
+            "quantite": 3,
+            "prix_unitaire": 378.28
+        },
+        {
+            "produit_id": "P0741",
+            "nom": "Incredible Car",
+            "quantite": 4,
+            "prix_unitaire": 243.32
+        }
+    ],
+    "date_commande": "2025-04-13T22:14:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "455 Berkshire",
+        "ville": "Plainview"
+    }
+}

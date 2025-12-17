@@ -1,0 +1,25 @@
+{
+    "order_id": 893924,
+    "client_id": 7915,
+    "produits": [
+        {
+            "produit_id": "P4262",
+            "nom": "Awesome Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 453.09
+        },
+        {
+            "produit_id": "P6945",
+            "nom": "Rustic Wooden Tuna",
+            "quantite": 3,
+            "prix_unitaire": 477.9
+        }
+    ],
+    "date_commande": "2023-06-21T11:36:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1077 Truett",
+        "ville": "Birmingham"
+    }
+}

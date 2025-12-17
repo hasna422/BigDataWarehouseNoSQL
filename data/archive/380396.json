@@ -1,0 +1,25 @@
+{
+    "order_id": 380396,
+    "client_id": 7445,
+    "produits": [
+        {
+            "produit_id": "P6674",
+            "nom": "Ergonomic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 92.62
+        },
+        {
+            "produit_id": "P3416",
+            "nom": "Awesome Bike",
+            "quantite": 1,
+            "prix_unitaire": 489.02
+        }
+    ],
+    "date_commande": "2023-11-01T20:10:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "316 Upton",
+        "ville": "Santa Maria"
+    }
+}

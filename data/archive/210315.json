@@ -1,0 +1,25 @@
+{
+    "order_id": 210315,
+    "client_id": 2923,
+    "produits": [
+        {
+            "produit_id": "P7794",
+            "nom": "Gently Used Fresh Computer",
+            "quantite": 4,
+            "prix_unitaire": 408.62
+        },
+        {
+            "produit_id": "P2344",
+            "nom": "Incredible Granite Bike",
+            "quantite": 4,
+            "prix_unitaire": 255.57
+        }
+    ],
+    "date_commande": "2025-02-28T09:32:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "952 Mark",
+        "ville": "Painesville"
+    }
+}

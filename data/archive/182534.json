@@ -1,0 +1,27 @@
+{
+    "order_id": 182534,
+    "client_id": 8717,
+    "produits": [
+        {
+            "produit_id": "P5713",
+            "nom": "Tasty Cotton Salad",
+            "quantite": 3,
+            "prix_unitaire": 114.3
+        },
+        {
+            "produit_id": "P4223",
+            "nom": "Handcrafted Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 289.03
+        },
+        {
+            "produit_id": "P3501",
+            "nom": "Unbranded Bike",
+            "quantite": 5,
+            "prix_unitaire": 491.24
+        }
+    ],
+    "date_commande": "2024-07-05T07:37:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 475154,
+    "client_id": 1090,
+    "produits": [
+        {
+            "produit_id": "P8462",
+            "nom": "Ergonomic Fresh Car",
+            "quantite": 5,
+            "prix_unitaire": 253.99
+        },
+        {
+            "produit_id": "P2944",
+            "nom": "For repair Cotton Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 7.33
+        },
+        {
+            "produit_id": "P8476",
+            "nom": "Generic Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 301.27
+        }
+    ],
+    "date_commande": "2024-07-04T14:09:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1287 Colby",
+        "ville": "Spokane"
+    }
+}

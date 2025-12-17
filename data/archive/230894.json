@@ -1,0 +1,15 @@
+{
+    "order_id": 230894,
+    "client_id": 9363,
+    "produits": [
+        {
+            "produit_id": "P7418",
+            "nom": "For repair Wooden Bacon",
+            "quantite": 1,
+            "prix_unitaire": 231.16
+        }
+    ],
+    "date_commande": "2025-04-29T01:52:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

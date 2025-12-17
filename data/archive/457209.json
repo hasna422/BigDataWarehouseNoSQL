@@ -1,0 +1,25 @@
+{
+    "order_id": 457209,
+    "client_id": 2213,
+    "produits": [
+        {
+            "produit_id": "P5863",
+            "nom": "Refined Shoes",
+            "quantite": 4,
+            "prix_unitaire": 429.85
+        },
+        {
+            "produit_id": "P8483",
+            "nom": "Gently Used Salad",
+            "quantite": 2,
+            "prix_unitaire": 396.25
+        }
+    ],
+    "date_commande": "2024-09-12T18:32:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "811 Post",
+        "ville": "Martinez"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 723943,
+    "client_id": 8723,
+    "produits": [
+        {
+            "produit_id": "P8155",
+            "nom": "Gorgeous Plastic Chair",
+            "quantite": 1,
+            "prix_unitaire": 484.24
+        },
+        {
+            "produit_id": "P1945",
+            "nom": "Refined Gloves",
+            "quantite": 4,
+            "prix_unitaire": 79.26
+        }
+    ],
+    "date_commande": "2025-03-31T18:51:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 671498,
+    "client_id": 4822,
+    "produits": [
+        {
+            "produit_id": "P3840",
+            "nom": "Concrete Chair",
+            "quantite": 4,
+            "prix_unitaire": 288.16
+        },
+        {
+            "produit_id": "P2796",
+            "nom": "Gorgeous Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 465.23
+        }
+    ],
+    "date_commande": "2024-09-20T21:03:52",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 898935,
+    "client_id": 5095,
+    "produits": [
+        {
+            "produit_id": "P9014",
+            "nom": "New Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 229.74
+        }
+    ],
+    "date_commande": "2025-01-28T04:38:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

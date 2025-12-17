@@ -1,0 +1,19 @@
+{
+    "order_id": 513965,
+    "client_id": 9182,
+    "produits": [
+        {
+            "produit_id": "P5142",
+            "nom": "Ergonomic Granite Shirt",
+            "quantite": 1,
+            "prix_unitaire": 182.91
+        }
+    ],
+    "date_commande": "2025-05-28T13:48:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1362 Madison",
+        "ville": "Bentonville"
+    }
+}

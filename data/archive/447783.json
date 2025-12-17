@@ -1,0 +1,25 @@
+{
+    "order_id": 447783,
+    "client_id": 2417,
+    "produits": [
+        {
+            "produit_id": "P7635",
+            "nom": "For repair Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 119.52
+        },
+        {
+            "produit_id": "P3931",
+            "nom": "Practical Concrete Ball",
+            "quantite": 5,
+            "prix_unitaire": 431.82
+        }
+    ],
+    "date_commande": "2024-11-05T08:16:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "16 Flounder",
+        "ville": "Clarksville"
+    }
+}

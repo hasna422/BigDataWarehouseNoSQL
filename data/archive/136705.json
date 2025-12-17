@@ -1,0 +1,31 @@
+{
+    "order_id": 136705,
+    "client_id": 9709,
+    "produits": [
+        {
+            "produit_id": "P5962",
+            "nom": "For repair Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 207.62
+        },
+        {
+            "produit_id": "P6072",
+            "nom": "Practical Frozen Gloves",
+            "quantite": 3,
+            "prix_unitaire": 15.14
+        },
+        {
+            "produit_id": "P2549",
+            "nom": "Gorgeous Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 63.41
+        }
+    ],
+    "date_commande": "2024-07-23T20:56:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1117 Exchange",
+        "ville": "Hazelwood"
+    }
+}

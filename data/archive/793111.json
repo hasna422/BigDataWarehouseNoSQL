@@ -1,0 +1,19 @@
+{
+    "order_id": 793111,
+    "client_id": 9508,
+    "produits": [
+        {
+            "produit_id": "P1840",
+            "nom": "Fantastic Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 393.98
+        }
+    ],
+    "date_commande": "2024-07-02T03:42:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "719 Oakdale",
+        "ville": "Tallahassee"
+    }
+}

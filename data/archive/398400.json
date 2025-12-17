@@ -1,0 +1,31 @@
+{
+    "order_id": 398400,
+    "client_id": 3875,
+    "produits": [
+        {
+            "produit_id": "P9453",
+            "nom": "Gently Used Rubber Gloves",
+            "quantite": 4,
+            "prix_unitaire": 9.29
+        },
+        {
+            "produit_id": "P0649",
+            "nom": "Small Tuna",
+            "quantite": 5,
+            "prix_unitaire": 158.27
+        },
+        {
+            "produit_id": "P7045",
+            "nom": "Gently Used Granite Sausages",
+            "quantite": 3,
+            "prix_unitaire": 93.67
+        }
+    ],
+    "date_commande": "2024-11-01T02:37:23",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1158 Lyndhurst",
+        "ville": "Upland"
+    }
+}

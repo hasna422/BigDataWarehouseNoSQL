@@ -1,0 +1,25 @@
+{
+    "order_id": 705052,
+    "client_id": 6239,
+    "produits": [
+        {
+            "produit_id": "P2719",
+            "nom": "Awesome Wooden Salad",
+            "quantite": 3,
+            "prix_unitaire": 371.51
+        },
+        {
+            "produit_id": "P2629",
+            "nom": "Tasty Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 484.94
+        }
+    ],
+    "date_commande": "2025-02-10T11:56:56",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "478 Palos",
+        "ville": "Worcester"
+    }
+}

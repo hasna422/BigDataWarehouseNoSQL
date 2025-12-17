@@ -1,0 +1,15 @@
+{
+    "order_id": 124359,
+    "client_id": 8960,
+    "produits": [
+        {
+            "produit_id": "P3622",
+            "nom": "Small Metal Chips",
+            "quantite": 1,
+            "prix_unitaire": 194.17
+        }
+    ],
+    "date_commande": "2024-02-20T14:10:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

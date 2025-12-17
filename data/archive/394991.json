@@ -1,0 +1,19 @@
+{
+    "order_id": 394991,
+    "client_id": 8378,
+    "produits": [
+        {
+            "produit_id": "P2945",
+            "nom": "Refined Granite Chair",
+            "quantite": 3,
+            "prix_unitaire": 327.73
+        }
+    ],
+    "date_commande": "2023-09-15T07:58:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1356 Troy",
+        "ville": "Bethlehem"
+    }
+}

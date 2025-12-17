@@ -1,0 +1,27 @@
+{
+    "order_id": 852475,
+    "client_id": 7891,
+    "produits": [
+        {
+            "produit_id": "P6739",
+            "nom": "Practical Granite Tuna",
+            "quantite": 4,
+            "prix_unitaire": 138.76
+        },
+        {
+            "produit_id": "P0239",
+            "nom": "Practical Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 8.81
+        },
+        {
+            "produit_id": "P4244",
+            "nom": "Handmade Wooden Chips",
+            "quantite": 2,
+            "prix_unitaire": 491.62
+        }
+    ],
+    "date_commande": "2024-08-02T23:35:52",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 576262,
+    "client_id": 9386,
+    "produits": [
+        {
+            "produit_id": "P3002",
+            "nom": "Gorgeous Wooden Shirt",
+            "quantite": 1,
+            "prix_unitaire": 102.97
+        },
+        {
+            "produit_id": "P8964",
+            "nom": "Sleek Wooden Hat",
+            "quantite": 5,
+            "prix_unitaire": 343.18
+        },
+        {
+            "produit_id": "P8501",
+            "nom": "Rustic Soft Table",
+            "quantite": 5,
+            "prix_unitaire": 81.59
+        }
+    ],
+    "date_commande": "2023-11-28T06:35:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

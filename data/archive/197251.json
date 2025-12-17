@@ -1,0 +1,25 @@
+{
+    "order_id": 197251,
+    "client_id": 2327,
+    "produits": [
+        {
+            "produit_id": "P6858",
+            "nom": "Handcrafted Rubber Towels",
+            "quantite": 1,
+            "prix_unitaire": 190.42
+        },
+        {
+            "produit_id": "P5551",
+            "nom": "Ergonomic Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 129.23
+        }
+    ],
+    "date_commande": "2024-09-25T09:12:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1312 Rawles",
+        "ville": "Murfreesboro"
+    }
+}

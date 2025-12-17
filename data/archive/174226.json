@@ -1,0 +1,25 @@
+{
+    "order_id": 174226,
+    "client_id": 2822,
+    "produits": [
+        {
+            "produit_id": "P9592",
+            "nom": "New Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 224.31
+        },
+        {
+            "produit_id": "P0397",
+            "nom": "Handcrafted Plastic Gloves",
+            "quantite": 4,
+            "prix_unitaire": 277.86
+        }
+    ],
+    "date_commande": "2023-06-05T06:58:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "442 Middle Point",
+        "ville": "Cleveland"
+    }
+}

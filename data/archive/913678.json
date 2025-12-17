@@ -1,0 +1,15 @@
+{
+    "order_id": 913678,
+    "client_id": 4193,
+    "produits": [
+        {
+            "produit_id": "P2167",
+            "nom": "Sleek Metal Gloves",
+            "quantite": 4,
+            "prix_unitaire": 255.78
+        }
+    ],
+    "date_commande": "2024-06-15T20:44:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

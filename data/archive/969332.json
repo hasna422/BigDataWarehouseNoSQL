@@ -1,0 +1,31 @@
+{
+    "order_id": 969332,
+    "client_id": 7093,
+    "produits": [
+        {
+            "produit_id": "P9031",
+            "nom": "Gorgeous Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 115.97
+        },
+        {
+            "produit_id": "P3274",
+            "nom": "Awesome Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 16.57
+        },
+        {
+            "produit_id": "P4078",
+            "nom": "Incredible Cotton Sausages",
+            "quantite": 3,
+            "prix_unitaire": 136.3
+        }
+    ],
+    "date_commande": "2024-08-01T10:57:41",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "763 Arleta",
+        "ville": "Newburgh"
+    }
+}

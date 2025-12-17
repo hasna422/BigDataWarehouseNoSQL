@@ -1,0 +1,21 @@
+{
+    "order_id": 192959,
+    "client_id": 6978,
+    "produits": [
+        {
+            "produit_id": "P0883",
+            "nom": "Licensed Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 195.81
+        },
+        {
+            "produit_id": "P6694",
+            "nom": "Sleek Hat",
+            "quantite": 2,
+            "prix_unitaire": 220.38
+        }
+    ],
+    "date_commande": "2024-05-06T11:11:21",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 391989,
+    "client_id": 6544,
+    "produits": [
+        {
+            "produit_id": "P9965",
+            "nom": "Refined Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 265.38
+        },
+        {
+            "produit_id": "P0460",
+            "nom": "For repair Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 65.67
+        },
+        {
+            "produit_id": "P4533",
+            "nom": "Gently Used Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 271.4
+        }
+    ],
+    "date_commande": "2024-11-17T12:30:58",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "618 Bartol",
+        "ville": "Greenfield"
+    }
+}

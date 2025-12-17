@@ -1,0 +1,25 @@
+{
+    "order_id": 378965,
+    "client_id": 1486,
+    "produits": [
+        {
+            "produit_id": "P4980",
+            "nom": "Handmade Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 383.01
+        },
+        {
+            "produit_id": "P9709",
+            "nom": "Small Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 214.07
+        }
+    ],
+    "date_commande": "2023-07-20T19:12:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1009 Overlook",
+        "ville": "Baytown"
+    }
+}

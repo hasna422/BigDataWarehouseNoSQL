@@ -1,0 +1,25 @@
+{
+    "order_id": 438086,
+    "client_id": 1387,
+    "produits": [
+        {
+            "produit_id": "P9593",
+            "nom": "Ergonomic Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 160.14
+        },
+        {
+            "produit_id": "P8887",
+            "nom": "Refined Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 399.23
+        }
+    ],
+    "date_commande": "2023-09-07T18:00:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "484 Corbett",
+        "ville": "Tracy"
+    }
+}

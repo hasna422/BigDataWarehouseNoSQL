@@ -1,0 +1,27 @@
+{
+    "order_id": 641822,
+    "client_id": 2170,
+    "produits": [
+        {
+            "produit_id": "P3086",
+            "nom": "Practical Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 386.58
+        },
+        {
+            "produit_id": "P4382",
+            "nom": "Handmade Wooden Pizza",
+            "quantite": 4,
+            "prix_unitaire": 356.43
+        },
+        {
+            "produit_id": "P6198",
+            "nom": "For repair Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 183.53
+        }
+    ],
+    "date_commande": "2024-11-24T09:39:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

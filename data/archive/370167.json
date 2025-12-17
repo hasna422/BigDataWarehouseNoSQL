@@ -1,0 +1,31 @@
+{
+    "order_id": 370167,
+    "client_id": 9109,
+    "produits": [
+        {
+            "produit_id": "P5443",
+            "nom": "Ergonomic Granite Pants",
+            "quantite": 5,
+            "prix_unitaire": 404.97
+        },
+        {
+            "produit_id": "P2318",
+            "nom": "Unbranded Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 144.03
+        },
+        {
+            "produit_id": "P7458",
+            "nom": "Generic Concrete Soap",
+            "quantite": 3,
+            "prix_unitaire": 135.06
+        }
+    ],
+    "date_commande": "2024-05-27T22:11:53",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1231 Mayfair",
+        "ville": "Ellensburg"
+    }
+}

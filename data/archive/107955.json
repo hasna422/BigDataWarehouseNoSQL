@@ -1,0 +1,25 @@
+{
+    "order_id": 107955,
+    "client_id": 5098,
+    "produits": [
+        {
+            "produit_id": "P1888",
+            "nom": "Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 309.05
+        },
+        {
+            "produit_id": "P0105",
+            "nom": "Licensed Wooden Computer",
+            "quantite": 4,
+            "prix_unitaire": 203.12
+        }
+    ],
+    "date_commande": "2023-11-16T08:54:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1020 Sal",
+        "ville": "Farmington Hills"
+    }
+}

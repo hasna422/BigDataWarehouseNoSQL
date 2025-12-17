@@ -1,0 +1,21 @@
+{
+    "order_id": 727310,
+    "client_id": 8007,
+    "produits": [
+        {
+            "produit_id": "P9236",
+            "nom": "Incredible Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 193.34
+        },
+        {
+            "produit_id": "P5830",
+            "nom": "Sleek Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 49.77
+        }
+    ],
+    "date_commande": "2025-02-11T09:51:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

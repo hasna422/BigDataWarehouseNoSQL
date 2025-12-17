@@ -1,0 +1,19 @@
+{
+    "order_id": 838703,
+    "client_id": 2369,
+    "produits": [
+        {
+            "produit_id": "P0456",
+            "nom": "Licensed Pants",
+            "quantite": 4,
+            "prix_unitaire": 321.53
+        }
+    ],
+    "date_commande": "2024-02-02T13:47:31",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "931 Parkhurst",
+        "ville": "Thornton"
+    }
+}

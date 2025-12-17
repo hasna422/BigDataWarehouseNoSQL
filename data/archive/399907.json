@@ -1,0 +1,21 @@
+{
+    "order_id": 399907,
+    "client_id": 4124,
+    "produits": [
+        {
+            "produit_id": "P8922",
+            "nom": "Ergonomic Rubber Soap",
+            "quantite": 2,
+            "prix_unitaire": 324.16
+        },
+        {
+            "produit_id": "P5233",
+            "nom": "Incredible Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 327.25
+        }
+    ],
+    "date_commande": "2023-09-08T22:17:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 391795,
+    "client_id": 2334,
+    "produits": [
+        {
+            "produit_id": "P3866",
+            "nom": "Handmade Steel Pizza",
+            "quantite": 3,
+            "prix_unitaire": 107.8
+        },
+        {
+            "produit_id": "P8806",
+            "nom": "For repair Rubber Chair",
+            "quantite": 1,
+            "prix_unitaire": 119.72
+        },
+        {
+            "produit_id": "P3547",
+            "nom": "Small Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 383.46
+        }
+    ],
+    "date_commande": "2023-09-27T18:33:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "939 Upton",
+        "ville": "Kingman"
+    }
+}

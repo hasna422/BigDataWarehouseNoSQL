@@ -1,0 +1,31 @@
+{
+    "order_id": 174740,
+    "client_id": 7540,
+    "produits": [
+        {
+            "produit_id": "P2600",
+            "nom": "Used Metal Ball",
+            "quantite": 4,
+            "prix_unitaire": 219.49
+        },
+        {
+            "produit_id": "P2620",
+            "nom": "Sleek Frozen Hat",
+            "quantite": 3,
+            "prix_unitaire": 186.68
+        },
+        {
+            "produit_id": "P3482",
+            "nom": "Incredible Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 210.11
+        }
+    ],
+    "date_commande": "2024-01-01T15:45:34",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "268 Woodland",
+        "ville": "Santa Ana"
+    }
+}

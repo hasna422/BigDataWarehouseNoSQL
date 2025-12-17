@@ -1,0 +1,15 @@
+{
+    "order_id": 530260,
+    "client_id": 8656,
+    "produits": [
+        {
+            "produit_id": "P2352",
+            "nom": "Small Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 275.5
+        }
+    ],
+    "date_commande": "2024-05-15T05:24:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

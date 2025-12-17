@@ -1,0 +1,31 @@
+{
+    "order_id": 513847,
+    "client_id": 1809,
+    "produits": [
+        {
+            "produit_id": "P7211",
+            "nom": "Used Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 442.0
+        },
+        {
+            "produit_id": "P7207",
+            "nom": "Fantastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 44.53
+        },
+        {
+            "produit_id": "P9352",
+            "nom": "New Fish",
+            "quantite": 2,
+            "prix_unitaire": 174.02
+        }
+    ],
+    "date_commande": "2024-02-25T13:08:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "357 Laskie",
+        "ville": "Tualatin"
+    }
+}

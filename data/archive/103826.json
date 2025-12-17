@@ -1,0 +1,19 @@
+{
+    "order_id": 103826,
+    "client_id": 2304,
+    "produits": [
+        {
+            "produit_id": "P4430",
+            "nom": "Sleek Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 477.38
+        }
+    ],
+    "date_commande": "2025-01-01T15:13:45",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1358 Langton",
+        "ville": "Fountain Valley"
+    }
+}

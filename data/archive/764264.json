@@ -1,0 +1,27 @@
+{
+    "order_id": 764264,
+    "client_id": 5004,
+    "produits": [
+        {
+            "produit_id": "P3484",
+            "nom": "Gently Used Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 311.93
+        },
+        {
+            "produit_id": "P9817",
+            "nom": "Practical Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 464.46
+        },
+        {
+            "produit_id": "P2650",
+            "nom": "Plastic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 220.38
+        }
+    ],
+    "date_commande": "2025-04-10T18:40:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

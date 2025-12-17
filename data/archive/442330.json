@@ -1,0 +1,25 @@
+{
+    "order_id": 442330,
+    "client_id": 5354,
+    "produits": [
+        {
+            "produit_id": "P9528",
+            "nom": "Tasty Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 22.94
+        },
+        {
+            "produit_id": "P7533",
+            "nom": "Ergonomic Fresh Soap",
+            "quantite": 1,
+            "prix_unitaire": 463.06
+        }
+    ],
+    "date_commande": "2024-04-08T01:25:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "196 Oceanview",
+        "ville": "Antioch"
+    }
+}

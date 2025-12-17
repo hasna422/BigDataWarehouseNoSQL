@@ -1,0 +1,31 @@
+{
+    "order_id": 413212,
+    "client_id": 1431,
+    "produits": [
+        {
+            "produit_id": "P5224",
+            "nom": "Gorgeous Cotton Shoes",
+            "quantite": 3,
+            "prix_unitaire": 296.83
+        },
+        {
+            "produit_id": "P6143",
+            "nom": "Practical Steel Gloves",
+            "quantite": 4,
+            "prix_unitaire": 190.32
+        },
+        {
+            "produit_id": "P1527",
+            "nom": "Sleek Rubber Tuna",
+            "quantite": 5,
+            "prix_unitaire": 253.21
+        }
+    ],
+    "date_commande": "2025-04-07T12:24:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "974 Grattan",
+        "ville": "West Chester"
+    }
+}

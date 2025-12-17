@@ -1,0 +1,27 @@
+{
+    "order_id": 345050,
+    "client_id": 8171,
+    "produits": [
+        {
+            "produit_id": "P6555",
+            "nom": "Generic Fresh Shirt",
+            "quantite": 1,
+            "prix_unitaire": 137.16
+        },
+        {
+            "produit_id": "P2846",
+            "nom": "Generic Plastic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 83.84
+        },
+        {
+            "produit_id": "P2214",
+            "nom": "For repair Wooden Chicken",
+            "quantite": 4,
+            "prix_unitaire": 480.82
+        }
+    ],
+    "date_commande": "2024-01-01T09:51:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

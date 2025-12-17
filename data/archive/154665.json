@@ -1,0 +1,19 @@
+{
+    "order_id": 154665,
+    "client_id": 2742,
+    "produits": [
+        {
+            "produit_id": "P6442",
+            "nom": "Awesome Soft Fish",
+            "quantite": 3,
+            "prix_unitaire": 298.37
+        }
+    ],
+    "date_commande": "2024-09-12T07:18:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "843 Fredela",
+        "ville": "Tampa"
+    }
+}

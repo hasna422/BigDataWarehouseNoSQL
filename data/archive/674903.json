@@ -1,0 +1,19 @@
+{
+    "order_id": 674903,
+    "client_id": 2046,
+    "produits": [
+        {
+            "produit_id": "P7778",
+            "nom": "Intelligent Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 190.68
+        }
+    ],
+    "date_commande": "2025-01-22T21:17:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "202 Conkling",
+        "ville": "Edgewater"
+    }
+}

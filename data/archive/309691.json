@@ -1,0 +1,21 @@
+{
+    "order_id": 309691,
+    "client_id": 2085,
+    "produits": [
+        {
+            "produit_id": "P7589",
+            "nom": "Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 223.66
+        },
+        {
+            "produit_id": "P6936",
+            "nom": "Incredible Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 405.07
+        }
+    ],
+    "date_commande": "2023-12-21T18:14:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 432503,
+    "client_id": 6443,
+    "produits": [
+        {
+            "produit_id": "P0160",
+            "nom": "New Metal Bike",
+            "quantite": 3,
+            "prix_unitaire": 262.75
+        },
+        {
+            "produit_id": "P3484",
+            "nom": "Used Concrete Fish",
+            "quantite": 5,
+            "prix_unitaire": 366.64
+        }
+    ],
+    "date_commande": "2024-01-25T10:58:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1269 Lapu-Lapu",
+        "ville": "Avon Lake"
+    }
+}

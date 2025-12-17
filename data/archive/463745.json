@@ -1,0 +1,21 @@
+{
+    "order_id": 463745,
+    "client_id": 4271,
+    "produits": [
+        {
+            "produit_id": "P2513",
+            "nom": "Handcrafted Metal Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 332.98
+        },
+        {
+            "produit_id": "P3077",
+            "nom": "Awesome Plastic Bike",
+            "quantite": 3,
+            "prix_unitaire": 478.42
+        }
+    ],
+    "date_commande": "2025-04-02T00:42:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

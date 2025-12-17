@@ -1,0 +1,31 @@
+{
+    "order_id": 226510,
+    "client_id": 3240,
+    "produits": [
+        {
+            "produit_id": "P5395",
+            "nom": "Incredible Metal Salad",
+            "quantite": 5,
+            "prix_unitaire": 232.33
+        },
+        {
+            "produit_id": "P9122",
+            "nom": "Unbranded Plastic Chicken",
+            "quantite": 3,
+            "prix_unitaire": 401.21
+        },
+        {
+            "produit_id": "P4769",
+            "nom": "Small Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 386.52
+        }
+    ],
+    "date_commande": "2023-12-05T03:47:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1146 Toll Plaza Tunnel",
+        "ville": "Fremont"
+    }
+}

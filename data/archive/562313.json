@@ -1,0 +1,21 @@
+{
+    "order_id": 562313,
+    "client_id": 6499,
+    "produits": [
+        {
+            "produit_id": "P4621",
+            "nom": "Incredible Frozen Soap",
+            "quantite": 1,
+            "prix_unitaire": 372.59
+        },
+        {
+            "produit_id": "P7142",
+            "nom": "Gently Used Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 399.95
+        }
+    ],
+    "date_commande": "2023-06-01T02:29:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

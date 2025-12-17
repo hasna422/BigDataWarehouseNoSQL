@@ -1,0 +1,25 @@
+{
+    "order_id": 456694,
+    "client_id": 9755,
+    "produits": [
+        {
+            "produit_id": "P9625",
+            "nom": "Ergonomic Plastic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 305.41
+        },
+        {
+            "produit_id": "P6104",
+            "nom": "Ergonomic Plastic Ball",
+            "quantite": 1,
+            "prix_unitaire": 305.82
+        }
+    ],
+    "date_commande": "2025-05-18T09:52:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "84 Romain",
+        "ville": "North Plainfield"
+    }
+}

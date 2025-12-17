@@ -1,0 +1,19 @@
+{
+    "order_id": 711460,
+    "client_id": 2856,
+    "produits": [
+        {
+            "produit_id": "P0274",
+            "nom": "Refined Fresh Bacon",
+            "quantite": 3,
+            "prix_unitaire": 33.89
+        }
+    ],
+    "date_commande": "2025-01-27T20:18:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "444 Hopkins",
+        "ville": "Flagstaff"
+    }
+}

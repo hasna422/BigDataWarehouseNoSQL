@@ -1,0 +1,25 @@
+{
+    "order_id": 686962,
+    "client_id": 7959,
+    "produits": [
+        {
+            "produit_id": "P4204",
+            "nom": "Rustic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 287.91
+        },
+        {
+            "produit_id": "P4468",
+            "nom": "Handmade Concrete Bike",
+            "quantite": 2,
+            "prix_unitaire": 466.32
+        }
+    ],
+    "date_commande": "2023-12-13T23:28:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "35 Kendall",
+        "ville": "Fort Collins"
+    }
+}

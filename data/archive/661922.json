@@ -1,0 +1,15 @@
+{
+    "order_id": 661922,
+    "client_id": 3168,
+    "produits": [
+        {
+            "produit_id": "P0381",
+            "nom": "Sleek Plastic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 480.48
+        }
+    ],
+    "date_commande": "2023-09-09T21:55:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

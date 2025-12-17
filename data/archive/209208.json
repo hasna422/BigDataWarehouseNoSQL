@@ -1,0 +1,19 @@
+{
+    "order_id": 209208,
+    "client_id": 5451,
+    "produits": [
+        {
+            "produit_id": "P5331",
+            "nom": "Rustic Chips",
+            "quantite": 5,
+            "prix_unitaire": 475.66
+        }
+    ],
+    "date_commande": "2024-07-05T01:59:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "187 Hancock",
+        "ville": "Haltom City"
+    }
+}

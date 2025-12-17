@@ -1,0 +1,15 @@
+{
+    "order_id": 134732,
+    "client_id": 5397,
+    "produits": [
+        {
+            "produit_id": "P9648",
+            "nom": "Ergonomic Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 245.77
+        }
+    ],
+    "date_commande": "2024-08-04T11:42:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

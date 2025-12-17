@@ -1,0 +1,27 @@
+{
+    "order_id": 731376,
+    "client_id": 2350,
+    "produits": [
+        {
+            "produit_id": "P5039",
+            "nom": "Handcrafted Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 337.18
+        },
+        {
+            "produit_id": "P3039",
+            "nom": "Incredible Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 464.64
+        },
+        {
+            "produit_id": "P3609",
+            "nom": "Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 230.98
+        }
+    ],
+    "date_commande": "2024-08-01T11:36:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

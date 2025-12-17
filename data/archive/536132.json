@@ -1,0 +1,25 @@
+{
+    "order_id": 536132,
+    "client_id": 2954,
+    "produits": [
+        {
+            "produit_id": "P9593",
+            "nom": "Small Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 231.96
+        },
+        {
+            "produit_id": "P3598",
+            "nom": "Rustic Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 432.88
+        }
+    ],
+    "date_commande": "2023-12-09T23:10:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1370 Oliver",
+        "ville": "Longmont"
+    }
+}

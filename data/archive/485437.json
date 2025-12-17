@@ -1,0 +1,21 @@
+{
+    "order_id": 485437,
+    "client_id": 2413,
+    "produits": [
+        {
+            "produit_id": "P0775",
+            "nom": "New Table",
+            "quantite": 1,
+            "prix_unitaire": 138.22
+        },
+        {
+            "produit_id": "P7769",
+            "nom": "Practical Fish",
+            "quantite": 1,
+            "prix_unitaire": 465.59
+        }
+    ],
+    "date_commande": "2023-07-20T00:25:36",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

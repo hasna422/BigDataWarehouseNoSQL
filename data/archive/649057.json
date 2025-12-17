@@ -1,0 +1,21 @@
+{
+    "order_id": 649057,
+    "client_id": 5440,
+    "produits": [
+        {
+            "produit_id": "P4368",
+            "nom": "For repair Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 424.9
+        },
+        {
+            "produit_id": "P2897",
+            "nom": "Gorgeous Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 320.51
+        }
+    ],
+    "date_commande": "2023-11-17T18:18:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

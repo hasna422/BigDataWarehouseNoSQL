@@ -1,0 +1,31 @@
+{
+    "order_id": 837016,
+    "client_id": 7309,
+    "produits": [
+        {
+            "produit_id": "P3364",
+            "nom": "For repair Rubber Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 453.57
+        },
+        {
+            "produit_id": "P9860",
+            "nom": "Handcrafted Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 404.08
+        },
+        {
+            "produit_id": "P3485",
+            "nom": "For repair Metal Tuna",
+            "quantite": 5,
+            "prix_unitaire": 281.17
+        }
+    ],
+    "date_commande": "2023-10-06T08:34:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "304 Utah",
+        "ville": "Pico Rivera"
+    }
+}

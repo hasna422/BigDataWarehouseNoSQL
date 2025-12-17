@@ -1,0 +1,19 @@
+{
+    "order_id": 569625,
+    "client_id": 7407,
+    "produits": [
+        {
+            "produit_id": "P5124",
+            "nom": "Handcrafted Granite Chips",
+            "quantite": 3,
+            "prix_unitaire": 479.55
+        }
+    ],
+    "date_commande": "2025-05-11T06:36:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "722 Greely",
+        "ville": "Greenbelt"
+    }
+}

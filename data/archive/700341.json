@@ -1,0 +1,27 @@
+{
+    "order_id": 700341,
+    "client_id": 3581,
+    "produits": [
+        {
+            "produit_id": "P2236",
+            "nom": "Generic Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 24.95
+        },
+        {
+            "produit_id": "P1156",
+            "nom": "Handmade Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 341.69
+        },
+        {
+            "produit_id": "P0457",
+            "nom": "For repair Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 172.18
+        }
+    ],
+    "date_commande": "2025-05-09T04:10:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

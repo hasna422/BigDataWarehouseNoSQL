@@ -1,0 +1,19 @@
+{
+    "order_id": 717106,
+    "client_id": 9395,
+    "produits": [
+        {
+            "produit_id": "P2150",
+            "nom": "Refined Concrete Chicken",
+            "quantite": 1,
+            "prix_unitaire": 452.41
+        }
+    ],
+    "date_commande": "2024-07-20T11:49:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "807 Pierpoint",
+        "ville": "DeKalb"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 256979,
+    "client_id": 9384,
+    "produits": [
+        {
+            "produit_id": "P0490",
+            "nom": "Gently Used Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 318.13
+        },
+        {
+            "produit_id": "P4841",
+            "nom": "Incredible Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 231.22
+        },
+        {
+            "produit_id": "P4579",
+            "nom": "Handmade Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 16.64
+        }
+    ],
+    "date_commande": "2024-12-16T22:06:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "738 Coronado",
+        "ville": "South St. Paul"
+    }
+}

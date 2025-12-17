@@ -1,0 +1,15 @@
+{
+    "order_id": 153700,
+    "client_id": 4725,
+    "produits": [
+        {
+            "produit_id": "P1153",
+            "nom": "Incredible Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 314.54
+        }
+    ],
+    "date_commande": "2024-09-22T05:15:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

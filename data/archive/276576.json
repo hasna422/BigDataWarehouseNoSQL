@@ -1,0 +1,25 @@
+{
+    "order_id": 276576,
+    "client_id": 6341,
+    "produits": [
+        {
+            "produit_id": "P0866",
+            "nom": "Practical Car",
+            "quantite": 2,
+            "prix_unitaire": 18.75
+        },
+        {
+            "produit_id": "P9416",
+            "nom": "Licensed Wooden Pizza",
+            "quantite": 3,
+            "prix_unitaire": 248.74
+        }
+    ],
+    "date_commande": "2025-05-05T19:16:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "378 Brompton",
+        "ville": "Pocatello"
+    }
+}

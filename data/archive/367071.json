@@ -1,0 +1,15 @@
+{
+    "order_id": 367071,
+    "client_id": 2345,
+    "produits": [
+        {
+            "produit_id": "P3040",
+            "nom": "Table",
+            "quantite": 4,
+            "prix_unitaire": 183.49
+        }
+    ],
+    "date_commande": "2025-03-14T06:36:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

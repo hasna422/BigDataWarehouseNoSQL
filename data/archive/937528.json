@@ -1,0 +1,19 @@
+{
+    "order_id": 937528,
+    "client_id": 7359,
+    "produits": [
+        {
+            "produit_id": "P5592",
+            "nom": "For repair Cotton Chicken",
+            "quantite": 3,
+            "prix_unitaire": 188.65
+        }
+    ],
+    "date_commande": "2025-02-08T18:33:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "612 John Muir",
+        "ville": "O'Fallon"
+    }
+}

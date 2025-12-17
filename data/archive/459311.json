@@ -1,0 +1,21 @@
+{
+    "order_id": 459311,
+    "client_id": 5391,
+    "produits": [
+        {
+            "produit_id": "P0404",
+            "nom": "Gently Used Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 151.91
+        },
+        {
+            "produit_id": "P3761",
+            "nom": "Rustic Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 13.35
+        }
+    ],
+    "date_commande": "2024-02-20T21:09:54",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

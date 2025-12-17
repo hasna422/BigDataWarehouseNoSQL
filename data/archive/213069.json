@@ -1,0 +1,25 @@
+{
+    "order_id": 213069,
+    "client_id": 8067,
+    "produits": [
+        {
+            "produit_id": "P2753",
+            "nom": "Wooden Chips",
+            "quantite": 2,
+            "prix_unitaire": 183.63
+        },
+        {
+            "produit_id": "P8325",
+            "nom": "Tasty Mouse",
+            "quantite": 2,
+            "prix_unitaire": 104.56
+        }
+    ],
+    "date_commande": "2025-03-08T17:18:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "142 Digby",
+        "ville": "Horn Lake"
+    }
+}

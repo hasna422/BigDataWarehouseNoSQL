@@ -1,0 +1,31 @@
+{
+    "order_id": 519530,
+    "client_id": 5963,
+    "produits": [
+        {
+            "produit_id": "P2671",
+            "nom": "Awesome Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 212.78
+        },
+        {
+            "produit_id": "P2763",
+            "nom": "Handcrafted Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 47.16
+        },
+        {
+            "produit_id": "P4963",
+            "nom": "Fantastic Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 284.63
+        }
+    ],
+    "date_commande": "2025-02-03T01:27:36",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "603 Quane",
+        "ville": "Maryland Heights"
+    }
+}

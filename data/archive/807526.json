@@ -1,0 +1,25 @@
+{
+    "order_id": 807526,
+    "client_id": 1540,
+    "produits": [
+        {
+            "produit_id": "P9998",
+            "nom": "Intelligent Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 361.18
+        },
+        {
+            "produit_id": "P2449",
+            "nom": "Licensed Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 375.58
+        }
+    ],
+    "date_commande": "2025-04-10T09:32:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "984 Zanowitz",
+        "ville": "Westfield"
+    }
+}

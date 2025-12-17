@@ -1,0 +1,25 @@
+{
+    "order_id": 495388,
+    "client_id": 1020,
+    "produits": [
+        {
+            "produit_id": "P4525",
+            "nom": "Rustic Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 39.01
+        },
+        {
+            "produit_id": "P7682",
+            "nom": "Awesome Wooden Towels",
+            "quantite": 3,
+            "prix_unitaire": 432.85
+        }
+    ],
+    "date_commande": "2024-07-15T03:28:56",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "19 Silliman",
+        "ville": "Salem"
+    }
+}

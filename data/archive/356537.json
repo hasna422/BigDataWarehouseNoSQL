@@ -1,0 +1,19 @@
+{
+    "order_id": 356537,
+    "client_id": 7642,
+    "produits": [
+        {
+            "produit_id": "P1934",
+            "nom": "Intelligent Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 89.29
+        }
+    ],
+    "date_commande": "2024-10-13T09:36:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1057 Naples",
+        "ville": "Ottawa"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 494342,
+    "client_id": 9388,
+    "produits": [
+        {
+            "produit_id": "P0806",
+            "nom": "Licensed Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 128.1
+        }
+    ],
+    "date_commande": "2024-07-14T15:04:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1060 Sylvan",
+        "ville": "Dana Point"
+    }
+}

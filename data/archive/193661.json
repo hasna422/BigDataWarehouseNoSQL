@@ -1,0 +1,25 @@
+{
+    "order_id": 193661,
+    "client_id": 9796,
+    "produits": [
+        {
+            "produit_id": "P0906",
+            "nom": "Refined Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 379.3
+        },
+        {
+            "produit_id": "P8182",
+            "nom": "Small Fish",
+            "quantite": 4,
+            "prix_unitaire": 107.62
+        }
+    ],
+    "date_commande": "2024-05-13T07:21:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "924 San Pablo",
+        "ville": "Haltom City"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 863491,
+    "client_id": 3060,
+    "produits": [
+        {
+            "produit_id": "P4882",
+            "nom": "Gently Used Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 44.83
+        }
+    ],
+    "date_commande": "2023-10-11T02:48:16",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "678 Mcrae",
+        "ville": "Baldwin Park"
+    }
+}

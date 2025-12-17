@@ -1,0 +1,19 @@
+{
+    "order_id": 407717,
+    "client_id": 4737,
+    "produits": [
+        {
+            "produit_id": "P0225",
+            "nom": "Sleek Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 350.23
+        }
+    ],
+    "date_commande": "2024-07-29T19:03:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "946 Lyndhurst",
+        "ville": "West Memphis"
+    }
+}

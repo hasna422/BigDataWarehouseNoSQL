@@ -1,0 +1,27 @@
+{
+    "order_id": 853494,
+    "client_id": 8765,
+    "produits": [
+        {
+            "produit_id": "P9877",
+            "nom": "Licensed Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 387.8
+        },
+        {
+            "produit_id": "P7945",
+            "nom": "Small Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 81.24
+        },
+        {
+            "produit_id": "P8011",
+            "nom": "Gorgeous Rubber Hat",
+            "quantite": 3,
+            "prix_unitaire": 67.49
+        }
+    ],
+    "date_commande": "2024-06-21T08:01:31",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

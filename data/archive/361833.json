@@ -1,0 +1,21 @@
+{
+    "order_id": 361833,
+    "client_id": 2335,
+    "produits": [
+        {
+            "produit_id": "P9480",
+            "nom": "Gently Used Rubber Gloves",
+            "quantite": 1,
+            "prix_unitaire": 67.73
+        },
+        {
+            "produit_id": "P6179",
+            "nom": "Small Wooden Bacon",
+            "quantite": 2,
+            "prix_unitaire": 352.61
+        }
+    ],
+    "date_commande": "2025-01-12T17:18:08",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

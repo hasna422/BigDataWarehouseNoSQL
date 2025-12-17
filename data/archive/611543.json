@@ -1,0 +1,27 @@
+{
+    "order_id": 611543,
+    "client_id": 7801,
+    "produits": [
+        {
+            "produit_id": "P4763",
+            "nom": "Gorgeous Fresh Tuna",
+            "quantite": 4,
+            "prix_unitaire": 461.95
+        },
+        {
+            "produit_id": "P5319",
+            "nom": "Licensed Chair",
+            "quantite": 5,
+            "prix_unitaire": 199.01
+        },
+        {
+            "produit_id": "P9832",
+            "nom": "Used Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 451.67
+        }
+    ],
+    "date_commande": "2024-07-24T02:32:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

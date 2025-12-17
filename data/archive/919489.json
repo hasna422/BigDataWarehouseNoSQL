@@ -1,0 +1,25 @@
+{
+    "order_id": 919489,
+    "client_id": 6247,
+    "produits": [
+        {
+            "produit_id": "P2576",
+            "nom": "Licensed Soft Bacon",
+            "quantite": 3,
+            "prix_unitaire": 272.78
+        },
+        {
+            "produit_id": "P7014",
+            "nom": "Handmade Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 90.07
+        }
+    ],
+    "date_commande": "2024-01-26T13:19:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "523 Bank",
+        "ville": "Downey"
+    }
+}

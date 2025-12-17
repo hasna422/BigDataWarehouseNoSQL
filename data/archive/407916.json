@@ -1,0 +1,21 @@
+{
+    "order_id": 407916,
+    "client_id": 1760,
+    "produits": [
+        {
+            "produit_id": "P4033",
+            "nom": "For repair Wooden Fish",
+            "quantite": 1,
+            "prix_unitaire": 224.51
+        },
+        {
+            "produit_id": "P5893",
+            "nom": "Generic Hat",
+            "quantite": 1,
+            "prix_unitaire": 332.02
+        }
+    ],
+    "date_commande": "2024-03-11T04:54:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

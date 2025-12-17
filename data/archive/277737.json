@@ -1,0 +1,21 @@
+{
+    "order_id": 277737,
+    "client_id": 4423,
+    "produits": [
+        {
+            "produit_id": "P8419",
+            "nom": "New Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 86.44
+        },
+        {
+            "produit_id": "P9794",
+            "nom": "Practical Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 310.39
+        }
+    ],
+    "date_commande": "2024-07-29T23:18:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

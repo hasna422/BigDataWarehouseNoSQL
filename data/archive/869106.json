@@ -1,0 +1,31 @@
+{
+    "order_id": 869106,
+    "client_id": 2560,
+    "produits": [
+        {
+            "produit_id": "P0348",
+            "nom": "For repair Steel Soap",
+            "quantite": 1,
+            "prix_unitaire": 451.67
+        },
+        {
+            "produit_id": "P8974",
+            "nom": "Handcrafted Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 414.98
+        },
+        {
+            "produit_id": "P9519",
+            "nom": "Licensed Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 283.9
+        }
+    ],
+    "date_commande": "2025-03-11T01:48:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "941 Knott",
+        "ville": "Clemmons"
+    }
+}

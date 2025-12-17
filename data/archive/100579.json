@@ -1,0 +1,31 @@
+{
+    "order_id": 100579,
+    "client_id": 9071,
+    "produits": [
+        {
+            "produit_id": "P4250",
+            "nom": "Tasty Computer",
+            "quantite": 4,
+            "prix_unitaire": 437.77
+        },
+        {
+            "produit_id": "P9311",
+            "nom": "Unbranded Steel Chicken",
+            "quantite": 4,
+            "prix_unitaire": 232.37
+        },
+        {
+            "produit_id": "P7235",
+            "nom": "Rustic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 433.22
+        }
+    ],
+    "date_commande": "2024-10-15T07:44:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "872 Truby",
+        "ville": "St. Louis Park"
+    }
+}

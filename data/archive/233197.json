@@ -1,0 +1,15 @@
+{
+    "order_id": 233197,
+    "client_id": 8914,
+    "produits": [
+        {
+            "produit_id": "P6235",
+            "nom": "Sleek Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 154.7
+        }
+    ],
+    "date_commande": "2023-12-30T14:46:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 720418,
+    "client_id": 5925,
+    "produits": [
+        {
+            "produit_id": "P0815",
+            "nom": "Tasty Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 471.76
+        },
+        {
+            "produit_id": "P9712",
+            "nom": "Fantastic Steel Chicken",
+            "quantite": 4,
+            "prix_unitaire": 89.76
+        }
+    ],
+    "date_commande": "2024-09-27T12:42:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "211 Phoenix",
+        "ville": "Stafford"
+    }
+}

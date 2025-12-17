@@ -1,0 +1,19 @@
+{
+    "order_id": 910349,
+    "client_id": 9088,
+    "produits": [
+        {
+            "produit_id": "P4103",
+            "nom": "Refined Concrete Pants",
+            "quantite": 2,
+            "prix_unitaire": 338.62
+        }
+    ],
+    "date_commande": "2023-09-15T21:07:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "461 Rolph",
+        "ville": "New Britain"
+    }
+}

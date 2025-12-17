@@ -1,0 +1,19 @@
+{
+    "order_id": 572431,
+    "client_id": 2466,
+    "produits": [
+        {
+            "produit_id": "P1699",
+            "nom": "Fantastic Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 226.73
+        }
+    ],
+    "date_commande": "2024-03-03T22:41:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "450 Zoo",
+        "ville": "Chelsea"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 961506,
+    "client_id": 6947,
+    "produits": [
+        {
+            "produit_id": "P9815",
+            "nom": "Gorgeous Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 417.86
+        },
+        {
+            "produit_id": "P3244",
+            "nom": "Fantastic Fresh Shirt",
+            "quantite": 1,
+            "prix_unitaire": 334.61
+        },
+        {
+            "produit_id": "P6633",
+            "nom": "Handcrafted Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 320.1
+        }
+    ],
+    "date_commande": "2024-10-29T01:51:41",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

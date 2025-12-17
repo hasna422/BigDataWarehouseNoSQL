@@ -1,0 +1,19 @@
+{
+    "order_id": 557043,
+    "client_id": 9478,
+    "produits": [
+        {
+            "produit_id": "P5348",
+            "nom": "Licensed Concrete Chicken",
+            "quantite": 4,
+            "prix_unitaire": 17.05
+        }
+    ],
+    "date_commande": "2023-05-31T02:05:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1388 Edward",
+        "ville": "Santa Clarita"
+    }
+}

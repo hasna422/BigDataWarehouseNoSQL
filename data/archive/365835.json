@@ -1,0 +1,25 @@
+{
+    "order_id": 365835,
+    "client_id": 5522,
+    "produits": [
+        {
+            "produit_id": "P0090",
+            "nom": "Rustic Rubber Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 113.56
+        },
+        {
+            "produit_id": "P0996",
+            "nom": "Handcrafted Rubber Pants",
+            "quantite": 3,
+            "prix_unitaire": 39.97
+        }
+    ],
+    "date_commande": "2025-03-02T00:05:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "472 Sydney",
+        "ville": "Del City"
+    }
+}

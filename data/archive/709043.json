@@ -1,0 +1,19 @@
+{
+    "order_id": 709043,
+    "client_id": 9046,
+    "produits": [
+        {
+            "produit_id": "P0281",
+            "nom": "Sleek Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 120.34
+        }
+    ],
+    "date_commande": "2024-05-21T09:48:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "349 Mesa",
+        "ville": "Oakland"
+    }
+}

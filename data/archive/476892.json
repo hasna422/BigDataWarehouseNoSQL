@@ -1,0 +1,19 @@
+{
+    "order_id": 476892,
+    "client_id": 4878,
+    "produits": [
+        {
+            "produit_id": "P9217",
+            "nom": "For repair Gloves",
+            "quantite": 2,
+            "prix_unitaire": 382.62
+        }
+    ],
+    "date_commande": "2023-12-20T14:25:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1114 Fairbanks",
+        "ville": "Park Ridge"
+    }
+}

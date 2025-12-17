@@ -1,0 +1,25 @@
+{
+    "order_id": 873733,
+    "client_id": 3639,
+    "produits": [
+        {
+            "produit_id": "P6986",
+            "nom": "Small Towels",
+            "quantite": 3,
+            "prix_unitaire": 462.95
+        },
+        {
+            "produit_id": "P2137",
+            "nom": "Small Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 161.31
+        }
+    ],
+    "date_commande": "2023-07-01T02:59:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1299 East Fort Miley",
+        "ville": "Haltom City"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 272166,
+    "client_id": 2491,
+    "produits": [
+        {
+            "produit_id": "P5806",
+            "nom": "New Wooden Bacon",
+            "quantite": 4,
+            "prix_unitaire": 302.53
+        },
+        {
+            "produit_id": "P3812",
+            "nom": "Refined Concrete Sausages",
+            "quantite": 2,
+            "prix_unitaire": 71.91
+        }
+    ],
+    "date_commande": "2025-02-04T23:30:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

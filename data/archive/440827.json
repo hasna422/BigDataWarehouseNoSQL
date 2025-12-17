@@ -1,0 +1,31 @@
+{
+    "order_id": 440827,
+    "client_id": 9126,
+    "produits": [
+        {
+            "produit_id": "P0894",
+            "nom": "Incredible Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 152.27
+        },
+        {
+            "produit_id": "P9193",
+            "nom": "Incredible Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 341.55
+        },
+        {
+            "produit_id": "P6225",
+            "nom": "Tasty Frozen Tuna",
+            "quantite": 1,
+            "prix_unitaire": 261.71
+        }
+    ],
+    "date_commande": "2024-08-05T09:04:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "936 Pueblo",
+        "ville": "Somerville"
+    }
+}

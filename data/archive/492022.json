@@ -1,0 +1,15 @@
+{
+    "order_id": 492022,
+    "client_id": 4555,
+    "produits": [
+        {
+            "produit_id": "P0544",
+            "nom": "Gorgeous Towels",
+            "quantite": 2,
+            "prix_unitaire": 488.82
+        }
+    ],
+    "date_commande": "2024-11-27T06:10:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

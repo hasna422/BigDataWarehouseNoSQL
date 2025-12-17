@@ -1,0 +1,27 @@
+{
+    "order_id": 796003,
+    "client_id": 2917,
+    "produits": [
+        {
+            "produit_id": "P8628",
+            "nom": "Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 420.45
+        },
+        {
+            "produit_id": "P9621",
+            "nom": "Used Bike",
+            "quantite": 4,
+            "prix_unitaire": 353.81
+        },
+        {
+            "produit_id": "P4766",
+            "nom": "Plastic Shirt",
+            "quantite": 3,
+            "prix_unitaire": 253.1
+        }
+    ],
+    "date_commande": "2024-03-22T18:15:11",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

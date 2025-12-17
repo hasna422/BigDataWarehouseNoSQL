@@ -1,0 +1,21 @@
+{
+    "order_id": 734862,
+    "client_id": 5554,
+    "produits": [
+        {
+            "produit_id": "P8832",
+            "nom": "Handmade Plastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 172.0
+        },
+        {
+            "produit_id": "P3879",
+            "nom": "Tasty Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 447.83
+        }
+    ],
+    "date_commande": "2024-08-27T05:02:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

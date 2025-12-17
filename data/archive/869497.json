@@ -1,0 +1,15 @@
+{
+    "order_id": 869497,
+    "client_id": 7408,
+    "produits": [
+        {
+            "produit_id": "P7400",
+            "nom": "Fantastic Frozen Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 270.74
+        }
+    ],
+    "date_commande": "2025-05-03T15:56:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

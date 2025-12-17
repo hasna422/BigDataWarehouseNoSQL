@@ -1,0 +1,19 @@
+{
+    "order_id": 775385,
+    "client_id": 7721,
+    "produits": [
+        {
+            "produit_id": "P2510",
+            "nom": "Tasty Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 78.89
+        }
+    ],
+    "date_commande": "2023-07-22T00:20:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1302 Bonita",
+        "ville": "Beverly"
+    }
+}

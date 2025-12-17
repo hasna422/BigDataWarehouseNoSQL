@@ -1,0 +1,27 @@
+{
+    "order_id": 719848,
+    "client_id": 2647,
+    "produits": [
+        {
+            "produit_id": "P2207",
+            "nom": "Intelligent Steel Soap",
+            "quantite": 1,
+            "prix_unitaire": 218.82
+        },
+        {
+            "produit_id": "P6539",
+            "nom": "Gently Used Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 387.88
+        },
+        {
+            "produit_id": "P8388",
+            "nom": "Handcrafted Steel Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 418.03
+        }
+    ],
+    "date_commande": "2024-06-16T05:10:46",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

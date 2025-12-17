@@ -1,0 +1,27 @@
+{
+    "order_id": 806017,
+    "client_id": 2271,
+    "produits": [
+        {
+            "produit_id": "P5989",
+            "nom": "For repair Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 341.71
+        },
+        {
+            "produit_id": "P0260",
+            "nom": "Refined Metal Bacon",
+            "quantite": 2,
+            "prix_unitaire": 6.9
+        },
+        {
+            "produit_id": "P8048",
+            "nom": "Practical Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 120.11
+        }
+    ],
+    "date_commande": "2025-01-28T21:15:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

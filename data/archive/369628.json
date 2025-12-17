@@ -1,0 +1,27 @@
+{
+    "order_id": 369628,
+    "client_id": 9248,
+    "produits": [
+        {
+            "produit_id": "P2472",
+            "nom": "Small Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 164.12
+        },
+        {
+            "produit_id": "P0475",
+            "nom": "Incredible Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 460.59
+        },
+        {
+            "produit_id": "P6398",
+            "nom": "Licensed Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 450.01
+        }
+    ],
+    "date_commande": "2023-10-10T08:13:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

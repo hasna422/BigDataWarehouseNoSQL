@@ -1,0 +1,15 @@
+{
+    "order_id": 594596,
+    "client_id": 4157,
+    "produits": [
+        {
+            "produit_id": "P3711",
+            "nom": "Rustic Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 389.48
+        }
+    ],
+    "date_commande": "2023-07-02T03:57:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

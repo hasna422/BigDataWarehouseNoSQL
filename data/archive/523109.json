@@ -1,0 +1,19 @@
+{
+    "order_id": 523109,
+    "client_id": 9470,
+    "produits": [
+        {
+            "produit_id": "P8454",
+            "nom": "Unbranded Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 416.22
+        }
+    ],
+    "date_commande": "2024-06-28T07:54:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1226 Lexington",
+        "ville": "Newburyport"
+    }
+}

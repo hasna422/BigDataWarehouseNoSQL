@@ -1,0 +1,19 @@
+{
+    "order_id": 790524,
+    "client_id": 8788,
+    "produits": [
+        {
+            "produit_id": "P9505",
+            "nom": "Generic Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 147.11
+        }
+    ],
+    "date_commande": "2025-05-26T17:09:47",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1013 Opal",
+        "ville": "Fort Worth"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 528054,
+    "client_id": 4301,
+    "produits": [
+        {
+            "produit_id": "P9088",
+            "nom": "Incredible Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 126.58
+        },
+        {
+            "produit_id": "P9084",
+            "nom": "Sleek Steel Hat",
+            "quantite": 2,
+            "prix_unitaire": 268.4
+        }
+    ],
+    "date_commande": "2024-10-08T18:14:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

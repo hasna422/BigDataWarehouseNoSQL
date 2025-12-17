@@ -1,0 +1,25 @@
+{
+    "order_id": 480142,
+    "client_id": 7473,
+    "produits": [
+        {
+            "produit_id": "P7863",
+            "nom": "Handmade Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 270.81
+        },
+        {
+            "produit_id": "P6241",
+            "nom": "Ergonomic Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 138.05
+        }
+    ],
+    "date_commande": "2024-08-30T07:09:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "265 Bernard",
+        "ville": "Brownsville"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 808849,
+    "client_id": 1810,
+    "produits": [
+        {
+            "produit_id": "P7192",
+            "nom": "Generic Concrete Gloves",
+            "quantite": 5,
+            "prix_unitaire": 274.66
+        },
+        {
+            "produit_id": "P7524",
+            "nom": "Incredible Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 205.43
+        },
+        {
+            "produit_id": "P0954",
+            "nom": "Gorgeous Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 40.3
+        }
+    ],
+    "date_commande": "2024-04-28T15:29:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "930 Selby",
+        "ville": "Ceres"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 280616,
+    "client_id": 2151,
+    "produits": [
+        {
+            "produit_id": "P4209",
+            "nom": "Small Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 30.94
+        },
+        {
+            "produit_id": "P1146",
+            "nom": "Sleek Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 290.16
+        }
+    ],
+    "date_commande": "2024-11-06T02:27:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1093 Kiska",
+        "ville": "Oshkosh"
+    }
+}

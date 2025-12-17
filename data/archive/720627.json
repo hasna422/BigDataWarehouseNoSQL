@@ -1,0 +1,31 @@
+{
+    "order_id": 720627,
+    "client_id": 1108,
+    "produits": [
+        {
+            "produit_id": "P1926",
+            "nom": "Tasty Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 145.74
+        },
+        {
+            "produit_id": "P1710",
+            "nom": "Gently Used Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 307.38
+        },
+        {
+            "produit_id": "P3053",
+            "nom": "Gorgeous Rubber Towels",
+            "quantite": 1,
+            "prix_unitaire": 372.58
+        }
+    ],
+    "date_commande": "2024-12-03T21:11:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "423 Piper",
+        "ville": "Lake Zurich"
+    }
+}

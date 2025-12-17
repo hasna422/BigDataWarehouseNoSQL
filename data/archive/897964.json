@@ -1,0 +1,25 @@
+{
+    "order_id": 897964,
+    "client_id": 5186,
+    "produits": [
+        {
+            "produit_id": "P2066",
+            "nom": "Gorgeous Wooden Tuna",
+            "quantite": 1,
+            "prix_unitaire": 58.39
+        },
+        {
+            "produit_id": "P2983",
+            "nom": "Intelligent Fresh Table",
+            "quantite": 3,
+            "prix_unitaire": 166.53
+        }
+    ],
+    "date_commande": "2024-03-11T20:17:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "843 Rosa Parks",
+        "ville": "Joliet"
+    }
+}

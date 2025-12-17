@@ -1,0 +1,31 @@
+{
+    "order_id": 776920,
+    "client_id": 5771,
+    "produits": [
+        {
+            "produit_id": "P6833",
+            "nom": "Intelligent Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 76.26
+        },
+        {
+            "produit_id": "P6746",
+            "nom": "Small Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 230.16
+        },
+        {
+            "produit_id": "P3417",
+            "nom": "Ergonomic Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 400.45
+        }
+    ],
+    "date_commande": "2024-08-28T08:56:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "577 Homestead",
+        "ville": "Pelham"
+    }
+}

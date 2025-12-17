@@ -1,0 +1,25 @@
+{
+    "order_id": 337512,
+    "client_id": 6683,
+    "produits": [
+        {
+            "produit_id": "P0254",
+            "nom": "Rustic Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 53.34
+        },
+        {
+            "produit_id": "P5550",
+            "nom": "Refined Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 36.38
+        }
+    ],
+    "date_commande": "2024-04-02T10:47:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1217 Amherst",
+        "ville": "Crystal"
+    }
+}

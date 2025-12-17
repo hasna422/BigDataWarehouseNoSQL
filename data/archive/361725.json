@@ -1,0 +1,25 @@
+{
+    "order_id": 361725,
+    "client_id": 5906,
+    "produits": [
+        {
+            "produit_id": "P4621",
+            "nom": "Gently Used Fresh Table",
+            "quantite": 1,
+            "prix_unitaire": 343.56
+        },
+        {
+            "produit_id": "P8674",
+            "nom": "Used Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 429.68
+        }
+    ],
+    "date_commande": "2023-07-15T01:44:19",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "666 Wildwood",
+        "ville": "Rochester Hills"
+    }
+}

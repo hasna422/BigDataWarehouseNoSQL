@@ -1,0 +1,25 @@
+{
+    "order_id": 760953,
+    "client_id": 5981,
+    "produits": [
+        {
+            "produit_id": "P9097",
+            "nom": "Practical Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 154.0
+        },
+        {
+            "produit_id": "P4407",
+            "nom": "Handcrafted Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 468.35
+        }
+    ],
+    "date_commande": "2025-05-22T05:08:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "898 State",
+        "ville": "Shelton"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 142351,
+    "client_id": 9196,
+    "produits": [
+        {
+            "produit_id": "P3712",
+            "nom": "For repair Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 242.95
+        },
+        {
+            "produit_id": "P6332",
+            "nom": "Refined Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 37.6
+        },
+        {
+            "produit_id": "P3677",
+            "nom": "Sleek Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 73.4
+        }
+    ],
+    "date_commande": "2025-05-02T20:01:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1246 Wyman",
+        "ville": "Coon Rapids"
+    }
+}

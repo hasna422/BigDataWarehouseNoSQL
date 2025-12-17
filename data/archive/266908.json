@@ -1,0 +1,25 @@
+{
+    "order_id": 266908,
+    "client_id": 1691,
+    "produits": [
+        {
+            "produit_id": "P7712",
+            "nom": "New Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 320.4
+        },
+        {
+            "produit_id": "P0236",
+            "nom": "Small Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 141.59
+        }
+    ],
+    "date_commande": "2023-06-03T22:10:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "102 Gallagher",
+        "ville": "Brea"
+    }
+}

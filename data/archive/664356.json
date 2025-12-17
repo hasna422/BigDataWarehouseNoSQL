@@ -1,0 +1,25 @@
+{
+    "order_id": 664356,
+    "client_id": 5630,
+    "produits": [
+        {
+            "produit_id": "P5488",
+            "nom": "Refined Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 44.95
+        },
+        {
+            "produit_id": "P7643",
+            "nom": "Incredible Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 113.9
+        }
+    ],
+    "date_commande": "2024-03-11T18:16:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1050 Osceola",
+        "ville": "Carlisle"
+    }
+}

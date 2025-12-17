@@ -1,0 +1,19 @@
+{
+    "order_id": 856368,
+    "client_id": 1224,
+    "produits": [
+        {
+            "produit_id": "P7168",
+            "nom": "Refined Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 269.58
+        }
+    ],
+    "date_commande": "2024-09-15T11:50:35",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "96 Colusa",
+        "ville": "Corona"
+    }
+}

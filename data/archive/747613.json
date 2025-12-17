@@ -1,0 +1,31 @@
+{
+    "order_id": 747613,
+    "client_id": 6994,
+    "produits": [
+        {
+            "produit_id": "P0093",
+            "nom": "Licensed Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 324.95
+        },
+        {
+            "produit_id": "P6448",
+            "nom": "Generic Plastic Tuna",
+            "quantite": 4,
+            "prix_unitaire": 164.41
+        },
+        {
+            "produit_id": "P6048",
+            "nom": "Handmade Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 403.92
+        }
+    ],
+    "date_commande": "2024-04-28T21:23:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "637 Geary",
+        "ville": "Salina"
+    }
+}

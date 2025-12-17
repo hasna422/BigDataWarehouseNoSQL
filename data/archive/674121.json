@@ -1,0 +1,15 @@
+{
+    "order_id": 674121,
+    "client_id": 6824,
+    "produits": [
+        {
+            "produit_id": "P7915",
+            "nom": "Refined Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 210.88
+        }
+    ],
+    "date_commande": "2024-06-25T14:24:53",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 510504,
+    "client_id": 5148,
+    "produits": [
+        {
+            "produit_id": "P2548",
+            "nom": "Handcrafted Tuna",
+            "quantite": 5,
+            "prix_unitaire": 403.37
+        }
+    ],
+    "date_commande": "2024-02-16T03:15:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "979 Liebig",
+        "ville": "Walnut"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 127668,
+    "client_id": 6865,
+    "produits": [
+        {
+            "produit_id": "P1195",
+            "nom": "Incredible Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 312.7
+        },
+        {
+            "produit_id": "P4320",
+            "nom": "Small Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 431.12
+        },
+        {
+            "produit_id": "P2813",
+            "nom": "Practical Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 326.7
+        }
+    ],
+    "date_commande": "2023-12-29T19:48:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1141 Vinton",
+        "ville": "Wilson"
+    }
+}

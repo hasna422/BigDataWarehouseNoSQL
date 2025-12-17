@@ -1,0 +1,15 @@
+{
+    "order_id": 357387,
+    "client_id": 5528,
+    "produits": [
+        {
+            "produit_id": "P6662",
+            "nom": "Practical Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 318.81
+        }
+    ],
+    "date_commande": "2023-07-21T21:43:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

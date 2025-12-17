@@ -1,0 +1,25 @@
+{
+    "order_id": 256676,
+    "client_id": 5281,
+    "produits": [
+        {
+            "produit_id": "P3139",
+            "nom": "Licensed Frozen Table",
+            "quantite": 3,
+            "prix_unitaire": 71.26
+        },
+        {
+            "produit_id": "P8012",
+            "nom": "Unbranded Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 166.55
+        }
+    ],
+    "date_commande": "2024-01-15T05:24:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "69 Paul",
+        "ville": "Bowie"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 125486,
+    "client_id": 4035,
+    "produits": [
+        {
+            "produit_id": "P6928",
+            "nom": "Awesome Rubber Pants",
+            "quantite": 5,
+            "prix_unitaire": 214.0
+        },
+        {
+            "produit_id": "P9266",
+            "nom": "Frozen Chair",
+            "quantite": 1,
+            "prix_unitaire": 45.33
+        }
+    ],
+    "date_commande": "2024-04-16T20:44:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "307 Corbett",
+        "ville": "Cape Girardeau"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 286131,
+    "client_id": 6849,
+    "produits": [
+        {
+            "produit_id": "P7026",
+            "nom": "Gently Used Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 57.33
+        },
+        {
+            "produit_id": "P7102",
+            "nom": "New Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 60.47
+        },
+        {
+            "produit_id": "P0023",
+            "nom": "New Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 329.37
+        }
+    ],
+    "date_commande": "2025-03-05T08:37:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1076 Moss",
+        "ville": "Burlingame"
+    }
+}

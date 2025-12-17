@@ -1,0 +1,15 @@
+{
+    "order_id": 495263,
+    "client_id": 3453,
+    "produits": [
+        {
+            "produit_id": "P9222",
+            "nom": "Handcrafted Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 52.36
+        }
+    ],
+    "date_commande": "2023-12-28T23:05:38",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

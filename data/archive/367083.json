@@ -1,0 +1,19 @@
+{
+    "order_id": 367083,
+    "client_id": 3036,
+    "produits": [
+        {
+            "produit_id": "P8168",
+            "nom": "For repair Shirt",
+            "quantite": 4,
+            "prix_unitaire": 322.41
+        }
+    ],
+    "date_commande": "2024-04-22T21:14:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "115 Idora",
+        "ville": "Rancho Cordova"
+    }
+}

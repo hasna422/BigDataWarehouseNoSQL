@@ -1,0 +1,19 @@
+{
+    "order_id": 460550,
+    "client_id": 4378,
+    "produits": [
+        {
+            "produit_id": "P0292",
+            "nom": "Generic Chips",
+            "quantite": 1,
+            "prix_unitaire": 390.3
+        }
+    ],
+    "date_commande": "2024-12-14T22:37:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1055 Edinburgh",
+        "ville": "Beckley"
+    }
+}

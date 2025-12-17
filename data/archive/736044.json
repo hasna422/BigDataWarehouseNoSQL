@@ -1,0 +1,31 @@
+{
+    "order_id": 736044,
+    "client_id": 6661,
+    "produits": [
+        {
+            "produit_id": "P2673",
+            "nom": "Ergonomic Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 148.38
+        },
+        {
+            "produit_id": "P7691",
+            "nom": "Practical Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 340.39
+        },
+        {
+            "produit_id": "P4824",
+            "nom": "Awesome Fresh Salad",
+            "quantite": 4,
+            "prix_unitaire": 167.69
+        }
+    ],
+    "date_commande": "2024-08-01T04:23:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1246 The Block",
+        "ville": "Jackson"
+    }
+}

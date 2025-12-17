@@ -1,0 +1,19 @@
+{
+    "order_id": 800428,
+    "client_id": 3474,
+    "produits": [
+        {
+            "produit_id": "P4338",
+            "nom": "Rustic Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 384.63
+        }
+    ],
+    "date_commande": "2025-02-27T22:07:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "67 Princeton",
+        "ville": "Morristown"
+    }
+}

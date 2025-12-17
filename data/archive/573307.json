@@ -1,0 +1,19 @@
+{
+    "order_id": 573307,
+    "client_id": 2130,
+    "produits": [
+        {
+            "produit_id": "P7461",
+            "nom": "Refined Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 343.78
+        }
+    ],
+    "date_commande": "2023-10-02T01:06:45",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "10 Mountview",
+        "ville": "South Burlington"
+    }
+}

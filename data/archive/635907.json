@@ -1,0 +1,31 @@
+{
+    "order_id": 635907,
+    "client_id": 7356,
+    "produits": [
+        {
+            "produit_id": "P1036",
+            "nom": "Rustic Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 218.85
+        },
+        {
+            "produit_id": "P2330",
+            "nom": "Generic Rubber Chips",
+            "quantite": 1,
+            "prix_unitaire": 254.86
+        },
+        {
+            "produit_id": "P7713",
+            "nom": "Refined Tuna",
+            "quantite": 2,
+            "prix_unitaire": 114.99
+        }
+    ],
+    "date_commande": "2024-01-20T14:06:15",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "859 Albion",
+        "ville": "Roanoke"
+    }
+}

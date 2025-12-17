@@ -1,0 +1,19 @@
+{
+    "order_id": 804078,
+    "client_id": 4222,
+    "produits": [
+        {
+            "produit_id": "P6350",
+            "nom": "Tasty Wooden Mouse",
+            "quantite": 1,
+            "prix_unitaire": 259.19
+        }
+    ],
+    "date_commande": "2023-10-09T06:25:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1169 Gerard",
+        "ville": "Susanville"
+    }
+}

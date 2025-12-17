@@ -1,0 +1,25 @@
+{
+    "order_id": 839427,
+    "client_id": 1565,
+    "produits": [
+        {
+            "produit_id": "P2391",
+            "nom": "Tasty Steel Shoes",
+            "quantite": 4,
+            "prix_unitaire": 460.31
+        },
+        {
+            "produit_id": "P1231",
+            "nom": "Gently Used Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 193.21
+        }
+    ],
+    "date_commande": "2025-04-30T03:47:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "856 Stoneyford",
+        "ville": "Lynnwood"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 425275,
+    "client_id": 5592,
+    "produits": [
+        {
+            "produit_id": "P0059",
+            "nom": "Awesome Frozen Chicken",
+            "quantite": 3,
+            "prix_unitaire": 86.68
+        },
+        {
+            "produit_id": "P8313",
+            "nom": "Sleek Metal Table",
+            "quantite": 5,
+            "prix_unitaire": 258.22
+        }
+    ],
+    "date_commande": "2024-09-06T21:06:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1024 Gateview 2",
+        "ville": "Leavenworth"
+    }
+}

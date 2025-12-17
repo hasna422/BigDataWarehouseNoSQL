@@ -1,0 +1,19 @@
+{
+    "order_id": 433563,
+    "client_id": 4929,
+    "produits": [
+        {
+            "produit_id": "P1027",
+            "nom": "Used Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 201.39
+        }
+    ],
+    "date_commande": "2025-03-01T07:37:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "248 Miley",
+        "ville": "Corinth"
+    }
+}

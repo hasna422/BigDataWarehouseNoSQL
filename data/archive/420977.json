@@ -1,0 +1,31 @@
+{
+    "order_id": 420977,
+    "client_id": 2939,
+    "produits": [
+        {
+            "produit_id": "P0256",
+            "nom": "Sleek Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 73.49
+        },
+        {
+            "produit_id": "P4873",
+            "nom": "Handcrafted Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 294.45
+        },
+        {
+            "produit_id": "P2181",
+            "nom": "Handcrafted Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 209.37
+        }
+    ],
+    "date_commande": "2023-06-14T21:10:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "639 Garden",
+        "ville": "Dallas"
+    }
+}

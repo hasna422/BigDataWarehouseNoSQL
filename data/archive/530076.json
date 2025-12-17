@@ -1,0 +1,27 @@
+{
+    "order_id": 530076,
+    "client_id": 4986,
+    "produits": [
+        {
+            "produit_id": "P0004",
+            "nom": "Refined Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 18.71
+        },
+        {
+            "produit_id": "P7489",
+            "nom": "Ergonomic Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 106.53
+        },
+        {
+            "produit_id": "P8260",
+            "nom": "Used Car",
+            "quantite": 5,
+            "prix_unitaire": 270.18
+        }
+    ],
+    "date_commande": "2024-01-31T20:54:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

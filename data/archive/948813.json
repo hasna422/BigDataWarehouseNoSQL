@@ -1,0 +1,15 @@
+{
+    "order_id": 948813,
+    "client_id": 4536,
+    "produits": [
+        {
+            "produit_id": "P5275",
+            "nom": "Used Frozen Computer",
+            "quantite": 5,
+            "prix_unitaire": 453.49
+        }
+    ],
+    "date_commande": "2025-05-21T09:55:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

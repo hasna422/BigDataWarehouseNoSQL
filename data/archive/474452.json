@@ -1,0 +1,25 @@
+{
+    "order_id": 474452,
+    "client_id": 2844,
+    "produits": [
+        {
+            "produit_id": "P4433",
+            "nom": "Practical Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 325.7
+        },
+        {
+            "produit_id": "P8351",
+            "nom": "Intelligent Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 5.86
+        }
+    ],
+    "date_commande": "2024-05-27T19:44:55",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "315 Seward",
+        "ville": "Hendersonville"
+    }
+}

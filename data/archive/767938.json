@@ -1,0 +1,31 @@
+{
+    "order_id": 767938,
+    "client_id": 8043,
+    "produits": [
+        {
+            "produit_id": "P6898",
+            "nom": "Sleek Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 99.16
+        },
+        {
+            "produit_id": "P3442",
+            "nom": "Unbranded Cotton Ball",
+            "quantite": 5,
+            "prix_unitaire": 32.33
+        },
+        {
+            "produit_id": "P0665",
+            "nom": "Ergonomic Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 443.56
+        }
+    ],
+    "date_commande": "2025-04-19T12:55:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "433 Conkling",
+        "ville": "Havelock"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 371829,
+    "client_id": 6714,
+    "produits": [
+        {
+            "produit_id": "P1606",
+            "nom": "Fantastic Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 115.41
+        },
+        {
+            "produit_id": "P1463",
+            "nom": "For repair Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 261.38
+        }
+    ],
+    "date_commande": "2024-03-10T17:33:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1142 Yukon",
+        "ville": "Mission"
+    }
+}

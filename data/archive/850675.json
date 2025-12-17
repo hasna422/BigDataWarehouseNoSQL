@@ -1,0 +1,19 @@
+{
+    "order_id": 850675,
+    "client_id": 9039,
+    "produits": [
+        {
+            "produit_id": "P6380",
+            "nom": "Fantastic Soft Bike",
+            "quantite": 1,
+            "prix_unitaire": 476.28
+        }
+    ],
+    "date_commande": "2024-07-23T10:30:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "41 Mendell",
+        "ville": "Lindenwold"
+    }
+}

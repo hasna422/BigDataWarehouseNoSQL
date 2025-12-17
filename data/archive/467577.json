@@ -1,0 +1,15 @@
+{
+    "order_id": 467577,
+    "client_id": 2322,
+    "produits": [
+        {
+            "produit_id": "P2847",
+            "nom": "Generic Car",
+            "quantite": 4,
+            "prix_unitaire": 49.62
+        }
+    ],
+    "date_commande": "2024-10-02T21:15:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

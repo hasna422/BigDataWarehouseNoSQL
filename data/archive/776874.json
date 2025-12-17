@@ -1,0 +1,19 @@
+{
+    "order_id": 776874,
+    "client_id": 1038,
+    "produits": [
+        {
+            "produit_id": "P5927",
+            "nom": "Refined Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 171.83
+        }
+    ],
+    "date_commande": "2024-11-24T02:17:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "13 Michigan",
+        "ville": "Pinecrest"
+    }
+}

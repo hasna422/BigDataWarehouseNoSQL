@@ -1,0 +1,15 @@
+{
+    "order_id": 864762,
+    "client_id": 6405,
+    "produits": [
+        {
+            "produit_id": "P4089",
+            "nom": "Unbranded Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 222.99
+        }
+    ],
+    "date_commande": "2024-05-22T08:58:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

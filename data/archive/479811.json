@@ -1,0 +1,21 @@
+{
+    "order_id": 479811,
+    "client_id": 3669,
+    "produits": [
+        {
+            "produit_id": "P5196",
+            "nom": "Intelligent Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 195.52
+        },
+        {
+            "produit_id": "P5473",
+            "nom": "Tasty Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 86.42
+        }
+    ],
+    "date_commande": "2023-09-25T09:28:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

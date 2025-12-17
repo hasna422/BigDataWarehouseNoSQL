@@ -1,0 +1,19 @@
+{
+    "order_id": 628744,
+    "client_id": 4780,
+    "produits": [
+        {
+            "produit_id": "P1477",
+            "nom": "New Cotton Computer",
+            "quantite": 1,
+            "prix_unitaire": 274.44
+        }
+    ],
+    "date_commande": "2025-01-23T01:05:18",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "457 Sonoma",
+        "ville": "Tulsa"
+    }
+}

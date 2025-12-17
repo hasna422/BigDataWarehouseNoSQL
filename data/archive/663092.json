@@ -1,0 +1,21 @@
+{
+    "order_id": 663092,
+    "client_id": 6594,
+    "produits": [
+        {
+            "produit_id": "P3591",
+            "nom": "Gorgeous Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 212.09
+        },
+        {
+            "produit_id": "P1536",
+            "nom": "Licensed Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 38.02
+        }
+    ],
+    "date_commande": "2024-11-24T21:24:26",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

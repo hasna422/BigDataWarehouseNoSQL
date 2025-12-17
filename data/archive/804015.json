@@ -1,0 +1,19 @@
+{
+    "order_id": 804015,
+    "client_id": 2260,
+    "produits": [
+        {
+            "produit_id": "P4081",
+            "nom": "Rustic Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 256.43
+        }
+    ],
+    "date_commande": "2023-07-21T00:49:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1072 Sixth",
+        "ville": "Hartford"
+    }
+}

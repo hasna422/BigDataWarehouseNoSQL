@@ -1,0 +1,21 @@
+{
+    "order_id": 921473,
+    "client_id": 6859,
+    "produits": [
+        {
+            "produit_id": "P2401",
+            "nom": "Practical Soft Salad",
+            "quantite": 2,
+            "prix_unitaire": 415.79
+        },
+        {
+            "produit_id": "P8346",
+            "nom": "Handmade Fresh Table",
+            "quantite": 4,
+            "prix_unitaire": 43.01
+        }
+    ],
+    "date_commande": "2025-05-22T19:45:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

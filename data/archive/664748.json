@@ -1,0 +1,27 @@
+{
+    "order_id": 664748,
+    "client_id": 8022,
+    "produits": [
+        {
+            "produit_id": "P0196",
+            "nom": "Gently Used Frozen Bacon",
+            "quantite": 3,
+            "prix_unitaire": 226.55
+        },
+        {
+            "produit_id": "P6168",
+            "nom": "Gently Used Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 120.68
+        },
+        {
+            "produit_id": "P8573",
+            "nom": "New Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 415.78
+        }
+    ],
+    "date_commande": "2024-07-28T14:43:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

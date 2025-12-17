@@ -1,0 +1,27 @@
+{
+    "order_id": 937073,
+    "client_id": 7496,
+    "produits": [
+        {
+            "produit_id": "P0931",
+            "nom": "Handcrafted Frozen Chips",
+            "quantite": 4,
+            "prix_unitaire": 86.01
+        },
+        {
+            "produit_id": "P3794",
+            "nom": "Rustic Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 457.04
+        },
+        {
+            "produit_id": "P9708",
+            "nom": "For repair Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 208.77
+        }
+    ],
+    "date_commande": "2025-05-23T04:12:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

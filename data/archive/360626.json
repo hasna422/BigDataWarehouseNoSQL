@@ -1,0 +1,25 @@
+{
+    "order_id": 360626,
+    "client_id": 5020,
+    "produits": [
+        {
+            "produit_id": "P0504",
+            "nom": "Ergonomic Cotton Fish",
+            "quantite": 3,
+            "prix_unitaire": 134.35
+        },
+        {
+            "produit_id": "P1479",
+            "nom": "Refined Soft Car",
+            "quantite": 3,
+            "prix_unitaire": 110.41
+        }
+    ],
+    "date_commande": "2024-12-14T02:11:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1173 Moore",
+        "ville": "Logansport"
+    }
+}

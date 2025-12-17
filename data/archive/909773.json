@@ -1,0 +1,19 @@
+{
+    "order_id": 909773,
+    "client_id": 9564,
+    "produits": [
+        {
+            "produit_id": "P6989",
+            "nom": "Practical Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 195.53
+        }
+    ],
+    "date_commande": "2024-12-15T03:10:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "498 Wanda",
+        "ville": "Oro Valley"
+    }
+}

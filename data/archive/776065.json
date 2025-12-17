@@ -1,0 +1,15 @@
+{
+    "order_id": 776065,
+    "client_id": 2703,
+    "produits": [
+        {
+            "produit_id": "P3440",
+            "nom": "Handcrafted Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 486.73
+        }
+    ],
+    "date_commande": "2023-07-31T11:23:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

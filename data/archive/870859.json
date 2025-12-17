@@ -1,0 +1,25 @@
+{
+    "order_id": 870859,
+    "client_id": 3857,
+    "produits": [
+        {
+            "produit_id": "P7384",
+            "nom": "Rustic Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 267.28
+        },
+        {
+            "produit_id": "P4266",
+            "nom": "Gently Used Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 317.25
+        }
+    ],
+    "date_commande": "2023-07-03T08:21:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "645 Blandy",
+        "ville": "Bridgeton"
+    }
+}

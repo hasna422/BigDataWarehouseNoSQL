@@ -1,0 +1,31 @@
+{
+    "order_id": 704713,
+    "client_id": 7717,
+    "produits": [
+        {
+            "produit_id": "P1524",
+            "nom": "Small Granite Bike",
+            "quantite": 3,
+            "prix_unitaire": 90.84
+        },
+        {
+            "produit_id": "P0321",
+            "nom": "Ergonomic Frozen Pants",
+            "quantite": 3,
+            "prix_unitaire": 315.92
+        },
+        {
+            "produit_id": "P3114",
+            "nom": "Rustic Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 452.71
+        }
+    ],
+    "date_commande": "2025-02-20T00:54:27",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "812 Woodward",
+        "ville": "Brawley"
+    }
+}

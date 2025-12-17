@@ -1,0 +1,27 @@
+{
+    "order_id": 277306,
+    "client_id": 1221,
+    "produits": [
+        {
+            "produit_id": "P9144",
+            "nom": "Used Granite Ball",
+            "quantite": 4,
+            "prix_unitaire": 380.29
+        },
+        {
+            "produit_id": "P9582",
+            "nom": "Fantastic Steel Mouse",
+            "quantite": 3,
+            "prix_unitaire": 446.31
+        },
+        {
+            "produit_id": "P4561",
+            "nom": "New Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 71.06
+        }
+    ],
+    "date_commande": "2023-07-27T08:12:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

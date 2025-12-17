@@ -1,0 +1,15 @@
+{
+    "order_id": 377310,
+    "client_id": 7320,
+    "produits": [
+        {
+            "produit_id": "P7204",
+            "nom": "Generic Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 113.07
+        }
+    ],
+    "date_commande": "2025-02-16T09:37:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

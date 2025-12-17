@@ -1,0 +1,31 @@
+{
+    "order_id": 571607,
+    "client_id": 8016,
+    "produits": [
+        {
+            "produit_id": "P6724",
+            "nom": "Practical Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 446.5
+        },
+        {
+            "produit_id": "P1338",
+            "nom": "Handcrafted Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 118.57
+        },
+        {
+            "produit_id": "P9746",
+            "nom": "Handcrafted Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 251.47
+        }
+    ],
+    "date_commande": "2024-06-17T21:57:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1014 Monument",
+        "ville": "Elizabethtown"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 202309,
+    "client_id": 7233,
+    "produits": [
+        {
+            "produit_id": "P9329",
+            "nom": "Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 220.15
+        },
+        {
+            "produit_id": "P2758",
+            "nom": "Rustic Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 27.73
+        },
+        {
+            "produit_id": "P3082",
+            "nom": "Gently Used Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 99.49
+        }
+    ],
+    "date_commande": "2024-12-05T05:03:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "696 Ashton",
+        "ville": "Phoenix"
+    }
+}

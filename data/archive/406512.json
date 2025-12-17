@@ -1,0 +1,19 @@
+{
+    "order_id": 406512,
+    "client_id": 9033,
+    "produits": [
+        {
+            "produit_id": "P9194",
+            "nom": "Handmade Concrete Pizza",
+            "quantite": 5,
+            "prix_unitaire": 185.12
+        }
+    ],
+    "date_commande": "2023-06-25T18:40:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1322 Los Palmos",
+        "ville": "Muskego"
+    }
+}

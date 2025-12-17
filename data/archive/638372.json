@@ -1,0 +1,31 @@
+{
+    "order_id": 638372,
+    "client_id": 9372,
+    "produits": [
+        {
+            "produit_id": "P5198",
+            "nom": "Ergonomic Rubber Tuna",
+            "quantite": 5,
+            "prix_unitaire": 233.51
+        },
+        {
+            "produit_id": "P0087",
+            "nom": "Licensed Gloves",
+            "quantite": 3,
+            "prix_unitaire": 41.34
+        },
+        {
+            "produit_id": "P4699",
+            "nom": "Plastic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 270.44
+        }
+    ],
+    "date_commande": "2024-08-03T14:11:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1128 Wallen",
+        "ville": "North Royalton"
+    }
+}

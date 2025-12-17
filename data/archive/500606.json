@@ -1,0 +1,21 @@
+{
+    "order_id": 500606,
+    "client_id": 6823,
+    "produits": [
+        {
+            "produit_id": "P5204",
+            "nom": "Fresh Chicken",
+            "quantite": 4,
+            "prix_unitaire": 144.39
+        },
+        {
+            "produit_id": "P1106",
+            "nom": "Licensed Tuna",
+            "quantite": 5,
+            "prix_unitaire": 175.87
+        }
+    ],
+    "date_commande": "2024-11-04T05:40:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

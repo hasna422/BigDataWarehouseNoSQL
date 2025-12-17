@@ -1,0 +1,27 @@
+{
+    "order_id": 918113,
+    "client_id": 9363,
+    "produits": [
+        {
+            "produit_id": "P0002",
+            "nom": "Gently Used Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 417.25
+        },
+        {
+            "produit_id": "P7375",
+            "nom": "Handcrafted Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 280.74
+        },
+        {
+            "produit_id": "P0716",
+            "nom": "Intelligent Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 328.71
+        }
+    ],
+    "date_commande": "2025-01-24T22:28:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

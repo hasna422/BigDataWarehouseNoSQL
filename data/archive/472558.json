@@ -1,0 +1,19 @@
+{
+    "order_id": 472558,
+    "client_id": 8047,
+    "produits": [
+        {
+            "produit_id": "P9895",
+            "nom": "Incredible Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 27.16
+        }
+    ],
+    "date_commande": "2023-10-18T07:35:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1249 Delancey",
+        "ville": "Talladega"
+    }
+}

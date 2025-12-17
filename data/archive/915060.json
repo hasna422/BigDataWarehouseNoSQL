@@ -1,0 +1,27 @@
+{
+    "order_id": 915060,
+    "client_id": 3199,
+    "produits": [
+        {
+            "produit_id": "P8648",
+            "nom": "New Steel Table",
+            "quantite": 4,
+            "prix_unitaire": 355.19
+        },
+        {
+            "produit_id": "P3683",
+            "nom": "For repair Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 420.77
+        },
+        {
+            "produit_id": "P8743",
+            "nom": "Licensed Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 156.81
+        }
+    ],
+    "date_commande": "2024-05-19T15:17:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

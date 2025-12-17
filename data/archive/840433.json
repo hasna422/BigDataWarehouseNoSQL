@@ -1,0 +1,31 @@
+{
+    "order_id": 840433,
+    "client_id": 8937,
+    "produits": [
+        {
+            "produit_id": "P3829",
+            "nom": "Tasty Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 358.36
+        },
+        {
+            "produit_id": "P1839",
+            "nom": "Fantastic Cotton Ball",
+            "quantite": 4,
+            "prix_unitaire": 22.41
+        },
+        {
+            "produit_id": "P2911",
+            "nom": "Incredible Plastic Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 495.7
+        }
+    ],
+    "date_commande": "2023-08-19T09:46:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "620 Crown",
+        "ville": "Menlo Park"
+    }
+}

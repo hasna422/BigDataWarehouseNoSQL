@@ -1,0 +1,25 @@
+{
+    "order_id": 223263,
+    "client_id": 6707,
+    "produits": [
+        {
+            "produit_id": "P3170",
+            "nom": "Small Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 380.49
+        },
+        {
+            "produit_id": "P2841",
+            "nom": "Handcrafted Cotton Bacon",
+            "quantite": 3,
+            "prix_unitaire": 78.53
+        }
+    ],
+    "date_commande": "2024-12-09T08:13:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "565 Girard",
+        "ville": "Haltom City"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 770425,
+    "client_id": 4399,
+    "produits": [
+        {
+            "produit_id": "P6484",
+            "nom": "Awesome Table",
+            "quantite": 1,
+            "prix_unitaire": 200.97
+        },
+        {
+            "produit_id": "P1043",
+            "nom": "Unbranded Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 335.61
+        },
+        {
+            "produit_id": "P0650",
+            "nom": "For repair Granite Bacon",
+            "quantite": 1,
+            "prix_unitaire": 28.26
+        }
+    ],
+    "date_commande": "2025-04-21T08:36:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

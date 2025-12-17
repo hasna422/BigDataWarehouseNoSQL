@@ -1,0 +1,25 @@
+{
+    "order_id": 837447,
+    "client_id": 2432,
+    "produits": [
+        {
+            "produit_id": "P6069",
+            "nom": "Used Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 190.98
+        },
+        {
+            "produit_id": "P8610",
+            "nom": "Practical Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 163.11
+        }
+    ],
+    "date_commande": "2024-05-05T10:56:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "154 Iron",
+        "ville": "Hinesville"
+    }
+}

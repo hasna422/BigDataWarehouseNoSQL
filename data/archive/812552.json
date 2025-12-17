@@ -1,0 +1,15 @@
+{
+    "order_id": 812552,
+    "client_id": 2895,
+    "produits": [
+        {
+            "produit_id": "P9982",
+            "nom": "Unbranded Gloves",
+            "quantite": 5,
+            "prix_unitaire": 41.18
+        }
+    ],
+    "date_commande": "2023-07-23T13:52:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

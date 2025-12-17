@@ -1,0 +1,19 @@
+{
+    "order_id": 692158,
+    "client_id": 8013,
+    "produits": [
+        {
+            "produit_id": "P3704",
+            "nom": "Licensed Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 341.26
+        }
+    ],
+    "date_commande": "2024-06-07T21:54:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "599 Yale",
+        "ville": "League City"
+    }
+}

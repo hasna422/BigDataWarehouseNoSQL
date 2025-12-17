@@ -1,0 +1,21 @@
+{
+    "order_id": 572352,
+    "client_id": 2045,
+    "produits": [
+        {
+            "produit_id": "P3147",
+            "nom": "Handmade Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 190.73
+        },
+        {
+            "produit_id": "P0407",
+            "nom": "Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 44.46
+        }
+    ],
+    "date_commande": "2023-11-18T08:24:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

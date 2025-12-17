@@ -1,0 +1,19 @@
+{
+    "order_id": 689058,
+    "client_id": 2795,
+    "produits": [
+        {
+            "produit_id": "P7233",
+            "nom": "New Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 175.2
+        }
+    ],
+    "date_commande": "2025-05-24T04:11:13",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "350 Revere",
+        "ville": "Parma Heights"
+    }
+}

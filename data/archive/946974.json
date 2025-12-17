@@ -1,0 +1,19 @@
+{
+    "order_id": 946974,
+    "client_id": 8610,
+    "produits": [
+        {
+            "produit_id": "P5050",
+            "nom": "Awesome Cotton Bacon",
+            "quantite": 5,
+            "prix_unitaire": 254.06
+        }
+    ],
+    "date_commande": "2023-08-18T10:51:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1386 Marview",
+        "ville": "Greenacres"
+    }
+}

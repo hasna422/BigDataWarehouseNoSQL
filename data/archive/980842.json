@@ -1,0 +1,15 @@
+{
+    "order_id": 980842,
+    "client_id": 7009,
+    "produits": [
+        {
+            "produit_id": "P7993",
+            "nom": "Sleek Fresh Bike",
+            "quantite": 3,
+            "prix_unitaire": 326.82
+        }
+    ],
+    "date_commande": "2024-02-01T16:41:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

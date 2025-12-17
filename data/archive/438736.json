@@ -1,0 +1,27 @@
+{
+    "order_id": 438736,
+    "client_id": 3779,
+    "produits": [
+        {
+            "produit_id": "P5412",
+            "nom": "Gently Used Wooden Towels",
+            "quantite": 3,
+            "prix_unitaire": 25.86
+        },
+        {
+            "produit_id": "P6668",
+            "nom": "For repair Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 420.02
+        },
+        {
+            "produit_id": "P1737",
+            "nom": "Generic Metal Shirt",
+            "quantite": 3,
+            "prix_unitaire": 365.95
+        }
+    ],
+    "date_commande": "2025-04-08T01:29:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

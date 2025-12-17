@@ -1,0 +1,25 @@
+{
+    "order_id": 220704,
+    "client_id": 8593,
+    "produits": [
+        {
+            "produit_id": "P4872",
+            "nom": "Gorgeous Soft Salad",
+            "quantite": 2,
+            "prix_unitaire": 264.6
+        },
+        {
+            "produit_id": "P5439",
+            "nom": "Practical Metal Gloves",
+            "quantite": 5,
+            "prix_unitaire": 134.84
+        }
+    ],
+    "date_commande": "2025-03-17T16:11:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "232 Ames",
+        "ville": "Goodlettsville"
+    }
+}

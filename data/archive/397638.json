@@ -1,0 +1,19 @@
+{
+    "order_id": 397638,
+    "client_id": 7736,
+    "produits": [
+        {
+            "produit_id": "P7875",
+            "nom": "Licensed Fish",
+            "quantite": 4,
+            "prix_unitaire": 48.35
+        }
+    ],
+    "date_commande": "2024-09-04T08:43:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "202 Wright",
+        "ville": "Wisconsin Rapids"
+    }
+}

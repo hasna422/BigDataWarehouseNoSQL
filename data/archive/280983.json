@@ -1,0 +1,31 @@
+{
+    "order_id": 280983,
+    "client_id": 8472,
+    "produits": [
+        {
+            "produit_id": "P6197",
+            "nom": "Gorgeous Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 84.79
+        },
+        {
+            "produit_id": "P0608",
+            "nom": "Refined Fresh Towels",
+            "quantite": 2,
+            "prix_unitaire": 121.95
+        },
+        {
+            "produit_id": "P6949",
+            "nom": "Intelligent Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 269.7
+        }
+    ],
+    "date_commande": "2024-02-15T00:45:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "482 Cielito",
+        "ville": "Killeen"
+    }
+}

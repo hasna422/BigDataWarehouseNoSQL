@@ -9,17 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Données
-data/sources/
-data/archive/
-*.csv
-*.json
-*.xlsx
-
-# Power BI
-*.pbix
-*.pbit
-
 # VS Code
 .vscode/
 

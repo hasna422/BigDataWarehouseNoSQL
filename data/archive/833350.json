@@ -1,0 +1,27 @@
+{
+    "order_id": 833350,
+    "client_id": 9686,
+    "produits": [
+        {
+            "produit_id": "P6719",
+            "nom": "Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 217.59
+        },
+        {
+            "produit_id": "P7881",
+            "nom": "Rubber Pizza",
+            "quantite": 1,
+            "prix_unitaire": 482.97
+        },
+        {
+            "produit_id": "P2700",
+            "nom": "Refined Steel Bike",
+            "quantite": 5,
+            "prix_unitaire": 487.67
+        }
+    ],
+    "date_commande": "2024-03-05T03:26:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

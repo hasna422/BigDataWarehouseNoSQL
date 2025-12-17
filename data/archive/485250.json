@@ -1,0 +1,19 @@
+{
+    "order_id": 485250,
+    "client_id": 1742,
+    "produits": [
+        {
+            "produit_id": "P2172",
+            "nom": "Unbranded Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 420.2
+        }
+    ],
+    "date_commande": "2024-02-05T10:54:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "615 Petrarch",
+        "ville": "Appleton"
+    }
+}

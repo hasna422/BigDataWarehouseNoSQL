@@ -1,0 +1,15 @@
+{
+    "order_id": 776071,
+    "client_id": 8431,
+    "produits": [
+        {
+            "produit_id": "P9864",
+            "nom": "Generic Chips",
+            "quantite": 5,
+            "prix_unitaire": 427.06
+        }
+    ],
+    "date_commande": "2023-12-08T21:42:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 442096,
+    "client_id": 6614,
+    "produits": [
+        {
+            "produit_id": "P7869",
+            "nom": "New Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 428.51
+        },
+        {
+            "produit_id": "P5290",
+            "nom": "New Fresh Towels",
+            "quantite": 3,
+            "prix_unitaire": 213.26
+        }
+    ],
+    "date_commande": "2023-06-21T10:06:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "451 Gellert",
+        "ville": "Homewood"
+    }
+}

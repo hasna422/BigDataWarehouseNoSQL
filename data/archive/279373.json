@@ -1,0 +1,21 @@
+{
+    "order_id": 279373,
+    "client_id": 5917,
+    "produits": [
+        {
+            "produit_id": "P2555",
+            "nom": "Handcrafted Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 486.71
+        },
+        {
+            "produit_id": "P6150",
+            "nom": "Intelligent Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 28.08
+        }
+    ],
+    "date_commande": "2025-04-02T13:48:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

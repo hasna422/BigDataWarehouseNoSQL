@@ -1,0 +1,25 @@
+{
+    "order_id": 913172,
+    "client_id": 3773,
+    "produits": [
+        {
+            "produit_id": "P2038",
+            "nom": "Gorgeous Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 382.41
+        },
+        {
+            "produit_id": "P6249",
+            "nom": "New Frozen Gloves",
+            "quantite": 2,
+            "prix_unitaire": 213.63
+        }
+    ],
+    "date_commande": "2024-01-17T21:56:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "612 Kendall",
+        "ville": "Hobart"
+    }
+}

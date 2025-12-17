@@ -1,0 +1,25 @@
+{
+    "order_id": 673795,
+    "client_id": 5052,
+    "produits": [
+        {
+            "produit_id": "P7517",
+            "nom": "Awesome Frozen Hat",
+            "quantite": 5,
+            "prix_unitaire": 338.57
+        },
+        {
+            "produit_id": "P5633",
+            "nom": "Handcrafted Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 54.0
+        }
+    ],
+    "date_commande": "2023-09-24T01:24:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "405 Magellan",
+        "ville": "Mount Juliet"
+    }
+}

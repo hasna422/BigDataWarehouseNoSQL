@@ -1,0 +1,31 @@
+{
+    "order_id": 427374,
+    "client_id": 3049,
+    "produits": [
+        {
+            "produit_id": "P9618",
+            "nom": "Intelligent Chair",
+            "quantite": 3,
+            "prix_unitaire": 343.79
+        },
+        {
+            "produit_id": "P4242",
+            "nom": "Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 237.39
+        },
+        {
+            "produit_id": "P8215",
+            "nom": "Handmade Cheese",
+            "quantite": 1,
+            "prix_unitaire": 291.55
+        }
+    ],
+    "date_commande": "2023-11-07T21:46:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "888 Hermann",
+        "ville": "Sacramento"
+    }
+}

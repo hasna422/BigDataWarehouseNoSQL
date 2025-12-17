@@ -1,0 +1,25 @@
+{
+    "order_id": 114196,
+    "client_id": 9227,
+    "produits": [
+        {
+            "produit_id": "P6494",
+            "nom": "Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 144.99
+        },
+        {
+            "produit_id": "P8666",
+            "nom": "Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 164.22
+        }
+    ],
+    "date_commande": "2023-06-27T15:03:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "923 Jeopardy",
+        "ville": "Sand Springs"
+    }
+}

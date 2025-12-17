@@ -1,0 +1,31 @@
+{
+    "order_id": 103588,
+    "client_id": 8336,
+    "produits": [
+        {
+            "produit_id": "P3720",
+            "nom": "Intelligent Plastic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 250.29
+        },
+        {
+            "produit_id": "P4973",
+            "nom": "Handmade Fresh Fish",
+            "quantite": 5,
+            "prix_unitaire": 208.19
+        },
+        {
+            "produit_id": "P2807",
+            "nom": "Incredible Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 413.03
+        }
+    ],
+    "date_commande": "2024-06-14T19:22:27",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1325 Jack Balestreri",
+        "ville": "Sandy"
+    }
+}

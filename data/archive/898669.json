@@ -1,0 +1,27 @@
+{
+    "order_id": 898669,
+    "client_id": 8946,
+    "produits": [
+        {
+            "produit_id": "P4752",
+            "nom": "Intelligent Metal Hat",
+            "quantite": 1,
+            "prix_unitaire": 134.92
+        },
+        {
+            "produit_id": "P7546",
+            "nom": "Handmade Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 215.25
+        },
+        {
+            "produit_id": "P7683",
+            "nom": "Awesome Plastic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 496.37
+        }
+    ],
+    "date_commande": "2023-10-01T06:59:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

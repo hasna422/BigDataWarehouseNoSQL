@@ -1,0 +1,19 @@
+{
+    "order_id": 446637,
+    "client_id": 4440,
+    "produits": [
+        {
+            "produit_id": "P2228",
+            "nom": "Refined Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 297.24
+        }
+    ],
+    "date_commande": "2025-04-18T17:36:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "513 Summit",
+        "ville": "Annapolis"
+    }
+}

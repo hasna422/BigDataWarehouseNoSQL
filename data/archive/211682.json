@@ -1,0 +1,25 @@
+{
+    "order_id": 211682,
+    "client_id": 2780,
+    "produits": [
+        {
+            "produit_id": "P4719",
+            "nom": "Gently Used Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 354.11
+        },
+        {
+            "produit_id": "P4303",
+            "nom": "Handmade Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 398.92
+        }
+    ],
+    "date_commande": "2025-03-04T19:19:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1354 Stag Trail",
+        "ville": "Apache Junction"
+    }
+}

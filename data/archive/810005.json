@@ -1,0 +1,25 @@
+{
+    "order_id": 810005,
+    "client_id": 8370,
+    "produits": [
+        {
+            "produit_id": "P4238",
+            "nom": "Intelligent Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 324.93
+        },
+        {
+            "produit_id": "P5651",
+            "nom": "Refined Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 80.53
+        }
+    ],
+    "date_commande": "2024-05-16T23:07:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "687 Recycle",
+        "ville": "Corsicana"
+    }
+}

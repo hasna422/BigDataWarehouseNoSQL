@@ -1,0 +1,27 @@
+{
+    "order_id": 665469,
+    "client_id": 6564,
+    "produits": [
+        {
+            "produit_id": "P9719",
+            "nom": "Sleek Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 131.58
+        },
+        {
+            "produit_id": "P3102",
+            "nom": "Licensed Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 468.59
+        },
+        {
+            "produit_id": "P5546",
+            "nom": "Tasty Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 474.49
+        }
+    ],
+    "date_commande": "2024-10-02T01:10:36",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 659652,
+    "client_id": 1269,
+    "produits": [
+        {
+            "produit_id": "P7913",
+            "nom": "New Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 93.82
+        }
+    ],
+    "date_commande": "2024-03-11T06:59:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "808 Bannock",
+        "ville": "Bethany"
+    }
+}

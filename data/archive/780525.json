@@ -1,0 +1,27 @@
+{
+    "order_id": 780525,
+    "client_id": 7241,
+    "produits": [
+        {
+            "produit_id": "P0286",
+            "nom": "Fantastic Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 126.02
+        },
+        {
+            "produit_id": "P6589",
+            "nom": "Wooden Soap",
+            "quantite": 3,
+            "prix_unitaire": 277.6
+        },
+        {
+            "produit_id": "P6672",
+            "nom": "Refined Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 272.33
+        }
+    ],
+    "date_commande": "2025-03-22T08:11:08",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

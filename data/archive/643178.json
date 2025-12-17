@@ -1,0 +1,19 @@
+{
+    "order_id": 643178,
+    "client_id": 5846,
+    "produits": [
+        {
+            "produit_id": "P0808",
+            "nom": "Licensed Salad",
+            "quantite": 1,
+            "prix_unitaire": 388.37
+        }
+    ],
+    "date_commande": "2025-04-21T19:18:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "69 Jose Sarria",
+        "ville": "Crown Point"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 753733,
+    "client_id": 8308,
+    "produits": [
+        {
+            "produit_id": "P1476",
+            "nom": "Gently Used Fresh Bike",
+            "quantite": 1,
+            "prix_unitaire": 147.01
+        }
+    ],
+    "date_commande": "2023-10-23T08:58:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "242 Russian Hill",
+        "ville": "Santa Ana"
+    }
+}

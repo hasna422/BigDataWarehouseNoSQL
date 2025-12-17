@@ -1,0 +1,15 @@
+{
+    "order_id": 140403,
+    "client_id": 2845,
+    "produits": [
+        {
+            "produit_id": "P9067",
+            "nom": "Rustic Cotton Shoes",
+            "quantite": 3,
+            "prix_unitaire": 461.22
+        }
+    ],
+    "date_commande": "2023-09-19T06:17:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

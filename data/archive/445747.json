@@ -1,0 +1,25 @@
+{
+    "order_id": 445747,
+    "client_id": 1542,
+    "produits": [
+        {
+            "produit_id": "P3214",
+            "nom": "Licensed Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 301.55
+        },
+        {
+            "produit_id": "P9273",
+            "nom": "Rustic Ball",
+            "quantite": 4,
+            "prix_unitaire": 125.21
+        }
+    ],
+    "date_commande": "2024-10-24T21:21:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "970 Mason",
+        "ville": "St. Joseph"
+    }
+}

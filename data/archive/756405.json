@@ -1,0 +1,19 @@
+{
+    "order_id": 756405,
+    "client_id": 4954,
+    "produits": [
+        {
+            "produit_id": "P0668",
+            "nom": "Awesome Wooden Pizza",
+            "quantite": 4,
+            "prix_unitaire": 271.45
+        }
+    ],
+    "date_commande": "2025-05-11T07:38:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "832 D",
+        "ville": "North Little Rock"
+    }
+}

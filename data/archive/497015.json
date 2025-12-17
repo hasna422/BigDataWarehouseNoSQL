@@ -1,0 +1,19 @@
+{
+    "order_id": 497015,
+    "client_id": 8032,
+    "produits": [
+        {
+            "produit_id": "P4615",
+            "nom": "Incredible Soft Bike",
+            "quantite": 1,
+            "prix_unitaire": 422.33
+        }
+    ],
+    "date_commande": "2024-01-21T04:30:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "972 Aerial",
+        "ville": "Plant City"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 754381,
+    "client_id": 2147,
+    "produits": [
+        {
+            "produit_id": "P9678",
+            "nom": "Fantastic Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 148.78
+        },
+        {
+            "produit_id": "P8370",
+            "nom": "For repair Plastic Chair",
+            "quantite": 4,
+            "prix_unitaire": 178.03
+        }
+    ],
+    "date_commande": "2023-10-16T04:18:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "244 Service",
+        "ville": "Redondo Beach"
+    }
+}

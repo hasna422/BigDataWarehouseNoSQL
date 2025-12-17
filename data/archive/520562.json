@@ -1,0 +1,25 @@
+{
+    "order_id": 520562,
+    "client_id": 7798,
+    "produits": [
+        {
+            "produit_id": "P5766",
+            "nom": "Practical Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 63.25
+        },
+        {
+            "produit_id": "P0304",
+            "nom": "Handmade Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 231.08
+        }
+    ],
+    "date_commande": "2023-08-30T17:32:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1078 Crestlake",
+        "ville": "Tyler"
+    }
+}

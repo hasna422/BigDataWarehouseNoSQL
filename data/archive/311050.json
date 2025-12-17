@@ -1,0 +1,19 @@
+{
+    "order_id": 311050,
+    "client_id": 2221,
+    "produits": [
+        {
+            "produit_id": "P4246",
+            "nom": "Fantastic Cotton Pizza",
+            "quantite": 3,
+            "prix_unitaire": 99.41
+        }
+    ],
+    "date_commande": "2023-06-01T21:46:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1333 Prescott",
+        "ville": "Poughkeepsie"
+    }
+}

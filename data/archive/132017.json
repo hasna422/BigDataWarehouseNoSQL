@@ -1,0 +1,15 @@
+{
+    "order_id": 132017,
+    "client_id": 1945,
+    "produits": [
+        {
+            "produit_id": "P6120",
+            "nom": "Incredible Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 140.93
+        }
+    ],
+    "date_commande": "2024-12-27T18:16:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 227043,
+    "client_id": 1965,
+    "produits": [
+        {
+            "produit_id": "P3571",
+            "nom": "Plastic Chips",
+            "quantite": 4,
+            "prix_unitaire": 326.46
+        },
+        {
+            "produit_id": "P9272",
+            "nom": "Small Frozen Gloves",
+            "quantite": 1,
+            "prix_unitaire": 456.21
+        }
+    ],
+    "date_commande": "2024-02-03T19:18:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "292 Fallon",
+        "ville": "St. Peters"
+    }
+}

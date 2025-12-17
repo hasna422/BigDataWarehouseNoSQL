@@ -1,0 +1,21 @@
+{
+    "order_id": 420733,
+    "client_id": 5934,
+    "produits": [
+        {
+            "produit_id": "P5871",
+            "nom": "Rustic Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 31.15
+        },
+        {
+            "produit_id": "P0134",
+            "nom": "Practical Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 397.71
+        }
+    ],
+    "date_commande": "2024-09-01T16:48:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

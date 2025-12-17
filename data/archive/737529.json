@@ -1,0 +1,21 @@
+{
+    "order_id": 737529,
+    "client_id": 3665,
+    "produits": [
+        {
+            "produit_id": "P9996",
+            "nom": "Licensed Soft Bacon",
+            "quantite": 5,
+            "prix_unitaire": 464.18
+        },
+        {
+            "produit_id": "P6991",
+            "nom": "Used Cotton Chair",
+            "quantite": 5,
+            "prix_unitaire": 261.05
+        }
+    ],
+    "date_commande": "2025-04-04T18:45:31",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

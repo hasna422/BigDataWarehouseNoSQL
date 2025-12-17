@@ -1,0 +1,27 @@
+{
+    "order_id": 786635,
+    "client_id": 5059,
+    "produits": [
+        {
+            "produit_id": "P5374",
+            "nom": "Incredible Table",
+            "quantite": 5,
+            "prix_unitaire": 44.38
+        },
+        {
+            "produit_id": "P8486",
+            "nom": "Sleek Rubber Gloves",
+            "quantite": 2,
+            "prix_unitaire": 72.69
+        },
+        {
+            "produit_id": "P8321",
+            "nom": "Fantastic Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 273.44
+        }
+    ],
+    "date_commande": "2023-05-31T13:25:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

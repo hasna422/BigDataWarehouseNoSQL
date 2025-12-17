@@ -1,0 +1,21 @@
+{
+    "order_id": 123897,
+    "client_id": 3833,
+    "produits": [
+        {
+            "produit_id": "P0528",
+            "nom": "Handcrafted Rubber Car",
+            "quantite": 5,
+            "prix_unitaire": 414.07
+        },
+        {
+            "produit_id": "P0266",
+            "nom": "Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 455.5
+        }
+    ],
+    "date_commande": "2023-09-09T23:28:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

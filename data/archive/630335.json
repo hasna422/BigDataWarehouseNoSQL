@@ -1,0 +1,21 @@
+{
+    "order_id": 630335,
+    "client_id": 1844,
+    "produits": [
+        {
+            "produit_id": "P7449",
+            "nom": "Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 410.51
+        },
+        {
+            "produit_id": "P7550",
+            "nom": "Small Rubber Bacon",
+            "quantite": 4,
+            "prix_unitaire": 51.14
+        }
+    ],
+    "date_commande": "2024-03-08T01:29:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

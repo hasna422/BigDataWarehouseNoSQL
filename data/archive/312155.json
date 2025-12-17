@@ -1,0 +1,19 @@
+{
+    "order_id": 312155,
+    "client_id": 6123,
+    "produits": [
+        {
+            "produit_id": "P5426",
+            "nom": "For repair Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 179.74
+        }
+    ],
+    "date_commande": "2024-05-31T05:44:38",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1167 Germania",
+        "ville": "Palm Coast"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 308282,
+    "client_id": 6001,
+    "produits": [
+        {
+            "produit_id": "P0901",
+            "nom": "Ergonomic Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 129.46
+        },
+        {
+            "produit_id": "P1633",
+            "nom": "Handcrafted Fresh Gloves",
+            "quantite": 2,
+            "prix_unitaire": 310.93
+        }
+    ],
+    "date_commande": "2023-09-06T02:44:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "823 Rex",
+        "ville": "La Mesa"
+    }
+}

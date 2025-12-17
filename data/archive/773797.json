@@ -1,0 +1,21 @@
+{
+    "order_id": 773797,
+    "client_id": 8811,
+    "produits": [
+        {
+            "produit_id": "P6326",
+            "nom": "New Computer",
+            "quantite": 1,
+            "prix_unitaire": 337.71
+        },
+        {
+            "produit_id": "P6330",
+            "nom": "New Bacon",
+            "quantite": 2,
+            "prix_unitaire": 24.59
+        }
+    ],
+    "date_commande": "2024-05-26T11:47:29",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 975291,
+    "client_id": 8959,
+    "produits": [
+        {
+            "produit_id": "P2911",
+            "nom": "Practical Pizza",
+            "quantite": 3,
+            "prix_unitaire": 182.98
+        },
+        {
+            "produit_id": "P8130",
+            "nom": "Steel Mouse",
+            "quantite": 1,
+            "prix_unitaire": 327.97
+        }
+    ],
+    "date_commande": "2024-12-02T12:47:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

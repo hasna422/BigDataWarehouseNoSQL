@@ -1,0 +1,15 @@
+{
+    "order_id": 905235,
+    "client_id": 5606,
+    "produits": [
+        {
+            "produit_id": "P5827",
+            "nom": "Used Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 166.8
+        }
+    ],
+    "date_commande": "2025-05-18T20:04:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

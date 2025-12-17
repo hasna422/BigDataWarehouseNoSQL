@@ -1,0 +1,19 @@
+{
+    "order_id": 330674,
+    "client_id": 6795,
+    "produits": [
+        {
+            "produit_id": "P5628",
+            "nom": "Gorgeous Steel Mouse",
+            "quantite": 1,
+            "prix_unitaire": 140.73
+        }
+    ],
+    "date_commande": "2023-12-19T19:25:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1047 Ross",
+        "ville": "Shakopee"
+    }
+}

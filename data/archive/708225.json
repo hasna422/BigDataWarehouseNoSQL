@@ -1,0 +1,15 @@
+{
+    "order_id": 708225,
+    "client_id": 3737,
+    "produits": [
+        {
+            "produit_id": "P9858",
+            "nom": "Sleek Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 338.64
+        }
+    ],
+    "date_commande": "2024-08-13T15:15:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

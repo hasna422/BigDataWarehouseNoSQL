@@ -1,0 +1,31 @@
+{
+    "order_id": 567373,
+    "client_id": 4865,
+    "produits": [
+        {
+            "produit_id": "P3492",
+            "nom": "Gently Used Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 9.58
+        },
+        {
+            "produit_id": "P9409",
+            "nom": "Sleek Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 108.66
+        },
+        {
+            "produit_id": "P8195",
+            "nom": "Gently Used Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 103.67
+        }
+    ],
+    "date_commande": "2025-01-02T20:26:21",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1394 Beaumont",
+        "ville": "New Britain"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 282639,
+    "client_id": 9681,
+    "produits": [
+        {
+            "produit_id": "P0712",
+            "nom": "Tasty Plastic Soap",
+            "quantite": 3,
+            "prix_unitaire": 346.07
+        }
+    ],
+    "date_commande": "2024-05-30T04:26:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

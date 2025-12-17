@@ -1,0 +1,21 @@
+{
+    "order_id": 294364,
+    "client_id": 7952,
+    "produits": [
+        {
+            "produit_id": "P1604",
+            "nom": "Refined Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 277.57
+        },
+        {
+            "produit_id": "P7738",
+            "nom": "Rustic Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 462.74
+        }
+    ],
+    "date_commande": "2025-04-19T14:53:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

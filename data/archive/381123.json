@@ -1,0 +1,19 @@
+{
+    "order_id": 381123,
+    "client_id": 1587,
+    "produits": [
+        {
+            "produit_id": "P3331",
+            "nom": "Fantastic Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 232.3
+        }
+    ],
+    "date_commande": "2024-07-03T16:10:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "387 Vinton",
+        "ville": "Riviera Beach"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 970447,
+    "client_id": 7470,
+    "produits": [
+        {
+            "produit_id": "P7600",
+            "nom": "Gorgeous Soft Table",
+            "quantite": 3,
+            "prix_unitaire": 147.44
+        },
+        {
+            "produit_id": "P7019",
+            "nom": "Gently Used Soft Table",
+            "quantite": 4,
+            "prix_unitaire": 171.15
+        },
+        {
+            "produit_id": "P9156",
+            "nom": "Awesome Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 461.25
+        }
+    ],
+    "date_commande": "2023-10-09T21:39:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

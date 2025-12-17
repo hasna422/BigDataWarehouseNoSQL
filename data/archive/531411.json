@@ -1,0 +1,19 @@
+{
+    "order_id": 531411,
+    "client_id": 5960,
+    "produits": [
+        {
+            "produit_id": "P9771",
+            "nom": "Incredible Wooden Chicken",
+            "quantite": 1,
+            "prix_unitaire": 414.27
+        }
+    ],
+    "date_commande": "2025-02-22T07:02:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "892 Opalo",
+        "ville": "West Palm Beach"
+    }
+}

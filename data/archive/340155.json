@@ -1,0 +1,25 @@
+{
+    "order_id": 340155,
+    "client_id": 2259,
+    "produits": [
+        {
+            "produit_id": "P6636",
+            "nom": "Sleek Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 383.36
+        },
+        {
+            "produit_id": "P4503",
+            "nom": "For repair Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 309.14
+        }
+    ],
+    "date_commande": "2025-01-28T14:51:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "198 J",
+        "ville": "Flower Mound"
+    }
+}

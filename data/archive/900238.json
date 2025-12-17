@@ -1,0 +1,25 @@
+{
+    "order_id": 900238,
+    "client_id": 8368,
+    "produits": [
+        {
+            "produit_id": "P2264",
+            "nom": "Fantastic Concrete Pizza",
+            "quantite": 3,
+            "prix_unitaire": 73.82
+        },
+        {
+            "produit_id": "P3946",
+            "nom": "For repair Metal Pants",
+            "quantite": 5,
+            "prix_unitaire": 131.29
+        }
+    ],
+    "date_commande": "2024-07-26T19:56:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "760 Agnon",
+        "ville": "Friendswood"
+    }
+}

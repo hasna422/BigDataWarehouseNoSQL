@@ -1,0 +1,19 @@
+{
+    "order_id": 697759,
+    "client_id": 2422,
+    "produits": [
+        {
+            "produit_id": "P4396",
+            "nom": "Licensed Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 226.83
+        }
+    ],
+    "date_commande": "2025-04-18T14:06:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "87 Italy",
+        "ville": "Evansville"
+    }
+}

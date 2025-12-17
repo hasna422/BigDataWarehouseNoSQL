@@ -1,0 +1,19 @@
+{
+    "order_id": 876786,
+    "client_id": 6618,
+    "produits": [
+        {
+            "produit_id": "P4440",
+            "nom": "Handcrafted Metal Computer",
+            "quantite": 2,
+            "prix_unitaire": 442.99
+        }
+    ],
+    "date_commande": "2023-10-03T22:52:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "864 Robert C Levy",
+        "ville": "Waxahachie"
+    }
+}

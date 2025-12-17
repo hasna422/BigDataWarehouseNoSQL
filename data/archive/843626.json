@@ -1,0 +1,15 @@
+{
+    "order_id": 843626,
+    "client_id": 4745,
+    "produits": [
+        {
+            "produit_id": "P5472",
+            "nom": "Used Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 6.81
+        }
+    ],
+    "date_commande": "2025-01-27T01:28:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

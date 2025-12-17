@@ -1,0 +1,25 @@
+{
+    "order_id": 694492,
+    "client_id": 3796,
+    "produits": [
+        {
+            "produit_id": "P9806",
+            "nom": "Ergonomic Granite Mouse",
+            "quantite": 2,
+            "prix_unitaire": 40.75
+        },
+        {
+            "produit_id": "P8117",
+            "nom": "Gorgeous Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 454.96
+        }
+    ],
+    "date_commande": "2023-07-02T20:36:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1098 Bishop",
+        "ville": "Tulsa"
+    }
+}

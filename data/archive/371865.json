@@ -1,0 +1,15 @@
+{
+    "order_id": 371865,
+    "client_id": 3544,
+    "produits": [
+        {
+            "produit_id": "P2274",
+            "nom": "Unbranded Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 50.4
+        }
+    ],
+    "date_commande": "2025-03-11T19:12:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

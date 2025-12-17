@@ -1,0 +1,31 @@
+{
+    "order_id": 692341,
+    "client_id": 5633,
+    "produits": [
+        {
+            "produit_id": "P0691",
+            "nom": "Small Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 417.34
+        },
+        {
+            "produit_id": "P0155",
+            "nom": "Rustic Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 215.65
+        },
+        {
+            "produit_id": "P4763",
+            "nom": "Handmade Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 105.91
+        }
+    ],
+    "date_commande": "2024-03-29T22:05:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "312 Acacia",
+        "ville": "Inglewood"
+    }
+}

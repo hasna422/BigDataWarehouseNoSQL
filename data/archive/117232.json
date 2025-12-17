@@ -1,0 +1,25 @@
+{
+    "order_id": 117232,
+    "client_id": 8624,
+    "produits": [
+        {
+            "produit_id": "P1455",
+            "nom": "Incredible Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 495.19
+        },
+        {
+            "produit_id": "P1468",
+            "nom": "Incredible Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 280.64
+        }
+    ],
+    "date_commande": "2023-09-04T23:31:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "284 Anglo",
+        "ville": "Reynoldsburg"
+    }
+}

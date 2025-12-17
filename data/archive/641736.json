@@ -1,0 +1,21 @@
+{
+    "order_id": 641736,
+    "client_id": 3702,
+    "produits": [
+        {
+            "produit_id": "P0699",
+            "nom": "Ergonomic Rubber Tuna",
+            "quantite": 5,
+            "prix_unitaire": 427.69
+        },
+        {
+            "produit_id": "P4999",
+            "nom": "For repair Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 189.02
+        }
+    ],
+    "date_commande": "2023-10-04T06:05:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

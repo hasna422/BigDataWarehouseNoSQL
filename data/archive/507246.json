@@ -1,0 +1,25 @@
+{
+    "order_id": 507246,
+    "client_id": 8647,
+    "produits": [
+        {
+            "produit_id": "P0327",
+            "nom": "Intelligent Cotton Ball",
+            "quantite": 4,
+            "prix_unitaire": 153.58
+        },
+        {
+            "produit_id": "P9474",
+            "nom": "Refined Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 475.82
+        }
+    ],
+    "date_commande": "2023-09-22T12:49:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "464 Telegraph",
+        "ville": "Mauldin"
+    }
+}

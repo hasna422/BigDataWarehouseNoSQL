@@ -1,0 +1,25 @@
+{
+    "order_id": 962478,
+    "client_id": 8662,
+    "produits": [
+        {
+            "produit_id": "P1348",
+            "nom": "Gorgeous Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 106.37
+        },
+        {
+            "produit_id": "P2084",
+            "nom": "Rustic Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 344.69
+        }
+    ],
+    "date_commande": "2023-10-20T20:51:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "11 Wildwood",
+        "ville": "Monroeville"
+    }
+}

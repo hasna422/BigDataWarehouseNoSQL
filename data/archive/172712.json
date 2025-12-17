@@ -1,0 +1,31 @@
+{
+    "order_id": 172712,
+    "client_id": 4357,
+    "produits": [
+        {
+            "produit_id": "P7975",
+            "nom": "Generic Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 402.7
+        },
+        {
+            "produit_id": "P9400",
+            "nom": "Refined Wooden Shirt",
+            "quantite": 1,
+            "prix_unitaire": 440.35
+        },
+        {
+            "produit_id": "P1929",
+            "nom": "Practical Cotton Hat",
+            "quantite": 2,
+            "prix_unitaire": 460.82
+        }
+    ],
+    "date_commande": "2024-10-03T01:53:28",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1093 Mark",
+        "ville": "Leominster"
+    }
+}

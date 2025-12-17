@@ -1,0 +1,25 @@
+{
+    "order_id": 751386,
+    "client_id": 3701,
+    "produits": [
+        {
+            "produit_id": "P1009",
+            "nom": "Tasty Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 252.05
+        },
+        {
+            "produit_id": "P6419",
+            "nom": "For repair Plastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 271.92
+        }
+    ],
+    "date_commande": "2024-02-12T02:56:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "633 Mount",
+        "ville": "Elk Grove Village"
+    }
+}

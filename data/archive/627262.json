@@ -1,0 +1,25 @@
+{
+    "order_id": 627262,
+    "client_id": 9106,
+    "produits": [
+        {
+            "produit_id": "P3796",
+            "nom": "Intelligent Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 478.48
+        },
+        {
+            "produit_id": "P4213",
+            "nom": "Gently Used Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 16.68
+        }
+    ],
+    "date_commande": "2024-05-10T23:28:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "609 Lisbon",
+        "ville": "Forest Park"
+    }
+}

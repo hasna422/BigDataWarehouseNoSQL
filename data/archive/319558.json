@@ -1,0 +1,15 @@
+{
+    "order_id": 319558,
+    "client_id": 7260,
+    "produits": [
+        {
+            "produit_id": "P1933",
+            "nom": "Intelligent Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 81.45
+        }
+    ],
+    "date_commande": "2024-10-21T15:07:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

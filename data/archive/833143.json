@@ -1,0 +1,27 @@
+{
+    "order_id": 833143,
+    "client_id": 4506,
+    "produits": [
+        {
+            "produit_id": "P6964",
+            "nom": "Handmade Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 365.27
+        },
+        {
+            "produit_id": "P5709",
+            "nom": "Practical Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 450.03
+        },
+        {
+            "produit_id": "P3357",
+            "nom": "Refined Frozen Hat",
+            "quantite": 1,
+            "prix_unitaire": 23.27
+        }
+    ],
+    "date_commande": "2023-08-31T17:00:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 390005,
+    "client_id": 6993,
+    "produits": [
+        {
+            "produit_id": "P3297",
+            "nom": "Fantastic Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 308.87
+        }
+    ],
+    "date_commande": "2025-05-24T23:47:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "98 Scotia",
+        "ville": "Woodridge"
+    }
+}

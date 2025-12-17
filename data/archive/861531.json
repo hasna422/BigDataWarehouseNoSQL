@@ -1,0 +1,21 @@
+{
+    "order_id": 861531,
+    "client_id": 7794,
+    "produits": [
+        {
+            "produit_id": "P0361",
+            "nom": "Gorgeous Computer",
+            "quantite": 2,
+            "prix_unitaire": 131.8
+        },
+        {
+            "produit_id": "P7951",
+            "nom": "Tasty Fish",
+            "quantite": 4,
+            "prix_unitaire": 451.58
+        }
+    ],
+    "date_commande": "2023-06-20T20:41:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

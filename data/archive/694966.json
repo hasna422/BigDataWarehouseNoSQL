@@ -1,0 +1,31 @@
+{
+    "order_id": 694966,
+    "client_id": 6562,
+    "produits": [
+        {
+            "produit_id": "P7852",
+            "nom": "Fantastic Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 159.05
+        },
+        {
+            "produit_id": "P0522",
+            "nom": "Fantastic Concrete Computer",
+            "quantite": 5,
+            "prix_unitaire": 427.96
+        },
+        {
+            "produit_id": "P1857",
+            "nom": "Rustic Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 194.07
+        }
+    ],
+    "date_commande": "2024-07-27T16:19:56",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1169 Yorba",
+        "ville": "Warwick"
+    }
+}

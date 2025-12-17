@@ -1,0 +1,25 @@
+{
+    "order_id": 898132,
+    "client_id": 3130,
+    "produits": [
+        {
+            "produit_id": "P7813",
+            "nom": "Unbranded Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 308.3
+        },
+        {
+            "produit_id": "P0868",
+            "nom": "Unbranded Fresh Computer",
+            "quantite": 4,
+            "prix_unitaire": 400.99
+        }
+    ],
+    "date_commande": "2024-05-02T11:26:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "792 Flower",
+        "ville": "Vista"
+    }
+}

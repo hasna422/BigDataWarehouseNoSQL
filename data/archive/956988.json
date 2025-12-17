@@ -1,0 +1,27 @@
+{
+    "order_id": 956988,
+    "client_id": 7222,
+    "produits": [
+        {
+            "produit_id": "P2636",
+            "nom": "Practical Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 445.42
+        },
+        {
+            "produit_id": "P2702",
+            "nom": "Handmade Rubber Chips",
+            "quantite": 1,
+            "prix_unitaire": 54.63
+        },
+        {
+            "produit_id": "P2494",
+            "nom": "New Pizza",
+            "quantite": 2,
+            "prix_unitaire": 85.22
+        }
+    ],
+    "date_commande": "2024-12-01T14:58:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

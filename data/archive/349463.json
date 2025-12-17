@@ -1,0 +1,27 @@
+{
+    "order_id": 349463,
+    "client_id": 8715,
+    "produits": [
+        {
+            "produit_id": "P0825",
+            "nom": "New Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 48.76
+        },
+        {
+            "produit_id": "P1411",
+            "nom": "Practical Metal Pants",
+            "quantite": 4,
+            "prix_unitaire": 343.99
+        },
+        {
+            "produit_id": "P7313",
+            "nom": "Unbranded Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 396.84
+        }
+    ],
+    "date_commande": "2023-08-09T21:52:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

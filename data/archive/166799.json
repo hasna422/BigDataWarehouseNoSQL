@@ -1,0 +1,19 @@
+{
+    "order_id": 166799,
+    "client_id": 5819,
+    "produits": [
+        {
+            "produit_id": "P4026",
+            "nom": "Handmade Wooden Chair",
+            "quantite": 2,
+            "prix_unitaire": 175.37
+        }
+    ],
+    "date_commande": "2024-11-15T22:08:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "72 Normandie",
+        "ville": "Pampa"
+    }
+}

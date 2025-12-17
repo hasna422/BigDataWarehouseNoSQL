@@ -1,0 +1,25 @@
+{
+    "order_id": 443367,
+    "client_id": 9607,
+    "produits": [
+        {
+            "produit_id": "P1584",
+            "nom": "Ergonomic Metal Hat",
+            "quantite": 5,
+            "prix_unitaire": 429.0
+        },
+        {
+            "produit_id": "P7695",
+            "nom": "For repair Granite Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 45.79
+        }
+    ],
+    "date_commande": "2023-12-29T16:57:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "335 Church Parking Lot",
+        "ville": "Del Rio"
+    }
+}

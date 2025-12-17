@@ -1,0 +1,25 @@
+{
+    "order_id": 173279,
+    "client_id": 7703,
+    "produits": [
+        {
+            "produit_id": "P3120",
+            "nom": "Rustic Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 55.9
+        },
+        {
+            "produit_id": "P8079",
+            "nom": "Licensed Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 279.83
+        }
+    ],
+    "date_commande": "2024-03-18T16:36:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "4 Lapidge",
+        "ville": "University City"
+    }
+}

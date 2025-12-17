@@ -1,0 +1,31 @@
+{
+    "order_id": 306068,
+    "client_id": 9357,
+    "produits": [
+        {
+            "produit_id": "P9373",
+            "nom": "Handmade Wooden Shirt",
+            "quantite": 5,
+            "prix_unitaire": 473.07
+        },
+        {
+            "produit_id": "P0347",
+            "nom": "Refined Wooden Pants",
+            "quantite": 5,
+            "prix_unitaire": 6.88
+        },
+        {
+            "produit_id": "P7183",
+            "nom": "Handmade Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 69.64
+        }
+    ],
+    "date_commande": "2023-12-01T01:58:16",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1279 Maddux",
+        "ville": "San Benito"
+    }
+}

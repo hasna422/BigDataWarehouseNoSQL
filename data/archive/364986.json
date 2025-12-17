@@ -1,0 +1,25 @@
+{
+    "order_id": 364986,
+    "client_id": 7266,
+    "produits": [
+        {
+            "produit_id": "P7376",
+            "nom": "Unbranded Hat",
+            "quantite": 5,
+            "prix_unitaire": 370.14
+        },
+        {
+            "produit_id": "P2811",
+            "nom": "Handcrafted Gloves",
+            "quantite": 1,
+            "prix_unitaire": 291.09
+        }
+    ],
+    "date_commande": "2023-09-24T16:47:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1289 Lopez",
+        "ville": "Susanville"
+    }
+}

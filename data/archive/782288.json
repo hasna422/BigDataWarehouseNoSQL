@@ -1,0 +1,25 @@
+{
+    "order_id": 782288,
+    "client_id": 3822,
+    "produits": [
+        {
+            "produit_id": "P5442",
+            "nom": "Refined Car",
+            "quantite": 4,
+            "prix_unitaire": 483.23
+        },
+        {
+            "produit_id": "P1487",
+            "nom": "Awesome Soap",
+            "quantite": 1,
+            "prix_unitaire": 116.68
+        }
+    ],
+    "date_commande": "2024-03-25T19:00:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "141 Mabrey",
+        "ville": "Ridgeland"
+    }
+}

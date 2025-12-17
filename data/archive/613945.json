@@ -1,0 +1,21 @@
+{
+    "order_id": 613945,
+    "client_id": 9821,
+    "produits": [
+        {
+            "produit_id": "P0534",
+            "nom": "For repair Wooden Mouse",
+            "quantite": 5,
+            "prix_unitaire": 53.77
+        },
+        {
+            "produit_id": "P0392",
+            "nom": "Incredible Wooden Ball",
+            "quantite": 4,
+            "prix_unitaire": 292.07
+        }
+    ],
+    "date_commande": "2024-11-30T02:01:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

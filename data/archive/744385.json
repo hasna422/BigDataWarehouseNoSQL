@@ -1,0 +1,31 @@
+{
+    "order_id": 744385,
+    "client_id": 5023,
+    "produits": [
+        {
+            "produit_id": "P5490",
+            "nom": "Tasty Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 79.93
+        },
+        {
+            "produit_id": "P2084",
+            "nom": "Soft Pizza",
+            "quantite": 3,
+            "prix_unitaire": 388.92
+        },
+        {
+            "produit_id": "P8309",
+            "nom": "Awesome Concrete Pizza",
+            "quantite": 4,
+            "prix_unitaire": 461.63
+        }
+    ],
+    "date_commande": "2024-06-22T09:56:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "378 Woodland",
+        "ville": "University Park"
+    }
+}

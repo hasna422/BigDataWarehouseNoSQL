@@ -1,0 +1,31 @@
+{
+    "order_id": 759899,
+    "client_id": 4674,
+    "produits": [
+        {
+            "produit_id": "P8011",
+            "nom": "New Chicken",
+            "quantite": 1,
+            "prix_unitaire": 145.33
+        },
+        {
+            "produit_id": "P6099",
+            "nom": "Generic Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 242.42
+        },
+        {
+            "produit_id": "P6365",
+            "nom": "Used Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 458.46
+        }
+    ],
+    "date_commande": "2023-06-17T07:46:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "22 Toyon",
+        "ville": "Bainbridge Island"
+    }
+}

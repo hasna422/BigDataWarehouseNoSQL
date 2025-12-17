@@ -1,0 +1,25 @@
+{
+    "order_id": 315382,
+    "client_id": 6839,
+    "produits": [
+        {
+            "produit_id": "P9081",
+            "nom": "Incredible Ball",
+            "quantite": 4,
+            "prix_unitaire": 167.38
+        },
+        {
+            "produit_id": "P0899",
+            "nom": "Incredible Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 50.99
+        }
+    ],
+    "date_commande": "2024-08-08T04:19:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1209 Sansome",
+        "ville": "Pacifica"
+    }
+}

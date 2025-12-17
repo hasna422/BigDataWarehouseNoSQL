@@ -1,0 +1,21 @@
+{
+    "order_id": 937774,
+    "client_id": 3709,
+    "produits": [
+        {
+            "produit_id": "P8878",
+            "nom": "Rustic Cotton Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 410.09
+        },
+        {
+            "produit_id": "P0635",
+            "nom": "Generic Rubber Tuna",
+            "quantite": 3,
+            "prix_unitaire": 187.74
+        }
+    ],
+    "date_commande": "2023-12-22T06:33:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

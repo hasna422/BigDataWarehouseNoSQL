@@ -1,0 +1,25 @@
+{
+    "order_id": 578954,
+    "client_id": 8699,
+    "produits": [
+        {
+            "produit_id": "P7921",
+            "nom": "Gently Used Ball",
+            "quantite": 5,
+            "prix_unitaire": 17.5
+        },
+        {
+            "produit_id": "P3200",
+            "nom": "Handcrafted Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 385.73
+        }
+    ],
+    "date_commande": "2023-12-16T21:57:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1215 Hamilton",
+        "ville": "Round Lake Beach"
+    }
+}

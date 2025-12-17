@@ -1,0 +1,19 @@
+{
+    "order_id": 776604,
+    "client_id": 6494,
+    "produits": [
+        {
+            "produit_id": "P4052",
+            "nom": "Handcrafted Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 123.87
+        }
+    ],
+    "date_commande": "2024-01-27T18:56:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "35 Perry",
+        "ville": "La Puente"
+    }
+}

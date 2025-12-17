@@ -1,0 +1,25 @@
+{
+    "order_id": 356147,
+    "client_id": 9070,
+    "produits": [
+        {
+            "produit_id": "P2275",
+            "nom": "Handcrafted Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 350.24
+        },
+        {
+            "produit_id": "P2416",
+            "nom": "Small Rubber Ball",
+            "quantite": 1,
+            "prix_unitaire": 173.97
+        }
+    ],
+    "date_commande": "2023-09-28T09:00:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1157 Holloway",
+        "ville": "Phenix City"
+    }
+}

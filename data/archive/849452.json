@@ -1,0 +1,25 @@
+{
+    "order_id": 849452,
+    "client_id": 8214,
+    "produits": [
+        {
+            "produit_id": "P3722",
+            "nom": "Small Fresh Salad",
+            "quantite": 4,
+            "prix_unitaire": 262.13
+        },
+        {
+            "produit_id": "P3344",
+            "nom": "Refined Metal Salad",
+            "quantite": 2,
+            "prix_unitaire": 426.33
+        }
+    ],
+    "date_commande": "2024-03-01T19:58:27",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1069 Gerke",
+        "ville": "Chambersburg"
+    }
+}

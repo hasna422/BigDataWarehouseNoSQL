@@ -1,0 +1,15 @@
+{
+    "order_id": 250126,
+    "client_id": 5624,
+    "produits": [
+        {
+            "produit_id": "P7065",
+            "nom": "Generic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 14.06
+        }
+    ],
+    "date_commande": "2023-10-06T23:42:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

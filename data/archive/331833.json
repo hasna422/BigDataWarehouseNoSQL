@@ -1,0 +1,27 @@
+{
+    "order_id": 331833,
+    "client_id": 2825,
+    "produits": [
+        {
+            "produit_id": "P9831",
+            "nom": "Ergonomic Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 154.71
+        },
+        {
+            "produit_id": "P0251",
+            "nom": "Awesome Granite Sausages",
+            "quantite": 5,
+            "prix_unitaire": 261.08
+        },
+        {
+            "produit_id": "P7444",
+            "nom": "Intelligent Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 81.68
+        }
+    ],
+    "date_commande": "2023-10-29T21:31:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

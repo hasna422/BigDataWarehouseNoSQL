@@ -1,0 +1,15 @@
+{
+    "order_id": 552320,
+    "client_id": 3685,
+    "produits": [
+        {
+            "produit_id": "P5420",
+            "nom": "Fantastic Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 27.91
+        }
+    ],
+    "date_commande": "2024-04-07T07:41:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

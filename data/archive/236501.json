@@ -1,0 +1,31 @@
+{
+    "order_id": 236501,
+    "client_id": 3439,
+    "produits": [
+        {
+            "produit_id": "P7564",
+            "nom": "Intelligent Concrete Hat",
+            "quantite": 3,
+            "prix_unitaire": 129.61
+        },
+        {
+            "produit_id": "P6609",
+            "nom": "Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 308.46
+        },
+        {
+            "produit_id": "P7398",
+            "nom": "Generic Metal Chicken",
+            "quantite": 3,
+            "prix_unitaire": 157.59
+        }
+    ],
+    "date_commande": "2024-08-07T03:11:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "668 Brady",
+        "ville": "Pullman"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 661779,
+    "client_id": 4539,
+    "produits": [
+        {
+            "produit_id": "P3437",
+            "nom": "Used Steel Cheese",
+            "quantite": 2,
+            "prix_unitaire": 339.81
+        },
+        {
+            "produit_id": "P5701",
+            "nom": "Used Granite Towels",
+            "quantite": 1,
+            "prix_unitaire": 14.43
+        },
+        {
+            "produit_id": "P7189",
+            "nom": "New Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 256.69
+        }
+    ],
+    "date_commande": "2023-12-06T08:49:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

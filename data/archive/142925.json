@@ -1,0 +1,31 @@
+{
+    "order_id": 142925,
+    "client_id": 9248,
+    "produits": [
+        {
+            "produit_id": "P4763",
+            "nom": "Concrete Chicken",
+            "quantite": 5,
+            "prix_unitaire": 325.85
+        },
+        {
+            "produit_id": "P1244",
+            "nom": "Granite Shoes",
+            "quantite": 2,
+            "prix_unitaire": 188.89
+        },
+        {
+            "produit_id": "P0787",
+            "nom": "Fantastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 262.76
+        }
+    ],
+    "date_commande": "2024-07-24T11:31:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "36 Anzavista",
+        "ville": "Seminole"
+    }
+}

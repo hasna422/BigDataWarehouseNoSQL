@@ -1,0 +1,19 @@
+{
+    "order_id": 184790,
+    "client_id": 9801,
+    "produits": [
+        {
+            "produit_id": "P5995",
+            "nom": "Incredible Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 29.35
+        }
+    ],
+    "date_commande": "2025-03-20T20:41:54",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "567 Belles",
+        "ville": "Sebastian"
+    }
+}

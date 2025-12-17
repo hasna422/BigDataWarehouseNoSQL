@@ -1,0 +1,25 @@
+{
+    "order_id": 562035,
+    "client_id": 2168,
+    "produits": [
+        {
+            "produit_id": "P0843",
+            "nom": "Small Frozen Mouse",
+            "quantite": 4,
+            "prix_unitaire": 124.98
+        },
+        {
+            "produit_id": "P6725",
+            "nom": "For repair Granite Pants",
+            "quantite": 1,
+            "prix_unitaire": 94.86
+        }
+    ],
+    "date_commande": "2025-05-23T22:11:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "148 El Polin",
+        "ville": "Stockton"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 758063,
+    "client_id": 9813,
+    "produits": [
+        {
+            "produit_id": "P6009",
+            "nom": "Sleek Fresh Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 54.6
+        },
+        {
+            "produit_id": "P0128",
+            "nom": "Intelligent Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 324.76
+        },
+        {
+            "produit_id": "P7628",
+            "nom": "Handcrafted Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 427.25
+        }
+    ],
+    "date_commande": "2023-10-13T06:27:36",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1273 San Luis",
+        "ville": "Baton Rouge"
+    }
+}

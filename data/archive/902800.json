@@ -1,0 +1,19 @@
+{
+    "order_id": 902800,
+    "client_id": 8109,
+    "produits": [
+        {
+            "produit_id": "P0832",
+            "nom": "Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 494.24
+        }
+    ],
+    "date_commande": "2023-08-27T03:31:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "253 Sherman",
+        "ville": "Anaheim"
+    }
+}

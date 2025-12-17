@@ -1,0 +1,19 @@
+{
+    "order_id": 436129,
+    "client_id": 9248,
+    "produits": [
+        {
+            "produit_id": "P9757",
+            "nom": "For repair Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 17.85
+        }
+    ],
+    "date_commande": "2025-04-27T06:22:14",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "716 Crown",
+        "ville": "Laguna Hills"
+    }
+}

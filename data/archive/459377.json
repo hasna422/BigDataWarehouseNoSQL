@@ -1,0 +1,19 @@
+{
+    "order_id": 459377,
+    "client_id": 1554,
+    "produits": [
+        {
+            "produit_id": "P8768",
+            "nom": "Fantastic Wooden Computer",
+            "quantite": 3,
+            "prix_unitaire": 255.11
+        }
+    ],
+    "date_commande": "2023-10-18T11:32:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "985 Dicha",
+        "ville": "Port Arthur"
+    }
+}

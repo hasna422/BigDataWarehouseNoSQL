@@ -1,0 +1,31 @@
+{
+    "order_id": 252139,
+    "client_id": 3185,
+    "produits": [
+        {
+            "produit_id": "P9550",
+            "nom": "Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 165.44
+        },
+        {
+            "produit_id": "P2768",
+            "nom": "Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 53.55
+        },
+        {
+            "produit_id": "P5621",
+            "nom": "Sleek Hat",
+            "quantite": 1,
+            "prix_unitaire": 488.3
+        }
+    ],
+    "date_commande": "2023-08-15T21:50:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "296 Eastman",
+        "ville": "North Miami"
+    }
+}

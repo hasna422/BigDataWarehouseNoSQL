@@ -1,0 +1,21 @@
+{
+    "order_id": 162765,
+    "client_id": 9402,
+    "produits": [
+        {
+            "produit_id": "P4030",
+            "nom": "Sleek Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 228.82
+        },
+        {
+            "produit_id": "P7107",
+            "nom": "Gently Used Fresh Mouse",
+            "quantite": 2,
+            "prix_unitaire": 232.7
+        }
+    ],
+    "date_commande": "2024-06-04T02:09:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 515863,
+    "client_id": 6672,
+    "produits": [
+        {
+            "produit_id": "P2159",
+            "nom": "Used Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 370.14
+        }
+    ],
+    "date_commande": "2024-06-26T20:10:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

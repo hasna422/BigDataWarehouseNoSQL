@@ -1,0 +1,27 @@
+{
+    "order_id": 271765,
+    "client_id": 5122,
+    "produits": [
+        {
+            "produit_id": "P4280",
+            "nom": "Intelligent Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 42.72
+        },
+        {
+            "produit_id": "P7347",
+            "nom": "Unbranded Pants",
+            "quantite": 1,
+            "prix_unitaire": 378.51
+        },
+        {
+            "produit_id": "P8651",
+            "nom": "Rustic Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 340.98
+        }
+    ],
+    "date_commande": "2024-08-05T02:57:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

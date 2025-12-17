@@ -1,0 +1,25 @@
+{
+    "order_id": 672072,
+    "client_id": 5984,
+    "produits": [
+        {
+            "produit_id": "P8143",
+            "nom": "Unbranded Car",
+            "quantite": 5,
+            "prix_unitaire": 320.97
+        },
+        {
+            "produit_id": "P5232",
+            "nom": "Small Tuna",
+            "quantite": 1,
+            "prix_unitaire": 74.77
+        }
+    ],
+    "date_commande": "2025-01-16T07:51:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "482 Howth",
+        "ville": "North Chicago"
+    }
+}

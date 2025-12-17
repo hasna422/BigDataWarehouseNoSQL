@@ -1,0 +1,15 @@
+{
+    "order_id": 163932,
+    "client_id": 1390,
+    "produits": [
+        {
+            "produit_id": "P9360",
+            "nom": "Licensed Metal Table",
+            "quantite": 5,
+            "prix_unitaire": 233.07
+        }
+    ],
+    "date_commande": "2024-01-05T13:58:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

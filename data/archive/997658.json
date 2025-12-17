@@ -1,0 +1,25 @@
+{
+    "order_id": 997658,
+    "client_id": 9426,
+    "produits": [
+        {
+            "produit_id": "P2020",
+            "nom": "Refined Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 394.24
+        },
+        {
+            "produit_id": "P1370",
+            "nom": "Car",
+            "quantite": 5,
+            "prix_unitaire": 101.1
+        }
+    ],
+    "date_commande": "2023-06-27T01:50:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1242 Country Club",
+        "ville": "Huntington"
+    }
+}

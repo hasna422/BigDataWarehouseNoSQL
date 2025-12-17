@@ -1,0 +1,27 @@
+{
+    "order_id": 626414,
+    "client_id": 3866,
+    "produits": [
+        {
+            "produit_id": "P6464",
+            "nom": "Refined Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 499.72
+        },
+        {
+            "produit_id": "P5337",
+            "nom": "Unbranded Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 386.2
+        },
+        {
+            "produit_id": "P2413",
+            "nom": "Handcrafted Frozen Salad",
+            "quantite": 3,
+            "prix_unitaire": 139.77
+        }
+    ],
+    "date_commande": "2024-09-07T13:56:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

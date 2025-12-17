@@ -1,0 +1,25 @@
+{
+    "order_id": 710815,
+    "client_id": 6259,
+    "produits": [
+        {
+            "produit_id": "P4985",
+            "nom": "Incredible Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 421.5
+        },
+        {
+            "produit_id": "P5358",
+            "nom": "Ergonomic Granite Towels",
+            "quantite": 2,
+            "prix_unitaire": 115.21
+        }
+    ],
+    "date_commande": "2024-08-19T05:11:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "222 Pleasant",
+        "ville": "DeSoto"
+    }
+}

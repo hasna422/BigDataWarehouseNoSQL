@@ -1,0 +1,21 @@
+{
+    "order_id": 386964,
+    "client_id": 2841,
+    "produits": [
+        {
+            "produit_id": "P7851",
+            "nom": "Handcrafted Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 107.36
+        },
+        {
+            "produit_id": "P9540",
+            "nom": "Refined Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 92.93
+        }
+    ],
+    "date_commande": "2025-03-31T00:53:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

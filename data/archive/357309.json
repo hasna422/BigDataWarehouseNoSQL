@@ -1,0 +1,27 @@
+{
+    "order_id": 357309,
+    "client_id": 3815,
+    "produits": [
+        {
+            "produit_id": "P3413",
+            "nom": "Sleek Concrete Table",
+            "quantite": 5,
+            "prix_unitaire": 232.93
+        },
+        {
+            "produit_id": "P7927",
+            "nom": "Licensed Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 304.56
+        },
+        {
+            "produit_id": "P0195",
+            "nom": "Practical Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 403.91
+        }
+    ],
+    "date_commande": "2024-09-07T09:05:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

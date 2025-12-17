@@ -1,0 +1,19 @@
+{
+    "order_id": 286823,
+    "client_id": 8297,
+    "produits": [
+        {
+            "produit_id": "P2648",
+            "nom": "Ergonomic Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 37.76
+        }
+    ],
+    "date_commande": "2024-07-10T13:16:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "38 Cross",
+        "ville": "Perth Amboy"
+    }
+}

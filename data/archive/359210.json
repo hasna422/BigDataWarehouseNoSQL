@@ -1,0 +1,27 @@
+{
+    "order_id": 359210,
+    "client_id": 8386,
+    "produits": [
+        {
+            "produit_id": "P8766",
+            "nom": "Ergonomic Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 340.33
+        },
+        {
+            "produit_id": "P9998",
+            "nom": "Used Steel Gloves",
+            "quantite": 3,
+            "prix_unitaire": 142.12
+        },
+        {
+            "produit_id": "P0742",
+            "nom": "Handcrafted Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 389.87
+        }
+    ],
+    "date_commande": "2025-02-21T03:44:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

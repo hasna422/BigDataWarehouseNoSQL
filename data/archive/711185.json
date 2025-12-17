@@ -1,0 +1,27 @@
+{
+    "order_id": 711185,
+    "client_id": 9818,
+    "produits": [
+        {
+            "produit_id": "P6623",
+            "nom": "Small Rubber Car",
+            "quantite": 2,
+            "prix_unitaire": 52.1
+        },
+        {
+            "produit_id": "P2622",
+            "nom": "Incredible Frozen Pizza",
+            "quantite": 3,
+            "prix_unitaire": 119.04
+        },
+        {
+            "produit_id": "P3398",
+            "nom": "Handmade Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 272.92
+        }
+    ],
+    "date_commande": "2024-12-25T01:34:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

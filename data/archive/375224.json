@@ -1,0 +1,25 @@
+{
+    "order_id": 375224,
+    "client_id": 1736,
+    "produits": [
+        {
+            "produit_id": "P7621",
+            "nom": "Incredible Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 221.81
+        },
+        {
+            "produit_id": "P0563",
+            "nom": "Sleek Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 291.77
+        }
+    ],
+    "date_commande": "2024-06-27T14:50:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1384 Divisadero",
+        "ville": "Des Moines"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 912496,
+    "client_id": 1813,
+    "produits": [
+        {
+            "produit_id": "P4400",
+            "nom": "Awesome Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 161.21
+        },
+        {
+            "produit_id": "P4707",
+            "nom": "Generic Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 398.37
+        },
+        {
+            "produit_id": "P7793",
+            "nom": "Ergonomic Frozen Table",
+            "quantite": 5,
+            "prix_unitaire": 331.08
+        }
+    ],
+    "date_commande": "2024-11-09T02:11:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1356 Shipley",
+        "ville": "Providence"
+    }
+}

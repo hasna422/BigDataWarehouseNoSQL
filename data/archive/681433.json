@@ -1,0 +1,31 @@
+{
+    "order_id": 681433,
+    "client_id": 7713,
+    "produits": [
+        {
+            "produit_id": "P5429",
+            "nom": "Used Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 53.19
+        },
+        {
+            "produit_id": "P3123",
+            "nom": "Gorgeous Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 406.86
+        },
+        {
+            "produit_id": "P1731",
+            "nom": "Used Concrete Tuna",
+            "quantite": 4,
+            "prix_unitaire": 432.73
+        }
+    ],
+    "date_commande": "2024-09-07T00:21:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "950 Hahn",
+        "ville": "Rutland"
+    }
+}

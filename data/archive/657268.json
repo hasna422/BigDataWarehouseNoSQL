@@ -1,0 +1,25 @@
+{
+    "order_id": 657268,
+    "client_id": 2994,
+    "produits": [
+        {
+            "produit_id": "P8797",
+            "nom": "Licensed Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 16.29
+        },
+        {
+            "produit_id": "P1835",
+            "nom": "Handcrafted Computer",
+            "quantite": 1,
+            "prix_unitaire": 309.86
+        }
+    ],
+    "date_commande": "2025-01-18T03:08:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "514 Hahn",
+        "ville": "Royal Oak"
+    }
+}

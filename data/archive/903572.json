@@ -1,0 +1,31 @@
+{
+    "order_id": 903572,
+    "client_id": 8505,
+    "produits": [
+        {
+            "produit_id": "P2761",
+            "nom": "Handmade Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 405.2
+        },
+        {
+            "produit_id": "P9902",
+            "nom": "Tasty Concrete Hat",
+            "quantite": 3,
+            "prix_unitaire": 25.93
+        },
+        {
+            "produit_id": "P2829",
+            "nom": "Ergonomic Plastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 376.06
+        }
+    ],
+    "date_commande": "2025-04-26T02:01:17",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "970 Meda",
+        "ville": "West New York"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 676687,
+    "client_id": 8810,
+    "produits": [
+        {
+            "produit_id": "P9396",
+            "nom": "Licensed Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 88.14
+        },
+        {
+            "produit_id": "P8242",
+            "nom": "Handcrafted Steel Chair",
+            "quantite": 2,
+            "prix_unitaire": 458.4
+        }
+    ],
+    "date_commande": "2023-11-01T04:53:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1267 Wattson",
+        "ville": "Midlothian"
+    }
+}

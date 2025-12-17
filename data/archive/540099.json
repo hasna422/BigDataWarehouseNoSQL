@@ -1,0 +1,25 @@
+{
+    "order_id": 540099,
+    "client_id": 8512,
+    "produits": [
+        {
+            "produit_id": "P2797",
+            "nom": "Unbranded Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 456.95
+        },
+        {
+            "produit_id": "P1928",
+            "nom": "Refined Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 366.3
+        }
+    ],
+    "date_commande": "2023-07-29T14:57:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1222 Santa Ysabel",
+        "ville": "Davis"
+    }
+}

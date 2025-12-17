@@ -1,0 +1,25 @@
+{
+    "order_id": 667565,
+    "client_id": 7863,
+    "produits": [
+        {
+            "produit_id": "P4255",
+            "nom": "For repair Granite Sausages",
+            "quantite": 1,
+            "prix_unitaire": 416.41
+        },
+        {
+            "produit_id": "P3859",
+            "nom": "Rustic Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 455.64
+        }
+    ],
+    "date_commande": "2024-07-05T10:36:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "238 Loehr",
+        "ville": "Pico Rivera"
+    }
+}

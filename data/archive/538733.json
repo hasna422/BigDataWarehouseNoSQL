@@ -1,0 +1,31 @@
+{
+    "order_id": 538733,
+    "client_id": 6602,
+    "produits": [
+        {
+            "produit_id": "P2300",
+            "nom": "Steel Table",
+            "quantite": 3,
+            "prix_unitaire": 51.46
+        },
+        {
+            "produit_id": "P8694",
+            "nom": "Small Chicken",
+            "quantite": 5,
+            "prix_unitaire": 314.78
+        },
+        {
+            "produit_id": "P8548",
+            "nom": "Rubber Fish",
+            "quantite": 3,
+            "prix_unitaire": 9.79
+        }
+    ],
+    "date_commande": "2024-05-28T07:28:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "712 Urbano",
+        "ville": "Streamwood"
+    }
+}

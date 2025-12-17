@@ -1,0 +1,27 @@
+{
+    "order_id": 823238,
+    "client_id": 8680,
+    "produits": [
+        {
+            "produit_id": "P2604",
+            "nom": "Fantastic Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 480.95
+        },
+        {
+            "produit_id": "P3723",
+            "nom": "Unbranded Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 44.47
+        },
+        {
+            "produit_id": "P0899",
+            "nom": "Fantastic Plastic Shoes",
+            "quantite": 3,
+            "prix_unitaire": 16.01
+        }
+    ],
+    "date_commande": "2024-04-19T21:50:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

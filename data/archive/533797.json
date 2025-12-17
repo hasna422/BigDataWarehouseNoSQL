@@ -1,0 +1,31 @@
+{
+    "order_id": 533797,
+    "client_id": 2001,
+    "produits": [
+        {
+            "produit_id": "P5266",
+            "nom": "Small Fresh Shoes",
+            "quantite": 2,
+            "prix_unitaire": 75.77
+        },
+        {
+            "produit_id": "P5537",
+            "nom": "Incredible Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 257.23
+        },
+        {
+            "produit_id": "P6301",
+            "nom": "Practical Bacon",
+            "quantite": 4,
+            "prix_unitaire": 366.96
+        }
+    ],
+    "date_commande": "2024-02-06T04:58:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "876 Fredela",
+        "ville": "Menasha"
+    }
+}

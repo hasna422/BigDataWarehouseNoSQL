@@ -1,0 +1,31 @@
+{
+    "order_id": 853703,
+    "client_id": 6194,
+    "produits": [
+        {
+            "produit_id": "P6283",
+            "nom": "Sleek Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 229.16
+        },
+        {
+            "produit_id": "P2239",
+            "nom": "Handcrafted Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 199.18
+        },
+        {
+            "produit_id": "P7357",
+            "nom": "Handmade Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 100.27
+        }
+    ],
+    "date_commande": "2024-04-30T16:39:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "864 Norton",
+        "ville": "San Antonio"
+    }
+}

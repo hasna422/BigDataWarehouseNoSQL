@@ -1,0 +1,19 @@
+{
+    "order_id": 366988,
+    "client_id": 8910,
+    "produits": [
+        {
+            "produit_id": "P1181",
+            "nom": "Incredible Steel Computer",
+            "quantite": 4,
+            "prix_unitaire": 369.81
+        }
+    ],
+    "date_commande": "2023-08-25T16:30:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "860 Taraval",
+        "ville": "Edina"
+    }
+}

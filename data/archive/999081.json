@@ -1,0 +1,25 @@
+{
+    "order_id": 999081,
+    "client_id": 9371,
+    "produits": [
+        {
+            "produit_id": "P4802",
+            "nom": "Awesome Cotton Bike",
+            "quantite": 2,
+            "prix_unitaire": 437.86
+        },
+        {
+            "produit_id": "P8738",
+            "nom": "For repair Plastic Towels",
+            "quantite": 2,
+            "prix_unitaire": 332.3
+        }
+    ],
+    "date_commande": "2024-08-28T02:28:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "748 Gibson",
+        "ville": "Elizabethtown"
+    }
+}

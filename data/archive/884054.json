@@ -1,0 +1,19 @@
+{
+    "order_id": 884054,
+    "client_id": 4041,
+    "produits": [
+        {
+            "produit_id": "P6037",
+            "nom": "Gently Used Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 57.76
+        }
+    ],
+    "date_commande": "2023-09-25T13:47:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "51 Gillette",
+        "ville": "Durham"
+    }
+}

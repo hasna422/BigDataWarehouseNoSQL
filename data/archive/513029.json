@@ -1,0 +1,31 @@
+{
+    "order_id": 513029,
+    "client_id": 7033,
+    "produits": [
+        {
+            "produit_id": "P5036",
+            "nom": "Handcrafted Chair",
+            "quantite": 4,
+            "prix_unitaire": 409.78
+        },
+        {
+            "produit_id": "P2705",
+            "nom": "Awesome Metal Tuna",
+            "quantite": 4,
+            "prix_unitaire": 27.4
+        },
+        {
+            "produit_id": "P8564",
+            "nom": "Used Salad",
+            "quantite": 4,
+            "prix_unitaire": 388.98
+        }
+    ],
+    "date_commande": "2023-12-02T19:20:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "229 Anson",
+        "ville": "Shoreline"
+    }
+}

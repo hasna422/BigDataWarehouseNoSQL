@@ -1,0 +1,31 @@
+{
+    "order_id": 261501,
+    "client_id": 5586,
+    "produits": [
+        {
+            "produit_id": "P1353",
+            "nom": "Incredible Concrete Cheese",
+            "quantite": 4,
+            "prix_unitaire": 127.51
+        },
+        {
+            "produit_id": "P5594",
+            "nom": "Refined Granite Shoes",
+            "quantite": 1,
+            "prix_unitaire": 304.43
+        },
+        {
+            "produit_id": "P7501",
+            "nom": "Gently Used Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 450.2
+        }
+    ],
+    "date_commande": "2024-11-28T18:09:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "75 Moncada",
+        "ville": "Durango"
+    }
+}

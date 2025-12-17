@@ -1,0 +1,19 @@
+{
+    "order_id": 164039,
+    "client_id": 7302,
+    "produits": [
+        {
+            "produit_id": "P2893",
+            "nom": "Unbranded Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 175.1
+        }
+    ],
+    "date_commande": "2024-06-05T23:47:58",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1382 Crystal",
+        "ville": "Cornelius"
+    }
+}

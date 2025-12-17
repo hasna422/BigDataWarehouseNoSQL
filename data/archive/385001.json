@@ -1,0 +1,27 @@
+{
+    "order_id": 385001,
+    "client_id": 3780,
+    "produits": [
+        {
+            "produit_id": "P8267",
+            "nom": "Small Fish",
+            "quantite": 2,
+            "prix_unitaire": 201.92
+        },
+        {
+            "produit_id": "P5465",
+            "nom": "Handcrafted Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 383.44
+        },
+        {
+            "produit_id": "P2525",
+            "nom": "Licensed Concrete Car",
+            "quantite": 3,
+            "prix_unitaire": 141.58
+        }
+    ],
+    "date_commande": "2024-06-11T18:31:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

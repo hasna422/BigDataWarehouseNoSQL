@@ -1,0 +1,15 @@
+{
+    "order_id": 190987,
+    "client_id": 6442,
+    "produits": [
+        {
+            "produit_id": "P6878",
+            "nom": "Small Concrete Fish",
+            "quantite": 1,
+            "prix_unitaire": 359.91
+        }
+    ],
+    "date_commande": "2024-11-03T18:45:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

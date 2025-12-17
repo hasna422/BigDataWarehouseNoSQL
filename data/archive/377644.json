@@ -1,0 +1,21 @@
+{
+    "order_id": 377644,
+    "client_id": 5159,
+    "produits": [
+        {
+            "produit_id": "P7463",
+            "nom": "Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 398.23
+        },
+        {
+            "produit_id": "P1186",
+            "nom": "Unbranded Chips",
+            "quantite": 2,
+            "prix_unitaire": 22.57
+        }
+    ],
+    "date_commande": "2025-05-15T09:20:56",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

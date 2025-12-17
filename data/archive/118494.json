@@ -1,0 +1,31 @@
+{
+    "order_id": 118494,
+    "client_id": 7188,
+    "produits": [
+        {
+            "produit_id": "P9177",
+            "nom": "Incredible Hat",
+            "quantite": 4,
+            "prix_unitaire": 10.64
+        },
+        {
+            "produit_id": "P6601",
+            "nom": "Gently Used Wooden Cheese",
+            "quantite": 5,
+            "prix_unitaire": 280.51
+        },
+        {
+            "produit_id": "P8422",
+            "nom": "Frozen Fish",
+            "quantite": 1,
+            "prix_unitaire": 192.86
+        }
+    ],
+    "date_commande": "2024-03-07T17:27:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1129 Sanchez",
+        "ville": "Cudahy"
+    }
+}

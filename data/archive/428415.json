@@ -1,0 +1,19 @@
+{
+    "order_id": 428415,
+    "client_id": 3594,
+    "produits": [
+        {
+            "produit_id": "P4834",
+            "nom": "Sleek Car",
+            "quantite": 5,
+            "prix_unitaire": 117.34
+        }
+    ],
+    "date_commande": "2024-09-28T02:20:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "967 Bernice",
+        "ville": "Eureka"
+    }
+}

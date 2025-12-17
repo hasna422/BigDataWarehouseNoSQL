@@ -1,0 +1,21 @@
+{
+    "order_id": 309271,
+    "client_id": 6389,
+    "produits": [
+        {
+            "produit_id": "P2013",
+            "nom": "Unbranded Chair",
+            "quantite": 5,
+            "prix_unitaire": 181.83
+        },
+        {
+            "produit_id": "P7442",
+            "nom": "Used Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 346.58
+        }
+    ],
+    "date_commande": "2025-02-01T01:47:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

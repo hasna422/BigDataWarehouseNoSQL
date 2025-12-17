@@ -1,0 +1,15 @@
+{
+    "order_id": 654909,
+    "client_id": 1788,
+    "produits": [
+        {
+            "produit_id": "P6742",
+            "nom": "Tasty Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 402.29
+        }
+    ],
+    "date_commande": "2025-02-27T14:07:50",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

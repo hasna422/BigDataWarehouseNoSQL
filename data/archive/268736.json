@@ -1,0 +1,21 @@
+{
+    "order_id": 268736,
+    "client_id": 2306,
+    "produits": [
+        {
+            "produit_id": "P2389",
+            "nom": "Small Concrete Chair",
+            "quantite": 4,
+            "prix_unitaire": 443.76
+        },
+        {
+            "produit_id": "P7011",
+            "nom": "Incredible Plastic Fish",
+            "quantite": 5,
+            "prix_unitaire": 159.27
+        }
+    ],
+    "date_commande": "2023-12-21T15:43:37",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

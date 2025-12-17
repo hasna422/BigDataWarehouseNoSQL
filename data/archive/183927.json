@@ -1,0 +1,27 @@
+{
+    "order_id": 183927,
+    "client_id": 3539,
+    "produits": [
+        {
+            "produit_id": "P8058",
+            "nom": "Used Wooden Salad",
+            "quantite": 1,
+            "prix_unitaire": 332.95
+        },
+        {
+            "produit_id": "P9375",
+            "nom": "Ergonomic Plastic Gloves",
+            "quantite": 4,
+            "prix_unitaire": 125.75
+        },
+        {
+            "produit_id": "P8240",
+            "nom": "For repair Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 52.88
+        }
+    ],
+    "date_commande": "2025-03-07T20:32:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

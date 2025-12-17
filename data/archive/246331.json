@@ -1,0 +1,31 @@
+{
+    "order_id": 246331,
+    "client_id": 4515,
+    "produits": [
+        {
+            "produit_id": "P7400",
+            "nom": "Awesome Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 169.93
+        },
+        {
+            "produit_id": "P3148",
+            "nom": "Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 48.81
+        },
+        {
+            "produit_id": "P4605",
+            "nom": "Ergonomic Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 310.27
+        }
+    ],
+    "date_commande": "2025-04-18T15:07:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "246 Rayburn",
+        "ville": "Visalia"
+    }
+}

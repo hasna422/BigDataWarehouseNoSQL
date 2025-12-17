@@ -1,0 +1,19 @@
+{
+    "order_id": 889908,
+    "client_id": 4651,
+    "produits": [
+        {
+            "produit_id": "P3676",
+            "nom": "Generic Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 213.39
+        }
+    ],
+    "date_commande": "2024-11-04T07:48:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "839 Duncombe",
+        "ville": "Elyria"
+    }
+}

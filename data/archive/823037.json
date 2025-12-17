@@ -1,0 +1,31 @@
+{
+    "order_id": 823037,
+    "client_id": 9916,
+    "produits": [
+        {
+            "produit_id": "P6106",
+            "nom": "Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 237.98
+        },
+        {
+            "produit_id": "P2809",
+            "nom": "Cotton Shirt",
+            "quantite": 2,
+            "prix_unitaire": 494.68
+        },
+        {
+            "produit_id": "P5509",
+            "nom": "Soft Pants",
+            "quantite": 1,
+            "prix_unitaire": 84.51
+        }
+    ],
+    "date_commande": "2025-05-07T18:06:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "677 Graymalkin",
+        "ville": "Lehi"
+    }
+}

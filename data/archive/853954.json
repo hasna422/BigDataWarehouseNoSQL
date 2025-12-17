@@ -1,0 +1,25 @@
+{
+    "order_id": 853954,
+    "client_id": 9120,
+    "produits": [
+        {
+            "produit_id": "P3959",
+            "nom": "For repair Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 401.48
+        },
+        {
+            "produit_id": "P3167",
+            "nom": "Licensed Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 78.41
+        }
+    ],
+    "date_commande": "2023-11-25T22:38:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1339 Powell",
+        "ville": "Methuen"
+    }
+}

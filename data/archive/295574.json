@@ -1,0 +1,25 @@
+{
+    "order_id": 295574,
+    "client_id": 9359,
+    "produits": [
+        {
+            "produit_id": "P2492",
+            "nom": "Licensed Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 310.0
+        },
+        {
+            "produit_id": "P7976",
+            "nom": "Handcrafted Wooden Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 41.06
+        }
+    ],
+    "date_commande": "2023-07-18T00:16:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1377 Augusta",
+        "ville": "Haverhill"
+    }
+}

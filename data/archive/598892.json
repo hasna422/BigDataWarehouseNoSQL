@@ -1,0 +1,21 @@
+{
+    "order_id": 598892,
+    "client_id": 4338,
+    "produits": [
+        {
+            "produit_id": "P8815",
+            "nom": "Small Hat",
+            "quantite": 4,
+            "prix_unitaire": 145.4
+        },
+        {
+            "produit_id": "P6814",
+            "nom": "Concrete Sausages",
+            "quantite": 4,
+            "prix_unitaire": 449.19
+        }
+    ],
+    "date_commande": "2024-09-18T04:08:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 506131,
+    "client_id": 9058,
+    "produits": [
+        {
+            "produit_id": "P9378",
+            "nom": "Small Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 222.02
+        }
+    ],
+    "date_commande": "2024-04-15T13:22:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

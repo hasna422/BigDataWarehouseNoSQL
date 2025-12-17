@@ -1,0 +1,19 @@
+{
+    "order_id": 787051,
+    "client_id": 4366,
+    "produits": [
+        {
+            "produit_id": "P1123",
+            "nom": "Handcrafted Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 480.88
+        }
+    ],
+    "date_commande": "2023-06-25T16:58:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "173 San Andreas",
+        "ville": "South Burlington"
+    }
+}

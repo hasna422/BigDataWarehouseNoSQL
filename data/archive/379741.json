@@ -1,0 +1,25 @@
+{
+    "order_id": 379741,
+    "client_id": 8863,
+    "produits": [
+        {
+            "produit_id": "P0253",
+            "nom": "Plastic Table",
+            "quantite": 3,
+            "prix_unitaire": 93.13
+        },
+        {
+            "produit_id": "P1627",
+            "nom": "Handmade Plastic Table",
+            "quantite": 3,
+            "prix_unitaire": 337.86
+        }
+    ],
+    "date_commande": "2024-06-15T11:48:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "921 Golf Course",
+        "ville": "Baldwin Park"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 323952,
+    "client_id": 6886,
+    "produits": [
+        {
+            "produit_id": "P6711",
+            "nom": "Handcrafted Soft Tuna",
+            "quantite": 4,
+            "prix_unitaire": 454.34
+        },
+        {
+            "produit_id": "P9164",
+            "nom": "Handcrafted Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 491.02
+        },
+        {
+            "produit_id": "P2672",
+            "nom": "Gently Used Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 270.0
+        }
+    ],
+    "date_commande": "2025-03-19T06:05:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "516 Sunview",
+        "ville": "Matthews"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 180820,
+    "client_id": 5828,
+    "produits": [
+        {
+            "produit_id": "P7987",
+            "nom": "Generic Rubber Pants",
+            "quantite": 5,
+            "prix_unitaire": 416.98
+        },
+        {
+            "produit_id": "P2790",
+            "nom": "Refined Chicken",
+            "quantite": 3,
+            "prix_unitaire": 364.68
+        },
+        {
+            "produit_id": "P2834",
+            "nom": "Used Frozen Salad",
+            "quantite": 3,
+            "prix_unitaire": 128.78
+        }
+    ],
+    "date_commande": "2025-05-19T17:08:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "168 Talbert",
+        "ville": "Patterson"
+    }
+}

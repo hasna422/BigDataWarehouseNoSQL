@@ -1,0 +1,25 @@
+{
+    "order_id": 559192,
+    "client_id": 5653,
+    "produits": [
+        {
+            "produit_id": "P0677",
+            "nom": "Tasty Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 234.04
+        },
+        {
+            "produit_id": "P5049",
+            "nom": "Generic Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 243.23
+        }
+    ],
+    "date_commande": "2025-05-11T08:23:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "891 Hastings",
+        "ville": "Mentor"
+    }
+}

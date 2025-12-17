@@ -1,0 +1,25 @@
+{
+    "order_id": 307834,
+    "client_id": 5992,
+    "produits": [
+        {
+            "produit_id": "P2114",
+            "nom": "Licensed Mouse",
+            "quantite": 2,
+            "prix_unitaire": 434.27
+        },
+        {
+            "produit_id": "P9995",
+            "nom": "Concrete Pants",
+            "quantite": 3,
+            "prix_unitaire": 50.11
+        }
+    ],
+    "date_commande": "2024-09-02T10:53:35",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1141 Plymouth",
+        "ville": "Bergenfield"
+    }
+}

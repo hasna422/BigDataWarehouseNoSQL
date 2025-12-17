@@ -1,0 +1,31 @@
+{
+    "order_id": 544839,
+    "client_id": 3837,
+    "produits": [
+        {
+            "produit_id": "P1310",
+            "nom": "Practical Fresh Gloves",
+            "quantite": 3,
+            "prix_unitaire": 333.89
+        },
+        {
+            "produit_id": "P5729",
+            "nom": "Gorgeous Soft Sausages",
+            "quantite": 1,
+            "prix_unitaire": 284.53
+        },
+        {
+            "produit_id": "P7309",
+            "nom": "Fantastic Rubber Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 231.39
+        }
+    ],
+    "date_commande": "2025-05-20T13:23:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "430 Pico",
+        "ville": "St. Louis"
+    }
+}

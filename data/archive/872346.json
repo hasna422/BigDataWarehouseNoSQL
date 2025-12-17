@@ -1,0 +1,31 @@
+{
+    "order_id": 872346,
+    "client_id": 2511,
+    "produits": [
+        {
+            "produit_id": "P6693",
+            "nom": "Tasty Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 229.96
+        },
+        {
+            "produit_id": "P3910",
+            "nom": "Fantastic Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 391.38
+        },
+        {
+            "produit_id": "P7911",
+            "nom": "Sleek Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 110.38
+        }
+    ],
+    "date_commande": "2024-03-02T03:42:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "261 Steuart",
+        "ville": "Horn Lake"
+    }
+}

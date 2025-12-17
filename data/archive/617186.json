@@ -1,0 +1,19 @@
+{
+    "order_id": 617186,
+    "client_id": 5287,
+    "produits": [
+        {
+            "produit_id": "P2188",
+            "nom": "Licensed Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 484.24
+        }
+    ],
+    "date_commande": "2025-02-22T10:43:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "732 Gibb",
+        "ville": "League City"
+    }
+}

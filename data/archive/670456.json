@@ -1,0 +1,15 @@
+{
+    "order_id": 670456,
+    "client_id": 3683,
+    "produits": [
+        {
+            "produit_id": "P7543",
+            "nom": "Sleek Sausages",
+            "quantite": 1,
+            "prix_unitaire": 316.97
+        }
+    ],
+    "date_commande": "2023-11-27T02:22:31",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

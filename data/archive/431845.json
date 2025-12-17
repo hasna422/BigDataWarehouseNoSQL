@@ -1,0 +1,25 @@
+{
+    "order_id": 431845,
+    "client_id": 7253,
+    "produits": [
+        {
+            "produit_id": "P2452",
+            "nom": "Sleek Metal Ball",
+            "quantite": 3,
+            "prix_unitaire": 194.36
+        },
+        {
+            "produit_id": "P9785",
+            "nom": "Fantastic Chair",
+            "quantite": 4,
+            "prix_unitaire": 182.49
+        }
+    ],
+    "date_commande": "2023-08-09T08:30:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1254 Horne",
+        "ville": "Elk Grove"
+    }
+}

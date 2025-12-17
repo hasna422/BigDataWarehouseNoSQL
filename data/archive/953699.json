@@ -1,0 +1,25 @@
+{
+    "order_id": 953699,
+    "client_id": 2407,
+    "produits": [
+        {
+            "produit_id": "P5457",
+            "nom": "Handmade Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 33.24
+        },
+        {
+            "produit_id": "P3941",
+            "nom": "Unbranded Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 448.96
+        }
+    ],
+    "date_commande": "2024-06-04T16:49:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1214 Whitney Young",
+        "ville": "Greensboro"
+    }
+}

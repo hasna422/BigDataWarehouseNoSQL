@@ -1,0 +1,15 @@
+{
+    "order_id": 789900,
+    "client_id": 4134,
+    "produits": [
+        {
+            "produit_id": "P6524",
+            "nom": "Rustic Fresh Soap",
+            "quantite": 2,
+            "prix_unitaire": 393.52
+        }
+    ],
+    "date_commande": "2024-06-22T08:27:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

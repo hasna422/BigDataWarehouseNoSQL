@@ -1,0 +1,21 @@
+{
+    "order_id": 896402,
+    "client_id": 8233,
+    "produits": [
+        {
+            "produit_id": "P1670",
+            "nom": "Practical Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 249.25
+        },
+        {
+            "produit_id": "P0138",
+            "nom": "Unbranded Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 289.04
+        }
+    ],
+    "date_commande": "2025-04-18T18:42:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 944807,
+    "client_id": 6164,
+    "produits": [
+        {
+            "produit_id": "P4972",
+            "nom": "Small Cheese",
+            "quantite": 1,
+            "prix_unitaire": 160.42
+        },
+        {
+            "produit_id": "P5570",
+            "nom": "Gorgeous Concrete Towels",
+            "quantite": 4,
+            "prix_unitaire": 346.98
+        }
+    ],
+    "date_commande": "2024-06-22T13:31:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "822 Evergreen",
+        "ville": "Greenwood"
+    }
+}

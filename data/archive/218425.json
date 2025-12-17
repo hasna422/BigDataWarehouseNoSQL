@@ -1,0 +1,25 @@
+{
+    "order_id": 218425,
+    "client_id": 9998,
+    "produits": [
+        {
+            "produit_id": "P2991",
+            "nom": "Awesome Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 45.48
+        },
+        {
+            "produit_id": "P1745",
+            "nom": "Sleek Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 451.19
+        }
+    ],
+    "date_commande": "2023-06-30T08:21:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "634 Fresnel",
+        "ville": "Arcadia"
+    }
+}

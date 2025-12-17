@@ -1,0 +1,27 @@
+{
+    "order_id": 185973,
+    "client_id": 2517,
+    "produits": [
+        {
+            "produit_id": "P3349",
+            "nom": "Small Soap",
+            "quantite": 4,
+            "prix_unitaire": 265.84
+        },
+        {
+            "produit_id": "P5639",
+            "nom": "New Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 98.0
+        },
+        {
+            "produit_id": "P2486",
+            "nom": "Rustic Pants",
+            "quantite": 5,
+            "prix_unitaire": 138.71
+        }
+    ],
+    "date_commande": "2024-04-22T23:42:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

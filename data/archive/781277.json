@@ -1,0 +1,19 @@
+{
+    "order_id": 781277,
+    "client_id": 4301,
+    "produits": [
+        {
+            "produit_id": "P3312",
+            "nom": "Soft Computer",
+            "quantite": 2,
+            "prix_unitaire": 424.94
+        }
+    ],
+    "date_commande": "2024-06-20T23:19:19",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "767 Cesar Chavez",
+        "ville": "Mission Viejo"
+    }
+}

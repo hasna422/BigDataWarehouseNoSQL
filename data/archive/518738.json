@@ -1,0 +1,15 @@
+{
+    "order_id": 518738,
+    "client_id": 7401,
+    "produits": [
+        {
+            "produit_id": "P5247",
+            "nom": "Generic Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 159.92
+        }
+    ],
+    "date_commande": "2024-03-27T19:53:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

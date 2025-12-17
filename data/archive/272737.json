@@ -1,0 +1,25 @@
+{
+    "order_id": 272737,
+    "client_id": 1448,
+    "produits": [
+        {
+            "produit_id": "P4493",
+            "nom": "Ergonomic Frozen Table",
+            "quantite": 3,
+            "prix_unitaire": 201.7
+        },
+        {
+            "produit_id": "P1969",
+            "nom": "Unbranded Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 455.97
+        }
+    ],
+    "date_commande": "2024-03-29T15:47:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "396 Mcdonald",
+        "ville": "Searcy"
+    }
+}

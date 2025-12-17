@@ -1,0 +1,31 @@
+{
+    "order_id": 635969,
+    "client_id": 4117,
+    "produits": [
+        {
+            "produit_id": "P9505",
+            "nom": "Intelligent Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 161.66
+        },
+        {
+            "produit_id": "P8569",
+            "nom": "Used Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 27.14
+        },
+        {
+            "produit_id": "P7194",
+            "nom": "Unbranded Plastic Salad",
+            "quantite": 5,
+            "prix_unitaire": 77.51
+        }
+    ],
+    "date_commande": "2024-02-12T03:27:25",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "738 Mccann",
+        "ville": "Grand Junction"
+    }
+}

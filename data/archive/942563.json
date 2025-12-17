@@ -1,0 +1,21 @@
+{
+    "order_id": 942563,
+    "client_id": 6467,
+    "produits": [
+        {
+            "produit_id": "P6416",
+            "nom": "Handmade Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 163.65
+        },
+        {
+            "produit_id": "P9289",
+            "nom": "Unbranded Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 321.29
+        }
+    ],
+    "date_commande": "2024-11-17T11:56:54",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

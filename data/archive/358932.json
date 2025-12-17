@@ -1,0 +1,21 @@
+{
+    "order_id": 358932,
+    "client_id": 3973,
+    "produits": [
+        {
+            "produit_id": "P8850",
+            "nom": "Ergonomic Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 395.75
+        },
+        {
+            "produit_id": "P7290",
+            "nom": "Practical Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 134.72
+        }
+    ],
+    "date_commande": "2023-11-17T13:24:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

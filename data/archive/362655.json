@@ -1,0 +1,19 @@
+{
+    "order_id": 362655,
+    "client_id": 1436,
+    "produits": [
+        {
+            "produit_id": "P9781",
+            "nom": "Tasty Cotton Fish",
+            "quantite": 5,
+            "prix_unitaire": 53.51
+        }
+    ],
+    "date_commande": "2024-10-17T22:55:34",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "493 Waterville",
+        "ville": "Vero Beach"
+    }
+}

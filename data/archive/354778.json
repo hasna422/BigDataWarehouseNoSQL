@@ -1,0 +1,25 @@
+{
+    "order_id": 354778,
+    "client_id": 5772,
+    "produits": [
+        {
+            "produit_id": "P8584",
+            "nom": "Sleek Plastic Sausages",
+            "quantite": 4,
+            "prix_unitaire": 465.45
+        },
+        {
+            "produit_id": "P3008",
+            "nom": "Ergonomic Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 463.76
+        }
+    ],
+    "date_commande": "2024-12-22T13:15:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1055 Liberty",
+        "ville": "Hickory"
+    }
+}

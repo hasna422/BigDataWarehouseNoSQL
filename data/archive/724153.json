@@ -1,0 +1,31 @@
+{
+    "order_id": 724153,
+    "client_id": 7625,
+    "produits": [
+        {
+            "produit_id": "P6347",
+            "nom": "Tasty Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 103.96
+        },
+        {
+            "produit_id": "P9114",
+            "nom": "Refined Soft Bike",
+            "quantite": 5,
+            "prix_unitaire": 446.5
+        },
+        {
+            "produit_id": "P8933",
+            "nom": "Awesome Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 151.55
+        }
+    ],
+    "date_commande": "2025-02-09T05:10:11",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "927 Cortland",
+        "ville": "Lafayette"
+    }
+}

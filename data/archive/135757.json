@@ -1,0 +1,27 @@
+{
+    "order_id": 135757,
+    "client_id": 2728,
+    "produits": [
+        {
+            "produit_id": "P9515",
+            "nom": "Gorgeous Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 425.81
+        },
+        {
+            "produit_id": "P1265",
+            "nom": "Rustic Wooden Fish",
+            "quantite": 3,
+            "prix_unitaire": 41.36
+        },
+        {
+            "produit_id": "P1811",
+            "nom": "Rustic Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 439.45
+        }
+    ],
+    "date_commande": "2025-04-29T02:05:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

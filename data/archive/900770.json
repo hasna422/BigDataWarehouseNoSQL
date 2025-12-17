@@ -1,0 +1,19 @@
+{
+    "order_id": 900770,
+    "client_id": 5080,
+    "produits": [
+        {
+            "produit_id": "P7654",
+            "nom": "Tasty Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 172.07
+        }
+    ],
+    "date_commande": "2023-12-08T04:44:48",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1001 Concord",
+        "ville": "Riviera Beach"
+    }
+}

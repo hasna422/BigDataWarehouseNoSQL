@@ -1,0 +1,15 @@
+{
+    "order_id": 755823,
+    "client_id": 6348,
+    "produits": [
+        {
+            "produit_id": "P0232",
+            "nom": "Rustic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 416.29
+        }
+    ],
+    "date_commande": "2024-07-21T17:14:01",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

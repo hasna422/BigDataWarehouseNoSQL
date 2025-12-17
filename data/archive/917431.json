@@ -1,0 +1,25 @@
+{
+    "order_id": 917431,
+    "client_id": 5842,
+    "produits": [
+        {
+            "produit_id": "P3602",
+            "nom": "Awesome Shirt",
+            "quantite": 1,
+            "prix_unitaire": 285.37
+        },
+        {
+            "produit_id": "P8010",
+            "nom": "New Soft Car",
+            "quantite": 4,
+            "prix_unitaire": 387.29
+        }
+    ],
+    "date_commande": "2024-11-10T23:23:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "289 Austin",
+        "ville": "Paducah"
+    }
+}

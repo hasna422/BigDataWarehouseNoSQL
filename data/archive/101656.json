@@ -1,0 +1,25 @@
+{
+    "order_id": 101656,
+    "client_id": 1272,
+    "produits": [
+        {
+            "produit_id": "P9309",
+            "nom": "Tasty Rubber Fish",
+            "quantite": 4,
+            "prix_unitaire": 366.03
+        },
+        {
+            "produit_id": "P0598",
+            "nom": "Unbranded Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 7.06
+        }
+    ],
+    "date_commande": "2025-02-05T15:01:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "252 Rosemary",
+        "ville": "Sevierville"
+    }
+}

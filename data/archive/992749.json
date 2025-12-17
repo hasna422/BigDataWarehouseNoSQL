@@ -1,0 +1,15 @@
+{
+    "order_id": 992749,
+    "client_id": 9171,
+    "produits": [
+        {
+            "produit_id": "P6470",
+            "nom": "Handmade Granite Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 7.21
+        }
+    ],
+    "date_commande": "2024-07-29T00:43:04",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

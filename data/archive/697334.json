@@ -1,0 +1,25 @@
+{
+    "order_id": 697334,
+    "client_id": 8065,
+    "produits": [
+        {
+            "produit_id": "P2873",
+            "nom": "Practical Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 446.16
+        },
+        {
+            "produit_id": "P6921",
+            "nom": "Licensed Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 123.54
+        }
+    ],
+    "date_commande": "2024-04-29T11:32:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "110 Santa Ana",
+        "ville": "Hilton Head Island"
+    }
+}

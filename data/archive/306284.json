@@ -1,0 +1,15 @@
+{
+    "order_id": 306284,
+    "client_id": 3367,
+    "produits": [
+        {
+            "produit_id": "P9438",
+            "nom": "For repair Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 468.46
+        }
+    ],
+    "date_commande": "2025-02-05T01:35:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

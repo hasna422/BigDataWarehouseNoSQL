@@ -1,0 +1,19 @@
+{
+    "order_id": 457982,
+    "client_id": 1997,
+    "produits": [
+        {
+            "produit_id": "P2411",
+            "nom": "Handmade Ball",
+            "quantite": 2,
+            "prix_unitaire": 348.81
+        }
+    ],
+    "date_commande": "2024-11-02T14:10:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "847 Bessie",
+        "ville": "Agawam"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 362660,
+    "client_id": 8438,
+    "produits": [
+        {
+            "produit_id": "P6154",
+            "nom": "Tasty Cheese",
+            "quantite": 5,
+            "prix_unitaire": 235.74
+        }
+    ],
+    "date_commande": "2023-09-10T20:47:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "914 Roselyn",
+        "ville": "Killeen"
+    }
+}

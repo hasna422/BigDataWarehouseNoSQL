@@ -1,0 +1,25 @@
+{
+    "order_id": 136580,
+    "client_id": 1332,
+    "produits": [
+        {
+            "produit_id": "P6258",
+            "nom": "Refined Frozen Mouse",
+            "quantite": 1,
+            "prix_unitaire": 136.15
+        },
+        {
+            "produit_id": "P1276",
+            "nom": "Used Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 127.44
+        }
+    ],
+    "date_commande": "2025-01-12T15:11:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "943 Temple",
+        "ville": "Titusville"
+    }
+}

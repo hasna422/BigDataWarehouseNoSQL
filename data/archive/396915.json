@@ -1,0 +1,21 @@
+{
+    "order_id": 396915,
+    "client_id": 3296,
+    "produits": [
+        {
+            "produit_id": "P7542",
+            "nom": "Licensed Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 32.52
+        },
+        {
+            "produit_id": "P5998",
+            "nom": "Unbranded Frozen Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 64.19
+        }
+    ],
+    "date_commande": "2024-01-29T00:23:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 924497,
+    "client_id": 2514,
+    "produits": [
+        {
+            "produit_id": "P0875",
+            "nom": "Fantastic Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 317.27
+        },
+        {
+            "produit_id": "P7453",
+            "nom": "Sleek Cotton Salad",
+            "quantite": 2,
+            "prix_unitaire": 96.61
+        }
+    ],
+    "date_commande": "2024-12-11T15:25:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

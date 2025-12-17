@@ -1,0 +1,25 @@
+{
+    "order_id": 136929,
+    "client_id": 4308,
+    "produits": [
+        {
+            "produit_id": "P0780",
+            "nom": "Generic Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 130.6
+        },
+        {
+            "produit_id": "P1618",
+            "nom": "Practical Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 457.99
+        }
+    ],
+    "date_commande": "2023-11-10T05:34:00",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "380 Boylston",
+        "ville": "Stow"
+    }
+}

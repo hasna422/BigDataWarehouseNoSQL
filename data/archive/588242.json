@@ -1,0 +1,25 @@
+{
+    "order_id": 588242,
+    "client_id": 6476,
+    "produits": [
+        {
+            "produit_id": "P2391",
+            "nom": "Incredible Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 315.08
+        },
+        {
+            "produit_id": "P7626",
+            "nom": "Handmade Rubber Fish",
+            "quantite": 4,
+            "prix_unitaire": 304.27
+        }
+    ],
+    "date_commande": "2025-02-09T07:03:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "174 Bayside Village",
+        "ville": "Zanesville"
+    }
+}

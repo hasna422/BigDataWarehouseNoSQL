@@ -1,0 +1,31 @@
+{
+    "order_id": 840449,
+    "client_id": 7414,
+    "produits": [
+        {
+            "produit_id": "P1518",
+            "nom": "Gorgeous Soft Chips",
+            "quantite": 3,
+            "prix_unitaire": 257.19
+        },
+        {
+            "produit_id": "P6068",
+            "nom": "Ergonomic Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 384.76
+        },
+        {
+            "produit_id": "P0604",
+            "nom": "Licensed Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 236.72
+        }
+    ],
+    "date_commande": "2024-03-09T09:46:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1154 Bay",
+        "ville": "Murrysville"
+    }
+}

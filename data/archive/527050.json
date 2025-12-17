@@ -1,0 +1,25 @@
+{
+    "order_id": 527050,
+    "client_id": 4854,
+    "produits": [
+        {
+            "produit_id": "P9596",
+            "nom": "Cheese",
+            "quantite": 1,
+            "prix_unitaire": 218.56
+        },
+        {
+            "produit_id": "P7066",
+            "nom": "For repair Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 221.92
+        }
+    ],
+    "date_commande": "2024-03-24T03:17:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "159 Clayton",
+        "ville": "Lynbrook"
+    }
+}

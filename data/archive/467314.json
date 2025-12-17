@@ -1,0 +1,25 @@
+{
+    "order_id": 467314,
+    "client_id": 2204,
+    "produits": [
+        {
+            "produit_id": "P9254",
+            "nom": "New Steel Computer",
+            "quantite": 3,
+            "prix_unitaire": 207.42
+        },
+        {
+            "produit_id": "P6439",
+            "nom": "Sleek Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 470.94
+        }
+    ],
+    "date_commande": "2025-04-27T19:24:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "926 Hahn",
+        "ville": "Indianapolis"
+    }
+}

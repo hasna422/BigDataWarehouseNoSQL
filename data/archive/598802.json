@@ -1,0 +1,25 @@
+{
+    "order_id": 598802,
+    "client_id": 9760,
+    "produits": [
+        {
+            "produit_id": "P8086",
+            "nom": "Fantastic Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 162.5
+        },
+        {
+            "produit_id": "P5670",
+            "nom": "Generic Plastic Pants",
+            "quantite": 3,
+            "prix_unitaire": 209.35
+        }
+    ],
+    "date_commande": "2024-11-18T21:06:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1007 San Jose",
+        "ville": "San Luis"
+    }
+}

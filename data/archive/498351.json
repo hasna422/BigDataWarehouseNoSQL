@@ -1,0 +1,31 @@
+{
+    "order_id": 498351,
+    "client_id": 1856,
+    "produits": [
+        {
+            "produit_id": "P5663",
+            "nom": "Gently Used Frozen Hat",
+            "quantite": 1,
+            "prix_unitaire": 35.38
+        },
+        {
+            "produit_id": "P0844",
+            "nom": "Handmade Fresh Sausages",
+            "quantite": 4,
+            "prix_unitaire": 65.71
+        },
+        {
+            "produit_id": "P9128",
+            "nom": "For repair Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 33.11
+        }
+    ],
+    "date_commande": "2023-11-06T10:37:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "970 Black",
+        "ville": "Round Lake"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 493547,
+    "client_id": 9330,
+    "produits": [
+        {
+            "produit_id": "P6481",
+            "nom": "Awesome Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 138.49
+        }
+    ],
+    "date_commande": "2024-10-12T12:58:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "682 Midcrest",
+        "ville": "Beloit"
+    }
+}

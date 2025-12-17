@@ -1,0 +1,19 @@
+{
+    "order_id": 164214,
+    "client_id": 7812,
+    "produits": [
+        {
+            "produit_id": "P8145",
+            "nom": "Handcrafted Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 158.06
+        }
+    ],
+    "date_commande": "2023-06-20T04:45:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "487 Baltimore",
+        "ville": "Gilroy"
+    }
+}

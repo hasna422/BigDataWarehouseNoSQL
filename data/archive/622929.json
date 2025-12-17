@@ -1,0 +1,19 @@
+{
+    "order_id": 622929,
+    "client_id": 5009,
+    "produits": [
+        {
+            "produit_id": "P2152",
+            "nom": "Awesome Metal Cheese",
+            "quantite": 3,
+            "prix_unitaire": 253.91
+        }
+    ],
+    "date_commande": "2025-05-07T05:41:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "112 Tunnel",
+        "ville": "San Carlos"
+    }
+}

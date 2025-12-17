@@ -1,0 +1,15 @@
+{
+    "order_id": 835451,
+    "client_id": 4251,
+    "produits": [
+        {
+            "produit_id": "P5226",
+            "nom": "Gorgeous Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 239.1
+        }
+    ],
+    "date_commande": "2024-09-20T07:51:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

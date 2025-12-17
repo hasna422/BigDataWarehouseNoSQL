@@ -1,0 +1,19 @@
+{
+    "order_id": 883720,
+    "client_id": 8023,
+    "produits": [
+        {
+            "produit_id": "P7700",
+            "nom": "Licensed Concrete Hat",
+            "quantite": 4,
+            "prix_unitaire": 351.11
+        }
+    ],
+    "date_commande": "2025-03-27T01:46:25",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "976 Mabini",
+        "ville": "Coppell"
+    }
+}

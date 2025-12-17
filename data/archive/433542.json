@@ -1,0 +1,25 @@
+{
+    "order_id": 433542,
+    "client_id": 7785,
+    "produits": [
+        {
+            "produit_id": "P4265",
+            "nom": "Fantastic Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 497.82
+        },
+        {
+            "produit_id": "P7406",
+            "nom": "Gently Used Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 243.18
+        }
+    ],
+    "date_commande": "2024-12-30T20:21:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "741 Burnett",
+        "ville": "Rock Island"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 298458,
+    "client_id": 2355,
+    "produits": [
+        {
+            "produit_id": "P6708",
+            "nom": "Sleek Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 157.72
+        },
+        {
+            "produit_id": "P8969",
+            "nom": "Handcrafted Metal Hat",
+            "quantite": 2,
+            "prix_unitaire": 206.66
+        }
+    ],
+    "date_commande": "2024-03-06T08:09:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "609 Enterprise",
+        "ville": "Champlin"
+    }
+}

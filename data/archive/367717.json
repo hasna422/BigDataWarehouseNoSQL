@@ -1,0 +1,27 @@
+{
+    "order_id": 367717,
+    "client_id": 2390,
+    "produits": [
+        {
+            "produit_id": "P8335",
+            "nom": "Handmade Steel Chicken",
+            "quantite": 3,
+            "prix_unitaire": 143.43
+        },
+        {
+            "produit_id": "P6786",
+            "nom": "Handmade Chicken",
+            "quantite": 4,
+            "prix_unitaire": 251.92
+        },
+        {
+            "produit_id": "P1347",
+            "nom": "Intelligent Salad",
+            "quantite": 1,
+            "prix_unitaire": 5.96
+        }
+    ],
+    "date_commande": "2025-03-02T09:47:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

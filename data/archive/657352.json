@@ -1,0 +1,15 @@
+{
+    "order_id": 657352,
+    "client_id": 7743,
+    "produits": [
+        {
+            "produit_id": "P4420",
+            "nom": "Fantastic Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 355.93
+        }
+    ],
+    "date_commande": "2025-02-10T19:49:46",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

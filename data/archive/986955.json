@@ -1,0 +1,25 @@
+{
+    "order_id": 986955,
+    "client_id": 3025,
+    "produits": [
+        {
+            "produit_id": "P1587",
+            "nom": "Sleek Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 183.54
+        },
+        {
+            "produit_id": "P7840",
+            "nom": "Rustic Steel Towels",
+            "quantite": 4,
+            "prix_unitaire": 266.35
+        }
+    ],
+    "date_commande": "2025-01-09T14:25:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1041 Von Schmidt",
+        "ville": "Round Lake"
+    }
+}

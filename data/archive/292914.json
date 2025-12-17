@@ -1,0 +1,19 @@
+{
+    "order_id": 292914,
+    "client_id": 2405,
+    "produits": [
+        {
+            "produit_id": "P3437",
+            "nom": "Handcrafted Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 349.76
+        }
+    ],
+    "date_commande": "2023-12-30T16:10:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "364 Rosenkranz",
+        "ville": "Kentwood"
+    }
+}

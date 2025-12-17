@@ -1,0 +1,27 @@
+{
+    "order_id": 139524,
+    "client_id": 7378,
+    "produits": [
+        {
+            "produit_id": "P3302",
+            "nom": "Tasty Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 326.65
+        },
+        {
+            "produit_id": "P7148",
+            "nom": "Gorgeous Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 39.12
+        },
+        {
+            "produit_id": "P6167",
+            "nom": "For repair Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 5.06
+        }
+    ],
+    "date_commande": "2025-02-22T00:42:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

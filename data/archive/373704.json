@@ -1,0 +1,15 @@
+{
+    "order_id": 373704,
+    "client_id": 5375,
+    "produits": [
+        {
+            "produit_id": "P0558",
+            "nom": "Handmade Gloves",
+            "quantite": 3,
+            "prix_unitaire": 228.09
+        }
+    ],
+    "date_commande": "2025-05-25T11:39:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

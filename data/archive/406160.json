@@ -1,0 +1,25 @@
+{
+    "order_id": 406160,
+    "client_id": 8582,
+    "produits": [
+        {
+            "produit_id": "P0109",
+            "nom": "Sleek Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 44.51
+        },
+        {
+            "produit_id": "P3994",
+            "nom": "Unbranded Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 375.24
+        }
+    ],
+    "date_commande": "2025-05-01T07:36:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1155 Mirando",
+        "ville": "Shawnee"
+    }
+}

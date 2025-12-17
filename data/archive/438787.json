@@ -1,0 +1,19 @@
+{
+    "order_id": 438787,
+    "client_id": 4818,
+    "produits": [
+        {
+            "produit_id": "P0548",
+            "nom": "Ergonomic Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 148.65
+        }
+    ],
+    "date_commande": "2025-03-05T23:11:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1272 Central Magazine",
+        "ville": "Urbandale"
+    }
+}

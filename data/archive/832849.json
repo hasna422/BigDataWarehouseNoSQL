@@ -1,0 +1,27 @@
+{
+    "order_id": 832849,
+    "client_id": 4608,
+    "produits": [
+        {
+            "produit_id": "P1147",
+            "nom": "Generic Soft Hat",
+            "quantite": 3,
+            "prix_unitaire": 124.45
+        },
+        {
+            "produit_id": "P1917",
+            "nom": "Handmade Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 125.1
+        },
+        {
+            "produit_id": "P2386",
+            "nom": "Tasty Mouse",
+            "quantite": 3,
+            "prix_unitaire": 367.81
+        }
+    ],
+    "date_commande": "2024-01-17T23:39:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

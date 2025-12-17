@@ -1,0 +1,31 @@
+{
+    "order_id": 463201,
+    "client_id": 6028,
+    "produits": [
+        {
+            "produit_id": "P6819",
+            "nom": "Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 140.83
+        },
+        {
+            "produit_id": "P6237",
+            "nom": "Refined Sausages",
+            "quantite": 1,
+            "prix_unitaire": 357.4
+        },
+        {
+            "produit_id": "P4231",
+            "nom": "Wooden Pants",
+            "quantite": 2,
+            "prix_unitaire": 81.71
+        }
+    ],
+    "date_commande": "2024-07-16T07:34:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "478 Coleridge",
+        "ville": "Alameda"
+    }
+}

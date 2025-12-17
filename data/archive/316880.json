@@ -1,0 +1,25 @@
+{
+    "order_id": 316880,
+    "client_id": 6211,
+    "produits": [
+        {
+            "produit_id": "P9623",
+            "nom": "Small Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 104.09
+        },
+        {
+            "produit_id": "P2853",
+            "nom": "Refined Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 195.01
+        }
+    ],
+    "date_commande": "2024-10-09T03:48:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "520 Winding",
+        "ville": "Moorpark"
+    }
+}

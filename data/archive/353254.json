@@ -1,0 +1,19 @@
+{
+    "order_id": 353254,
+    "client_id": 4355,
+    "produits": [
+        {
+            "produit_id": "P2887",
+            "nom": "Tasty Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 290.83
+        }
+    ],
+    "date_commande": "2024-03-10T11:17:13",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "965 Park Presidio",
+        "ville": "Ames"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 892583,
+    "client_id": 5842,
+    "produits": [
+        {
+            "produit_id": "P1856",
+            "nom": "Fantastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 7.0
+        },
+        {
+            "produit_id": "P8208",
+            "nom": "Small Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 262.4
+        }
+    ],
+    "date_commande": "2025-03-03T15:57:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

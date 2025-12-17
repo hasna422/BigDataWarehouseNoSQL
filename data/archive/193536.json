@@ -1,0 +1,25 @@
+{
+    "order_id": 193536,
+    "client_id": 2903,
+    "produits": [
+        {
+            "produit_id": "P9321",
+            "nom": "Used Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 91.46
+        },
+        {
+            "produit_id": "P3570",
+            "nom": "Awesome Soft Chips",
+            "quantite": 5,
+            "prix_unitaire": 486.76
+        }
+    ],
+    "date_commande": "2024-07-19T19:30:29",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "549 Alviso",
+        "ville": "Ruston"
+    }
+}

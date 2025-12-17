@@ -1,0 +1,31 @@
+{
+    "order_id": 908709,
+    "client_id": 5439,
+    "produits": [
+        {
+            "produit_id": "P4204",
+            "nom": "Tasty Car",
+            "quantite": 4,
+            "prix_unitaire": 491.76
+        },
+        {
+            "produit_id": "P4916",
+            "nom": "Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 198.53
+        },
+        {
+            "produit_id": "P6480",
+            "nom": "Gorgeous Cheese",
+            "quantite": 4,
+            "prix_unitaire": 419.51
+        }
+    ],
+    "date_commande": "2023-11-22T10:50:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "85 Noriega",
+        "ville": "Mission"
+    }
+}

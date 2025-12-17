@@ -1,0 +1,27 @@
+{
+    "order_id": 840339,
+    "client_id": 3142,
+    "produits": [
+        {
+            "produit_id": "P8436",
+            "nom": "Small Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 364.92
+        },
+        {
+            "produit_id": "P9808",
+            "nom": "Intelligent Soft Soap",
+            "quantite": 3,
+            "prix_unitaire": 440.34
+        },
+        {
+            "produit_id": "P0580",
+            "nom": "Refined Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 103.09
+        }
+    ],
+    "date_commande": "2025-02-06T14:37:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

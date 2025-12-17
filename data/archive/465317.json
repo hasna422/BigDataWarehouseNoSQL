@@ -1,0 +1,21 @@
+{
+    "order_id": 465317,
+    "client_id": 4448,
+    "produits": [
+        {
+            "produit_id": "P1345",
+            "nom": "Gorgeous Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 218.74
+        },
+        {
+            "produit_id": "P7428",
+            "nom": "Gently Used Fresh Gloves",
+            "quantite": 2,
+            "prix_unitaire": 283.09
+        }
+    ],
+    "date_commande": "2023-06-18T15:11:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

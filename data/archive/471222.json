@@ -1,0 +1,19 @@
+{
+    "order_id": 471222,
+    "client_id": 9692,
+    "produits": [
+        {
+            "produit_id": "P8089",
+            "nom": "Used Rubber Mouse",
+            "quantite": 3,
+            "prix_unitaire": 406.5
+        }
+    ],
+    "date_commande": "2024-01-19T22:26:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "246 Baltimore",
+        "ville": "Owasso"
+    }
+}

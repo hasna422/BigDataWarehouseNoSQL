@@ -1,0 +1,31 @@
+{
+    "order_id": 486383,
+    "client_id": 8982,
+    "produits": [
+        {
+            "produit_id": "P5715",
+            "nom": "Handcrafted Sausages",
+            "quantite": 3,
+            "prix_unitaire": 189.17
+        },
+        {
+            "produit_id": "P5670",
+            "nom": "Awesome Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 5.65
+        },
+        {
+            "produit_id": "P9616",
+            "nom": "Gorgeous Rubber Gloves",
+            "quantite": 3,
+            "prix_unitaire": 494.97
+        }
+    ],
+    "date_commande": "2024-02-27T21:46:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "514 Martha",
+        "ville": "Maryville"
+    }
+}

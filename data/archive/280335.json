@@ -1,0 +1,31 @@
+{
+    "order_id": 280335,
+    "client_id": 4034,
+    "produits": [
+        {
+            "produit_id": "P7728",
+            "nom": "Gently Used Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 90.47
+        },
+        {
+            "produit_id": "P2223",
+            "nom": "Incredible Cheese",
+            "quantite": 5,
+            "prix_unitaire": 388.42
+        },
+        {
+            "produit_id": "P0951",
+            "nom": "Unbranded Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 159.91
+        }
+    ],
+    "date_commande": "2024-10-24T08:50:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "540 Ingleside",
+        "ville": "Dania Beach"
+    }
+}

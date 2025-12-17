@@ -1,0 +1,19 @@
+{
+    "order_id": 781036,
+    "client_id": 3879,
+    "produits": [
+        {
+            "produit_id": "P2217",
+            "nom": "Handmade Chair",
+            "quantite": 5,
+            "prix_unitaire": 380.04
+        }
+    ],
+    "date_commande": "2024-07-10T04:40:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1152 Francis",
+        "ville": "Escondido"
+    }
+}

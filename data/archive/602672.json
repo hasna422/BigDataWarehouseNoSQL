@@ -1,0 +1,25 @@
+{
+    "order_id": 602672,
+    "client_id": 7232,
+    "produits": [
+        {
+            "produit_id": "P4531",
+            "nom": "Sleek Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 110.79
+        },
+        {
+            "produit_id": "P4178",
+            "nom": "Refined Mouse",
+            "quantite": 3,
+            "prix_unitaire": 126.18
+        }
+    ],
+    "date_commande": "2024-05-04T07:27:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "12 Parsons",
+        "ville": "Ardmore"
+    }
+}

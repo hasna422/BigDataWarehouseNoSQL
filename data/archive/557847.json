@@ -1,0 +1,27 @@
+{
+    "order_id": 557847,
+    "client_id": 5564,
+    "produits": [
+        {
+            "produit_id": "P8533",
+            "nom": "Handmade Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 186.63
+        },
+        {
+            "produit_id": "P2960",
+            "nom": "Rustic Soft Tuna",
+            "quantite": 1,
+            "prix_unitaire": 167.4
+        },
+        {
+            "produit_id": "P8237",
+            "nom": "Gently Used Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 278.32
+        }
+    ],
+    "date_commande": "2023-10-25T16:38:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

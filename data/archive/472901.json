@@ -1,0 +1,15 @@
+{
+    "order_id": 472901,
+    "client_id": 2989,
+    "produits": [
+        {
+            "produit_id": "P4881",
+            "nom": "Wooden Mouse",
+            "quantite": 1,
+            "prix_unitaire": 399.31
+        }
+    ],
+    "date_commande": "2024-10-13T02:38:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

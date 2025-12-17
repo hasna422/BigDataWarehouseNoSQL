@@ -1,0 +1,21 @@
+{
+    "order_id": 942223,
+    "client_id": 3539,
+    "produits": [
+        {
+            "produit_id": "P1502",
+            "nom": "Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 107.85
+        },
+        {
+            "produit_id": "P6986",
+            "nom": "Gorgeous Steel Chicken",
+            "quantite": 3,
+            "prix_unitaire": 244.2
+        }
+    ],
+    "date_commande": "2023-09-21T17:14:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

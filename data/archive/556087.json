@@ -1,0 +1,21 @@
+{
+    "order_id": 556087,
+    "client_id": 8927,
+    "produits": [
+        {
+            "produit_id": "P3734",
+            "nom": "Handmade Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 467.91
+        },
+        {
+            "produit_id": "P3728",
+            "nom": "Sleek Plastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 5.16
+        }
+    ],
+    "date_commande": "2023-06-21T05:01:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 800868,
+    "client_id": 5592,
+    "produits": [
+        {
+            "produit_id": "P1450",
+            "nom": "Intelligent Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 13.28
+        },
+        {
+            "produit_id": "P7835",
+            "nom": "Handmade Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 335.17
+        }
+    ],
+    "date_commande": "2024-06-10T23:36:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

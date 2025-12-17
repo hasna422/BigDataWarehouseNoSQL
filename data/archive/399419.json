@@ -1,0 +1,21 @@
+{
+    "order_id": 399419,
+    "client_id": 4103,
+    "produits": [
+        {
+            "produit_id": "P0205",
+            "nom": "Fantastic Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 149.32
+        },
+        {
+            "produit_id": "P4522",
+            "nom": "Awesome Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 257.45
+        }
+    ],
+    "date_commande": "2023-11-22T20:11:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

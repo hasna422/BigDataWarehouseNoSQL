@@ -1,0 +1,21 @@
+{
+    "order_id": 816792,
+    "client_id": 8892,
+    "produits": [
+        {
+            "produit_id": "P8681",
+            "nom": "Awesome Gloves",
+            "quantite": 4,
+            "prix_unitaire": 141.18
+        },
+        {
+            "produit_id": "P6371",
+            "nom": "Sleek Rubber Chicken",
+            "quantite": 4,
+            "prix_unitaire": 34.08
+        }
+    ],
+    "date_commande": "2023-10-17T01:42:34",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

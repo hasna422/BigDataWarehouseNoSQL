@@ -1,0 +1,15 @@
+{
+    "order_id": 966296,
+    "client_id": 7144,
+    "produits": [
+        {
+            "produit_id": "P0319",
+            "nom": "Used Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 351.74
+        }
+    ],
+    "date_commande": "2024-05-09T03:59:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

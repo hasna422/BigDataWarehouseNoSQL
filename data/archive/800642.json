@@ -1,0 +1,19 @@
+{
+    "order_id": 800642,
+    "client_id": 8396,
+    "produits": [
+        {
+            "produit_id": "P7910",
+            "nom": "Rustic Wooden Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 401.26
+        }
+    ],
+    "date_commande": "2024-09-29T02:30:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "167 Grace",
+        "ville": "Hawthorne"
+    }
+}

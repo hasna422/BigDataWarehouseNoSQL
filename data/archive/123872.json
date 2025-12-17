@@ -1,0 +1,27 @@
+{
+    "order_id": 123872,
+    "client_id": 1912,
+    "produits": [
+        {
+            "produit_id": "P4687",
+            "nom": "Rustic Soft Computer",
+            "quantite": 2,
+            "prix_unitaire": 185.74
+        },
+        {
+            "produit_id": "P4067",
+            "nom": "Incredible Metal Salad",
+            "quantite": 3,
+            "prix_unitaire": 268.53
+        },
+        {
+            "produit_id": "P9359",
+            "nom": "Handmade Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 243.25
+        }
+    ],
+    "date_commande": "2023-06-15T10:03:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

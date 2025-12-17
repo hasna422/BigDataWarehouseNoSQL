@@ -1,0 +1,31 @@
+{
+    "order_id": 561985,
+    "client_id": 1782,
+    "produits": [
+        {
+            "produit_id": "P1659",
+            "nom": "Awesome Steel Bacon",
+            "quantite": 1,
+            "prix_unitaire": 10.78
+        },
+        {
+            "produit_id": "P9554",
+            "nom": "Awesome Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 444.91
+        },
+        {
+            "produit_id": "P9391",
+            "nom": "Practical Cotton Shoes",
+            "quantite": 4,
+            "prix_unitaire": 468.81
+        }
+    ],
+    "date_commande": "2025-02-27T13:01:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "614 Golden",
+        "ville": "Mishawaka"
+    }
+}

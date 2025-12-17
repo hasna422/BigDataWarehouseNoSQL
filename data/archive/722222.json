@@ -1,0 +1,15 @@
+{
+    "order_id": 722222,
+    "client_id": 2883,
+    "produits": [
+        {
+            "produit_id": "P5377",
+            "nom": "Rustic Frozen Table",
+            "quantite": 2,
+            "prix_unitaire": 445.99
+        }
+    ],
+    "date_commande": "2025-03-26T08:29:21",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

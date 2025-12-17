@@ -1,0 +1,19 @@
+{
+    "order_id": 819332,
+    "client_id": 7483,
+    "produits": [
+        {
+            "produit_id": "P1612",
+            "nom": "Gently Used Plastic Bike",
+            "quantite": 5,
+            "prix_unitaire": 346.59
+        }
+    ],
+    "date_commande": "2025-01-17T06:27:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1286 Escondido",
+        "ville": "Marion"
+    }
+}

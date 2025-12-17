@@ -1,0 +1,25 @@
+{
+    "order_id": 483585,
+    "client_id": 6307,
+    "produits": [
+        {
+            "produit_id": "P4394",
+            "nom": "Small Towels",
+            "quantite": 1,
+            "prix_unitaire": 23.88
+        },
+        {
+            "produit_id": "P9828",
+            "nom": "Ergonomic Car",
+            "quantite": 4,
+            "prix_unitaire": 28.44
+        }
+    ],
+    "date_commande": "2023-06-13T07:17:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "619 Kenny",
+        "ville": "Benicia"
+    }
+}

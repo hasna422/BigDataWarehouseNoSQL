@@ -1,0 +1,19 @@
+{
+    "order_id": 205001,
+    "client_id": 9854,
+    "produits": [
+        {
+            "produit_id": "P2132",
+            "nom": "Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 462.83
+        }
+    ],
+    "date_commande": "2024-06-16T18:15:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "945 Bonnie Brae",
+        "ville": "Round Lake Beach"
+    }
+}

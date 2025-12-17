@@ -1,0 +1,19 @@
+{
+    "order_id": 160139,
+    "client_id": 2444,
+    "produits": [
+        {
+            "produit_id": "P0645",
+            "nom": "Awesome Ball",
+            "quantite": 1,
+            "prix_unitaire": 440.89
+        }
+    ],
+    "date_commande": "2024-05-07T06:40:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "244 Rome",
+        "ville": "Bend"
+    }
+}

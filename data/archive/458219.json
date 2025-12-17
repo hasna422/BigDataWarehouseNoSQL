@@ -1,0 +1,21 @@
+{
+    "order_id": 458219,
+    "client_id": 8147,
+    "produits": [
+        {
+            "produit_id": "P3937",
+            "nom": "Practical Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 92.64
+        },
+        {
+            "produit_id": "P9499",
+            "nom": "Incredible Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 140.91
+        }
+    ],
+    "date_commande": "2023-11-19T07:42:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

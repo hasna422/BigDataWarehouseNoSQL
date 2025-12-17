@@ -1,0 +1,25 @@
+{
+    "order_id": 389919,
+    "client_id": 5747,
+    "produits": [
+        {
+            "produit_id": "P9518",
+            "nom": "Fantastic Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 289.92
+        },
+        {
+            "produit_id": "P8155",
+            "nom": "Unbranded Frozen Sausages",
+            "quantite": 2,
+            "prix_unitaire": 479.84
+        }
+    ],
+    "date_commande": "2023-08-02T02:46:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "128 Waterloo",
+        "ville": "Fairborn"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 870308,
+    "client_id": 1226,
+    "produits": [
+        {
+            "produit_id": "P6956",
+            "nom": "Gently Used Concrete Chicken",
+            "quantite": 1,
+            "prix_unitaire": 277.45
+        },
+        {
+            "produit_id": "P1198",
+            "nom": "New Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 65.52
+        }
+    ],
+    "date_commande": "2024-01-23T06:51:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "399 Minnesota",
+        "ville": "Greenwood"
+    }
+}

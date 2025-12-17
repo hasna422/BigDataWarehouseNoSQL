@@ -1,0 +1,15 @@
+{
+    "order_id": 602524,
+    "client_id": 1482,
+    "produits": [
+        {
+            "produit_id": "P5659",
+            "nom": "Gorgeous Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 141.52
+        }
+    ],
+    "date_commande": "2025-05-09T22:20:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

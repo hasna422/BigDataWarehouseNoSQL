@@ -1,0 +1,31 @@
+{
+    "order_id": 513854,
+    "client_id": 6472,
+    "produits": [
+        {
+            "produit_id": "P2561",
+            "nom": "Wooden Salad",
+            "quantite": 1,
+            "prix_unitaire": 336.52
+        },
+        {
+            "produit_id": "P5231",
+            "nom": "Awesome Shoes",
+            "quantite": 4,
+            "prix_unitaire": 30.26
+        },
+        {
+            "produit_id": "P7572",
+            "nom": "Tasty Towels",
+            "quantite": 3,
+            "prix_unitaire": 311.29
+        }
+    ],
+    "date_commande": "2023-08-25T21:26:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "5 Acme",
+        "ville": "Oceanside"
+    }
+}

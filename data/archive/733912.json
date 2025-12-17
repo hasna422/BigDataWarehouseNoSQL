@@ -1,0 +1,25 @@
+{
+    "order_id": 733912,
+    "client_id": 7725,
+    "produits": [
+        {
+            "produit_id": "P2699",
+            "nom": "Handmade Steel Shoes",
+            "quantite": 3,
+            "prix_unitaire": 449.79
+        },
+        {
+            "produit_id": "P5295",
+            "nom": "Refined Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 122.91
+        }
+    ],
+    "date_commande": "2024-02-24T23:07:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "596 Spencer",
+        "ville": "New Brunswick"
+    }
+}

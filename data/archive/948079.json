@@ -1,0 +1,31 @@
+{
+    "order_id": 948079,
+    "client_id": 4468,
+    "produits": [
+        {
+            "produit_id": "P1636",
+            "nom": "Used Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 21.97
+        },
+        {
+            "produit_id": "P5486",
+            "nom": "Tasty Chicken",
+            "quantite": 5,
+            "prix_unitaire": 312.44
+        },
+        {
+            "produit_id": "P5858",
+            "nom": "Awesome Plastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 162.68
+        }
+    ],
+    "date_commande": "2023-07-07T17:26:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "709 Dolphin",
+        "ville": "Victoria"
+    }
+}

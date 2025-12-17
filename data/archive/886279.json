@@ -1,0 +1,27 @@
+{
+    "order_id": 886279,
+    "client_id": 2070,
+    "produits": [
+        {
+            "produit_id": "P6475",
+            "nom": "New Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 296.51
+        },
+        {
+            "produit_id": "P5245",
+            "nom": "Small Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 182.59
+        },
+        {
+            "produit_id": "P1447",
+            "nom": "Licensed Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 242.52
+        }
+    ],
+    "date_commande": "2023-11-21T06:41:01",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

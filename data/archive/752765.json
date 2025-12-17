@@ -1,0 +1,15 @@
+{
+    "order_id": 752765,
+    "client_id": 5268,
+    "produits": [
+        {
+            "produit_id": "P0790",
+            "nom": "Used Concrete Chicken",
+            "quantite": 5,
+            "prix_unitaire": 293.12
+        }
+    ],
+    "date_commande": "2023-09-27T05:19:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

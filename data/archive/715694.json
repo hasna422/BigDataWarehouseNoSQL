@@ -1,0 +1,15 @@
+{
+    "order_id": 715694,
+    "client_id": 1261,
+    "produits": [
+        {
+            "produit_id": "P9460",
+            "nom": "Sleek Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 272.74
+        }
+    ],
+    "date_commande": "2023-09-17T04:13:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 752842,
+    "client_id": 8381,
+    "produits": [
+        {
+            "produit_id": "P1213",
+            "nom": "Steel Bacon",
+            "quantite": 3,
+            "prix_unitaire": 442.69
+        }
+    ],
+    "date_commande": "2024-09-09T03:55:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

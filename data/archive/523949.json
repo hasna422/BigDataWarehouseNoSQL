@@ -1,0 +1,21 @@
+{
+    "order_id": 523949,
+    "client_id": 6161,
+    "produits": [
+        {
+            "produit_id": "P2845",
+            "nom": "Used Rubber Table",
+            "quantite": 3,
+            "prix_unitaire": 317.91
+        },
+        {
+            "produit_id": "P4646",
+            "nom": "Rustic Mouse",
+            "quantite": 1,
+            "prix_unitaire": 410.82
+        }
+    ],
+    "date_commande": "2024-03-30T20:15:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

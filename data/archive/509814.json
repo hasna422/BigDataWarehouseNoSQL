@@ -1,0 +1,27 @@
+{
+    "order_id": 509814,
+    "client_id": 8336,
+    "produits": [
+        {
+            "produit_id": "P4003",
+            "nom": "Unbranded Metal Bike",
+            "quantite": 2,
+            "prix_unitaire": 55.7
+        },
+        {
+            "produit_id": "P3493",
+            "nom": "Sleek Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 23.12
+        },
+        {
+            "produit_id": "P4070",
+            "nom": "Small Cotton Ball",
+            "quantite": 1,
+            "prix_unitaire": 139.8
+        }
+    ],
+    "date_commande": "2024-06-14T23:25:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

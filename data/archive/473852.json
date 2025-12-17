@@ -1,0 +1,19 @@
+{
+    "order_id": 473852,
+    "client_id": 7184,
+    "produits": [
+        {
+            "produit_id": "P9613",
+            "nom": "Gently Used Metal Computer",
+            "quantite": 3,
+            "prix_unitaire": 218.35
+        }
+    ],
+    "date_commande": "2025-01-11T16:43:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "83 Edinburgh",
+        "ville": "Niles"
+    }
+}

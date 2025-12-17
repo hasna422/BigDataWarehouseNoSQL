@@ -1,0 +1,15 @@
+{
+    "order_id": 474080,
+    "client_id": 4588,
+    "produits": [
+        {
+            "produit_id": "P4061",
+            "nom": "Used Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 365.27
+        }
+    ],
+    "date_commande": "2024-09-18T11:23:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

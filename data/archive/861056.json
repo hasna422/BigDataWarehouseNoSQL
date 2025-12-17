@@ -1,0 +1,21 @@
+{
+    "order_id": 861056,
+    "client_id": 6431,
+    "produits": [
+        {
+            "produit_id": "P1553",
+            "nom": "Intelligent Chips",
+            "quantite": 1,
+            "prix_unitaire": 323.43
+        },
+        {
+            "produit_id": "P4203",
+            "nom": "Used Granite Shoes",
+            "quantite": 1,
+            "prix_unitaire": 204.66
+        }
+    ],
+    "date_commande": "2024-07-24T23:39:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

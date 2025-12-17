@@ -1,0 +1,25 @@
+{
+    "order_id": 513769,
+    "client_id": 1444,
+    "produits": [
+        {
+            "produit_id": "P2180",
+            "nom": "Unbranded Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 420.24
+        },
+        {
+            "produit_id": "P1502",
+            "nom": "Incredible Rubber Pants",
+            "quantite": 3,
+            "prix_unitaire": 311.11
+        }
+    ],
+    "date_commande": "2023-12-19T06:00:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1331 Treat",
+        "ville": "Texas City"
+    }
+}

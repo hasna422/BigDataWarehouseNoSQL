@@ -1,0 +1,19 @@
+{
+    "order_id": 583331,
+    "client_id": 1680,
+    "produits": [
+        {
+            "produit_id": "P7184",
+            "nom": "Used Steel Cheese",
+            "quantite": 3,
+            "prix_unitaire": 83.1
+        }
+    ],
+    "date_commande": "2024-08-01T10:11:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "346 Mountain Spring",
+        "ville": "Provo"
+    }
+}

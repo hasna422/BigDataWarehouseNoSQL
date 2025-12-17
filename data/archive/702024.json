@@ -1,0 +1,27 @@
+{
+    "order_id": 702024,
+    "client_id": 5829,
+    "produits": [
+        {
+            "produit_id": "P2671",
+            "nom": "New Frozen Chicken",
+            "quantite": 4,
+            "prix_unitaire": 447.61
+        },
+        {
+            "produit_id": "P9779",
+            "nom": "Practical Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 64.06
+        },
+        {
+            "produit_id": "P9479",
+            "nom": "Ergonomic Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 129.94
+        }
+    ],
+    "date_commande": "2024-12-27T00:07:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 792297,
+    "client_id": 2952,
+    "produits": [
+        {
+            "produit_id": "P6660",
+            "nom": "Metal Ball",
+            "quantite": 5,
+            "prix_unitaire": 413.94
+        }
+    ],
+    "date_commande": "2025-05-25T02:19:16",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "232 De Soto",
+        "ville": "Sioux City"
+    }
+}

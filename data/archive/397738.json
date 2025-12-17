@@ -1,0 +1,15 @@
+{
+    "order_id": 397738,
+    "client_id": 7097,
+    "produits": [
+        {
+            "produit_id": "P9533",
+            "nom": "Unbranded Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 148.62
+        }
+    ],
+    "date_commande": "2025-05-09T18:03:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

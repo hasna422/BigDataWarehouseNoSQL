@@ -1,0 +1,31 @@
+{
+    "order_id": 814720,
+    "client_id": 8738,
+    "produits": [
+        {
+            "produit_id": "P8673",
+            "nom": "Incredible Gloves",
+            "quantite": 2,
+            "prix_unitaire": 231.76
+        },
+        {
+            "produit_id": "P6356",
+            "nom": "Cotton Table",
+            "quantite": 4,
+            "prix_unitaire": 50.91
+        },
+        {
+            "produit_id": "P3522",
+            "nom": "Refined Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 192.08
+        }
+    ],
+    "date_commande": "2025-01-02T01:52:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "412 Legion Of Honor",
+        "ville": "Carrollton"
+    }
+}

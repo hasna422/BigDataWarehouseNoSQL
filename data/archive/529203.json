@@ -1,0 +1,15 @@
+{
+    "order_id": 529203,
+    "client_id": 5403,
+    "produits": [
+        {
+            "produit_id": "P5390",
+            "nom": "Unbranded Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 163.64
+        }
+    ],
+    "date_commande": "2024-10-31T09:48:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

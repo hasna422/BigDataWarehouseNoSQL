@@ -1,0 +1,15 @@
+{
+    "order_id": 866831,
+    "client_id": 8303,
+    "produits": [
+        {
+            "produit_id": "P1040",
+            "nom": "Licensed Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 405.56
+        }
+    ],
+    "date_commande": "2024-03-31T06:28:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 194875,
+    "client_id": 8932,
+    "produits": [
+        {
+            "produit_id": "P6529",
+            "nom": "Handmade Metal Pizza",
+            "quantite": 3,
+            "prix_unitaire": 156.59
+        },
+        {
+            "produit_id": "P0205",
+            "nom": "Rustic Granite Hat",
+            "quantite": 3,
+            "prix_unitaire": 336.54
+        }
+    ],
+    "date_commande": "2025-01-31T05:39:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1096 Rockdale",
+        "ville": "Hannibal"
+    }
+}

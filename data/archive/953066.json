@@ -1,0 +1,19 @@
+{
+    "order_id": 953066,
+    "client_id": 9239,
+    "produits": [
+        {
+            "produit_id": "P7373",
+            "nom": "Handcrafted Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 341.19
+        }
+    ],
+    "date_commande": "2025-01-26T09:55:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "531 Newell",
+        "ville": "San Luis"
+    }
+}

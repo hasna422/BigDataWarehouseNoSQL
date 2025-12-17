@@ -1,0 +1,19 @@
+{
+    "order_id": 282593,
+    "client_id": 1175,
+    "produits": [
+        {
+            "produit_id": "P3796",
+            "nom": "Fantastic Fresh Table",
+            "quantite": 4,
+            "prix_unitaire": 498.07
+        }
+    ],
+    "date_commande": "2024-11-14T09:44:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "589 Agua",
+        "ville": "Klamath Falls"
+    }
+}

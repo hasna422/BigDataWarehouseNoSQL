@@ -1,0 +1,31 @@
+{
+    "order_id": 161383,
+    "client_id": 5558,
+    "produits": [
+        {
+            "produit_id": "P4894",
+            "nom": "Generic Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 309.25
+        },
+        {
+            "produit_id": "P7209",
+            "nom": "Gently Used Steel Chicken",
+            "quantite": 4,
+            "prix_unitaire": 405.24
+        },
+        {
+            "produit_id": "P1780",
+            "nom": "Intelligent Cotton Salad",
+            "quantite": 1,
+            "prix_unitaire": 59.02
+        }
+    ],
+    "date_commande": "2024-06-04T13:26:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "197 Grafton",
+        "ville": "Mesquite"
+    }
+}

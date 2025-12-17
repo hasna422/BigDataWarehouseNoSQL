@@ -1,0 +1,19 @@
+{
+    "order_id": 722830,
+    "client_id": 6115,
+    "produits": [
+        {
+            "produit_id": "P7651",
+            "nom": "Ergonomic Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 389.93
+        }
+    ],
+    "date_commande": "2025-03-03T23:37:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "806 Blanche",
+        "ville": "Cliffside Park"
+    }
+}

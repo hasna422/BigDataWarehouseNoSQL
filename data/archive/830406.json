@@ -1,0 +1,19 @@
+{
+    "order_id": 830406,
+    "client_id": 6799,
+    "produits": [
+        {
+            "produit_id": "P3493",
+            "nom": "Rustic Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 426.76
+        }
+    ],
+    "date_commande": "2024-06-23T08:45:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "669 Appleton",
+        "ville": "Victoria"
+    }
+}

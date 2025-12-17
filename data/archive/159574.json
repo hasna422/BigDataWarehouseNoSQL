@@ -1,0 +1,15 @@
+{
+    "order_id": 159574,
+    "client_id": 6601,
+    "produits": [
+        {
+            "produit_id": "P2439",
+            "nom": "Tasty Sausages",
+            "quantite": 4,
+            "prix_unitaire": 69.17
+        }
+    ],
+    "date_commande": "2024-12-06T22:41:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

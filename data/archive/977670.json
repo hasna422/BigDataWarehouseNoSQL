@@ -1,0 +1,25 @@
+{
+    "order_id": 977670,
+    "client_id": 2238,
+    "produits": [
+        {
+            "produit_id": "P5911",
+            "nom": "Gorgeous Wooden Pizza",
+            "quantite": 4,
+            "prix_unitaire": 171.39
+        },
+        {
+            "produit_id": "P3133",
+            "nom": "Awesome Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 57.16
+        }
+    ],
+    "date_commande": "2024-01-21T21:42:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "60 San Marcos",
+        "ville": "Greenwood"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 722268,
+    "client_id": 4462,
+    "produits": [
+        {
+            "produit_id": "P1084",
+            "nom": "Incredible Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 60.93
+        },
+        {
+            "produit_id": "P3258",
+            "nom": "Handcrafted Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 7.02
+        },
+        {
+            "produit_id": "P4433",
+            "nom": "Licensed Fresh Salad",
+            "quantite": 3,
+            "prix_unitaire": 172.97
+        }
+    ],
+    "date_commande": "2024-08-24T01:09:19",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1236 E",
+        "ville": "Ferndale"
+    }
+}

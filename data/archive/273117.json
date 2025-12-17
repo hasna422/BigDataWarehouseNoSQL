@@ -1,0 +1,15 @@
+{
+    "order_id": 273117,
+    "client_id": 7857,
+    "produits": [
+        {
+            "produit_id": "P3837",
+            "nom": "Sleek Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 229.97
+        }
+    ],
+    "date_commande": "2024-06-03T03:10:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

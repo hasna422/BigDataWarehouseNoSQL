@@ -1,0 +1,15 @@
+{
+    "order_id": 170335,
+    "client_id": 3566,
+    "produits": [
+        {
+            "produit_id": "P6446",
+            "nom": "Unbranded Soft Chair",
+            "quantite": 4,
+            "prix_unitaire": 346.49
+        }
+    ],
+    "date_commande": "2025-02-16T02:20:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

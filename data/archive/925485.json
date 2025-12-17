@@ -1,0 +1,19 @@
+{
+    "order_id": 925485,
+    "client_id": 4549,
+    "produits": [
+        {
+            "produit_id": "P7947",
+            "nom": "Used Concrete Cheese",
+            "quantite": 2,
+            "prix_unitaire": 241.79
+        }
+    ],
+    "date_commande": "2023-12-26T10:59:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1032 Sacramento",
+        "ville": "Statesville"
+    }
+}

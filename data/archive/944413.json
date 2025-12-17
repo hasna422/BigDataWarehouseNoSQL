@@ -1,0 +1,27 @@
+{
+    "order_id": 944413,
+    "client_id": 4716,
+    "produits": [
+        {
+            "produit_id": "P1674",
+            "nom": "New Metal Salad",
+            "quantite": 5,
+            "prix_unitaire": 418.59
+        },
+        {
+            "produit_id": "P3093",
+            "nom": "Handcrafted Soft Chicken",
+            "quantite": 5,
+            "prix_unitaire": 8.02
+        },
+        {
+            "produit_id": "P1385",
+            "nom": "Practical Fresh Bacon",
+            "quantite": 2,
+            "prix_unitaire": 468.24
+        }
+    ],
+    "date_commande": "2023-07-09T16:37:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

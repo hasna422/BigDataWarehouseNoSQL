@@ -1,0 +1,15 @@
+{
+    "order_id": 668510,
+    "client_id": 2726,
+    "produits": [
+        {
+            "produit_id": "P5165",
+            "nom": "Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 215.02
+        }
+    ],
+    "date_commande": "2023-08-21T22:44:36",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

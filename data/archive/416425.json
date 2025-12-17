@@ -1,0 +1,21 @@
+{
+    "order_id": 416425,
+    "client_id": 4065,
+    "produits": [
+        {
+            "produit_id": "P7309",
+            "nom": "Unbranded Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 369.4
+        },
+        {
+            "produit_id": "P3053",
+            "nom": "Gently Used Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 54.32
+        }
+    ],
+    "date_commande": "2023-12-06T20:34:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

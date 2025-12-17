@@ -1,0 +1,19 @@
+{
+    "order_id": 159944,
+    "client_id": 8160,
+    "produits": [
+        {
+            "produit_id": "P8356",
+            "nom": "Awesome Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 11.77
+        }
+    ],
+    "date_commande": "2024-02-02T08:44:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "759 Escondido",
+        "ville": "Northampton"
+    }
+}

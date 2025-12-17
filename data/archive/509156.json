@@ -1,0 +1,27 @@
+{
+    "order_id": 509156,
+    "client_id": 1125,
+    "produits": [
+        {
+            "produit_id": "P3185",
+            "nom": "Sleek Steel Cheese",
+            "quantite": 3,
+            "prix_unitaire": 406.83
+        },
+        {
+            "produit_id": "P9651",
+            "nom": "Generic Soft Pants",
+            "quantite": 3,
+            "prix_unitaire": 318.82
+        },
+        {
+            "produit_id": "P9613",
+            "nom": "Refined Soft Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 491.53
+        }
+    ],
+    "date_commande": "2023-09-04T10:32:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

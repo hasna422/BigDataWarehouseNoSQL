@@ -1,0 +1,19 @@
+{
+    "order_id": 126038,
+    "client_id": 1853,
+    "produits": [
+        {
+            "produit_id": "P4424",
+            "nom": "Used Plastic Tuna",
+            "quantite": 4,
+            "prix_unitaire": 455.05
+        }
+    ],
+    "date_commande": "2024-11-25T11:12:59",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "702 Paris",
+        "ville": "Bridgeport"
+    }
+}

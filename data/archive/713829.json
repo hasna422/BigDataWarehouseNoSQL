@@ -1,0 +1,27 @@
+{
+    "order_id": 713829,
+    "client_id": 4096,
+    "produits": [
+        {
+            "produit_id": "P4784",
+            "nom": "Incredible Granite Salad",
+            "quantite": 5,
+            "prix_unitaire": 285.81
+        },
+        {
+            "produit_id": "P6666",
+            "nom": "Fantastic Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 267.03
+        },
+        {
+            "produit_id": "P7389",
+            "nom": "Licensed Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 132.81
+        }
+    ],
+    "date_commande": "2025-04-18T03:21:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

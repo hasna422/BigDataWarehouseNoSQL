@@ -1,0 +1,15 @@
+{
+    "order_id": 585318,
+    "client_id": 7018,
+    "produits": [
+        {
+            "produit_id": "P5382",
+            "nom": "Unbranded Wooden Pants",
+            "quantite": 1,
+            "prix_unitaire": 230.45
+        }
+    ],
+    "date_commande": "2024-05-01T07:00:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 663005,
+    "client_id": 5594,
+    "produits": [
+        {
+            "produit_id": "P3716",
+            "nom": "Gently Used Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 58.81
+        },
+        {
+            "produit_id": "P1952",
+            "nom": "Unbranded Shoes",
+            "quantite": 1,
+            "prix_unitaire": 354.09
+        },
+        {
+            "produit_id": "P0120",
+            "nom": "Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 190.53
+        }
+    ],
+    "date_commande": "2025-03-03T01:38:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

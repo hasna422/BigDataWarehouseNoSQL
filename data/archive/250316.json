@@ -1,0 +1,15 @@
+{
+    "order_id": 250316,
+    "client_id": 3908,
+    "produits": [
+        {
+            "produit_id": "P6757",
+            "nom": "Unbranded Rubber Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 391.62
+        }
+    ],
+    "date_commande": "2024-01-03T15:59:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

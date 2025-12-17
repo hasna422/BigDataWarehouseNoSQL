@@ -1,0 +1,27 @@
+{
+    "order_id": 519590,
+    "client_id": 8953,
+    "produits": [
+        {
+            "produit_id": "P0834",
+            "nom": "For repair Granite Table",
+            "quantite": 2,
+            "prix_unitaire": 318.12
+        },
+        {
+            "produit_id": "P7642",
+            "nom": "Fantastic Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 75.46
+        },
+        {
+            "produit_id": "P8496",
+            "nom": "Tasty Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 439.32
+        }
+    ],
+    "date_commande": "2023-08-20T03:29:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

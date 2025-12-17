@@ -1,0 +1,19 @@
+{
+    "order_id": 326775,
+    "client_id": 1267,
+    "produits": [
+        {
+            "produit_id": "P9981",
+            "nom": "Refined Granite Chair",
+            "quantite": 4,
+            "prix_unitaire": 453.56
+        }
+    ],
+    "date_commande": "2024-09-11T09:43:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "164 Lobos",
+        "ville": "Mequon"
+    }
+}

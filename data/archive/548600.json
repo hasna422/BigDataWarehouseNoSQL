@@ -1,0 +1,15 @@
+{
+    "order_id": 548600,
+    "client_id": 1570,
+    "produits": [
+        {
+            "produit_id": "P4737",
+            "nom": "For repair Gloves",
+            "quantite": 4,
+            "prix_unitaire": 8.31
+        }
+    ],
+    "date_commande": "2024-02-10T11:43:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

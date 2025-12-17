@@ -1,0 +1,27 @@
+{
+    "order_id": 353326,
+    "client_id": 6872,
+    "produits": [
+        {
+            "produit_id": "P0793",
+            "nom": "Rustic Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 483.85
+        },
+        {
+            "produit_id": "P1951",
+            "nom": "Small Plastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 196.98
+        },
+        {
+            "produit_id": "P9449",
+            "nom": "Fantastic Soft Pizza",
+            "quantite": 3,
+            "prix_unitaire": 338.72
+        }
+    ],
+    "date_commande": "2024-10-16T15:02:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

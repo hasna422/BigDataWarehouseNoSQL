@@ -1,0 +1,19 @@
+{
+    "order_id": 386498,
+    "client_id": 8768,
+    "produits": [
+        {
+            "produit_id": "P0897",
+            "nom": "Ergonomic Plastic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 293.83
+        }
+    ],
+    "date_commande": "2024-03-08T21:05:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "881 Octavia",
+        "ville": "Lawndale"
+    }
+}

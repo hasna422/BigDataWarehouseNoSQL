@@ -1,0 +1,21 @@
+{
+    "order_id": 336601,
+    "client_id": 5188,
+    "produits": [
+        {
+            "produit_id": "P2621",
+            "nom": "New Concrete Pants",
+            "quantite": 2,
+            "prix_unitaire": 210.56
+        },
+        {
+            "produit_id": "P7253",
+            "nom": "Handmade Chair",
+            "quantite": 1,
+            "prix_unitaire": 413.54
+        }
+    ],
+    "date_commande": "2024-01-05T14:17:58",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

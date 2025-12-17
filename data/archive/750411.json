@@ -1,0 +1,25 @@
+{
+    "order_id": 750411,
+    "client_id": 6900,
+    "produits": [
+        {
+            "produit_id": "P0041",
+            "nom": "Intelligent Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 197.86
+        },
+        {
+            "produit_id": "P7734",
+            "nom": "Cheese",
+            "quantite": 3,
+            "prix_unitaire": 459.46
+        }
+    ],
+    "date_commande": "2024-02-11T10:19:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1319 Topeka",
+        "ville": "Puyallup"
+    }
+}

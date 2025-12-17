@@ -1,0 +1,25 @@
+{
+    "order_id": 522491,
+    "client_id": 1892,
+    "produits": [
+        {
+            "produit_id": "P9707",
+            "nom": "Tasty Fresh Shoes",
+            "quantite": 1,
+            "prix_unitaire": 186.99
+        },
+        {
+            "produit_id": "P2267",
+            "nom": "Handmade Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 241.88
+        }
+    ],
+    "date_commande": "2023-11-23T03:10:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "136 Farnum",
+        "ville": "Slidell"
+    }
+}

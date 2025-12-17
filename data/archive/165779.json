@@ -1,0 +1,31 @@
+{
+    "order_id": 165779,
+    "client_id": 8112,
+    "produits": [
+        {
+            "produit_id": "P9816",
+            "nom": "Rustic Rubber Mouse",
+            "quantite": 2,
+            "prix_unitaire": 12.25
+        },
+        {
+            "produit_id": "P7466",
+            "nom": "Handmade Ball",
+            "quantite": 2,
+            "prix_unitaire": 494.25
+        },
+        {
+            "produit_id": "P4982",
+            "nom": "New Bike",
+            "quantite": 2,
+            "prix_unitaire": 163.49
+        }
+    ],
+    "date_commande": "2023-11-26T07:38:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "855 San Jose",
+        "ville": "North Canton"
+    }
+}

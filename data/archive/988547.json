@@ -1,0 +1,25 @@
+{
+    "order_id": 988547,
+    "client_id": 8465,
+    "produits": [
+        {
+            "produit_id": "P1185",
+            "nom": "Small Steel Chair",
+            "quantite": 4,
+            "prix_unitaire": 455.55
+        },
+        {
+            "produit_id": "P4838",
+            "nom": "Sleek Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 143.74
+        }
+    ],
+    "date_commande": "2024-11-05T09:33:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "802 Beatrice",
+        "ville": "El Paso"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 234257,
+    "client_id": 7762,
+    "produits": [
+        {
+            "produit_id": "P0104",
+            "nom": "Handcrafted Concrete Table",
+            "quantite": 5,
+            "prix_unitaire": 254.85
+        }
+    ],
+    "date_commande": "2023-10-13T09:16:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

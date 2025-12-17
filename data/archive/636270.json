@@ -1,0 +1,31 @@
+{
+    "order_id": 636270,
+    "client_id": 9145,
+    "produits": [
+        {
+            "produit_id": "P1230",
+            "nom": "For repair Frozen Computer",
+            "quantite": 4,
+            "prix_unitaire": 72.95
+        },
+        {
+            "produit_id": "P7349",
+            "nom": "Ergonomic Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 296.88
+        },
+        {
+            "produit_id": "P1343",
+            "nom": "Incredible Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 434.92
+        }
+    ],
+    "date_commande": "2023-12-19T21:22:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1173 Mark Twain",
+        "ville": "Centennial"
+    }
+}

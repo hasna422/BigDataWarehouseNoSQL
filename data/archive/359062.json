@@ -1,0 +1,15 @@
+{
+    "order_id": 359062,
+    "client_id": 8144,
+    "produits": [
+        {
+            "produit_id": "P6523",
+            "nom": "Used Shirt",
+            "quantite": 5,
+            "prix_unitaire": 330.75
+        }
+    ],
+    "date_commande": "2024-10-01T08:11:50",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

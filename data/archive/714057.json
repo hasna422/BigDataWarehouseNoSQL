@@ -1,0 +1,15 @@
+{
+    "order_id": 714057,
+    "client_id": 3392,
+    "produits": [
+        {
+            "produit_id": "P6829",
+            "nom": "Gently Used Granite Cheese",
+            "quantite": 1,
+            "prix_unitaire": 186.19
+        }
+    ],
+    "date_commande": "2023-07-17T05:21:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

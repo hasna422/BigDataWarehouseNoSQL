@@ -1,0 +1,19 @@
+{
+    "order_id": 883655,
+    "client_id": 5273,
+    "produits": [
+        {
+            "produit_id": "P1654",
+            "nom": "Used Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 202.37
+        }
+    ],
+    "date_commande": "2023-11-23T17:26:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "931 Belgrave",
+        "ville": "Corcoran"
+    }
+}

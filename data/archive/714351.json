@@ -1,0 +1,31 @@
+{
+    "order_id": 714351,
+    "client_id": 8983,
+    "produits": [
+        {
+            "produit_id": "P2857",
+            "nom": "Handcrafted Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 100.33
+        },
+        {
+            "produit_id": "P1412",
+            "nom": "Tasty Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 168.43
+        },
+        {
+            "produit_id": "P7797",
+            "nom": "Tasty Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 331.98
+        }
+    ],
+    "date_commande": "2025-02-13T03:17:49",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1030 Steveloe",
+        "ville": "Joplin"
+    }
+}

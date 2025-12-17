@@ -1,0 +1,27 @@
+{
+    "order_id": 264528,
+    "client_id": 1140,
+    "produits": [
+        {
+            "produit_id": "P9092",
+            "nom": "Mouse",
+            "quantite": 4,
+            "prix_unitaire": 486.0
+        },
+        {
+            "produit_id": "P5679",
+            "nom": "Gorgeous Chair",
+            "quantite": 3,
+            "prix_unitaire": 346.9
+        },
+        {
+            "produit_id": "P3750",
+            "nom": "Concrete Tuna",
+            "quantite": 3,
+            "prix_unitaire": 398.83
+        }
+    ],
+    "date_commande": "2024-04-30T09:02:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

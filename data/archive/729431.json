@@ -1,0 +1,19 @@
+{
+    "order_id": 729431,
+    "client_id": 5382,
+    "produits": [
+        {
+            "produit_id": "P9075",
+            "nom": "Metal Chair",
+            "quantite": 3,
+            "prix_unitaire": 304.45
+        }
+    ],
+    "date_commande": "2025-03-01T06:21:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "857 Farnsworth",
+        "ville": "Big Spring"
+    }
+}

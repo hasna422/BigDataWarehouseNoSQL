@@ -1,0 +1,25 @@
+{
+    "order_id": 575787,
+    "client_id": 3171,
+    "produits": [
+        {
+            "produit_id": "P9632",
+            "nom": "Sleek Concrete Pants",
+            "quantite": 2,
+            "prix_unitaire": 274.35
+        },
+        {
+            "produit_id": "P4149",
+            "nom": "Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 258.07
+        }
+    ],
+    "date_commande": "2024-05-16T14:17:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "822 Pearl",
+        "ville": "Junction City"
+    }
+}

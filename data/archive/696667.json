@@ -1,0 +1,15 @@
+{
+    "order_id": 696667,
+    "client_id": 2813,
+    "produits": [
+        {
+            "produit_id": "P1724",
+            "nom": "Licensed Wooden Table",
+            "quantite": 2,
+            "prix_unitaire": 212.01
+        }
+    ],
+    "date_commande": "2023-12-15T07:23:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

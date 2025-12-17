@@ -1,0 +1,25 @@
+{
+    "order_id": 205242,
+    "client_id": 5913,
+    "produits": [
+        {
+            "produit_id": "P4293",
+            "nom": "Ergonomic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 316.78
+        },
+        {
+            "produit_id": "P3787",
+            "nom": "Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 255.87
+        }
+    ],
+    "date_commande": "2024-01-15T02:41:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "311 Noe",
+        "ville": "State College"
+    }
+}

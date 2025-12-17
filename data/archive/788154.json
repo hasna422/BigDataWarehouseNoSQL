@@ -1,0 +1,15 @@
+{
+    "order_id": 788154,
+    "client_id": 6429,
+    "produits": [
+        {
+            "produit_id": "P7714",
+            "nom": "Incredible Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 146.41
+        }
+    ],
+    "date_commande": "2025-01-17T13:21:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

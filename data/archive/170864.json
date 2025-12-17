@@ -1,0 +1,15 @@
+{
+    "order_id": 170864,
+    "client_id": 8799,
+    "produits": [
+        {
+            "produit_id": "P3028",
+            "nom": "Handmade Cotton Computer",
+            "quantite": 3,
+            "prix_unitaire": 28.89
+        }
+    ],
+    "date_commande": "2024-06-11T04:21:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

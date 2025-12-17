@@ -1,0 +1,15 @@
+{
+    "order_id": 993362,
+    "client_id": 3843,
+    "produits": [
+        {
+            "produit_id": "P1786",
+            "nom": "Awesome Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 247.07
+        }
+    ],
+    "date_commande": "2024-05-05T22:22:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

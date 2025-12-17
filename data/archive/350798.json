@@ -1,0 +1,31 @@
+{
+    "order_id": 350798,
+    "client_id": 8439,
+    "produits": [
+        {
+            "produit_id": "P7049",
+            "nom": "Ergonomic Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 310.77
+        },
+        {
+            "produit_id": "P3750",
+            "nom": "Tasty Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 144.26
+        },
+        {
+            "produit_id": "P8125",
+            "nom": "Gorgeous Cotton Gloves",
+            "quantite": 3,
+            "prix_unitaire": 480.2
+        }
+    ],
+    "date_commande": "2025-02-28T21:29:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "962 Buchanan",
+        "ville": "Georgetown"
+    }
+}

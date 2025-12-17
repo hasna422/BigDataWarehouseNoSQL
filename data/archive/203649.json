@@ -1,0 +1,31 @@
+{
+    "order_id": 203649,
+    "client_id": 8767,
+    "produits": [
+        {
+            "produit_id": "P8106",
+            "nom": "Practical Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 301.95
+        },
+        {
+            "produit_id": "P9911",
+            "nom": "Practical Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 459.17
+        },
+        {
+            "produit_id": "P6444",
+            "nom": "Frozen Pants",
+            "quantite": 3,
+            "prix_unitaire": 430.38
+        }
+    ],
+    "date_commande": "2025-02-01T08:05:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "755 Trumbull",
+        "ville": "Chico"
+    }
+}

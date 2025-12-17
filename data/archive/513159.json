@@ -1,0 +1,19 @@
+{
+    "order_id": 513159,
+    "client_id": 4474,
+    "produits": [
+        {
+            "produit_id": "P4186",
+            "nom": "Refined Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 37.17
+        }
+    ],
+    "date_commande": "2023-11-13T00:58:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "647 Hastings",
+        "ville": "New Britain"
+    }
+}

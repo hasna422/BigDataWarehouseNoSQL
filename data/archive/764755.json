@@ -1,0 +1,19 @@
+{
+    "order_id": 764755,
+    "client_id": 1093,
+    "produits": [
+        {
+            "produit_id": "P9038",
+            "nom": "New Wooden Hat",
+            "quantite": 3,
+            "prix_unitaire": 295.03
+        }
+    ],
+    "date_commande": "2025-03-07T11:20:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "666 Sheridan",
+        "ville": "Azusa"
+    }
+}

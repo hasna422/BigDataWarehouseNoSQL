@@ -1,0 +1,31 @@
+{
+    "order_id": 320902,
+    "client_id": 1194,
+    "produits": [
+        {
+            "produit_id": "P5104",
+            "nom": "Gently Used Cotton Computer",
+            "quantite": 1,
+            "prix_unitaire": 215.11
+        },
+        {
+            "produit_id": "P9099",
+            "nom": "New Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 208.1
+        },
+        {
+            "produit_id": "P3935",
+            "nom": "Tasty Rubber Salad",
+            "quantite": 4,
+            "prix_unitaire": 10.87
+        }
+    ],
+    "date_commande": "2024-01-13T02:08:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1124 Walbridge",
+        "ville": "Federal Way"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 514091,
+    "client_id": 2816,
+    "produits": [
+        {
+            "produit_id": "P9980",
+            "nom": "Unbranded Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 261.46
+        }
+    ],
+    "date_commande": "2025-01-22T23:20:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "738 Del Sur",
+        "ville": "Wayne"
+    }
+}

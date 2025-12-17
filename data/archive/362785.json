@@ -1,0 +1,31 @@
+{
+    "order_id": 362785,
+    "client_id": 9180,
+    "produits": [
+        {
+            "produit_id": "P3244",
+            "nom": "New Metal Chicken",
+            "quantite": 2,
+            "prix_unitaire": 321.04
+        },
+        {
+            "produit_id": "P6198",
+            "nom": "Incredible Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 294.97
+        },
+        {
+            "produit_id": "P0248",
+            "nom": "Ergonomic Metal Ball",
+            "quantite": 4,
+            "prix_unitaire": 260.99
+        }
+    ],
+    "date_commande": "2024-03-03T11:19:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "357 Upton",
+        "ville": "Loma Linda"
+    }
+}

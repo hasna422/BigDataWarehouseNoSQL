@@ -1,0 +1,21 @@
+{
+    "order_id": 473512,
+    "client_id": 1526,
+    "produits": [
+        {
+            "produit_id": "P3828",
+            "nom": "New Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 246.4
+        },
+        {
+            "produit_id": "P8711",
+            "nom": "Unbranded Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 343.82
+        }
+    ],
+    "date_commande": "2024-02-17T07:09:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

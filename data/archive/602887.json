@@ -1,0 +1,25 @@
+{
+    "order_id": 602887,
+    "client_id": 9565,
+    "produits": [
+        {
+            "produit_id": "P7411",
+            "nom": "For repair Plastic Ball",
+            "quantite": 2,
+            "prix_unitaire": 294.09
+        },
+        {
+            "produit_id": "P3703",
+            "nom": "Sleek Steel Bacon",
+            "quantite": 5,
+            "prix_unitaire": 208.67
+        }
+    ],
+    "date_commande": "2025-01-07T17:54:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "155 Rodgers",
+        "ville": "Hazel Park"
+    }
+}

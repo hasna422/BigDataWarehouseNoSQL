@@ -1,0 +1,27 @@
+{
+    "order_id": 562604,
+    "client_id": 8664,
+    "produits": [
+        {
+            "produit_id": "P5365",
+            "nom": "For repair Towels",
+            "quantite": 3,
+            "prix_unitaire": 290.45
+        },
+        {
+            "produit_id": "P8305",
+            "nom": "Salad",
+            "quantite": 5,
+            "prix_unitaire": 262.22
+        },
+        {
+            "produit_id": "P0947",
+            "nom": "Sleek Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 184.08
+        }
+    ],
+    "date_commande": "2024-06-14T15:28:10",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

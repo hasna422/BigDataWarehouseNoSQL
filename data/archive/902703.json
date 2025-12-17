@@ -1,0 +1,19 @@
+{
+    "order_id": 902703,
+    "client_id": 5771,
+    "produits": [
+        {
+            "produit_id": "P2701",
+            "nom": "Small Concrete Bike",
+            "quantite": 3,
+            "prix_unitaire": 273.27
+        }
+    ],
+    "date_commande": "2024-08-04T11:25:55",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "623 Gellert",
+        "ville": "Harrisonburg"
+    }
+}

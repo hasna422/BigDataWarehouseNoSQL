@@ -1,0 +1,21 @@
+{
+    "order_id": 492368,
+    "client_id": 9397,
+    "produits": [
+        {
+            "produit_id": "P6658",
+            "nom": "Licensed Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 457.25
+        },
+        {
+            "produit_id": "P3330",
+            "nom": "Generic Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 212.09
+        }
+    ],
+    "date_commande": "2024-10-30T09:47:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

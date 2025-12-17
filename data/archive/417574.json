@@ -1,0 +1,19 @@
+{
+    "order_id": 417574,
+    "client_id": 5425,
+    "produits": [
+        {
+            "produit_id": "P4064",
+            "nom": "Generic Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 169.08
+        }
+    ],
+    "date_commande": "2024-06-08T14:30:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "410 Panama",
+        "ville": "Mokena"
+    }
+}

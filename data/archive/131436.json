@@ -1,0 +1,31 @@
+{
+    "order_id": 131436,
+    "client_id": 6036,
+    "produits": [
+        {
+            "produit_id": "P3633",
+            "nom": "Awesome Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 218.49
+        },
+        {
+            "produit_id": "P8385",
+            "nom": "Licensed Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 306.89
+        },
+        {
+            "produit_id": "P1522",
+            "nom": "Intelligent Granite Towels",
+            "quantite": 1,
+            "prix_unitaire": 5.32
+        }
+    ],
+    "date_commande": "2023-08-08T17:05:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "578 Judah",
+        "ville": "Northfield"
+    }
+}

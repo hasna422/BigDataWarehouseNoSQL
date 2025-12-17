@@ -1,0 +1,31 @@
+{
+    "order_id": 494749,
+    "client_id": 1046,
+    "produits": [
+        {
+            "produit_id": "P4143",
+            "nom": "Fantastic Concrete Car",
+            "quantite": 3,
+            "prix_unitaire": 16.08
+        },
+        {
+            "produit_id": "P4027",
+            "nom": "Intelligent Granite Bacon",
+            "quantite": 2,
+            "prix_unitaire": 280.17
+        },
+        {
+            "produit_id": "P0399",
+            "nom": "Intelligent Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 130.09
+        }
+    ],
+    "date_commande": "2025-04-09T16:28:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1127 Thomas",
+        "ville": "Florissant"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 788212,
+    "client_id": 5454,
+    "produits": [
+        {
+            "produit_id": "P2284",
+            "nom": "Generic Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 251.6
+        },
+        {
+            "produit_id": "P3113",
+            "nom": "New Plastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 411.34
+        },
+        {
+            "produit_id": "P2028",
+            "nom": "Incredible Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 223.14
+        }
+    ],
+    "date_commande": "2023-10-04T21:31:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

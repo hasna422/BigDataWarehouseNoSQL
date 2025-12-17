@@ -1,0 +1,19 @@
+{
+    "order_id": 459983,
+    "client_id": 4650,
+    "produits": [
+        {
+            "produit_id": "P9202",
+            "nom": "Intelligent Fresh Shoes",
+            "quantite": 2,
+            "prix_unitaire": 465.21
+        }
+    ],
+    "date_commande": "2024-01-27T03:00:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1387 Monte Vista",
+        "ville": "St. Paul"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 953633,
+    "client_id": 9958,
+    "produits": [
+        {
+            "produit_id": "P4819",
+            "nom": "Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 182.1
+        }
+    ],
+    "date_commande": "2023-10-28T21:25:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

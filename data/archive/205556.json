@@ -1,0 +1,31 @@
+{
+    "order_id": 205556,
+    "client_id": 3596,
+    "produits": [
+        {
+            "produit_id": "P0654",
+            "nom": "New Wooden Fish",
+            "quantite": 5,
+            "prix_unitaire": 76.4
+        },
+        {
+            "produit_id": "P6795",
+            "nom": "Gently Used Cotton Bacon",
+            "quantite": 3,
+            "prix_unitaire": 355.16
+        },
+        {
+            "produit_id": "P4791",
+            "nom": "Gently Used Soap",
+            "quantite": 5,
+            "prix_unitaire": 55.05
+        }
+    ],
+    "date_commande": "2023-07-29T17:35:23",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "589 Sonoma",
+        "ville": "New Haven"
+    }
+}

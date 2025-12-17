@@ -1,0 +1,31 @@
+{
+    "order_id": 604582,
+    "client_id": 8251,
+    "produits": [
+        {
+            "produit_id": "P0426",
+            "nom": "Gorgeous Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 339.91
+        },
+        {
+            "produit_id": "P4676",
+            "nom": "Handcrafted Fresh Chair",
+            "quantite": 2,
+            "prix_unitaire": 288.62
+        },
+        {
+            "produit_id": "P4375",
+            "nom": "Gorgeous Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 109.05
+        }
+    ],
+    "date_commande": "2024-02-09T06:23:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "154 Transbay Hump",
+        "ville": "Kingsport"
+    }
+}

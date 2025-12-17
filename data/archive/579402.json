@@ -1,0 +1,15 @@
+{
+    "order_id": 579402,
+    "client_id": 3941,
+    "produits": [
+        {
+            "produit_id": "P8604",
+            "nom": "Ergonomic Soft Sausages",
+            "quantite": 3,
+            "prix_unitaire": 267.51
+        }
+    ],
+    "date_commande": "2024-08-25T14:04:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 310372,
+    "client_id": 6334,
+    "produits": [
+        {
+            "produit_id": "P6583",
+            "nom": "Fantastic Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 98.32
+        }
+    ],
+    "date_commande": "2024-07-19T12:01:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

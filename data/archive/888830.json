@@ -1,0 +1,19 @@
+{
+    "order_id": 888830,
+    "client_id": 3823,
+    "produits": [
+        {
+            "produit_id": "P0512",
+            "nom": "Sleek Bacon",
+            "quantite": 5,
+            "prix_unitaire": 258.59
+        }
+    ],
+    "date_commande": "2024-04-19T15:23:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "770 Meda",
+        "ville": "Chambersburg"
+    }
+}

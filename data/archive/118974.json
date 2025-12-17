@@ -1,0 +1,31 @@
+{
+    "order_id": 118974,
+    "client_id": 5892,
+    "produits": [
+        {
+            "produit_id": "P1896",
+            "nom": "Refined Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 226.82
+        },
+        {
+            "produit_id": "P2667",
+            "nom": "Used Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 342.69
+        },
+        {
+            "produit_id": "P7345",
+            "nom": "Incredible Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 342.42
+        }
+    ],
+    "date_commande": "2024-02-22T23:51:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "896 Bocana",
+        "ville": "Apex"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 691608,
+    "client_id": 9285,
+    "produits": [
+        {
+            "produit_id": "P7744",
+            "nom": "Sleek Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 390.56
+        }
+    ],
+    "date_commande": "2023-07-20T20:08:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1256 Ervine",
+        "ville": "Tamarac"
+    }
+}

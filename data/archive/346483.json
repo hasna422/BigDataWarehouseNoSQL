@@ -1,0 +1,25 @@
+{
+    "order_id": 346483,
+    "client_id": 8589,
+    "produits": [
+        {
+            "produit_id": "P3824",
+            "nom": "Tasty Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 419.31
+        },
+        {
+            "produit_id": "P0187",
+            "nom": "Tasty Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 39.95
+        }
+    ],
+    "date_commande": "2025-04-09T05:49:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "551 Mizpah",
+        "ville": "Duluth"
+    }
+}

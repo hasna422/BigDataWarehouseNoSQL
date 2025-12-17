@@ -1,0 +1,19 @@
+{
+    "order_id": 892192,
+    "client_id": 5181,
+    "produits": [
+        {
+            "produit_id": "P5119",
+            "nom": "Fantastic Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 126.62
+        }
+    ],
+    "date_commande": "2024-11-07T19:17:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "97 Northridge",
+        "ville": "Ferguson"
+    }
+}

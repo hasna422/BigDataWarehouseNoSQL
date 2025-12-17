@@ -1,0 +1,31 @@
+{
+    "order_id": 934885,
+    "client_id": 4288,
+    "produits": [
+        {
+            "produit_id": "P2355",
+            "nom": "New Soft Pizza",
+            "quantite": 4,
+            "prix_unitaire": 328.36
+        },
+        {
+            "produit_id": "P2828",
+            "nom": "New Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 468.35
+        },
+        {
+            "produit_id": "P8408",
+            "nom": "Sleek Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 24.88
+        }
+    ],
+    "date_commande": "2024-04-22T22:12:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "182 Knockash",
+        "ville": "Northbrook"
+    }
+}

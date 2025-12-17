@@ -1,0 +1,31 @@
+{
+    "order_id": 254485,
+    "client_id": 5842,
+    "produits": [
+        {
+            "produit_id": "P7505",
+            "nom": "New Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 214.12
+        },
+        {
+            "produit_id": "P4772",
+            "nom": "Awesome Fresh Chair",
+            "quantite": 4,
+            "prix_unitaire": 474.78
+        },
+        {
+            "produit_id": "P7872",
+            "nom": "Fantastic Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 198.37
+        }
+    ],
+    "date_commande": "2024-02-04T18:53:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "328 Rosemont",
+        "ville": "Country Club Hills"
+    }
+}

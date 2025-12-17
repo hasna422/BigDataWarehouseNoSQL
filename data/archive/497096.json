@@ -1,0 +1,21 @@
+{
+    "order_id": 497096,
+    "client_id": 8649,
+    "produits": [
+        {
+            "produit_id": "P3790",
+            "nom": "Incredible Rubber Car",
+            "quantite": 4,
+            "prix_unitaire": 92.81
+        },
+        {
+            "produit_id": "P2797",
+            "nom": "Awesome Metal Mouse",
+            "quantite": 3,
+            "prix_unitaire": 58.77
+        }
+    ],
+    "date_commande": "2023-07-01T08:32:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

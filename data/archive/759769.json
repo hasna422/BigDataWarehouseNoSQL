@@ -1,0 +1,21 @@
+{
+    "order_id": 759769,
+    "client_id": 9858,
+    "produits": [
+        {
+            "produit_id": "P1802",
+            "nom": "Small Soft Ball",
+            "quantite": 5,
+            "prix_unitaire": 253.84
+        },
+        {
+            "produit_id": "P5318",
+            "nom": "Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 158.78
+        }
+    ],
+    "date_commande": "2024-06-02T07:45:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

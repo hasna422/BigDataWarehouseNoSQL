@@ -1,0 +1,31 @@
+{
+    "order_id": 137028,
+    "client_id": 8636,
+    "produits": [
+        {
+            "produit_id": "P6978",
+            "nom": "Awesome Metal Bacon",
+            "quantite": 3,
+            "prix_unitaire": 114.85
+        },
+        {
+            "produit_id": "P7031",
+            "nom": "Sleek Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 329.01
+        },
+        {
+            "produit_id": "P1341",
+            "nom": "Intelligent Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 317.92
+        }
+    ],
+    "date_commande": "2025-04-24T17:11:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "472 Shafter",
+        "ville": "Garner"
+    }
+}

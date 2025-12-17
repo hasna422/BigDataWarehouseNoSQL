@@ -1,0 +1,27 @@
+{
+    "order_id": 154993,
+    "client_id": 2050,
+    "produits": [
+        {
+            "produit_id": "P2216",
+            "nom": "Practical Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 26.34
+        },
+        {
+            "produit_id": "P3648",
+            "nom": "Small Granite Bacon",
+            "quantite": 1,
+            "prix_unitaire": 280.33
+        },
+        {
+            "produit_id": "P3429",
+            "nom": "Tasty Fresh Shoes",
+            "quantite": 1,
+            "prix_unitaire": 334.01
+        }
+    ],
+    "date_commande": "2024-10-12T06:31:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 386232,
+    "client_id": 8956,
+    "produits": [
+        {
+            "produit_id": "P7197",
+            "nom": "Fantastic Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 234.04
+        },
+        {
+            "produit_id": "P4161",
+            "nom": "Sleek Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 219.11
+        }
+    ],
+    "date_commande": "2024-06-11T00:02:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "130 Fontinella",
+        "ville": "Hannibal"
+    }
+}

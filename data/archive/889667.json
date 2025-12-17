@@ -1,0 +1,15 @@
+{
+    "order_id": 889667,
+    "client_id": 5742,
+    "produits": [
+        {
+            "produit_id": "P1023",
+            "nom": "Used Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 325.99
+        }
+    ],
+    "date_commande": "2025-02-21T17:40:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

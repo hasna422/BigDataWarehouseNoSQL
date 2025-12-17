@@ -1,0 +1,15 @@
+{
+    "order_id": 699157,
+    "client_id": 8459,
+    "produits": [
+        {
+            "produit_id": "P1980",
+            "nom": "For repair Frozen Hat",
+            "quantite": 4,
+            "prix_unitaire": 71.51
+        }
+    ],
+    "date_commande": "2024-10-19T08:01:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 705463,
+    "client_id": 3373,
+    "produits": [
+        {
+            "produit_id": "P8045",
+            "nom": "Small Concrete Bacon",
+            "quantite": 2,
+            "prix_unitaire": 372.82
+        },
+        {
+            "produit_id": "P5743",
+            "nom": "Generic Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 292.19
+        },
+        {
+            "produit_id": "P6794",
+            "nom": "Awesome Chips",
+            "quantite": 4,
+            "prix_unitaire": 241.31
+        }
+    ],
+    "date_commande": "2024-08-16T00:21:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

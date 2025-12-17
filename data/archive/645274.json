@@ -1,0 +1,21 @@
+{
+    "order_id": 645274,
+    "client_id": 4445,
+    "produits": [
+        {
+            "produit_id": "P3664",
+            "nom": "Awesome Cheese",
+            "quantite": 2,
+            "prix_unitaire": 17.21
+        },
+        {
+            "produit_id": "P6314",
+            "nom": "Refined Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 192.72
+        }
+    ],
+    "date_commande": "2024-07-27T20:12:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

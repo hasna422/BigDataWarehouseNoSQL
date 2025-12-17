@@ -1,0 +1,31 @@
+{
+    "order_id": 873936,
+    "client_id": 4876,
+    "produits": [
+        {
+            "produit_id": "P6212",
+            "nom": "Handcrafted Soft Shoes",
+            "quantite": 5,
+            "prix_unitaire": 446.7
+        },
+        {
+            "produit_id": "P9571",
+            "nom": "New Fresh Bacon",
+            "quantite": 2,
+            "prix_unitaire": 182.55
+        },
+        {
+            "produit_id": "P6059",
+            "nom": "Licensed Concrete Salad",
+            "quantite": 5,
+            "prix_unitaire": 346.98
+        }
+    ],
+    "date_commande": "2025-03-15T23:55:43",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1270 Dwight",
+        "ville": "Columbia Heights"
+    }
+}

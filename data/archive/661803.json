@@ -1,0 +1,25 @@
+{
+    "order_id": 661803,
+    "client_id": 7175,
+    "produits": [
+        {
+            "produit_id": "P2936",
+            "nom": "Generic Frozen Mouse",
+            "quantite": 3,
+            "prix_unitaire": 492.93
+        },
+        {
+            "produit_id": "P0978",
+            "nom": "Practical Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 427.41
+        }
+    ],
+    "date_commande": "2024-01-30T17:27:22",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1136 San Rafael",
+        "ville": "Greenfield"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 966607,
+    "client_id": 2825,
+    "produits": [
+        {
+            "produit_id": "P3733",
+            "nom": "Generic Fresh Shoes",
+            "quantite": 5,
+            "prix_unitaire": 108.96
+        },
+        {
+            "produit_id": "P8308",
+            "nom": "Fantastic Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 208.76
+        },
+        {
+            "produit_id": "P4849",
+            "nom": "Incredible Granite Bacon",
+            "quantite": 4,
+            "prix_unitaire": 485.86
+        }
+    ],
+    "date_commande": "2024-10-18T11:43:34",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

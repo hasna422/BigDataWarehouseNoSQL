@@ -1,0 +1,19 @@
+{
+    "order_id": 844558,
+    "client_id": 8118,
+    "produits": [
+        {
+            "produit_id": "P2141",
+            "nom": "Practical Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 40.77
+        }
+    ],
+    "date_commande": "2023-10-06T03:11:14",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "98 Portal",
+        "ville": "Medina"
+    }
+}

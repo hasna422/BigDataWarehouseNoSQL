@@ -1,0 +1,21 @@
+{
+    "order_id": 499742,
+    "client_id": 8195,
+    "produits": [
+        {
+            "produit_id": "P5493",
+            "nom": "Generic Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 193.38
+        },
+        {
+            "produit_id": "P3727",
+            "nom": "Practical Plastic Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 232.69
+        }
+    ],
+    "date_commande": "2024-06-04T21:16:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

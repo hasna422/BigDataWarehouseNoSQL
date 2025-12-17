@@ -1,0 +1,31 @@
+{
+    "order_id": 507288,
+    "client_id": 2620,
+    "produits": [
+        {
+            "produit_id": "P2353",
+            "nom": "Used Chicken",
+            "quantite": 5,
+            "prix_unitaire": 404.42
+        },
+        {
+            "produit_id": "P5871",
+            "nom": "Gorgeous Bike",
+            "quantite": 3,
+            "prix_unitaire": 123.73
+        },
+        {
+            "produit_id": "P0069",
+            "nom": "Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 123.79
+        }
+    ],
+    "date_commande": "2024-01-23T13:42:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "482 Hollis",
+        "ville": "Duluth"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 249164,
+    "client_id": 2892,
+    "produits": [
+        {
+            "produit_id": "P3098",
+            "nom": "Intelligent Frozen Chips",
+            "quantite": 4,
+            "prix_unitaire": 149.17
+        },
+        {
+            "produit_id": "P6823",
+            "nom": "Tasty Soft Soap",
+            "quantite": 3,
+            "prix_unitaire": 150.29
+        },
+        {
+            "produit_id": "P2174",
+            "nom": "Small Wooden Cheese",
+            "quantite": 5,
+            "prix_unitaire": 48.58
+        }
+    ],
+    "date_commande": "2024-01-16T02:38:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

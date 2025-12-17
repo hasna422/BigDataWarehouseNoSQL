@@ -1,0 +1,21 @@
+{
+    "order_id": 486006,
+    "client_id": 1603,
+    "produits": [
+        {
+            "produit_id": "P6322",
+            "nom": "Handcrafted Concrete Bacon",
+            "quantite": 4,
+            "prix_unitaire": 259.95
+        },
+        {
+            "produit_id": "P7255",
+            "nom": "Refined Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 386.61
+        }
+    ],
+    "date_commande": "2024-11-21T21:37:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

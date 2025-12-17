@@ -1,0 +1,19 @@
+{
+    "order_id": 190618,
+    "client_id": 1620,
+    "produits": [
+        {
+            "produit_id": "P3847",
+            "nom": "Handmade Chair",
+            "quantite": 1,
+            "prix_unitaire": 233.0
+        }
+    ],
+    "date_commande": "2024-12-09T09:19:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "865 Bernice",
+        "ville": "Arvada"
+    }
+}

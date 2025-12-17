@@ -1,0 +1,19 @@
+{
+    "order_id": 812178,
+    "client_id": 6817,
+    "produits": [
+        {
+            "produit_id": "P3483",
+            "nom": "Rustic Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 295.06
+        }
+    ],
+    "date_commande": "2024-11-03T15:46:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1080 Card",
+        "ville": "Hartford"
+    }
+}

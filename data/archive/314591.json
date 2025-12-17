@@ -1,0 +1,25 @@
+{
+    "order_id": 314591,
+    "client_id": 3578,
+    "produits": [
+        {
+            "produit_id": "P6220",
+            "nom": "Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 386.1
+        },
+        {
+            "produit_id": "P1397",
+            "nom": "Plastic Shoes",
+            "quantite": 3,
+            "prix_unitaire": 388.38
+        }
+    ],
+    "date_commande": "2024-03-29T19:48:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "54 Valley",
+        "ville": "Lenoir"
+    }
+}

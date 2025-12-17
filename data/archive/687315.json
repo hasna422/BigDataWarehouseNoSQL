@@ -1,0 +1,25 @@
+{
+    "order_id": 687315,
+    "client_id": 8242,
+    "produits": [
+        {
+            "produit_id": "P4969",
+            "nom": "Intelligent Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 131.85
+        },
+        {
+            "produit_id": "P8136",
+            "nom": "Incredible Computer",
+            "quantite": 5,
+            "prix_unitaire": 234.85
+        }
+    ],
+    "date_commande": "2025-02-10T05:42:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "892 Florida",
+        "ville": "Rio Rancho"
+    }
+}

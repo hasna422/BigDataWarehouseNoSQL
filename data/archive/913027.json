@@ -1,0 +1,31 @@
+{
+    "order_id": 913027,
+    "client_id": 8817,
+    "produits": [
+        {
+            "produit_id": "P2920",
+            "nom": "Tasty Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 487.57
+        },
+        {
+            "produit_id": "P5923",
+            "nom": "For repair Ball",
+            "quantite": 1,
+            "prix_unitaire": 64.46
+        },
+        {
+            "produit_id": "P0521",
+            "nom": "Practical Steel Gloves",
+            "quantite": 4,
+            "prix_unitaire": 224.4
+        }
+    ],
+    "date_commande": "2024-02-19T19:43:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "946 Kalmanovitz",
+        "ville": "Sachse"
+    }
+}

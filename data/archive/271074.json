@@ -1,0 +1,25 @@
+{
+    "order_id": 271074,
+    "client_id": 9094,
+    "produits": [
+        {
+            "produit_id": "P7244",
+            "nom": "Incredible Granite Car",
+            "quantite": 1,
+            "prix_unitaire": 40.06
+        },
+        {
+            "produit_id": "P6536",
+            "nom": "Small Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 75.29
+        }
+    ],
+    "date_commande": "2025-01-31T01:08:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1264 Anthony",
+        "ville": "Galt"
+    }
+}

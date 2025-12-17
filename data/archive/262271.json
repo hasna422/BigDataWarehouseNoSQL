@@ -1,0 +1,19 @@
+{
+    "order_id": 262271,
+    "client_id": 4660,
+    "produits": [
+        {
+            "produit_id": "P8504",
+            "nom": "Licensed Cotton Bacon",
+            "quantite": 5,
+            "prix_unitaire": 408.87
+        }
+    ],
+    "date_commande": "2025-02-28T08:03:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "513 Bosworth",
+        "ville": "Plum"
+    }
+}

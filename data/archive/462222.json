@@ -1,0 +1,31 @@
+{
+    "order_id": 462222,
+    "client_id": 9553,
+    "produits": [
+        {
+            "produit_id": "P3873",
+            "nom": "Gently Used Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 426.74
+        },
+        {
+            "produit_id": "P3484",
+            "nom": "Incredible Wooden Chair",
+            "quantite": 5,
+            "prix_unitaire": 448.94
+        },
+        {
+            "produit_id": "P4500",
+            "nom": "Gorgeous Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 286.4
+        }
+    ],
+    "date_commande": "2023-07-10T07:24:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1226 Belcher",
+        "ville": "Glassboro"
+    }
+}

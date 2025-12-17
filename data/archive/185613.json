@@ -1,0 +1,25 @@
+{
+    "order_id": 185613,
+    "client_id": 9799,
+    "produits": [
+        {
+            "produit_id": "P6184",
+            "nom": "Tasty Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 214.67
+        },
+        {
+            "produit_id": "P9958",
+            "nom": "Awesome Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 485.45
+        }
+    ],
+    "date_commande": "2024-01-05T20:01:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "157 Sampson",
+        "ville": "Niles"
+    }
+}

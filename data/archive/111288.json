@@ -1,0 +1,21 @@
+{
+    "order_id": 111288,
+    "client_id": 4501,
+    "produits": [
+        {
+            "produit_id": "P2686",
+            "nom": "Intelligent Soft Shoes",
+            "quantite": 5,
+            "prix_unitaire": 247.06
+        },
+        {
+            "produit_id": "P2616",
+            "nom": "Fantastic Cotton Car",
+            "quantite": 4,
+            "prix_unitaire": 71.01
+        }
+    ],
+    "date_commande": "2024-09-10T16:38:13",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

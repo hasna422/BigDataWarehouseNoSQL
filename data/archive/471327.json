@@ -1,0 +1,19 @@
+{
+    "order_id": 471327,
+    "client_id": 5719,
+    "produits": [
+        {
+            "produit_id": "P6369",
+            "nom": "Sleek Concrete Pants",
+            "quantite": 1,
+            "prix_unitaire": 449.85
+        }
+    ],
+    "date_commande": "2024-05-16T21:23:17",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "196 Kendall",
+        "ville": "Glendale Heights"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 970969,
+    "client_id": 6378,
+    "produits": [
+        {
+            "produit_id": "P0831",
+            "nom": "Licensed Granite Table",
+            "quantite": 2,
+            "prix_unitaire": 344.11
+        },
+        {
+            "produit_id": "P9854",
+            "nom": "Handcrafted Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 338.37
+        },
+        {
+            "produit_id": "P2382",
+            "nom": "Fantastic Frozen Sausages",
+            "quantite": 3,
+            "prix_unitaire": 308.14
+        }
+    ],
+    "date_commande": "2024-06-12T11:28:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "772 Amatista",
+        "ville": "Manchester"
+    }
+}

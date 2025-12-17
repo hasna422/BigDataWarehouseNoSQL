@@ -1,0 +1,15 @@
+{
+    "order_id": 906690,
+    "client_id": 3648,
+    "produits": [
+        {
+            "produit_id": "P6747",
+            "nom": "Practical Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 197.53
+        }
+    ],
+    "date_commande": "2024-03-31T17:52:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

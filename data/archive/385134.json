@@ -1,0 +1,27 @@
+{
+    "order_id": 385134,
+    "client_id": 4740,
+    "produits": [
+        {
+            "produit_id": "P0800",
+            "nom": "For repair Metal Gloves",
+            "quantite": 4,
+            "prix_unitaire": 469.84
+        },
+        {
+            "produit_id": "P0900",
+            "nom": "Fantastic Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 497.26
+        },
+        {
+            "produit_id": "P6186",
+            "nom": "Refined Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 285.99
+        }
+    ],
+    "date_commande": "2023-09-04T15:21:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

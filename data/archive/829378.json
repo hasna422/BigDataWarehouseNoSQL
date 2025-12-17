@@ -1,0 +1,25 @@
+{
+    "order_id": 829378,
+    "client_id": 2053,
+    "produits": [
+        {
+            "produit_id": "P5805",
+            "nom": "Generic Salad",
+            "quantite": 1,
+            "prix_unitaire": 424.17
+        },
+        {
+            "produit_id": "P2696",
+            "nom": "Plastic Chair",
+            "quantite": 2,
+            "prix_unitaire": 496.32
+        }
+    ],
+    "date_commande": "2023-08-07T05:01:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "117 Laguna Honda",
+        "ville": "Fort Worth"
+    }
+}

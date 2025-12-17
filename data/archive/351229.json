@@ -1,0 +1,25 @@
+{
+    "order_id": 351229,
+    "client_id": 3046,
+    "produits": [
+        {
+            "produit_id": "P7867",
+            "nom": "Incredible Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 257.95
+        },
+        {
+            "produit_id": "P8101",
+            "nom": "Tasty Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 221.4
+        }
+    ],
+    "date_commande": "2023-09-21T13:00:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "236 Burritt",
+        "ville": "Benton"
+    }
+}

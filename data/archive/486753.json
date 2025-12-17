@@ -1,0 +1,27 @@
+{
+    "order_id": 486753,
+    "client_id": 8221,
+    "produits": [
+        {
+            "produit_id": "P2087",
+            "nom": "Used Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 47.03
+        },
+        {
+            "produit_id": "P1715",
+            "nom": "Fantastic Metal Mouse",
+            "quantite": 1,
+            "prix_unitaire": 185.19
+        },
+        {
+            "produit_id": "P4808",
+            "nom": "Small Rubber Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 74.47
+        }
+    ],
+    "date_commande": "2024-05-25T15:53:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

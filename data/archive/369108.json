@@ -1,0 +1,25 @@
+{
+    "order_id": 369108,
+    "client_id": 2557,
+    "produits": [
+        {
+            "produit_id": "P5138",
+            "nom": "Unbranded Fresh Computer",
+            "quantite": 4,
+            "prix_unitaire": 498.49
+        },
+        {
+            "produit_id": "P5214",
+            "nom": "New Cotton Gloves",
+            "quantite": 1,
+            "prix_unitaire": 269.75
+        }
+    ],
+    "date_commande": "2024-06-14T11:38:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1316 Bigelow",
+        "ville": "Greenwood"
+    }
+}

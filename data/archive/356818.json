@@ -1,0 +1,15 @@
+{
+    "order_id": 356818,
+    "client_id": 4656,
+    "produits": [
+        {
+            "produit_id": "P7551",
+            "nom": "Fantastic Metal Fish",
+            "quantite": 3,
+            "prix_unitaire": 445.89
+        }
+    ],
+    "date_commande": "2024-08-22T05:44:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 480677,
+    "client_id": 9184,
+    "produits": [
+        {
+            "produit_id": "P8554",
+            "nom": "Practical Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 277.98
+        },
+        {
+            "produit_id": "P2229",
+            "nom": "Sleek Concrete Bacon",
+            "quantite": 2,
+            "prix_unitaire": 142.15
+        },
+        {
+            "produit_id": "P9475",
+            "nom": "Refined Frozen Pizza",
+            "quantite": 4,
+            "prix_unitaire": 358.77
+        }
+    ],
+    "date_commande": "2024-11-16T08:52:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

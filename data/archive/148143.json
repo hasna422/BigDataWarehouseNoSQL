@@ -1,0 +1,21 @@
+{
+    "order_id": 148143,
+    "client_id": 8705,
+    "produits": [
+        {
+            "produit_id": "P7499",
+            "nom": "New Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 68.82
+        },
+        {
+            "produit_id": "P9497",
+            "nom": "Practical Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 291.63
+        }
+    ],
+    "date_commande": "2023-09-15T16:19:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

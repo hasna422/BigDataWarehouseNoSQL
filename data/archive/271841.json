@@ -1,0 +1,15 @@
+{
+    "order_id": 271841,
+    "client_id": 5956,
+    "produits": [
+        {
+            "produit_id": "P3260",
+            "nom": "Licensed Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 319.36
+        }
+    ],
+    "date_commande": "2024-05-01T07:30:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 275873,
+    "client_id": 7076,
+    "produits": [
+        {
+            "produit_id": "P6067",
+            "nom": "Handcrafted Cotton Chips",
+            "quantite": 5,
+            "prix_unitaire": 204.48
+        }
+    ],
+    "date_commande": "2024-09-30T06:14:53",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "604 Gabilan",
+        "ville": "Wichita"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 697332,
+    "client_id": 4272,
+    "produits": [
+        {
+            "produit_id": "P1012",
+            "nom": "Sleek Soft Mouse",
+            "quantite": 4,
+            "prix_unitaire": 320.48
+        },
+        {
+            "produit_id": "P1362",
+            "nom": "New Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 351.76
+        },
+        {
+            "produit_id": "P4836",
+            "nom": "Sleek Rubber Tuna",
+            "quantite": 2,
+            "prix_unitaire": 304.89
+        }
+    ],
+    "date_commande": "2023-11-19T14:29:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "906 Albatross",
+        "ville": "Glendora"
+    }
+}

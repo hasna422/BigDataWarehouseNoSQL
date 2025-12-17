@@ -1,0 +1,19 @@
+{
+    "order_id": 367551,
+    "client_id": 9779,
+    "produits": [
+        {
+            "produit_id": "P5369",
+            "nom": "Rustic Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 416.34
+        }
+    ],
+    "date_commande": "2023-10-21T01:54:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "331 Charles",
+        "ville": "Oshkosh"
+    }
+}

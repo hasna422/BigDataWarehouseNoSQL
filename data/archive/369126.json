@@ -1,0 +1,25 @@
+{
+    "order_id": 369126,
+    "client_id": 9318,
+    "produits": [
+        {
+            "produit_id": "P5382",
+            "nom": "Awesome Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 278.74
+        },
+        {
+            "produit_id": "P3357",
+            "nom": "New Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 495.34
+        }
+    ],
+    "date_commande": "2024-03-03T05:39:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1056 Weston",
+        "ville": "Kalispell"
+    }
+}

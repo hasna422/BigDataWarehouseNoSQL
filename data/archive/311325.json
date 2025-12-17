@@ -1,0 +1,21 @@
+{
+    "order_id": 311325,
+    "client_id": 9643,
+    "produits": [
+        {
+            "produit_id": "P9971",
+            "nom": "Ergonomic Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 252.08
+        },
+        {
+            "produit_id": "P6760",
+            "nom": "Used Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 74.86
+        }
+    ],
+    "date_commande": "2024-04-03T15:36:24",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

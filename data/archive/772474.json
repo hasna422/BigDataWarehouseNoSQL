@@ -1,0 +1,21 @@
+{
+    "order_id": 772474,
+    "client_id": 5081,
+    "produits": [
+        {
+            "produit_id": "P7214",
+            "nom": "Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 448.91
+        },
+        {
+            "produit_id": "P3029",
+            "nom": "New Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 412.48
+        }
+    ],
+    "date_commande": "2023-09-28T07:08:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

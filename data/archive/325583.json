@@ -1,0 +1,31 @@
+{
+    "order_id": 325583,
+    "client_id": 1700,
+    "produits": [
+        {
+            "produit_id": "P8563",
+            "nom": "Small Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 10.89
+        },
+        {
+            "produit_id": "P7198",
+            "nom": "Gorgeous Cotton Salad",
+            "quantite": 5,
+            "prix_unitaire": 52.81
+        },
+        {
+            "produit_id": "P7294",
+            "nom": "Handmade Fresh Shoes",
+            "quantite": 5,
+            "prix_unitaire": 41.42
+        }
+    ],
+    "date_commande": "2024-03-11T04:35:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1306 Sears",
+        "ville": "Painesville"
+    }
+}

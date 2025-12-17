@@ -1,0 +1,31 @@
+{
+    "order_id": 433597,
+    "client_id": 4828,
+    "produits": [
+        {
+            "produit_id": "P7980",
+            "nom": "New Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 313.91
+        },
+        {
+            "produit_id": "P6559",
+            "nom": "Refined Metal Bike",
+            "quantite": 1,
+            "prix_unitaire": 212.24
+        },
+        {
+            "produit_id": "P4897",
+            "nom": "Unbranded Steel Hat",
+            "quantite": 4,
+            "prix_unitaire": 368.67
+        }
+    ],
+    "date_commande": "2024-10-12T11:33:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "707 Shotwell",
+        "ville": "Beverly Hills"
+    }
+}

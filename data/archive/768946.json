@@ -1,0 +1,31 @@
+{
+    "order_id": 768946,
+    "client_id": 9375,
+    "produits": [
+        {
+            "produit_id": "P0580",
+            "nom": "Used Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 407.52
+        },
+        {
+            "produit_id": "P9507",
+            "nom": "Unbranded Fresh Table",
+            "quantite": 1,
+            "prix_unitaire": 319.53
+        },
+        {
+            "produit_id": "P3981",
+            "nom": "Gorgeous Frozen Bike",
+            "quantite": 3,
+            "prix_unitaire": 171.04
+        }
+    ],
+    "date_commande": "2023-06-21T22:19:23",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "992 Perego",
+        "ville": "White Plains"
+    }
+}

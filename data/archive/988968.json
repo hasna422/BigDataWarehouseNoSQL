@@ -1,0 +1,21 @@
+{
+    "order_id": 988968,
+    "client_id": 8345,
+    "produits": [
+        {
+            "produit_id": "P1677",
+            "nom": "Used Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 327.74
+        },
+        {
+            "produit_id": "P8593",
+            "nom": "Unbranded Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 64.24
+        }
+    ],
+    "date_commande": "2024-07-14T11:29:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 457197,
+    "client_id": 6877,
+    "produits": [
+        {
+            "produit_id": "P0099",
+            "nom": "Incredible Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 434.86
+        }
+    ],
+    "date_commande": "2025-03-13T20:47:00",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

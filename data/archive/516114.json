@@ -1,0 +1,25 @@
+{
+    "order_id": 516114,
+    "client_id": 3214,
+    "produits": [
+        {
+            "produit_id": "P5658",
+            "nom": "Rustic Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 161.33
+        },
+        {
+            "produit_id": "P8510",
+            "nom": "Handcrafted Rubber Pizza",
+            "quantite": 2,
+            "prix_unitaire": 427.32
+        }
+    ],
+    "date_commande": "2025-03-07T17:46:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1352 Cowell",
+        "ville": "Newton"
+    }
+}

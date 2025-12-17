@@ -1,0 +1,25 @@
+{
+    "order_id": 898475,
+    "client_id": 2505,
+    "produits": [
+        {
+            "produit_id": "P4750",
+            "nom": "Handmade Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 323.7
+        },
+        {
+            "produit_id": "P7831",
+            "nom": "Handmade Cotton Hat",
+            "quantite": 3,
+            "prix_unitaire": 270.42
+        }
+    ],
+    "date_commande": "2024-10-03T17:17:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1247 Paraiso",
+        "ville": "Muskegon"
+    }
+}

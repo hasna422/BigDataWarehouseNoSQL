@@ -1,0 +1,19 @@
+{
+    "order_id": 277922,
+    "client_id": 6018,
+    "produits": [
+        {
+            "produit_id": "P7743",
+            "nom": "Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 249.34
+        }
+    ],
+    "date_commande": "2025-05-14T20:39:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "437 Jack London",
+        "ville": "Eugene"
+    }
+}

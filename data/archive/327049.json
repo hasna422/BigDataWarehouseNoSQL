@@ -1,0 +1,27 @@
+{
+    "order_id": 327049,
+    "client_id": 3146,
+    "produits": [
+        {
+            "produit_id": "P8081",
+            "nom": "Unbranded Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 248.95
+        },
+        {
+            "produit_id": "P5329",
+            "nom": "Ergonomic Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 489.91
+        },
+        {
+            "produit_id": "P9753",
+            "nom": "Generic Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 161.59
+        }
+    ],
+    "date_commande": "2023-06-13T17:58:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

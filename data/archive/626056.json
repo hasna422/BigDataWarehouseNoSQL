@@ -1,0 +1,27 @@
+{
+    "order_id": 626056,
+    "client_id": 2138,
+    "produits": [
+        {
+            "produit_id": "P2545",
+            "nom": "Incredible Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 450.19
+        },
+        {
+            "produit_id": "P1807",
+            "nom": "Intelligent Pizza",
+            "quantite": 4,
+            "prix_unitaire": 111.82
+        },
+        {
+            "produit_id": "P4384",
+            "nom": "Refined Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 174.1
+        }
+    ],
+    "date_commande": "2023-09-08T04:45:31",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

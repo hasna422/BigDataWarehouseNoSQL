@@ -1,0 +1,19 @@
+{
+    "order_id": 382229,
+    "client_id": 6627,
+    "produits": [
+        {
+            "produit_id": "P9916",
+            "nom": "New Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 76.9
+        }
+    ],
+    "date_commande": "2023-07-04T15:21:31",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "836 Rutledge",
+        "ville": "Taylor"
+    }
+}

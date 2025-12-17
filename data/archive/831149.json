@@ -1,0 +1,21 @@
+{
+    "order_id": 831149,
+    "client_id": 1946,
+    "produits": [
+        {
+            "produit_id": "P4764",
+            "nom": "Used Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 444.34
+        },
+        {
+            "produit_id": "P5426",
+            "nom": "Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 427.56
+        }
+    ],
+    "date_commande": "2024-10-19T08:19:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

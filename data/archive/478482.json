@@ -1,0 +1,19 @@
+{
+    "order_id": 478482,
+    "client_id": 7917,
+    "produits": [
+        {
+            "produit_id": "P3070",
+            "nom": "Generic Concrete Chair",
+            "quantite": 4,
+            "prix_unitaire": 59.87
+        }
+    ],
+    "date_commande": "2024-10-20T11:26:49",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1384 Laguna",
+        "ville": "Greeley"
+    }
+}

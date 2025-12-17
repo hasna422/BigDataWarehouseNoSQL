@@ -1,0 +1,25 @@
+{
+    "order_id": 913765,
+    "client_id": 5565,
+    "produits": [
+        {
+            "produit_id": "P3840",
+            "nom": "Refined Ball",
+            "quantite": 5,
+            "prix_unitaire": 75.65
+        },
+        {
+            "produit_id": "P8088",
+            "nom": "New Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 331.78
+        }
+    ],
+    "date_commande": "2023-08-07T21:06:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "531 Edinburgh",
+        "ville": "Maple Heights"
+    }
+}

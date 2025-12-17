@@ -1,0 +1,25 @@
+{
+    "order_id": 374142,
+    "client_id": 2503,
+    "produits": [
+        {
+            "produit_id": "P3333",
+            "nom": "Handmade Soft Soap",
+            "quantite": 3,
+            "prix_unitaire": 496.33
+        },
+        {
+            "produit_id": "P7928",
+            "nom": "Refined Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 153.96
+        }
+    ],
+    "date_commande": "2023-09-11T04:33:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "652 Sanches",
+        "ville": "New Braunfels"
+    }
+}

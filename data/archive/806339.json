@@ -1,0 +1,27 @@
+{
+    "order_id": 806339,
+    "client_id": 5221,
+    "produits": [
+        {
+            "produit_id": "P6020",
+            "nom": "Handmade Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 472.23
+        },
+        {
+            "produit_id": "P4128",
+            "nom": "Handmade Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 331.67
+        },
+        {
+            "produit_id": "P2607",
+            "nom": "For repair Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 379.64
+        }
+    ],
+    "date_commande": "2023-06-16T05:23:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

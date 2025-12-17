@@ -1,0 +1,27 @@
+{
+    "order_id": 736151,
+    "client_id": 3532,
+    "produits": [
+        {
+            "produit_id": "P0971",
+            "nom": "Incredible Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 377.64
+        },
+        {
+            "produit_id": "P6746",
+            "nom": "Ergonomic Granite Car",
+            "quantite": 3,
+            "prix_unitaire": 493.31
+        },
+        {
+            "produit_id": "P5225",
+            "nom": "Rustic Plastic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 19.23
+        }
+    ],
+    "date_commande": "2024-03-25T16:51:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

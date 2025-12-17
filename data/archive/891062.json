@@ -1,0 +1,27 @@
+{
+    "order_id": 891062,
+    "client_id": 4206,
+    "produits": [
+        {
+            "produit_id": "P8423",
+            "nom": "Fantastic Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 372.47
+        },
+        {
+            "produit_id": "P2445",
+            "nom": "Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 325.61
+        },
+        {
+            "produit_id": "P1906",
+            "nom": "Rustic Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 450.28
+        }
+    ],
+    "date_commande": "2023-09-22T17:54:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 852884,
+    "client_id": 7158,
+    "produits": [
+        {
+            "produit_id": "P6890",
+            "nom": "Generic Computer",
+            "quantite": 3,
+            "prix_unitaire": 348.13
+        }
+    ],
+    "date_commande": "2023-06-16T23:03:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1185 Masonic",
+        "ville": "Sanford"
+    }
+}

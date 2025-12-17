@@ -1,0 +1,31 @@
+{
+    "order_id": 259749,
+    "client_id": 9026,
+    "produits": [
+        {
+            "produit_id": "P7158",
+            "nom": "Ergonomic Metal Tuna",
+            "quantite": 4,
+            "prix_unitaire": 191.17
+        },
+        {
+            "produit_id": "P0097",
+            "nom": "New Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 132.76
+        },
+        {
+            "produit_id": "P5807",
+            "nom": "Used Granite Mouse",
+            "quantite": 3,
+            "prix_unitaire": 362.0
+        }
+    ],
+    "date_commande": "2023-10-04T16:12:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "308 James",
+        "ville": "Jeffersonville"
+    }
+}

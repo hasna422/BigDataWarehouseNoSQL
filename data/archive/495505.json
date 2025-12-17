@@ -1,0 +1,19 @@
+{
+    "order_id": 495505,
+    "client_id": 4732,
+    "produits": [
+        {
+            "produit_id": "P1324",
+            "nom": "Practical Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 121.4
+        }
+    ],
+    "date_commande": "2024-04-26T22:14:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1237 Reservoir",
+        "ville": "Asheboro"
+    }
+}

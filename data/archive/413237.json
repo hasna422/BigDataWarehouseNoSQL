@@ -1,0 +1,15 @@
+{
+    "order_id": 413237,
+    "client_id": 2042,
+    "produits": [
+        {
+            "produit_id": "P7390",
+            "nom": "New Steel Bike",
+            "quantite": 5,
+            "prix_unitaire": 149.89
+        }
+    ],
+    "date_commande": "2024-03-17T01:33:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

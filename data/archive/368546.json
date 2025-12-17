@@ -1,0 +1,25 @@
+{
+    "order_id": 368546,
+    "client_id": 1906,
+    "produits": [
+        {
+            "produit_id": "P1996",
+            "nom": "For repair Chair",
+            "quantite": 2,
+            "prix_unitaire": 56.73
+        },
+        {
+            "produit_id": "P9662",
+            "nom": "New Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 316.14
+        }
+    ],
+    "date_commande": "2024-08-22T19:23:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1243 Arguello",
+        "ville": "Bowling Green"
+    }
+}

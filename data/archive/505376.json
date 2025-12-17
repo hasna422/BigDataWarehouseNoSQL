@@ -1,0 +1,31 @@
+{
+    "order_id": 505376,
+    "client_id": 6035,
+    "produits": [
+        {
+            "produit_id": "P7729",
+            "nom": "Awesome Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 20.82
+        },
+        {
+            "produit_id": "P1889",
+            "nom": "Ergonomic Rubber Sausages",
+            "quantite": 5,
+            "prix_unitaire": 114.31
+        },
+        {
+            "produit_id": "P0377",
+            "nom": "Gently Used Mouse",
+            "quantite": 5,
+            "prix_unitaire": 56.97
+        }
+    ],
+    "date_commande": "2024-12-22T14:28:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "131 Mabrey",
+        "ville": "Laredo"
+    }
+}

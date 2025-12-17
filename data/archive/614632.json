@@ -1,0 +1,25 @@
+{
+    "order_id": 614632,
+    "client_id": 9621,
+    "produits": [
+        {
+            "produit_id": "P3163",
+            "nom": "Tasty Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 287.03
+        },
+        {
+            "produit_id": "P5514",
+            "nom": "Gorgeous Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 244.32
+        }
+    ],
+    "date_commande": "2025-01-27T18:22:45",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "637 Margaret",
+        "ville": "Kalispell"
+    }
+}

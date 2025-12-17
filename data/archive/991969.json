@@ -1,0 +1,19 @@
+{
+    "order_id": 991969,
+    "client_id": 9448,
+    "produits": [
+        {
+            "produit_id": "P9249",
+            "nom": "Generic Rubber Shoes",
+            "quantite": 2,
+            "prix_unitaire": 260.27
+        }
+    ],
+    "date_commande": "2025-05-06T05:14:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "962 Fitzgerald",
+        "ville": "State College"
+    }
+}

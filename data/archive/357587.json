@@ -1,0 +1,19 @@
+{
+    "order_id": 357587,
+    "client_id": 2034,
+    "produits": [
+        {
+            "produit_id": "P5262",
+            "nom": "Practical Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 441.61
+        }
+    ],
+    "date_commande": "2024-10-25T18:01:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1070 Ludlow",
+        "ville": "Altamonte Springs"
+    }
+}

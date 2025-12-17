@@ -1,0 +1,31 @@
+{
+    "order_id": 871966,
+    "client_id": 9887,
+    "produits": [
+        {
+            "produit_id": "P3769",
+            "nom": "Gorgeous Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 225.34
+        },
+        {
+            "produit_id": "P8401",
+            "nom": "Awesome Fresh Chicken",
+            "quantite": 3,
+            "prix_unitaire": 481.69
+        },
+        {
+            "produit_id": "P5893",
+            "nom": "Sleek Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 76.96
+        }
+    ],
+    "date_commande": "2024-02-03T20:16:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "257 Ambrose Bierce",
+        "ville": "Victorville"
+    }
+}

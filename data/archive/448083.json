@@ -1,0 +1,31 @@
+{
+    "order_id": 448083,
+    "client_id": 9471,
+    "produits": [
+        {
+            "produit_id": "P8877",
+            "nom": "Tasty Plastic Chair",
+            "quantite": 3,
+            "prix_unitaire": 426.06
+        },
+        {
+            "produit_id": "P0548",
+            "nom": "Rustic Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 24.43
+        },
+        {
+            "produit_id": "P4358",
+            "nom": "Gorgeous Metal Shirt",
+            "quantite": 1,
+            "prix_unitaire": 67.29
+        }
+    ],
+    "date_commande": "2025-01-14T11:33:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "25 Merrimac",
+        "ville": "Mission Viejo"
+    }
+}

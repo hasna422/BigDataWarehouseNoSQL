@@ -1,0 +1,25 @@
+{
+    "order_id": 156222,
+    "client_id": 9035,
+    "produits": [
+        {
+            "produit_id": "P9292",
+            "nom": "Gently Used Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 267.38
+        },
+        {
+            "produit_id": "P3118",
+            "nom": "Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 428.97
+        }
+    ],
+    "date_commande": "2024-12-16T18:54:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "513 Lurline",
+        "ville": "Port Angeles"
+    }
+}

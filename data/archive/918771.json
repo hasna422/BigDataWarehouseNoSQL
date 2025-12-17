@@ -1,0 +1,15 @@
+{
+    "order_id": 918771,
+    "client_id": 6988,
+    "produits": [
+        {
+            "produit_id": "P2832",
+            "nom": "Cotton Sausages",
+            "quantite": 4,
+            "prix_unitaire": 259.11
+        }
+    ],
+    "date_commande": "2023-09-29T02:08:31",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

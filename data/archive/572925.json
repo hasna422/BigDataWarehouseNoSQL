@@ -1,0 +1,21 @@
+{
+    "order_id": 572925,
+    "client_id": 4894,
+    "produits": [
+        {
+            "produit_id": "P5438",
+            "nom": "Handmade Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 442.04
+        },
+        {
+            "produit_id": "P4248",
+            "nom": "Tasty Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 498.48
+        }
+    ],
+    "date_commande": "2023-12-25T16:42:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

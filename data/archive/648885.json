@@ -1,0 +1,31 @@
+{
+    "order_id": 648885,
+    "client_id": 2133,
+    "produits": [
+        {
+            "produit_id": "P9175",
+            "nom": "Ergonomic Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 98.57
+        },
+        {
+            "produit_id": "P9836",
+            "nom": "Small Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 414.14
+        },
+        {
+            "produit_id": "P8787",
+            "nom": "Unbranded Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 452.31
+        }
+    ],
+    "date_commande": "2024-07-08T23:45:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1361 Gorgas",
+        "ville": "Newton"
+    }
+}

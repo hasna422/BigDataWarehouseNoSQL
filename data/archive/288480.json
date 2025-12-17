@@ -1,0 +1,25 @@
+{
+    "order_id": 288480,
+    "client_id": 5878,
+    "produits": [
+        {
+            "produit_id": "P0816",
+            "nom": "Rustic Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 373.96
+        },
+        {
+            "produit_id": "P0044",
+            "nom": "Unbranded Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 47.02
+        }
+    ],
+    "date_commande": "2023-10-25T13:04:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "158 Encanto",
+        "ville": "Tupelo"
+    }
+}

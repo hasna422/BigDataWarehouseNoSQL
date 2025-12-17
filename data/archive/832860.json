@@ -1,0 +1,25 @@
+{
+    "order_id": 832860,
+    "client_id": 7294,
+    "produits": [
+        {
+            "produit_id": "P6264",
+            "nom": "Gorgeous Steel Bike",
+            "quantite": 5,
+            "prix_unitaire": 463.62
+        },
+        {
+            "produit_id": "P8373",
+            "nom": "New Hat",
+            "quantite": 4,
+            "prix_unitaire": 472.62
+        }
+    ],
+    "date_commande": "2024-12-10T12:15:17",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "730 Battery East",
+        "ville": "Knoxville"
+    }
+}

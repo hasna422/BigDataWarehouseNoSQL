@@ -1,0 +1,19 @@
+{
+    "order_id": 798676,
+    "client_id": 9635,
+    "produits": [
+        {
+            "produit_id": "P9277",
+            "nom": "Tasty Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 254.44
+        }
+    ],
+    "date_commande": "2024-08-18T15:55:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1 Laura",
+        "ville": "Herriman"
+    }
+}

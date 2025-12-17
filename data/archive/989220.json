@@ -1,0 +1,19 @@
+{
+    "order_id": 989220,
+    "client_id": 3749,
+    "produits": [
+        {
+            "produit_id": "P6738",
+            "nom": "Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 357.38
+        }
+    ],
+    "date_commande": "2024-03-25T01:22:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1095 Chenery",
+        "ville": "Golden Valley"
+    }
+}

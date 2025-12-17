@@ -1,0 +1,19 @@
+{
+    "order_id": 635479,
+    "client_id": 2538,
+    "produits": [
+        {
+            "produit_id": "P0306",
+            "nom": "Intelligent Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 318.13
+        }
+    ],
+    "date_commande": "2023-11-29T08:25:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "27 Eureka",
+        "ville": "Mamaroneck"
+    }
+}

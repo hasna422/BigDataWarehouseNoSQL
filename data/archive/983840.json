@@ -1,0 +1,31 @@
+{
+    "order_id": 983840,
+    "client_id": 7786,
+    "produits": [
+        {
+            "produit_id": "P5266",
+            "nom": "Tasty Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 21.94
+        },
+        {
+            "produit_id": "P2738",
+            "nom": "Tasty Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 18.49
+        },
+        {
+            "produit_id": "P1759",
+            "nom": "Refined Salad",
+            "quantite": 2,
+            "prix_unitaire": 87.26
+        }
+    ],
+    "date_commande": "2025-04-19T14:58:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "546 Allen",
+        "ville": "St. Cloud"
+    }
+}

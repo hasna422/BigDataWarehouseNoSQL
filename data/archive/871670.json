@@ -1,0 +1,21 @@
+{
+    "order_id": 871670,
+    "client_id": 8247,
+    "produits": [
+        {
+            "produit_id": "P7729",
+            "nom": "Awesome Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 353.01
+        },
+        {
+            "produit_id": "P6178",
+            "nom": "Gorgeous Pizza",
+            "quantite": 2,
+            "prix_unitaire": 298.54
+        }
+    ],
+    "date_commande": "2024-07-22T11:13:10",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

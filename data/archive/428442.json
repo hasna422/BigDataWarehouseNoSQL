@@ -1,0 +1,31 @@
+{
+    "order_id": 428442,
+    "client_id": 1757,
+    "produits": [
+        {
+            "produit_id": "P1361",
+            "nom": "Handmade Metal Ball",
+            "quantite": 5,
+            "prix_unitaire": 288.1
+        },
+        {
+            "produit_id": "P5583",
+            "nom": "Tasty Fresh Tuna",
+            "quantite": 2,
+            "prix_unitaire": 134.09
+        },
+        {
+            "produit_id": "P2959",
+            "nom": "Generic Concrete Ball",
+            "quantite": 1,
+            "prix_unitaire": 121.3
+        }
+    ],
+    "date_commande": "2023-10-30T04:54:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1205 Zoo",
+        "ville": "Milpitas"
+    }
+}

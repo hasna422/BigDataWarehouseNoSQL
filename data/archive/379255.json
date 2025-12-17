@@ -1,0 +1,15 @@
+{
+    "order_id": 379255,
+    "client_id": 2532,
+    "produits": [
+        {
+            "produit_id": "P1355",
+            "nom": "Tasty Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 373.68
+        }
+    ],
+    "date_commande": "2023-12-25T17:35:11",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

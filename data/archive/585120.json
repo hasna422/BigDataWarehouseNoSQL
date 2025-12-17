@@ -1,0 +1,31 @@
+{
+    "order_id": 585120,
+    "client_id": 2549,
+    "produits": [
+        {
+            "produit_id": "P6406",
+            "nom": "Gorgeous Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 433.38
+        },
+        {
+            "produit_id": "P2727",
+            "nom": "Fantastic Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 356.67
+        },
+        {
+            "produit_id": "P3605",
+            "nom": "Small Soft Chicken",
+            "quantite": 2,
+            "prix_unitaire": 81.99
+        }
+    ],
+    "date_commande": "2024-06-07T08:17:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "943 Houston",
+        "ville": "Grand Forks"
+    }
+}

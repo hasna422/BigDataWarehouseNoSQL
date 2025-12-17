@@ -1,0 +1,19 @@
+{
+    "order_id": 750414,
+    "client_id": 1848,
+    "produits": [
+        {
+            "produit_id": "P4307",
+            "nom": "Rustic Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 460.0
+        }
+    ],
+    "date_commande": "2024-05-16T08:58:18",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "157 Cowles",
+        "ville": "Starkville"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 245385,
+    "client_id": 5026,
+    "produits": [
+        {
+            "produit_id": "P8140",
+            "nom": "Refined Fresh Table",
+            "quantite": 1,
+            "prix_unitaire": 192.87
+        },
+        {
+            "produit_id": "P1550",
+            "nom": "Generic Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 359.92
+        }
+    ],
+    "date_commande": "2024-02-15T00:03:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 646632,
+    "client_id": 8979,
+    "produits": [
+        {
+            "produit_id": "P8541",
+            "nom": "Small Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 295.53
+        },
+        {
+            "produit_id": "P3179",
+            "nom": "Handmade Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 385.61
+        }
+    ],
+    "date_commande": "2024-07-29T07:16:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

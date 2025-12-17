@@ -1,0 +1,31 @@
+{
+    "order_id": 261477,
+    "client_id": 9564,
+    "produits": [
+        {
+            "produit_id": "P0498",
+            "nom": "Refined Plastic Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 427.11
+        },
+        {
+            "produit_id": "P4368",
+            "nom": "Licensed Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 180.52
+        },
+        {
+            "produit_id": "P3155",
+            "nom": "Ergonomic Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 350.63
+        }
+    ],
+    "date_commande": "2024-07-02T03:51:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "599 Upper Service",
+        "ville": "Yuma"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 781158,
+    "client_id": 2734,
+    "produits": [
+        {
+            "produit_id": "P6573",
+            "nom": "Used Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 16.14
+        },
+        {
+            "produit_id": "P8849",
+            "nom": "Small Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 55.81
+        }
+    ],
+    "date_commande": "2023-12-30T08:43:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "263 Gambier",
+        "ville": "Warwick"
+    }
+}

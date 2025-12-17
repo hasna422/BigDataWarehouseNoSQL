@@ -1,0 +1,31 @@
+{
+    "order_id": 195671,
+    "client_id": 4694,
+    "produits": [
+        {
+            "produit_id": "P5033",
+            "nom": "Practical Chicken",
+            "quantite": 1,
+            "prix_unitaire": 396.89
+        },
+        {
+            "produit_id": "P6494",
+            "nom": "Generic Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 362.98
+        },
+        {
+            "produit_id": "P0681",
+            "nom": "Small Frozen Sausages",
+            "quantite": 1,
+            "prix_unitaire": 91.69
+        }
+    ],
+    "date_commande": "2024-10-21T20:57:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "996 Oakwood",
+        "ville": "Banning"
+    }
+}

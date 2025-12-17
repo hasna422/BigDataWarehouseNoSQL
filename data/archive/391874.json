@@ -1,0 +1,19 @@
+{
+    "order_id": 391874,
+    "client_id": 3070,
+    "produits": [
+        {
+            "produit_id": "P8248",
+            "nom": "Fantastic Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 189.66
+        }
+    ],
+    "date_commande": "2025-02-16T17:12:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "174 San Fernando",
+        "ville": "Galesburg"
+    }
+}

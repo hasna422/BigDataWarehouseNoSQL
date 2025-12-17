@@ -1,0 +1,25 @@
+{
+    "order_id": 418385,
+    "client_id": 3057,
+    "produits": [
+        {
+            "produit_id": "P9755",
+            "nom": "Rustic Wooden Bike",
+            "quantite": 4,
+            "prix_unitaire": 217.62
+        },
+        {
+            "produit_id": "P1282",
+            "nom": "Licensed Plastic Chair",
+            "quantite": 3,
+            "prix_unitaire": 14.62
+        }
+    ],
+    "date_commande": "2024-06-29T21:48:51",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "465 Battery Chamberlin",
+        "ville": "Goose Creek"
+    }
+}

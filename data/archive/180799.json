@@ -1,0 +1,25 @@
+{
+    "order_id": 180799,
+    "client_id": 3762,
+    "produits": [
+        {
+            "produit_id": "P6586",
+            "nom": "Small Rubber Pants",
+            "quantite": 1,
+            "prix_unitaire": 144.06
+        },
+        {
+            "produit_id": "P9520",
+            "nom": "Fantastic Steel Cheese",
+            "quantite": 2,
+            "prix_unitaire": 100.58
+        }
+    ],
+    "date_commande": "2024-05-12T20:54:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1356 Fanning",
+        "ville": "Springville"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 132046,
+    "client_id": 3622,
+    "produits": [
+        {
+            "produit_id": "P6391",
+            "nom": "Gently Used Granite Sausages",
+            "quantite": 5,
+            "prix_unitaire": 389.49
+        }
+    ],
+    "date_commande": "2023-11-12T06:54:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1274 Ecker",
+        "ville": "Claremore"
+    }
+}

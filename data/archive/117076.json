@@ -1,0 +1,25 @@
+{
+    "order_id": 117076,
+    "client_id": 7297,
+    "produits": [
+        {
+            "produit_id": "P0654",
+            "nom": "Gorgeous Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 65.48
+        },
+        {
+            "produit_id": "P7285",
+            "nom": "Small Wooden Bike",
+            "quantite": 5,
+            "prix_unitaire": 281.14
+        }
+    ],
+    "date_commande": "2025-05-14T04:27:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "555 Fresno",
+        "ville": "Lockport"
+    }
+}

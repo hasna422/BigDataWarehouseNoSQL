@@ -1,0 +1,19 @@
+{
+    "order_id": 602116,
+    "client_id": 9787,
+    "produits": [
+        {
+            "produit_id": "P8274",
+            "nom": "New Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 238.93
+        }
+    ],
+    "date_commande": "2023-08-04T07:35:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "125 Birmingham",
+        "ville": "Frankfort"
+    }
+}

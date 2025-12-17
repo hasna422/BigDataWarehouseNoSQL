@@ -1,0 +1,31 @@
+{
+    "order_id": 151130,
+    "client_id": 6502,
+    "produits": [
+        {
+            "produit_id": "P4757",
+            "nom": "Intelligent Frozen Salad",
+            "quantite": 5,
+            "prix_unitaire": 346.75
+        },
+        {
+            "produit_id": "P0063",
+            "nom": "Generic Metal Shoes",
+            "quantite": 3,
+            "prix_unitaire": 308.78
+        },
+        {
+            "produit_id": "P4718",
+            "nom": "Refined Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 373.96
+        }
+    ],
+    "date_commande": "2023-10-14T19:39:53",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1171 Knollview",
+        "ville": "Weslaco"
+    }
+}

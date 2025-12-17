@@ -1,0 +1,19 @@
+{
+    "order_id": 264592,
+    "client_id": 9955,
+    "produits": [
+        {
+            "produit_id": "P4262",
+            "nom": "New Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 46.97
+        }
+    ],
+    "date_commande": "2024-02-08T22:39:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "30 Lippard",
+        "ville": "San Jose"
+    }
+}

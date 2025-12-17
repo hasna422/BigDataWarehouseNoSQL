@@ -1,0 +1,31 @@
+{
+    "order_id": 292433,
+    "client_id": 3830,
+    "produits": [
+        {
+            "produit_id": "P1685",
+            "nom": "Gently Used Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 137.61
+        },
+        {
+            "produit_id": "P2811",
+            "nom": "Rustic Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 448.02
+        },
+        {
+            "produit_id": "P4545",
+            "nom": "Awesome Metal Towels",
+            "quantite": 3,
+            "prix_unitaire": 193.91
+        }
+    ],
+    "date_commande": "2023-12-03T23:21:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "35 Hilton",
+        "ville": "Encinitas"
+    }
+}

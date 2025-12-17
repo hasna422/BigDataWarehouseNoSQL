@@ -1,0 +1,15 @@
+{
+    "order_id": 978987,
+    "client_id": 3419,
+    "produits": [
+        {
+            "produit_id": "P0687",
+            "nom": "Small Pizza",
+            "quantite": 1,
+            "prix_unitaire": 383.59
+        }
+    ],
+    "date_commande": "2024-11-07T09:25:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

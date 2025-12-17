@@ -1,0 +1,25 @@
+{
+    "order_id": 918003,
+    "client_id": 5840,
+    "produits": [
+        {
+            "produit_id": "P5165",
+            "nom": "Ergonomic Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 295.93
+        },
+        {
+            "produit_id": "P8482",
+            "nom": "Intelligent Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 132.49
+        }
+    ],
+    "date_commande": "2024-08-30T02:54:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "340 Grant",
+        "ville": "Seguin"
+    }
+}

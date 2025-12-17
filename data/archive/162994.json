@@ -1,0 +1,21 @@
+{
+    "order_id": 162994,
+    "client_id": 9494,
+    "produits": [
+        {
+            "produit_id": "P4838",
+            "nom": "Tasty Cotton Table",
+            "quantite": 3,
+            "prix_unitaire": 496.3
+        },
+        {
+            "produit_id": "P0648",
+            "nom": "Generic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 476.25
+        }
+    ],
+    "date_commande": "2024-09-23T10:09:34",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

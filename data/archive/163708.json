@@ -1,0 +1,19 @@
+{
+    "order_id": 163708,
+    "client_id": 5527,
+    "produits": [
+        {
+            "produit_id": "P6056",
+            "nom": "Tasty Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 39.5
+        }
+    ],
+    "date_commande": "2024-02-26T08:38:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "159 Coralino",
+        "ville": "Rancho Santa Margarita"
+    }
+}

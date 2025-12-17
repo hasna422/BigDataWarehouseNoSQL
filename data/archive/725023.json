@@ -1,0 +1,27 @@
+{
+    "order_id": 725023,
+    "client_id": 7374,
+    "produits": [
+        {
+            "produit_id": "P1965",
+            "nom": "Sleek Salad",
+            "quantite": 5,
+            "prix_unitaire": 162.03
+        },
+        {
+            "produit_id": "P1569",
+            "nom": "New Plastic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 499.01
+        },
+        {
+            "produit_id": "P2646",
+            "nom": "Ergonomic Soft Ball",
+            "quantite": 1,
+            "prix_unitaire": 183.43
+        }
+    ],
+    "date_commande": "2023-06-24T10:34:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

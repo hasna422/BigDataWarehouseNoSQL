@@ -1,0 +1,31 @@
+{
+    "order_id": 977358,
+    "client_id": 7812,
+    "produits": [
+        {
+            "produit_id": "P2636",
+            "nom": "New Sausages",
+            "quantite": 2,
+            "prix_unitaire": 84.65
+        },
+        {
+            "produit_id": "P8680",
+            "nom": "Small Metal Table",
+            "quantite": 5,
+            "prix_unitaire": 396.2
+        },
+        {
+            "produit_id": "P2681",
+            "nom": "Refined Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 7.02
+        }
+    ],
+    "date_commande": "2024-01-04T23:45:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1124 Polk",
+        "ville": "McAlester"
+    }
+}

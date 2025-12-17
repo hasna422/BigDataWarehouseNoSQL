@@ -1,0 +1,15 @@
+{
+    "order_id": 222332,
+    "client_id": 4073,
+    "produits": [
+        {
+            "produit_id": "P2367",
+            "nom": "Handcrafted Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 331.18
+        }
+    ],
+    "date_commande": "2024-04-30T08:05:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

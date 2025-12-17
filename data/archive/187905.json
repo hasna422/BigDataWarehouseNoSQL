@@ -1,0 +1,27 @@
+{
+    "order_id": 187905,
+    "client_id": 9686,
+    "produits": [
+        {
+            "produit_id": "P1100",
+            "nom": "Handcrafted Ball",
+            "quantite": 1,
+            "prix_unitaire": 13.65
+        },
+        {
+            "produit_id": "P6727",
+            "nom": "Fantastic Concrete Mouse",
+            "quantite": 3,
+            "prix_unitaire": 496.49
+        },
+        {
+            "produit_id": "P1894",
+            "nom": "Fantastic Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 414.36
+        }
+    ],
+    "date_commande": "2025-04-02T09:52:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

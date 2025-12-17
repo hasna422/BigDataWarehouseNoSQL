@@ -1,0 +1,19 @@
+{
+    "order_id": 826749,
+    "client_id": 2623,
+    "produits": [
+        {
+            "produit_id": "P8545",
+            "nom": "For repair Mouse",
+            "quantite": 4,
+            "prix_unitaire": 12.06
+        }
+    ],
+    "date_commande": "2023-09-09T19:25:02",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1294 Keystone",
+        "ville": "Euless"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 267651,
+    "client_id": 7737,
+    "produits": [
+        {
+            "produit_id": "P0133",
+            "nom": "For repair Concrete Gloves",
+            "quantite": 2,
+            "prix_unitaire": 277.79
+        }
+    ],
+    "date_commande": "2024-03-24T17:46:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "4 Waterville",
+        "ville": "Fairfax"
+    }
+}

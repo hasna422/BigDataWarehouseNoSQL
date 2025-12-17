@@ -1,0 +1,25 @@
+{
+    "order_id": 148881,
+    "client_id": 3392,
+    "produits": [
+        {
+            "produit_id": "P3569",
+            "nom": "Fantastic Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 417.19
+        },
+        {
+            "produit_id": "P2179",
+            "nom": "Rustic Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 329.36
+        }
+    ],
+    "date_commande": "2024-06-05T02:42:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "894 Sacramento",
+        "ville": "Bensenville"
+    }
+}

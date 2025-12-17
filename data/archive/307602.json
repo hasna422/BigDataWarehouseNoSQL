@@ -1,0 +1,15 @@
+{
+    "order_id": 307602,
+    "client_id": 8957,
+    "produits": [
+        {
+            "produit_id": "P9716",
+            "nom": "Tasty Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 371.28
+        }
+    ],
+    "date_commande": "2024-10-19T09:43:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

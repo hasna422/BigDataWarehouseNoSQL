@@ -1,0 +1,27 @@
+{
+    "order_id": 762516,
+    "client_id": 7936,
+    "produits": [
+        {
+            "produit_id": "P4512",
+            "nom": "Used Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 415.93
+        },
+        {
+            "produit_id": "P8071",
+            "nom": "Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 278.43
+        },
+        {
+            "produit_id": "P7208",
+            "nom": "Incredible Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 45.18
+        }
+    ],
+    "date_commande": "2024-05-06T01:48:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

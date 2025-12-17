@@ -1,0 +1,19 @@
+{
+    "order_id": 137431,
+    "client_id": 9687,
+    "produits": [
+        {
+            "produit_id": "P7992",
+            "nom": "Awesome Granite Tuna",
+            "quantite": 3,
+            "prix_unitaire": 326.66
+        }
+    ],
+    "date_commande": "2024-09-12T05:31:36",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "397 Antonio",
+        "ville": "San Leandro"
+    }
+}

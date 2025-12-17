@@ -1,0 +1,15 @@
+{
+    "order_id": 153520,
+    "client_id": 3890,
+    "produits": [
+        {
+            "produit_id": "P0636",
+            "nom": "Small Metal Salad",
+            "quantite": 2,
+            "prix_unitaire": 376.82
+        }
+    ],
+    "date_commande": "2023-06-19T07:39:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 140875,
+    "client_id": 3558,
+    "produits": [
+        {
+            "produit_id": "P7984",
+            "nom": "Used Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 412.27
+        },
+        {
+            "produit_id": "P9065",
+            "nom": "Unbranded Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 253.94
+        }
+    ],
+    "date_commande": "2024-05-24T15:27:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "175 Diana",
+        "ville": "Kannapolis"
+    }
+}

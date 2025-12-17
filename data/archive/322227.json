@@ -1,0 +1,27 @@
+{
+    "order_id": 322227,
+    "client_id": 4166,
+    "produits": [
+        {
+            "produit_id": "P2361",
+            "nom": "Tasty Concrete Soap",
+            "quantite": 1,
+            "prix_unitaire": 469.44
+        },
+        {
+            "produit_id": "P7931",
+            "nom": "New Soft Mouse",
+            "quantite": 4,
+            "prix_unitaire": 116.25
+        },
+        {
+            "produit_id": "P0547",
+            "nom": "Handcrafted Cotton Cheese",
+            "quantite": 1,
+            "prix_unitaire": 173.9
+        }
+    ],
+    "date_commande": "2023-10-14T15:32:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 291323,
+    "client_id": 7011,
+    "produits": [
+        {
+            "produit_id": "P9841",
+            "nom": "Gently Used Steel Table",
+            "quantite": 2,
+            "prix_unitaire": 212.6
+        },
+        {
+            "produit_id": "P5196",
+            "nom": "Intelligent Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 247.94
+        },
+        {
+            "produit_id": "P6449",
+            "nom": "Intelligent Frozen Ball",
+            "quantite": 3,
+            "prix_unitaire": 328.38
+        }
+    ],
+    "date_commande": "2024-06-20T21:16:59",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1210 Argent",
+        "ville": "Dixon"
+    }
+}

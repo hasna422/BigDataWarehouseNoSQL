@@ -1,0 +1,31 @@
+{
+    "order_id": 649013,
+    "client_id": 9421,
+    "produits": [
+        {
+            "produit_id": "P7314",
+            "nom": "Sleek Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 465.41
+        },
+        {
+            "produit_id": "P2357",
+            "nom": "Rustic Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 285.56
+        },
+        {
+            "produit_id": "P4129",
+            "nom": "Handcrafted Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 52.95
+        }
+    ],
+    "date_commande": "2025-04-11T06:37:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1148 Barneveld",
+        "ville": "Oak Creek"
+    }
+}

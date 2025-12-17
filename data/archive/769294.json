@@ -1,0 +1,27 @@
+{
+    "order_id": 769294,
+    "client_id": 8180,
+    "produits": [
+        {
+            "produit_id": "P4759",
+            "nom": "Rustic Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 15.09
+        },
+        {
+            "produit_id": "P5940",
+            "nom": "Gently Used Rubber Fish",
+            "quantite": 3,
+            "prix_unitaire": 386.28
+        },
+        {
+            "produit_id": "P0188",
+            "nom": "Unbranded Soap",
+            "quantite": 4,
+            "prix_unitaire": 215.69
+        }
+    ],
+    "date_commande": "2024-03-29T19:27:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

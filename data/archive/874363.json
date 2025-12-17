@@ -1,0 +1,25 @@
+{
+    "order_id": 874363,
+    "client_id": 4344,
+    "produits": [
+        {
+            "produit_id": "P6063",
+            "nom": "Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 433.06
+        },
+        {
+            "produit_id": "P9064",
+            "nom": "Fantastic Fresh Sausages",
+            "quantite": 4,
+            "prix_unitaire": 386.81
+        }
+    ],
+    "date_commande": "2024-09-15T13:18:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "85 Pueblo",
+        "ville": "Napa"
+    }
+}

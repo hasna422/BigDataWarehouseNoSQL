@@ -1,0 +1,31 @@
+{
+    "order_id": 710175,
+    "client_id": 5682,
+    "produits": [
+        {
+            "produit_id": "P2050",
+            "nom": "Awesome Granite Soap",
+            "quantite": 3,
+            "prix_unitaire": 319.24
+        },
+        {
+            "produit_id": "P2973",
+            "nom": "Tasty Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 61.91
+        },
+        {
+            "produit_id": "P3828",
+            "nom": "Gently Used Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 266.31
+        }
+    ],
+    "date_commande": "2025-02-24T16:53:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1276 Chatham",
+        "ville": "Fort Pierce"
+    }
+}

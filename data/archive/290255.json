@@ -1,0 +1,25 @@
+{
+    "order_id": 290255,
+    "client_id": 9559,
+    "produits": [
+        {
+            "produit_id": "P7680",
+            "nom": "Ergonomic Hat",
+            "quantite": 3,
+            "prix_unitaire": 122.04
+        },
+        {
+            "produit_id": "P1342",
+            "nom": "Refined Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 464.61
+        }
+    ],
+    "date_commande": "2024-07-04T18:35:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1136 Harrison",
+        "ville": "East Ridge"
+    }
+}

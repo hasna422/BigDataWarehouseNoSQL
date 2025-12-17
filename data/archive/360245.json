@@ -1,0 +1,25 @@
+{
+    "order_id": 360245,
+    "client_id": 5480,
+    "produits": [
+        {
+            "produit_id": "P1481",
+            "nom": "Awesome Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 464.5
+        },
+        {
+            "produit_id": "P2780",
+            "nom": "Awesome Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 212.99
+        }
+    ],
+    "date_commande": "2023-06-19T22:37:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "850 Hawthorne",
+        "ville": "Fort Worth"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 557959,
+    "client_id": 3163,
+    "produits": [
+        {
+            "produit_id": "P4339",
+            "nom": "Handmade Soft Pizza",
+            "quantite": 4,
+            "prix_unitaire": 289.59
+        }
+    ],
+    "date_commande": "2024-03-24T03:09:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "898 Bridgeview",
+        "ville": "Maple Grove"
+    }
+}

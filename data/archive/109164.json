@@ -1,0 +1,19 @@
+{
+    "order_id": 109164,
+    "client_id": 6740,
+    "produits": [
+        {
+            "produit_id": "P0768",
+            "nom": "Gorgeous Granite Table",
+            "quantite": 4,
+            "prix_unitaire": 324.9
+        }
+    ],
+    "date_commande": "2025-01-17T09:57:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "594 Bowling Green",
+        "ville": "Redlands"
+    }
+}

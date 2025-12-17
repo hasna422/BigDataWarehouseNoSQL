@@ -1,0 +1,21 @@
+{
+    "order_id": 119855,
+    "client_id": 8428,
+    "produits": [
+        {
+            "produit_id": "P6657",
+            "nom": "Handmade Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 311.41
+        },
+        {
+            "produit_id": "P1808",
+            "nom": "For repair Granite Mouse",
+            "quantite": 4,
+            "prix_unitaire": 100.52
+        }
+    ],
+    "date_commande": "2023-09-16T18:54:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

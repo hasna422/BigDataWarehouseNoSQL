@@ -1,0 +1,31 @@
+{
+    "order_id": 525593,
+    "client_id": 9740,
+    "produits": [
+        {
+            "produit_id": "P1072",
+            "nom": "Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 96.31
+        },
+        {
+            "produit_id": "P3420",
+            "nom": "Refined Cheese",
+            "quantite": 2,
+            "prix_unitaire": 304.06
+        },
+        {
+            "produit_id": "P7749",
+            "nom": "Refined Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 67.89
+        }
+    ],
+    "date_commande": "2024-12-20T10:33:24",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1383 Levant",
+        "ville": "Staunton"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 420019,
+    "client_id": 6283,
+    "produits": [
+        {
+            "produit_id": "P6096",
+            "nom": "Incredible Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 445.71
+        },
+        {
+            "produit_id": "P3180",
+            "nom": "Sleek Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 110.72
+        },
+        {
+            "produit_id": "P4461",
+            "nom": "Tasty Shirt",
+            "quantite": 2,
+            "prix_unitaire": 139.29
+        }
+    ],
+    "date_commande": "2024-01-12T20:52:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

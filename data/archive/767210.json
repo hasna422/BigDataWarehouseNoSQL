@@ -1,0 +1,27 @@
+{
+    "order_id": 767210,
+    "client_id": 4992,
+    "produits": [
+        {
+            "produit_id": "P4563",
+            "nom": "Awesome Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 222.35
+        },
+        {
+            "produit_id": "P5198",
+            "nom": "Small Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 147.02
+        },
+        {
+            "produit_id": "P4680",
+            "nom": "Handmade Fresh Shirt",
+            "quantite": 4,
+            "prix_unitaire": 401.63
+        }
+    ],
+    "date_commande": "2024-02-03T22:23:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

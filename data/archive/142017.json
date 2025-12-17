@@ -1,0 +1,21 @@
+{
+    "order_id": 142017,
+    "client_id": 1714,
+    "produits": [
+        {
+            "produit_id": "P4536",
+            "nom": "Generic Wooden Bacon",
+            "quantite": 1,
+            "prix_unitaire": 497.55
+        },
+        {
+            "produit_id": "P8327",
+            "nom": "Gorgeous Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 349.49
+        }
+    ],
+    "date_commande": "2023-11-04T02:38:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

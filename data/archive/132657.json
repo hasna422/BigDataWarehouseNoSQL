@@ -1,0 +1,31 @@
+{
+    "order_id": 132657,
+    "client_id": 8743,
+    "produits": [
+        {
+            "produit_id": "P7469",
+            "nom": "Rustic Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 176.41
+        },
+        {
+            "produit_id": "P1823",
+            "nom": "Sleek Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 490.59
+        },
+        {
+            "produit_id": "P1326",
+            "nom": "Practical Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 130.9
+        }
+    ],
+    "date_commande": "2023-12-21T11:58:22",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1010 San Juan",
+        "ville": "Americus"
+    }
+}

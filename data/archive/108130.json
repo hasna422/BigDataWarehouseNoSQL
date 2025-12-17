@@ -1,0 +1,25 @@
+{
+    "order_id": 108130,
+    "client_id": 2640,
+    "produits": [
+        {
+            "produit_id": "P2625",
+            "nom": "Used Rubber Car",
+            "quantite": 4,
+            "prix_unitaire": 26.19
+        },
+        {
+            "produit_id": "P2039",
+            "nom": "Refined Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 145.42
+        }
+    ],
+    "date_commande": "2024-06-13T11:17:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "590 Pomona",
+        "ville": "Golden Valley"
+    }
+}

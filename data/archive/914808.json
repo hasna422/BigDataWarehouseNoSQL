@@ -1,0 +1,19 @@
+{
+    "order_id": 914808,
+    "client_id": 9339,
+    "produits": [
+        {
+            "produit_id": "P6089",
+            "nom": "New Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 449.41
+        }
+    ],
+    "date_commande": "2023-10-16T13:31:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "429 Oakhurst",
+        "ville": "Youngstown"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 616590,
+    "client_id": 9814,
+    "produits": [
+        {
+            "produit_id": "P2661",
+            "nom": "Handmade Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 292.48
+        }
+    ],
+    "date_commande": "2024-05-16T14:08:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

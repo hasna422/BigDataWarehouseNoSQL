@@ -1,0 +1,19 @@
+{
+    "order_id": 936508,
+    "client_id": 8696,
+    "produits": [
+        {
+            "produit_id": "P4717",
+            "nom": "For repair Frozen Soap",
+            "quantite": 3,
+            "prix_unitaire": 222.88
+        }
+    ],
+    "date_commande": "2024-09-24T15:52:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "439 Jackson",
+        "ville": "Camas"
+    }
+}

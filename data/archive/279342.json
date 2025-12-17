@@ -1,0 +1,15 @@
+{
+    "order_id": 279342,
+    "client_id": 8957,
+    "produits": [
+        {
+            "produit_id": "P3842",
+            "nom": "Generic Metal Ball",
+            "quantite": 3,
+            "prix_unitaire": 193.84
+        }
+    ],
+    "date_commande": "2024-08-11T02:47:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

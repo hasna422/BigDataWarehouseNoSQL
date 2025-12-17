@@ -1,0 +1,15 @@
+{
+    "order_id": 553076,
+    "client_id": 6542,
+    "produits": [
+        {
+            "produit_id": "P8002",
+            "nom": "Tasty Bacon",
+            "quantite": 1,
+            "prix_unitaire": 307.24
+        }
+    ],
+    "date_commande": "2025-04-01T11:17:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

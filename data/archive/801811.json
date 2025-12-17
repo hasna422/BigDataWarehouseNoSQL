@@ -1,0 +1,15 @@
+{
+    "order_id": 801811,
+    "client_id": 4532,
+    "produits": [
+        {
+            "produit_id": "P5748",
+            "nom": "Plastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 280.07
+        }
+    ],
+    "date_commande": "2023-08-17T07:57:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

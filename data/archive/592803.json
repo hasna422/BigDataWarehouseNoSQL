@@ -1,0 +1,15 @@
+{
+    "order_id": 592803,
+    "client_id": 4906,
+    "produits": [
+        {
+            "produit_id": "P0819",
+            "nom": "Gently Used Shoes",
+            "quantite": 5,
+            "prix_unitaire": 257.18
+        }
+    ],
+    "date_commande": "2023-08-06T14:38:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

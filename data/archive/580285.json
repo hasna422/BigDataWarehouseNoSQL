@@ -1,0 +1,25 @@
+{
+    "order_id": 580285,
+    "client_id": 6027,
+    "produits": [
+        {
+            "produit_id": "P6042",
+            "nom": "New Plastic Ball",
+            "quantite": 3,
+            "prix_unitaire": 250.65
+        },
+        {
+            "produit_id": "P0507",
+            "nom": "Intelligent Rubber Salad",
+            "quantite": 3,
+            "prix_unitaire": 10.35
+        }
+    ],
+    "date_commande": "2023-10-12T22:38:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1024 Colin P Kelly Jr",
+        "ville": "McHenry"
+    }
+}

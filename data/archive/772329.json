@@ -1,0 +1,19 @@
+{
+    "order_id": 772329,
+    "client_id": 8300,
+    "produits": [
+        {
+            "produit_id": "P9763",
+            "nom": "Licensed Rubber Chair",
+            "quantite": 3,
+            "prix_unitaire": 211.09
+        }
+    ],
+    "date_commande": "2024-03-11T00:27:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "125 Alvord",
+        "ville": "Sevierville"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 562189,
+    "client_id": 8329,
+    "produits": [
+        {
+            "produit_id": "P4185",
+            "nom": "Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 13.6
+        }
+    ],
+    "date_commande": "2025-04-21T13:01:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "255 Mersey",
+        "ville": "Hazel Park"
+    }
+}

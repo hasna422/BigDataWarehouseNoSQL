@@ -1,0 +1,25 @@
+{
+    "order_id": 931187,
+    "client_id": 8576,
+    "produits": [
+        {
+            "produit_id": "P8303",
+            "nom": "Awesome Frozen Pizza",
+            "quantite": 4,
+            "prix_unitaire": 66.28
+        },
+        {
+            "produit_id": "P5379",
+            "nom": "Handcrafted Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 319.73
+        }
+    ],
+    "date_commande": "2024-09-18T00:22:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "81 Custom House",
+        "ville": "Point Pleasant"
+    }
+}

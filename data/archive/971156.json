@@ -1,0 +1,25 @@
+{
+    "order_id": 971156,
+    "client_id": 3410,
+    "produits": [
+        {
+            "produit_id": "P4321",
+            "nom": "Tasty Concrete Chips",
+            "quantite": 2,
+            "prix_unitaire": 80.95
+        },
+        {
+            "produit_id": "P6312",
+            "nom": "Unbranded Fresh Chair",
+            "quantite": 4,
+            "prix_unitaire": 35.64
+        }
+    ],
+    "date_commande": "2024-05-25T19:06:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "721 Clarion",
+        "ville": "Searcy"
+    }
+}

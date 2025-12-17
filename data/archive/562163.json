@@ -1,0 +1,25 @@
+{
+    "order_id": 562163,
+    "client_id": 9517,
+    "produits": [
+        {
+            "produit_id": "P1493",
+            "nom": "Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 237.05
+        },
+        {
+            "produit_id": "P9252",
+            "nom": "Computer",
+            "quantite": 1,
+            "prix_unitaire": 78.46
+        }
+    ],
+    "date_commande": "2024-08-15T17:34:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "807 Peninsula",
+        "ville": "Grandville"
+    }
+}

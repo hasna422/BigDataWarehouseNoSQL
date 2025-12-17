@@ -1,0 +1,15 @@
+{
+    "order_id": 762103,
+    "client_id": 1000,
+    "produits": [
+        {
+            "produit_id": "P7233",
+            "nom": "Gently Used Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 345.11
+        }
+    ],
+    "date_commande": "2024-11-03T22:05:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

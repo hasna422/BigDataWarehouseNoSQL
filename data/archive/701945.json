@@ -1,0 +1,27 @@
+{
+    "order_id": 701945,
+    "client_id": 1557,
+    "produits": [
+        {
+            "produit_id": "P7737",
+            "nom": "Practical Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 224.55
+        },
+        {
+            "produit_id": "P4463",
+            "nom": "Incredible Frozen Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 94.84
+        },
+        {
+            "produit_id": "P0564",
+            "nom": "Awesome Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 19.99
+        }
+    ],
+    "date_commande": "2025-03-17T18:50:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

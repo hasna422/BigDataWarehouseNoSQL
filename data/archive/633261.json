@@ -1,0 +1,31 @@
+{
+    "order_id": 633261,
+    "client_id": 7207,
+    "produits": [
+        {
+            "produit_id": "P5152",
+            "nom": "Small Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 10.79
+        },
+        {
+            "produit_id": "P2149",
+            "nom": "Unbranded Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 242.12
+        },
+        {
+            "produit_id": "P9449",
+            "nom": "Refined Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 335.5
+        }
+    ],
+    "date_commande": "2024-06-27T16:09:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "969 Banbury",
+        "ville": "Largo"
+    }
+}

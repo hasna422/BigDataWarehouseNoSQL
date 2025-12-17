@@ -1,0 +1,15 @@
+{
+    "order_id": 921526,
+    "client_id": 6738,
+    "produits": [
+        {
+            "produit_id": "P2309",
+            "nom": "For repair Chair",
+            "quantite": 1,
+            "prix_unitaire": 465.84
+        }
+    ],
+    "date_commande": "2024-04-12T03:10:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

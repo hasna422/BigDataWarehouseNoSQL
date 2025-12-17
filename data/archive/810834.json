@@ -1,0 +1,27 @@
+{
+    "order_id": 810834,
+    "client_id": 1495,
+    "produits": [
+        {
+            "produit_id": "P3776",
+            "nom": "Granite Bacon",
+            "quantite": 3,
+            "prix_unitaire": 137.28
+        },
+        {
+            "produit_id": "P1984",
+            "nom": "Practical Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 334.22
+        },
+        {
+            "produit_id": "P5102",
+            "nom": "Gently Used Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 196.25
+        }
+    ],
+    "date_commande": "2023-06-29T10:17:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

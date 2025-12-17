@@ -1,0 +1,25 @@
+{
+    "order_id": 124788,
+    "client_id": 5801,
+    "produits": [
+        {
+            "produit_id": "P9191",
+            "nom": "Sleek Fresh Pizza",
+            "quantite": 4,
+            "prix_unitaire": 431.71
+        },
+        {
+            "produit_id": "P8955",
+            "nom": "Tasty Fresh Soap",
+            "quantite": 2,
+            "prix_unitaire": 25.68
+        }
+    ],
+    "date_commande": "2023-09-18T03:50:58",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "151 Horace",
+        "ville": "Santa Fe Springs"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 143734,
+    "client_id": 1123,
+    "produits": [
+        {
+            "produit_id": "P0030",
+            "nom": "Handmade Tuna",
+            "quantite": 2,
+            "prix_unitaire": 142.11
+        },
+        {
+            "produit_id": "P6188",
+            "nom": "Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 181.07
+        }
+    ],
+    "date_commande": "2024-06-18T01:18:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "526 Conwell",
+        "ville": "Acworth"
+    }
+}

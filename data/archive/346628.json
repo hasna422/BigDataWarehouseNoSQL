@@ -1,0 +1,25 @@
+{
+    "order_id": 346628,
+    "client_id": 8503,
+    "produits": [
+        {
+            "produit_id": "P3198",
+            "nom": "Ergonomic Hat",
+            "quantite": 5,
+            "prix_unitaire": 57.02
+        },
+        {
+            "produit_id": "P0354",
+            "nom": "Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 65.91
+        }
+    ],
+    "date_commande": "2023-11-05T21:53:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "130 Justin",
+        "ville": "Merced"
+    }
+}

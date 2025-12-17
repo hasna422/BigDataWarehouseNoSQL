@@ -1,0 +1,31 @@
+{
+    "order_id": 892216,
+    "client_id": 2043,
+    "produits": [
+        {
+            "produit_id": "P8685",
+            "nom": "Generic Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 237.17
+        },
+        {
+            "produit_id": "P3660",
+            "nom": "Incredible Cotton Gloves",
+            "quantite": 3,
+            "prix_unitaire": 93.08
+        },
+        {
+            "produit_id": "P9095",
+            "nom": "Generic Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 130.9
+        }
+    ],
+    "date_commande": "2024-11-17T17:51:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "64 Hillcrest",
+        "ville": "Toledo"
+    }
+}

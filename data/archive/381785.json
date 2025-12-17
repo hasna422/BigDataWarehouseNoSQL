@@ -1,0 +1,19 @@
+{
+    "order_id": 381785,
+    "client_id": 6835,
+    "produits": [
+        {
+            "produit_id": "P8926",
+            "nom": "Incredible Shoes",
+            "quantite": 4,
+            "prix_unitaire": 148.49
+        }
+    ],
+    "date_commande": "2023-12-20T13:56:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "831 Robinson",
+        "ville": "Santa Fe Springs"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 775632,
+    "client_id": 5349,
+    "produits": [
+        {
+            "produit_id": "P7326",
+            "nom": "Handmade Sausages",
+            "quantite": 2,
+            "prix_unitaire": 5.81
+        },
+        {
+            "produit_id": "P0256",
+            "nom": "For repair Steel Chair",
+            "quantite": 1,
+            "prix_unitaire": 128.09
+        },
+        {
+            "produit_id": "P2688",
+            "nom": "Metal Gloves",
+            "quantite": 5,
+            "prix_unitaire": 315.5
+        }
+    ],
+    "date_commande": "2024-06-08T08:06:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1140 Rico",
+        "ville": "Tallahassee"
+    }
+}

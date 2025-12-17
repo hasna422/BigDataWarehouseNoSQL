@@ -1,0 +1,15 @@
+{
+    "order_id": 758455,
+    "client_id": 5971,
+    "produits": [
+        {
+            "produit_id": "P6260",
+            "nom": "Refined Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 348.93
+        }
+    ],
+    "date_commande": "2024-03-24T13:25:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

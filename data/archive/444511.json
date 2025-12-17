@@ -1,0 +1,19 @@
+{
+    "order_id": 444511,
+    "client_id": 9780,
+    "produits": [
+        {
+            "produit_id": "P5785",
+            "nom": "Unbranded Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 297.94
+        }
+    ],
+    "date_commande": "2024-11-06T02:46:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1023 Blackstone",
+        "ville": "San Jose"
+    }
+}

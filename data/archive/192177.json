@@ -1,0 +1,31 @@
+{
+    "order_id": 192177,
+    "client_id": 9178,
+    "produits": [
+        {
+            "produit_id": "P2872",
+            "nom": "Refined Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 213.23
+        },
+        {
+            "produit_id": "P4011",
+            "nom": "For repair Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 330.13
+        },
+        {
+            "produit_id": "P3938",
+            "nom": "Fantastic Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 463.2
+        }
+    ],
+    "date_commande": "2023-10-18T18:36:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "404 Racine",
+        "ville": "Queen Creek"
+    }
+}

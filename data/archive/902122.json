@@ -1,0 +1,25 @@
+{
+    "order_id": 902122,
+    "client_id": 2452,
+    "produits": [
+        {
+            "produit_id": "P8757",
+            "nom": "Ergonomic Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 290.72
+        },
+        {
+            "produit_id": "P5419",
+            "nom": "Refined Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 460.01
+        }
+    ],
+    "date_commande": "2023-08-29T18:04:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "338 Saint Germain",
+        "ville": "Reading"
+    }
+}

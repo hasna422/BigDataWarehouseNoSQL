@@ -1,0 +1,25 @@
+{
+    "order_id": 595872,
+    "client_id": 4137,
+    "produits": [
+        {
+            "produit_id": "P8271",
+            "nom": "Gorgeous Cheese",
+            "quantite": 1,
+            "prix_unitaire": 413.55
+        },
+        {
+            "produit_id": "P7620",
+            "nom": "Practical Gloves",
+            "quantite": 4,
+            "prix_unitaire": 212.39
+        }
+    ],
+    "date_commande": "2023-09-18T06:21:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1399 Bertha",
+        "ville": "Lakeville"
+    }
+}

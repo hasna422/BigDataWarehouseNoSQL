@@ -1,0 +1,31 @@
+{
+    "order_id": 330933,
+    "client_id": 3204,
+    "produits": [
+        {
+            "produit_id": "P2231",
+            "nom": "Intelligent Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 205.36
+        },
+        {
+            "produit_id": "P7510",
+            "nom": "Licensed Tuna",
+            "quantite": 1,
+            "prix_unitaire": 489.84
+        },
+        {
+            "produit_id": "P4534",
+            "nom": "For repair Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 317.11
+        }
+    ],
+    "date_commande": "2025-03-24T17:26:57",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "491 Albion",
+        "ville": "Hutchinson"
+    }
+}

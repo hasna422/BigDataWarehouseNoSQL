@@ -1,0 +1,31 @@
+{
+    "order_id": 949820,
+    "client_id": 8583,
+    "produits": [
+        {
+            "produit_id": "P5700",
+            "nom": "Ergonomic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 386.48
+        },
+        {
+            "produit_id": "P0286",
+            "nom": "New Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 25.61
+        },
+        {
+            "produit_id": "P5364",
+            "nom": "Tasty Steel Mouse",
+            "quantite": 3,
+            "prix_unitaire": 173.83
+        }
+    ],
+    "date_commande": "2024-07-01T17:14:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "991 Eutaw",
+        "ville": "Leander"
+    }
+}

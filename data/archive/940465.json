@@ -1,0 +1,15 @@
+{
+    "order_id": 940465,
+    "client_id": 1580,
+    "produits": [
+        {
+            "produit_id": "P5062",
+            "nom": "Tasty Gloves",
+            "quantite": 4,
+            "prix_unitaire": 148.73
+        }
+    ],
+    "date_commande": "2023-10-06T00:55:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

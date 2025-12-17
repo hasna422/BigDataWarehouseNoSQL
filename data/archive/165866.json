@@ -1,0 +1,31 @@
+{
+    "order_id": 165866,
+    "client_id": 5050,
+    "produits": [
+        {
+            "produit_id": "P7951",
+            "nom": "Intelligent Pants",
+            "quantite": 2,
+            "prix_unitaire": 383.06
+        },
+        {
+            "produit_id": "P1179",
+            "nom": "Generic Cotton Fish",
+            "quantite": 3,
+            "prix_unitaire": 363.17
+        },
+        {
+            "produit_id": "P1843",
+            "nom": "Gently Used Gloves",
+            "quantite": 1,
+            "prix_unitaire": 46.77
+        }
+    ],
+    "date_commande": "2024-08-10T19:00:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1050 Albatross",
+        "ville": "Longmont"
+    }
+}

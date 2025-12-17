@@ -1,0 +1,21 @@
+{
+    "order_id": 172970,
+    "client_id": 7882,
+    "produits": [
+        {
+            "produit_id": "P4114",
+            "nom": "Handmade Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 19.49
+        },
+        {
+            "produit_id": "P1827",
+            "nom": "Used Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 354.64
+        }
+    ],
+    "date_commande": "2024-02-08T08:36:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

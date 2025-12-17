@@ -1,0 +1,21 @@
+{
+    "order_id": 821746,
+    "client_id": 8665,
+    "produits": [
+        {
+            "produit_id": "P8426",
+            "nom": "For repair Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 423.91
+        },
+        {
+            "produit_id": "P8824",
+            "nom": "Small Wooden Hat",
+            "quantite": 3,
+            "prix_unitaire": 315.22
+        }
+    ],
+    "date_commande": "2025-03-21T04:33:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

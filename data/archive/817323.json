@@ -1,0 +1,21 @@
+{
+    "order_id": 817323,
+    "client_id": 8441,
+    "produits": [
+        {
+            "produit_id": "P3792",
+            "nom": "Tasty Chips",
+            "quantite": 1,
+            "prix_unitaire": 186.2
+        },
+        {
+            "produit_id": "P7339",
+            "nom": "Handmade Bike",
+            "quantite": 1,
+            "prix_unitaire": 395.97
+        }
+    ],
+    "date_commande": "2023-08-14T01:19:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

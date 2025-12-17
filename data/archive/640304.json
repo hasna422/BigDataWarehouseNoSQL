@@ -1,0 +1,31 @@
+{
+    "order_id": 640304,
+    "client_id": 9035,
+    "produits": [
+        {
+            "produit_id": "P6379",
+            "nom": "Handcrafted Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 52.85
+        },
+        {
+            "produit_id": "P9029",
+            "nom": "Fresh Car",
+            "quantite": 3,
+            "prix_unitaire": 291.71
+        },
+        {
+            "produit_id": "P6608",
+            "nom": "Unbranded Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 310.11
+        }
+    ],
+    "date_commande": "2023-06-06T18:06:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "500 French",
+        "ville": "Lynwood"
+    }
+}

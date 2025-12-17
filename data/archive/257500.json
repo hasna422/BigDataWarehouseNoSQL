@@ -1,0 +1,31 @@
+{
+    "order_id": 257500,
+    "client_id": 5012,
+    "produits": [
+        {
+            "produit_id": "P2826",
+            "nom": "Ergonomic Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 201.5
+        },
+        {
+            "produit_id": "P0972",
+            "nom": "Tasty Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 471.54
+        },
+        {
+            "produit_id": "P5891",
+            "nom": "Licensed Shirt",
+            "quantite": 4,
+            "prix_unitaire": 234.88
+        }
+    ],
+    "date_commande": "2024-07-25T09:05:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "911 Cresta Vista",
+        "ville": "Faribault"
+    }
+}

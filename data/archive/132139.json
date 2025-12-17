@@ -1,0 +1,27 @@
+{
+    "order_id": 132139,
+    "client_id": 4060,
+    "produits": [
+        {
+            "produit_id": "P6176",
+            "nom": "Awesome Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 469.84
+        },
+        {
+            "produit_id": "P9665",
+            "nom": "Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 436.26
+        },
+        {
+            "produit_id": "P3210",
+            "nom": "Sleek Shoes",
+            "quantite": 4,
+            "prix_unitaire": 260.7
+        }
+    ],
+    "date_commande": "2024-05-28T15:24:13",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

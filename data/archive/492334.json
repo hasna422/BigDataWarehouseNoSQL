@@ -1,0 +1,25 @@
+{
+    "order_id": 492334,
+    "client_id": 4870,
+    "produits": [
+        {
+            "produit_id": "P5690",
+            "nom": "Fantastic Steel Chicken",
+            "quantite": 5,
+            "prix_unitaire": 499.28
+        },
+        {
+            "produit_id": "P1474",
+            "nom": "New Granite Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 108.43
+        }
+    ],
+    "date_commande": "2024-08-07T03:15:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "680 Olympia",
+        "ville": "Edgewater"
+    }
+}

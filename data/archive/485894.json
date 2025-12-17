@@ -1,0 +1,21 @@
+{
+    "order_id": 485894,
+    "client_id": 7097,
+    "produits": [
+        {
+            "produit_id": "P2958",
+            "nom": "Gently Used Granite Chips",
+            "quantite": 3,
+            "prix_unitaire": 431.68
+        },
+        {
+            "produit_id": "P3645",
+            "nom": "Small Concrete Towels",
+            "quantite": 4,
+            "prix_unitaire": 154.62
+        }
+    ],
+    "date_commande": "2025-04-02T00:54:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

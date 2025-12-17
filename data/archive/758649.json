@@ -1,0 +1,19 @@
+{
+    "order_id": 758649,
+    "client_id": 6547,
+    "produits": [
+        {
+            "produit_id": "P2788",
+            "nom": "Practical Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 73.2
+        }
+    ],
+    "date_commande": "2024-05-06T14:11:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "678 Linda Vista",
+        "ville": "Holyoke"
+    }
+}

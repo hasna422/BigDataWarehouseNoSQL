@@ -1,0 +1,31 @@
+{
+    "order_id": 388814,
+    "client_id": 3355,
+    "produits": [
+        {
+            "produit_id": "P7328",
+            "nom": "Rustic Soft Pants",
+            "quantite": 3,
+            "prix_unitaire": 169.99
+        },
+        {
+            "produit_id": "P8730",
+            "nom": "Tasty Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 91.21
+        },
+        {
+            "produit_id": "P1079",
+            "nom": "Intelligent Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 60.07
+        }
+    ],
+    "date_commande": "2024-02-08T22:26:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "466 La Ferrera",
+        "ville": "Medina"
+    }
+}

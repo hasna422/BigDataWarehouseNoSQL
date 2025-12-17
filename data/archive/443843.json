@@ -1,0 +1,19 @@
+{
+    "order_id": 443843,
+    "client_id": 9488,
+    "produits": [
+        {
+            "produit_id": "P7254",
+            "nom": "Gently Used Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 218.75
+        }
+    ],
+    "date_commande": "2025-04-27T03:59:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "690 Revello",
+        "ville": "Somerville"
+    }
+}

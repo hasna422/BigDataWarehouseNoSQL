@@ -1,0 +1,25 @@
+{
+    "order_id": 263664,
+    "client_id": 1923,
+    "produits": [
+        {
+            "produit_id": "P7822",
+            "nom": "For repair Granite Salad",
+            "quantite": 5,
+            "prix_unitaire": 205.93
+        },
+        {
+            "produit_id": "P9012",
+            "nom": "Sleek Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 29.13
+        }
+    ],
+    "date_commande": "2024-04-30T18:23:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "285 Faith",
+        "ville": "Ann Arbor"
+    }
+}

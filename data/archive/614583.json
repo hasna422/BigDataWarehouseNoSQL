@@ -1,0 +1,15 @@
+{
+    "order_id": 614583,
+    "client_id": 8204,
+    "produits": [
+        {
+            "produit_id": "P0944",
+            "nom": "Handmade Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 377.04
+        }
+    ],
+    "date_commande": "2025-03-11T18:25:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

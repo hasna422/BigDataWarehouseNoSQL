@@ -1,0 +1,19 @@
+{
+    "order_id": 342401,
+    "client_id": 8213,
+    "produits": [
+        {
+            "produit_id": "P8900",
+            "nom": "Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 10.59
+        }
+    ],
+    "date_commande": "2024-02-13T20:16:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "465 Security Pacific",
+        "ville": "Hobbs"
+    }
+}

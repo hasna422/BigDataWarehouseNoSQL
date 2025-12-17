@@ -1,0 +1,21 @@
+{
+    "order_id": 541480,
+    "client_id": 3584,
+    "produits": [
+        {
+            "produit_id": "P3434",
+            "nom": "Unbranded Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 51.05
+        },
+        {
+            "produit_id": "P5315",
+            "nom": "Small Chair",
+            "quantite": 3,
+            "prix_unitaire": 229.65
+        }
+    ],
+    "date_commande": "2024-08-25T01:09:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 657656,
+    "client_id": 7038,
+    "produits": [
+        {
+            "produit_id": "P8623",
+            "nom": "Licensed Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 211.06
+        }
+    ],
+    "date_commande": "2023-06-11T16:54:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

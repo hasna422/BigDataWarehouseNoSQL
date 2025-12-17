@@ -1,0 +1,27 @@
+{
+    "order_id": 925962,
+    "client_id": 9734,
+    "produits": [
+        {
+            "produit_id": "P6966",
+            "nom": "Awesome Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 139.65
+        },
+        {
+            "produit_id": "P9869",
+            "nom": "Used Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 160.88
+        },
+        {
+            "produit_id": "P3742",
+            "nom": "Handmade Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 151.04
+        }
+    ],
+    "date_commande": "2024-10-01T14:34:46",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

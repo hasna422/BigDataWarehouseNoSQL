@@ -1,0 +1,27 @@
+{
+    "order_id": 203542,
+    "client_id": 4826,
+    "produits": [
+        {
+            "produit_id": "P4002",
+            "nom": "Licensed Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 123.57
+        },
+        {
+            "produit_id": "P9300",
+            "nom": "New Steel Car",
+            "quantite": 3,
+            "prix_unitaire": 49.15
+        },
+        {
+            "produit_id": "P2049",
+            "nom": "Fantastic Metal Bike",
+            "quantite": 2,
+            "prix_unitaire": 284.83
+        }
+    ],
+    "date_commande": "2023-08-20T12:40:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

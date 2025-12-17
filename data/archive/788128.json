@@ -1,0 +1,31 @@
+{
+    "order_id": 788128,
+    "client_id": 7745,
+    "produits": [
+        {
+            "produit_id": "P5747",
+            "nom": "Steel Towels",
+            "quantite": 5,
+            "prix_unitaire": 273.6
+        },
+        {
+            "produit_id": "P7996",
+            "nom": "Intelligent Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 53.62
+        },
+        {
+            "produit_id": "P9857",
+            "nom": "Practical Shoes",
+            "quantite": 3,
+            "prix_unitaire": 121.35
+        }
+    ],
+    "date_commande": "2024-12-19T22:37:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "932 Richardson",
+        "ville": "Fair Lawn"
+    }
+}

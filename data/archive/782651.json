@@ -1,0 +1,21 @@
+{
+    "order_id": 782651,
+    "client_id": 6572,
+    "produits": [
+        {
+            "produit_id": "P7864",
+            "nom": "Rustic Rubber Gloves",
+            "quantite": 5,
+            "prix_unitaire": 387.66
+        },
+        {
+            "produit_id": "P4154",
+            "nom": "Fantastic Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 86.87
+        }
+    ],
+    "date_commande": "2025-03-23T23:29:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

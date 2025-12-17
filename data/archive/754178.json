@@ -1,0 +1,27 @@
+{
+    "order_id": 754178,
+    "client_id": 4720,
+    "produits": [
+        {
+            "produit_id": "P2037",
+            "nom": "Incredible Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 47.93
+        },
+        {
+            "produit_id": "P5207",
+            "nom": "Fantastic Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 32.72
+        },
+        {
+            "produit_id": "P0700",
+            "nom": "Frozen Pants",
+            "quantite": 1,
+            "prix_unitaire": 367.53
+        }
+    ],
+    "date_commande": "2023-06-27T10:14:59",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

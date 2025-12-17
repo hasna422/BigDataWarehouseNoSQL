@@ -1,0 +1,19 @@
+{
+    "order_id": 675222,
+    "client_id": 6312,
+    "produits": [
+        {
+            "produit_id": "P0103",
+            "nom": "Refined Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 124.49
+        }
+    ],
+    "date_commande": "2024-09-08T14:05:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "172 Seneca",
+        "ville": "University City"
+    }
+}

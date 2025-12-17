@@ -1,0 +1,31 @@
+{
+    "order_id": 703704,
+    "client_id": 7975,
+    "produits": [
+        {
+            "produit_id": "P3883",
+            "nom": "Practical Chair",
+            "quantite": 5,
+            "prix_unitaire": 324.37
+        },
+        {
+            "produit_id": "P0116",
+            "nom": "Ergonomic Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 312.88
+        },
+        {
+            "produit_id": "P5430",
+            "nom": "Handcrafted Salad",
+            "quantite": 2,
+            "prix_unitaire": 36.67
+        }
+    ],
+    "date_commande": "2025-04-19T09:39:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1066 Isis",
+        "ville": "Biddeford"
+    }
+}

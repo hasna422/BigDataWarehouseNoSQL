@@ -1,0 +1,15 @@
+{
+    "order_id": 191648,
+    "client_id": 2930,
+    "produits": [
+        {
+            "produit_id": "P5955",
+            "nom": "Sleek Mouse",
+            "quantite": 1,
+            "prix_unitaire": 317.29
+        }
+    ],
+    "date_commande": "2025-01-06T11:49:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

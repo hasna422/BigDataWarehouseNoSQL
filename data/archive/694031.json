@@ -1,0 +1,19 @@
+{
+    "order_id": 694031,
+    "client_id": 8357,
+    "produits": [
+        {
+            "produit_id": "P2001",
+            "nom": "Generic Fresh Tuna",
+            "quantite": 5,
+            "prix_unitaire": 344.4
+        }
+    ],
+    "date_commande": "2024-04-24T09:40:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "574 Transbay Loop",
+        "ville": "El Cajon"
+    }
+}

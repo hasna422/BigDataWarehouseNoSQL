@@ -1,0 +1,27 @@
+{
+    "order_id": 265367,
+    "client_id": 2650,
+    "produits": [
+        {
+            "produit_id": "P5804",
+            "nom": "Fantastic Granite Computer",
+            "quantite": 2,
+            "prix_unitaire": 65.67
+        },
+        {
+            "produit_id": "P5800",
+            "nom": "Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 241.72
+        },
+        {
+            "produit_id": "P0770",
+            "nom": "Handmade Concrete Table",
+            "quantite": 1,
+            "prix_unitaire": 404.66
+        }
+    ],
+    "date_commande": "2024-06-14T22:48:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

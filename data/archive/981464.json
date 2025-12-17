@@ -1,0 +1,25 @@
+{
+    "order_id": 981464,
+    "client_id": 1505,
+    "produits": [
+        {
+            "produit_id": "P7830",
+            "nom": "Licensed Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 439.21
+        },
+        {
+            "produit_id": "P5972",
+            "nom": "Handcrafted Pants",
+            "quantite": 3,
+            "prix_unitaire": 193.24
+        }
+    ],
+    "date_commande": "2024-04-25T05:34:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1045 Kelloch",
+        "ville": "Minot"
+    }
+}

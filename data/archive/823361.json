@@ -1,0 +1,21 @@
+{
+    "order_id": 823361,
+    "client_id": 2527,
+    "produits": [
+        {
+            "produit_id": "P6921",
+            "nom": "For repair Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 449.37
+        },
+        {
+            "produit_id": "P4724",
+            "nom": "Fantastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 495.48
+        }
+    ],
+    "date_commande": "2024-07-03T12:29:53",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

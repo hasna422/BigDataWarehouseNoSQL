@@ -1,0 +1,21 @@
+{
+    "order_id": 702299,
+    "client_id": 3401,
+    "produits": [
+        {
+            "produit_id": "P1208",
+            "nom": "Handcrafted Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 467.15
+        },
+        {
+            "produit_id": "P7034",
+            "nom": "New Soft Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 408.3
+        }
+    ],
+    "date_commande": "2024-03-04T00:31:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

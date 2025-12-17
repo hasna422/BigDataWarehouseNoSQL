@@ -1,0 +1,31 @@
+{
+    "order_id": 316369,
+    "client_id": 8430,
+    "produits": [
+        {
+            "produit_id": "P6916",
+            "nom": "Awesome Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 33.81
+        },
+        {
+            "produit_id": "P4536",
+            "nom": "Handmade Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 487.06
+        },
+        {
+            "produit_id": "P0890",
+            "nom": "Incredible Chair",
+            "quantite": 5,
+            "prix_unitaire": 393.99
+        }
+    ],
+    "date_commande": "2024-05-21T01:31:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1197 Jewett",
+        "ville": "Agawam"
+    }
+}

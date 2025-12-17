@@ -1,0 +1,25 @@
+{
+    "order_id": 575618,
+    "client_id": 9931,
+    "produits": [
+        {
+            "produit_id": "P8466",
+            "nom": "Refined Fresh Ball",
+            "quantite": 2,
+            "prix_unitaire": 387.08
+        },
+        {
+            "produit_id": "P1115",
+            "nom": "Used Cotton Chips",
+            "quantite": 5,
+            "prix_unitaire": 449.94
+        }
+    ],
+    "date_commande": "2024-09-29T03:59:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "209 Dolphin",
+        "ville": "Loves Park"
+    }
+}

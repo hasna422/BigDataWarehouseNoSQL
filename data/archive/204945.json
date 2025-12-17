@@ -1,0 +1,15 @@
+{
+    "order_id": 204945,
+    "client_id": 1966,
+    "produits": [
+        {
+            "produit_id": "P5841",
+            "nom": "Generic Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 234.6
+        }
+    ],
+    "date_commande": "2023-11-10T00:45:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 411624,
+    "client_id": 9466,
+    "produits": [
+        {
+            "produit_id": "P8503",
+            "nom": "Rustic Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 108.14
+        },
+        {
+            "produit_id": "P8576",
+            "nom": "Practical Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 271.75
+        }
+    ],
+    "date_commande": "2024-05-26T00:10:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "879 Mars",
+        "ville": "Deer Park"
+    }
+}

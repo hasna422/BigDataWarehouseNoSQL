@@ -1,0 +1,25 @@
+{
+    "order_id": 546605,
+    "client_id": 4488,
+    "produits": [
+        {
+            "produit_id": "P0094",
+            "nom": "Gorgeous Steel Chicken",
+            "quantite": 5,
+            "prix_unitaire": 60.27
+        },
+        {
+            "produit_id": "P1887",
+            "nom": "Handmade Granite Gloves",
+            "quantite": 2,
+            "prix_unitaire": 130.27
+        }
+    ],
+    "date_commande": "2024-07-09T05:48:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "580 Ware",
+        "ville": "Orlando"
+    }
+}

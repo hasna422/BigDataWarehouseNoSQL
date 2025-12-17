@@ -1,0 +1,31 @@
+{
+    "order_id": 271153,
+    "client_id": 1581,
+    "produits": [
+        {
+            "produit_id": "P7829",
+            "nom": "Intelligent Frozen Pizza",
+            "quantite": 3,
+            "prix_unitaire": 166.94
+        },
+        {
+            "produit_id": "P9178",
+            "nom": "Gently Used Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 355.55
+        },
+        {
+            "produit_id": "P0715",
+            "nom": "Generic Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 41.22
+        }
+    ],
+    "date_commande": "2024-01-06T01:31:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "258 Claremont",
+        "ville": "Casselberry"
+    }
+}

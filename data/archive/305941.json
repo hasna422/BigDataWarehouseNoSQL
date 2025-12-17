@@ -1,0 +1,15 @@
+{
+    "order_id": 305941,
+    "client_id": 1925,
+    "produits": [
+        {
+            "produit_id": "P9722",
+            "nom": "Generic Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 272.63
+        }
+    ],
+    "date_commande": "2024-11-11T06:16:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

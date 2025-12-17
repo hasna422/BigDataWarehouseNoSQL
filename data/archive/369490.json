@@ -1,0 +1,19 @@
+{
+    "order_id": 369490,
+    "client_id": 2717,
+    "produits": [
+        {
+            "produit_id": "P1551",
+            "nom": "Fantastic Concrete Ball",
+            "quantite": 2,
+            "prix_unitaire": 340.73
+        }
+    ],
+    "date_commande": "2024-01-25T15:38:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "68 Jessie",
+        "ville": "Mount Pleasant"
+    }
+}

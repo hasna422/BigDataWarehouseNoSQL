@@ -1,0 +1,31 @@
+{
+    "order_id": 660495,
+    "client_id": 2573,
+    "produits": [
+        {
+            "produit_id": "P9535",
+            "nom": "Frozen Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 380.91
+        },
+        {
+            "produit_id": "P3767",
+            "nom": "Concrete Bike",
+            "quantite": 3,
+            "prix_unitaire": 60.86
+        },
+        {
+            "produit_id": "P2635",
+            "nom": "Small Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 10.37
+        }
+    ],
+    "date_commande": "2024-05-14T23:28:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "831 Chicago",
+        "ville": "Rexburg"
+    }
+}

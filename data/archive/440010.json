@@ -1,0 +1,31 @@
+{
+    "order_id": 440010,
+    "client_id": 1932,
+    "produits": [
+        {
+            "produit_id": "P9681",
+            "nom": "Sleek Shoes",
+            "quantite": 5,
+            "prix_unitaire": 243.97
+        },
+        {
+            "produit_id": "P1400",
+            "nom": "Intelligent Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 89.03
+        },
+        {
+            "produit_id": "P6614",
+            "nom": "Refined Pants",
+            "quantite": 2,
+            "prix_unitaire": 328.85
+        }
+    ],
+    "date_commande": "2024-08-20T13:51:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "884 Rockdale",
+        "ville": "Forest Park"
+    }
+}

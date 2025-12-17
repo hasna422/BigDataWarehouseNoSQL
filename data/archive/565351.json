@@ -1,0 +1,19 @@
+{
+    "order_id": 565351,
+    "client_id": 5825,
+    "produits": [
+        {
+            "produit_id": "P2396",
+            "nom": "Small Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 440.38
+        }
+    ],
+    "date_commande": "2024-08-20T11:58:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "213 Belgrave",
+        "ville": "Walla Walla"
+    }
+}

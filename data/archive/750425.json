@@ -1,0 +1,25 @@
+{
+    "order_id": 750425,
+    "client_id": 9326,
+    "produits": [
+        {
+            "produit_id": "P6062",
+            "nom": "Ergonomic Metal Shirt",
+            "quantite": 3,
+            "prix_unitaire": 392.48
+        },
+        {
+            "produit_id": "P8312",
+            "nom": "Unbranded Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 372.57
+        }
+    ],
+    "date_commande": "2025-01-01T13:20:58",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "986 Rosewood",
+        "ville": "Eau Claire"
+    }
+}

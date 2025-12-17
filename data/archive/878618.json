@@ -1,0 +1,27 @@
+{
+    "order_id": 878618,
+    "client_id": 3084,
+    "produits": [
+        {
+            "produit_id": "P0986",
+            "nom": "Awesome Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 385.31
+        },
+        {
+            "produit_id": "P5937",
+            "nom": "Small Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 100.82
+        },
+        {
+            "produit_id": "P6202",
+            "nom": "Incredible Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 89.88
+        }
+    ],
+    "date_commande": "2025-05-04T14:57:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

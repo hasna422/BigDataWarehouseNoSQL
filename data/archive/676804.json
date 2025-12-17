@@ -1,0 +1,25 @@
+{
+    "order_id": 676804,
+    "client_id": 8639,
+    "produits": [
+        {
+            "produit_id": "P6934",
+            "nom": "Licensed Frozen Sausages",
+            "quantite": 3,
+            "prix_unitaire": 444.35
+        },
+        {
+            "produit_id": "P0515",
+            "nom": "Sleek Cotton Fish",
+            "quantite": 3,
+            "prix_unitaire": 115.31
+        }
+    ],
+    "date_commande": "2024-12-06T10:39:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "706 Tehama",
+        "ville": "St. George"
+    }
+}

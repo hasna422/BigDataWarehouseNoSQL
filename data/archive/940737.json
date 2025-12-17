@@ -1,0 +1,27 @@
+{
+    "order_id": 940737,
+    "client_id": 9183,
+    "produits": [
+        {
+            "produit_id": "P4895",
+            "nom": "Unbranded Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 374.19
+        },
+        {
+            "produit_id": "P3504",
+            "nom": "Refined Frozen Chicken",
+            "quantite": 3,
+            "prix_unitaire": 81.88
+        },
+        {
+            "produit_id": "P9368",
+            "nom": "Sleek Plastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 344.35
+        }
+    ],
+    "date_commande": "2025-04-28T04:50:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

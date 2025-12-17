@@ -1,0 +1,31 @@
+{
+    "order_id": 304063,
+    "client_id": 5875,
+    "produits": [
+        {
+            "produit_id": "P7940",
+            "nom": "Intelligent Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 276.39
+        },
+        {
+            "produit_id": "P5405",
+            "nom": "Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 135.92
+        },
+        {
+            "produit_id": "P5440",
+            "nom": "Rustic Concrete Ball",
+            "quantite": 2,
+            "prix_unitaire": 340.84
+        }
+    ],
+    "date_commande": "2024-01-26T02:09:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "223 Baltimore",
+        "ville": "Tullahoma"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 743719,
+    "client_id": 5908,
+    "produits": [
+        {
+            "produit_id": "P9471",
+            "nom": "Tasty Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 77.37
+        },
+        {
+            "produit_id": "P1899",
+            "nom": "New Fresh Shoes",
+            "quantite": 3,
+            "prix_unitaire": 8.0
+        },
+        {
+            "produit_id": "P5294",
+            "nom": "Incredible Fresh Pizza",
+            "quantite": 3,
+            "prix_unitaire": 328.53
+        }
+    ],
+    "date_commande": "2024-02-25T00:13:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

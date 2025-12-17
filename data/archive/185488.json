@@ -1,0 +1,25 @@
+{
+    "order_id": 185488,
+    "client_id": 6484,
+    "produits": [
+        {
+            "produit_id": "P7549",
+            "nom": "For repair Fresh Computer",
+            "quantite": 3,
+            "prix_unitaire": 249.64
+        },
+        {
+            "produit_id": "P2454",
+            "nom": "Rustic Rubber Bacon",
+            "quantite": 2,
+            "prix_unitaire": 497.13
+        }
+    ],
+    "date_commande": "2024-05-30T07:10:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1210 Rio Verde",
+        "ville": "Texarkana"
+    }
+}

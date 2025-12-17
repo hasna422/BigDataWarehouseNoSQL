@@ -1,0 +1,25 @@
+{
+    "order_id": 153373,
+    "client_id": 1328,
+    "produits": [
+        {
+            "produit_id": "P6865",
+            "nom": "Unbranded Cotton Hat",
+            "quantite": 2,
+            "prix_unitaire": 489.02
+        },
+        {
+            "produit_id": "P3867",
+            "nom": "Practical Cotton Salad",
+            "quantite": 4,
+            "prix_unitaire": 72.8
+        }
+    ],
+    "date_commande": "2023-07-02T11:30:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "905 Healy",
+        "ville": "Perth Amboy"
+    }
+}

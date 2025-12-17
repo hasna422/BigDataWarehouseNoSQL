@@ -1,0 +1,25 @@
+{
+    "order_id": 500102,
+    "client_id": 3837,
+    "produits": [
+        {
+            "produit_id": "P0905",
+            "nom": "Used Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 362.24
+        },
+        {
+            "produit_id": "P6910",
+            "nom": "Unbranded Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 189.41
+        }
+    ],
+    "date_commande": "2024-07-28T22:31:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1008 Pfeiffer",
+        "ville": "Fairborn"
+    }
+}

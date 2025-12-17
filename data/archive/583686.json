@@ -1,0 +1,27 @@
+{
+    "order_id": 583686,
+    "client_id": 6214,
+    "produits": [
+        {
+            "produit_id": "P5815",
+            "nom": "Gorgeous Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 243.54
+        },
+        {
+            "produit_id": "P8075",
+            "nom": "Intelligent Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 11.76
+        },
+        {
+            "produit_id": "P4301",
+            "nom": "Handcrafted Rubber Pants",
+            "quantite": 5,
+            "prix_unitaire": 42.65
+        }
+    ],
+    "date_commande": "2024-03-25T08:41:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

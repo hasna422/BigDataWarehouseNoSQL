@@ -1,0 +1,19 @@
+{
+    "order_id": 266856,
+    "client_id": 8955,
+    "produits": [
+        {
+            "produit_id": "P2345",
+            "nom": "Unbranded Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 405.6
+        }
+    ],
+    "date_commande": "2024-01-01T13:01:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "37 Calvert",
+        "ville": "West Chicago"
+    }
+}

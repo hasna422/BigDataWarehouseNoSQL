@@ -1,0 +1,25 @@
+{
+    "order_id": 769327,
+    "client_id": 8812,
+    "produits": [
+        {
+            "produit_id": "P5234",
+            "nom": "Fantastic Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 85.63
+        },
+        {
+            "produit_id": "P5887",
+            "nom": "Used Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 368.15
+        }
+    ],
+    "date_commande": "2023-07-17T18:45:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1171 Head",
+        "ville": "Seguin"
+    }
+}

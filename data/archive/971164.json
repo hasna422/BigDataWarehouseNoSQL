@@ -1,0 +1,19 @@
+{
+    "order_id": 971164,
+    "client_id": 1525,
+    "produits": [
+        {
+            "produit_id": "P2755",
+            "nom": "Intelligent Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 343.33
+        }
+    ],
+    "date_commande": "2023-08-28T15:05:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "644 Harding",
+        "ville": "Havelock"
+    }
+}

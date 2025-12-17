@@ -1,0 +1,25 @@
+{
+    "order_id": 880516,
+    "client_id": 6561,
+    "produits": [
+        {
+            "produit_id": "P2211",
+            "nom": "Refined Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 244.29
+        },
+        {
+            "produit_id": "P8731",
+            "nom": "Intelligent Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 261.63
+        }
+    ],
+    "date_commande": "2024-09-04T02:14:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "806 Alabama",
+        "ville": "Shelton"
+    }
+}

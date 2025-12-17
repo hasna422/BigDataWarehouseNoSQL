@@ -1,0 +1,21 @@
+{
+    "order_id": 810341,
+    "client_id": 7264,
+    "produits": [
+        {
+            "produit_id": "P6321",
+            "nom": "Handcrafted Mouse",
+            "quantite": 4,
+            "prix_unitaire": 105.31
+        },
+        {
+            "produit_id": "P1487",
+            "nom": "Awesome Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 266.69
+        }
+    ],
+    "date_commande": "2024-08-06T15:52:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

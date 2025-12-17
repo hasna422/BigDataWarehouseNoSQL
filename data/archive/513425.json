@@ -1,0 +1,15 @@
+{
+    "order_id": 513425,
+    "client_id": 4984,
+    "produits": [
+        {
+            "produit_id": "P5886",
+            "nom": "Incredible Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 318.89
+        }
+    ],
+    "date_commande": "2024-10-11T19:03:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

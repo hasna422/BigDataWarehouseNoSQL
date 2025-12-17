@@ -1,0 +1,25 @@
+{
+    "order_id": 792990,
+    "client_id": 7334,
+    "produits": [
+        {
+            "produit_id": "P1332",
+            "nom": "Rustic Concrete Fish",
+            "quantite": 5,
+            "prix_unitaire": 139.44
+        },
+        {
+            "produit_id": "P6387",
+            "nom": "Frozen Salad",
+            "quantite": 1,
+            "prix_unitaire": 244.34
+        }
+    ],
+    "date_commande": "2024-12-16T14:28:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1345 Miraloma",
+        "ville": "Laurel"
+    }
+}

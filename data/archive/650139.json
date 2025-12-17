@@ -1,0 +1,25 @@
+{
+    "order_id": 650139,
+    "client_id": 1460,
+    "produits": [
+        {
+            "produit_id": "P5295",
+            "nom": "Tasty Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 427.76
+        },
+        {
+            "produit_id": "P4805",
+            "nom": "Ergonomic Soft Bacon",
+            "quantite": 5,
+            "prix_unitaire": 82.67
+        }
+    ],
+    "date_commande": "2025-02-24T12:49:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1144 Riverton",
+        "ville": "Goldsboro"
+    }
+}

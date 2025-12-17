@@ -1,0 +1,25 @@
+{
+    "order_id": 121384,
+    "client_id": 3649,
+    "produits": [
+        {
+            "produit_id": "P4951",
+            "nom": "Handmade Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 216.69
+        },
+        {
+            "produit_id": "P7331",
+            "nom": "Steel Shoes",
+            "quantite": 1,
+            "prix_unitaire": 237.37
+        }
+    ],
+    "date_commande": "2023-10-16T17:08:14",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1159 Pfeiffer",
+        "ville": "Pittsfield"
+    }
+}

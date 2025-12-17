@@ -1,0 +1,15 @@
+{
+    "order_id": 704134,
+    "client_id": 1224,
+    "produits": [
+        {
+            "produit_id": "P9388",
+            "nom": "For repair Soft Chips",
+            "quantite": 1,
+            "prix_unitaire": 74.72
+        }
+    ],
+    "date_commande": "2024-07-13T17:09:02",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 866394,
+    "client_id": 6500,
+    "produits": [
+        {
+            "produit_id": "P6396",
+            "nom": "New Bacon",
+            "quantite": 5,
+            "prix_unitaire": 132.54
+        },
+        {
+            "produit_id": "P1522",
+            "nom": "Cotton Towels",
+            "quantite": 2,
+            "prix_unitaire": 469.84
+        }
+    ],
+    "date_commande": "2025-05-12T05:58:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1126 Lysette",
+        "ville": "Smyrna"
+    }
+}

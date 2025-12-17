@@ -1,0 +1,31 @@
+{
+    "order_id": 658631,
+    "client_id": 5546,
+    "produits": [
+        {
+            "produit_id": "P1698",
+            "nom": "Handcrafted Wooden Cheese",
+            "quantite": 3,
+            "prix_unitaire": 56.05
+        },
+        {
+            "produit_id": "P0972",
+            "nom": "Tasty Frozen Cheese",
+            "quantite": 3,
+            "prix_unitaire": 206.47
+        },
+        {
+            "produit_id": "P6692",
+            "nom": "Gently Used Rubber Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 29.15
+        }
+    ],
+    "date_commande": "2024-12-01T14:04:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "927 West Point",
+        "ville": "Pearland"
+    }
+}

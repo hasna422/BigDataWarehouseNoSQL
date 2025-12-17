@@ -1,0 +1,19 @@
+{
+    "order_id": 936817,
+    "client_id": 7017,
+    "produits": [
+        {
+            "produit_id": "P7034",
+            "nom": "Small Soft Pants",
+            "quantite": 2,
+            "prix_unitaire": 228.64
+        }
+    ],
+    "date_commande": "2023-07-01T05:19:19",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "119 Doric",
+        "ville": "Kirksville"
+    }
+}

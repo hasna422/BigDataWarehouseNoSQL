@@ -1,0 +1,19 @@
+{
+    "order_id": 718718,
+    "client_id": 6657,
+    "produits": [
+        {
+            "produit_id": "P7895",
+            "nom": "Practical Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 273.91
+        }
+    ],
+    "date_commande": "2025-02-15T07:26:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1366 Mercato",
+        "ville": "Muskogee"
+    }
+}

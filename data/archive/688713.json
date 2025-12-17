@@ -1,0 +1,31 @@
+{
+    "order_id": 688713,
+    "client_id": 5148,
+    "produits": [
+        {
+            "produit_id": "P6624",
+            "nom": "Handcrafted Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 263.6
+        },
+        {
+            "produit_id": "P5420",
+            "nom": "Generic Plastic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 380.78
+        },
+        {
+            "produit_id": "P9993",
+            "nom": "Practical Soft Pants",
+            "quantite": 3,
+            "prix_unitaire": 458.03
+        }
+    ],
+    "date_commande": "2024-08-08T23:58:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "897 Miramar",
+        "ville": "Wenatchee"
+    }
+}

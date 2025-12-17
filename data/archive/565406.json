@@ -1,0 +1,15 @@
+{
+    "order_id": 565406,
+    "client_id": 8051,
+    "produits": [
+        {
+            "produit_id": "P9680",
+            "nom": "New Tuna",
+            "quantite": 3,
+            "prix_unitaire": 419.51
+        }
+    ],
+    "date_commande": "2024-05-21T02:14:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

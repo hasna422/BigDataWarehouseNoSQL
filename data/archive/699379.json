@@ -1,0 +1,21 @@
+{
+    "order_id": 699379,
+    "client_id": 6138,
+    "produits": [
+        {
+            "produit_id": "P6088",
+            "nom": "Small Concrete Computer",
+            "quantite": 1,
+            "prix_unitaire": 345.62
+        },
+        {
+            "produit_id": "P7108",
+            "nom": "Rustic Metal Bacon",
+            "quantite": 2,
+            "prix_unitaire": 469.36
+        }
+    ],
+    "date_commande": "2024-04-01T06:00:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

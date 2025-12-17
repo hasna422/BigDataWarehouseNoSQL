@@ -1,0 +1,25 @@
+{
+    "order_id": 562746,
+    "client_id": 3259,
+    "produits": [
+        {
+            "produit_id": "P2491",
+            "nom": "Unbranded Car",
+            "quantite": 5,
+            "prix_unitaire": 154.94
+        },
+        {
+            "produit_id": "P8175",
+            "nom": "Handcrafted Car",
+            "quantite": 1,
+            "prix_unitaire": 19.23
+        }
+    ],
+    "date_commande": "2024-12-28T20:50:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "307 Miraloma",
+        "ville": "Haverhill"
+    }
+}

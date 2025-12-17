@@ -1,0 +1,21 @@
+{
+    "order_id": 243264,
+    "client_id": 7717,
+    "produits": [
+        {
+            "produit_id": "P2072",
+            "nom": "Intelligent Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 121.34
+        },
+        {
+            "produit_id": "P0363",
+            "nom": "Used Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 310.38
+        }
+    ],
+    "date_commande": "2024-08-19T21:08:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

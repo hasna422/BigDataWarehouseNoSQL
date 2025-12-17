@@ -1,0 +1,25 @@
+{
+    "order_id": 555832,
+    "client_id": 5466,
+    "produits": [
+        {
+            "produit_id": "P1536",
+            "nom": "Used Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 491.73
+        },
+        {
+            "produit_id": "P6230",
+            "nom": "Rustic Rubber Computer",
+            "quantite": 2,
+            "prix_unitaire": 291.79
+        }
+    ],
+    "date_commande": "2023-10-20T04:53:53",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "21 Belvedere",
+        "ville": "Round Lake"
+    }
+}

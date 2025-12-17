@@ -1,0 +1,19 @@
+{
+    "order_id": 581138,
+    "client_id": 2771,
+    "produits": [
+        {
+            "produit_id": "P3934",
+            "nom": "New Metal Gloves",
+            "quantite": 1,
+            "prix_unitaire": 364.79
+        }
+    ],
+    "date_commande": "2025-04-23T00:50:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "845 Clifford",
+        "ville": "Sandy Springs"
+    }
+}

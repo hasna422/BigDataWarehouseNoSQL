@@ -1,0 +1,19 @@
+{
+    "order_id": 971703,
+    "client_id": 6343,
+    "produits": [
+        {
+            "produit_id": "P8342",
+            "nom": "Awesome Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 111.22
+        }
+    ],
+    "date_commande": "2023-06-25T03:43:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "312 Parque",
+        "ville": "Pittsburgh"
+    }
+}

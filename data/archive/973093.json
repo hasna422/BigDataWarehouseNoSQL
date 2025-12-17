@@ -1,0 +1,27 @@
+{
+    "order_id": 973093,
+    "client_id": 6946,
+    "produits": [
+        {
+            "produit_id": "P6900",
+            "nom": "Handcrafted Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 470.46
+        },
+        {
+            "produit_id": "P4722",
+            "nom": "Handcrafted Salad",
+            "quantite": 5,
+            "prix_unitaire": 352.08
+        },
+        {
+            "produit_id": "P1461",
+            "nom": "Rustic Steel Chicken",
+            "quantite": 5,
+            "prix_unitaire": 195.72
+        }
+    ],
+    "date_commande": "2023-12-08T15:59:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 753108,
+    "client_id": 1520,
+    "produits": [
+        {
+            "produit_id": "P4382",
+            "nom": "Fantastic Frozen Mouse",
+            "quantite": 4,
+            "prix_unitaire": 481.11
+        }
+    ],
+    "date_commande": "2024-09-13T23:05:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "48 Hunt",
+        "ville": "Cedar Park"
+    }
+}

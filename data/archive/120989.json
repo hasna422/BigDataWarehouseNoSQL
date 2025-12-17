@@ -1,0 +1,31 @@
+{
+    "order_id": 120989,
+    "client_id": 1455,
+    "produits": [
+        {
+            "produit_id": "P4808",
+            "nom": "Ergonomic Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 388.18
+        },
+        {
+            "produit_id": "P4222",
+            "nom": "Used Granite Sausages",
+            "quantite": 4,
+            "prix_unitaire": 61.41
+        },
+        {
+            "produit_id": "P3732",
+            "nom": "Licensed Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 167.5
+        }
+    ],
+    "date_commande": "2024-07-18T17:55:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "319 Payson",
+        "ville": "Tracy"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 572258,
+    "client_id": 5754,
+    "produits": [
+        {
+            "produit_id": "P1276",
+            "nom": "Handmade Steel Chair",
+            "quantite": 4,
+            "prix_unitaire": 191.25
+        },
+        {
+            "produit_id": "P4647",
+            "nom": "Generic Fresh Soap",
+            "quantite": 5,
+            "prix_unitaire": 237.22
+        }
+    ],
+    "date_commande": "2024-07-24T14:53:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

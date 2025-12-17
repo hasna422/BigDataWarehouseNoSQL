@@ -1,0 +1,19 @@
+{
+    "order_id": 506182,
+    "client_id": 5039,
+    "produits": [
+        {
+            "produit_id": "P5381",
+            "nom": "Handmade Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 330.04
+        }
+    ],
+    "date_commande": "2024-03-25T06:33:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "62 King",
+        "ville": "Pearl"
+    }
+}

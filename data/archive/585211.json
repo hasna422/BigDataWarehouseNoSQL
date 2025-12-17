@@ -1,0 +1,25 @@
+{
+    "order_id": 585211,
+    "client_id": 7750,
+    "produits": [
+        {
+            "produit_id": "P9698",
+            "nom": "Incredible Pizza",
+            "quantite": 5,
+            "prix_unitaire": 284.71
+        },
+        {
+            "produit_id": "P5216",
+            "nom": "Small Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 432.85
+        }
+    ],
+    "date_commande": "2024-05-22T07:10:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "730 Vale",
+        "ville": "Temple Terrace"
+    }
+}

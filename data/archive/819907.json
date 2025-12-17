@@ -1,0 +1,31 @@
+{
+    "order_id": 819907,
+    "client_id": 1899,
+    "produits": [
+        {
+            "produit_id": "P6158",
+            "nom": "Refined Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 184.23
+        },
+        {
+            "produit_id": "P9880",
+            "nom": "Refined Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 249.84
+        },
+        {
+            "produit_id": "P2627",
+            "nom": "Gently Used Steel Chair",
+            "quantite": 2,
+            "prix_unitaire": 469.87
+        }
+    ],
+    "date_commande": "2024-11-27T22:44:48",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1248 Foote",
+        "ville": "Hobbs"
+    }
+}

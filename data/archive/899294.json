@@ -1,0 +1,25 @@
+{
+    "order_id": 899294,
+    "client_id": 9900,
+    "produits": [
+        {
+            "produit_id": "P4386",
+            "nom": "Generic Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 97.65
+        },
+        {
+            "produit_id": "P3405",
+            "nom": "Tasty Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 242.42
+        }
+    ],
+    "date_commande": "2024-10-18T14:15:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "824 Santa Cruz",
+        "ville": "Clearwater"
+    }
+}

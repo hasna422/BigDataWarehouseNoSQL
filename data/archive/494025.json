@@ -1,0 +1,25 @@
+{
+    "order_id": 494025,
+    "client_id": 7125,
+    "produits": [
+        {
+            "produit_id": "P9745",
+            "nom": "Handmade Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 156.69
+        },
+        {
+            "produit_id": "P9950",
+            "nom": "Small Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 216.53
+        }
+    ],
+    "date_commande": "2023-08-31T14:35:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "922 Wisser",
+        "ville": "Mamaroneck"
+    }
+}

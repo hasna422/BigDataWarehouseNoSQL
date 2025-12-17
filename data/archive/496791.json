@@ -1,0 +1,25 @@
+{
+    "order_id": 496791,
+    "client_id": 8552,
+    "produits": [
+        {
+            "produit_id": "P6137",
+            "nom": "Refined Metal Soap",
+            "quantite": 3,
+            "prix_unitaire": 122.59
+        },
+        {
+            "produit_id": "P7880",
+            "nom": "New Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 201.29
+        }
+    ],
+    "date_commande": "2024-12-19T18:18:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1032 Gonzalez",
+        "ville": "Anaheim"
+    }
+}

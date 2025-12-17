@@ -1,0 +1,21 @@
+{
+    "order_id": 981017,
+    "client_id": 1975,
+    "produits": [
+        {
+            "produit_id": "P1588",
+            "nom": "Refined Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 399.72
+        },
+        {
+            "produit_id": "P0170",
+            "nom": "Refined Concrete Gloves",
+            "quantite": 5,
+            "prix_unitaire": 294.31
+        }
+    ],
+    "date_commande": "2024-07-27T17:08:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 564826,
+    "client_id": 7991,
+    "produits": [
+        {
+            "produit_id": "P3409",
+            "nom": "Gently Used Fresh Pants",
+            "quantite": 5,
+            "prix_unitaire": 207.11
+        },
+        {
+            "produit_id": "P6016",
+            "nom": "Refined Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 365.98
+        },
+        {
+            "produit_id": "P9608",
+            "nom": "For repair Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 213.45
+        }
+    ],
+    "date_commande": "2025-03-29T03:57:23",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1070 Greenwich",
+        "ville": "Billings"
+    }
+}

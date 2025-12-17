@@ -1,0 +1,25 @@
+{
+    "order_id": 244650,
+    "client_id": 6582,
+    "produits": [
+        {
+            "produit_id": "P7053",
+            "nom": "Handmade Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 175.83
+        },
+        {
+            "produit_id": "P3040",
+            "nom": "Sleek Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 123.07
+        }
+    ],
+    "date_commande": "2024-10-04T03:10:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "750 Still",
+        "ville": "Little Rock"
+    }
+}

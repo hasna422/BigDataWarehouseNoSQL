@@ -1,0 +1,31 @@
+{
+    "order_id": 869155,
+    "client_id": 8797,
+    "produits": [
+        {
+            "produit_id": "P5934",
+            "nom": "Small Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 31.61
+        },
+        {
+            "produit_id": "P2197",
+            "nom": "For repair Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 344.63
+        },
+        {
+            "produit_id": "P9893",
+            "nom": "Sleek Rubber Gloves",
+            "quantite": 4,
+            "prix_unitaire": 253.36
+        }
+    ],
+    "date_commande": "2024-12-14T12:40:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1346 Arelious Walker",
+        "ville": "Hot Springs"
+    }
+}

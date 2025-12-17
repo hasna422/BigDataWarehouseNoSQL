@@ -1,0 +1,25 @@
+{
+    "order_id": 469295,
+    "client_id": 8079,
+    "produits": [
+        {
+            "produit_id": "P0723",
+            "nom": "Licensed Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 220.57
+        },
+        {
+            "produit_id": "P8232",
+            "nom": "Granite Towels",
+            "quantite": 4,
+            "prix_unitaire": 395.1
+        }
+    ],
+    "date_commande": "2025-04-05T15:07:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "273 Prospect",
+        "ville": "Owensboro"
+    }
+}

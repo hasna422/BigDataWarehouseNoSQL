@@ -1,0 +1,21 @@
+{
+    "order_id": 637967,
+    "client_id": 8245,
+    "produits": [
+        {
+            "produit_id": "P7913",
+            "nom": "Fantastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 210.27
+        },
+        {
+            "produit_id": "P9147",
+            "nom": "Gorgeous Table",
+            "quantite": 5,
+            "prix_unitaire": 317.68
+        }
+    ],
+    "date_commande": "2025-01-14T14:30:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

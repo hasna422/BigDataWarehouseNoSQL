@@ -1,0 +1,31 @@
+{
+    "order_id": 517870,
+    "client_id": 9938,
+    "produits": [
+        {
+            "produit_id": "P9232",
+            "nom": "Awesome Steel Chair",
+            "quantite": 3,
+            "prix_unitaire": 418.28
+        },
+        {
+            "produit_id": "P1422",
+            "nom": "Ergonomic Soft Car",
+            "quantite": 3,
+            "prix_unitaire": 51.32
+        },
+        {
+            "produit_id": "P7871",
+            "nom": "Fantastic Plastic Shirt",
+            "quantite": 3,
+            "prix_unitaire": 407.92
+        }
+    ],
+    "date_commande": "2023-09-18T04:13:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1265 Marview",
+        "ville": "Paso Robles"
+    }
+}

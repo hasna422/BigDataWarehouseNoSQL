@@ -1,0 +1,27 @@
+{
+    "order_id": 183104,
+    "client_id": 9049,
+    "produits": [
+        {
+            "produit_id": "P9079",
+            "nom": "Awesome Fresh Shirt",
+            "quantite": 4,
+            "prix_unitaire": 109.26
+        },
+        {
+            "produit_id": "P5741",
+            "nom": "Sleek Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 335.69
+        },
+        {
+            "produit_id": "P4107",
+            "nom": "Handcrafted Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 164.95
+        }
+    ],
+    "date_commande": "2024-01-21T12:10:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

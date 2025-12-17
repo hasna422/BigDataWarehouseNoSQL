@@ -1,0 +1,25 @@
+{
+    "order_id": 817207,
+    "client_id": 3074,
+    "produits": [
+        {
+            "produit_id": "P7083",
+            "nom": "Ergonomic Wooden Sausages",
+            "quantite": 5,
+            "prix_unitaire": 418.97
+        },
+        {
+            "produit_id": "P7944",
+            "nom": "Sleek Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 80.06
+        }
+    ],
+    "date_commande": "2025-05-18T11:09:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "562 Woodside",
+        "ville": "Cortland"
+    }
+}

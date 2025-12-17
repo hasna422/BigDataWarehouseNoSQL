@@ -1,0 +1,19 @@
+{
+    "order_id": 807465,
+    "client_id": 8267,
+    "produits": [
+        {
+            "produit_id": "P0058",
+            "nom": "Licensed Mouse",
+            "quantite": 3,
+            "prix_unitaire": 219.4
+        }
+    ],
+    "date_commande": "2024-03-28T10:28:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "436 Ward",
+        "ville": "Syracuse"
+    }
+}

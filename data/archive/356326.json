@@ -1,0 +1,25 @@
+{
+    "order_id": 356326,
+    "client_id": 2724,
+    "produits": [
+        {
+            "produit_id": "P1639",
+            "nom": "For repair Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 300.18
+        },
+        {
+            "produit_id": "P3559",
+            "nom": "Fantastic Fresh Salad",
+            "quantite": 1,
+            "prix_unitaire": 226.64
+        }
+    ],
+    "date_commande": "2025-01-31T01:58:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1265 Perimeter",
+        "ville": "Ozark"
+    }
+}

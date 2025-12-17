@@ -1,0 +1,19 @@
+{
+    "order_id": 729827,
+    "client_id": 1266,
+    "produits": [
+        {
+            "produit_id": "P7426",
+            "nom": "Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 466.96
+        }
+    ],
+    "date_commande": "2025-05-20T16:42:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "241 Battery Safford",
+        "ville": "Logansport"
+    }
+}

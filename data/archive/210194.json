@@ -1,0 +1,19 @@
+{
+    "order_id": 210194,
+    "client_id": 9549,
+    "produits": [
+        {
+            "produit_id": "P6776",
+            "nom": "Concrete Salad",
+            "quantite": 5,
+            "prix_unitaire": 149.66
+        }
+    ],
+    "date_commande": "2023-11-16T11:04:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "754 Keyes",
+        "ville": "Rockville"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 555423,
+    "client_id": 8437,
+    "produits": [
+        {
+            "produit_id": "P1842",
+            "nom": "Small Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 480.54
+        }
+    ],
+    "date_commande": "2023-07-08T19:22:41",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "853 Heron",
+        "ville": "Parma Heights"
+    }
+}

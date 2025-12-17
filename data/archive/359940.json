@@ -1,0 +1,25 @@
+{
+    "order_id": 359940,
+    "client_id": 3748,
+    "produits": [
+        {
+            "produit_id": "P5183",
+            "nom": "New Towels",
+            "quantite": 1,
+            "prix_unitaire": 276.32
+        },
+        {
+            "produit_id": "P5908",
+            "nom": "Unbranded Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 35.24
+        }
+    ],
+    "date_commande": "2024-03-25T14:37:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1199 Camellia",
+        "ville": "Minnetonka"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 547731,
+    "client_id": 1651,
+    "produits": [
+        {
+            "produit_id": "P2757",
+            "nom": "Generic Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 287.24
+        }
+    ],
+    "date_commande": "2023-10-16T22:57:19",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1143 Gaviota",
+        "ville": "Cottage Grove"
+    }
+}

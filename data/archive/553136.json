@@ -1,0 +1,25 @@
+{
+    "order_id": 553136,
+    "client_id": 5587,
+    "produits": [
+        {
+            "produit_id": "P1219",
+            "nom": "Licensed Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 31.53
+        },
+        {
+            "produit_id": "P2980",
+            "nom": "New Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 273.75
+        }
+    ],
+    "date_commande": "2023-09-25T18:00:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "818 Lobos",
+        "ville": "Palo Alto"
+    }
+}

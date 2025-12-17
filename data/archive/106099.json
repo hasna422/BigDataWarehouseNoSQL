@@ -1,0 +1,31 @@
+{
+    "order_id": 106099,
+    "client_id": 2293,
+    "produits": [
+        {
+            "produit_id": "P1578",
+            "nom": "New Soft Cheese",
+            "quantite": 1,
+            "prix_unitaire": 422.09
+        },
+        {
+            "produit_id": "P0388",
+            "nom": "Gently Used Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 38.38
+        },
+        {
+            "produit_id": "P0746",
+            "nom": "Sleek Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 463.88
+        }
+    ],
+    "date_commande": "2023-07-19T11:43:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "51 Lauren",
+        "ville": "Novato"
+    }
+}

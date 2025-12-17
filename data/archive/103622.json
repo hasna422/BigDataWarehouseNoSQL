@@ -1,0 +1,15 @@
+{
+    "order_id": 103622,
+    "client_id": 5694,
+    "produits": [
+        {
+            "produit_id": "P3056",
+            "nom": "Awesome Soap",
+            "quantite": 3,
+            "prix_unitaire": 219.32
+        }
+    ],
+    "date_commande": "2024-09-11T03:17:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

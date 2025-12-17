@@ -1,0 +1,31 @@
+{
+    "order_id": 526107,
+    "client_id": 8821,
+    "produits": [
+        {
+            "produit_id": "P1945",
+            "nom": "Unbranded Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 267.18
+        },
+        {
+            "produit_id": "P2171",
+            "nom": "Handmade Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 118.54
+        },
+        {
+            "produit_id": "P3727",
+            "nom": "Generic Granite Computer",
+            "quantite": 2,
+            "prix_unitaire": 80.43
+        }
+    ],
+    "date_commande": "2025-04-21T20:10:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1174 Fair",
+        "ville": "Miami Beach"
+    }
+}

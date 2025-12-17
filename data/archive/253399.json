@@ -1,0 +1,15 @@
+{
+    "order_id": 253399,
+    "client_id": 2932,
+    "produits": [
+        {
+            "produit_id": "P8655",
+            "nom": "Handmade Towels",
+            "quantite": 5,
+            "prix_unitaire": 340.32
+        }
+    ],
+    "date_commande": "2023-10-20T19:30:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

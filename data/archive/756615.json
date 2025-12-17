@@ -1,0 +1,19 @@
+{
+    "order_id": 756615,
+    "client_id": 2122,
+    "produits": [
+        {
+            "produit_id": "P6600",
+            "nom": "Licensed Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 98.76
+        }
+    ],
+    "date_commande": "2025-04-10T21:31:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "88 Ship",
+        "ville": "Paterson"
+    }
+}

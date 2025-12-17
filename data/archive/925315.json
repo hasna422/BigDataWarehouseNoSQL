@@ -1,0 +1,15 @@
+{
+    "order_id": 925315,
+    "client_id": 8116,
+    "produits": [
+        {
+            "produit_id": "P9571",
+            "nom": "Cotton Tuna",
+            "quantite": 5,
+            "prix_unitaire": 132.51
+        }
+    ],
+    "date_commande": "2025-01-12T18:53:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

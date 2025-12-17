@@ -1,0 +1,25 @@
+{
+    "order_id": 395530,
+    "client_id": 8538,
+    "produits": [
+        {
+            "produit_id": "P0839",
+            "nom": "Refined Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 468.44
+        },
+        {
+            "produit_id": "P1392",
+            "nom": "Gently Used Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 304.16
+        }
+    ],
+    "date_commande": "2025-03-24T15:23:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "69 Alemany",
+        "ville": "Tupelo"
+    }
+}

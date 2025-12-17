@@ -1,0 +1,25 @@
+{
+    "order_id": 697838,
+    "client_id": 1435,
+    "produits": [
+        {
+            "produit_id": "P7507",
+            "nom": "Awesome Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 191.61
+        },
+        {
+            "produit_id": "P1717",
+            "nom": "Gently Used Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 455.04
+        }
+    ],
+    "date_commande": "2024-12-26T14:53:25",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1230 Salinas",
+        "ville": "Lorain"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 927279,
+    "client_id": 8887,
+    "produits": [
+        {
+            "produit_id": "P7918",
+            "nom": "Unbranded Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 298.09
+        },
+        {
+            "produit_id": "P2686",
+            "nom": "For repair Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 174.18
+        }
+    ],
+    "date_commande": "2023-09-01T15:02:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "948 Seville",
+        "ville": "McHenry"
+    }
+}

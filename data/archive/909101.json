@@ -1,0 +1,19 @@
+{
+    "order_id": 909101,
+    "client_id": 9035,
+    "produits": [
+        {
+            "produit_id": "P6918",
+            "nom": "Handmade Pants",
+            "quantite": 3,
+            "prix_unitaire": 77.15
+        }
+    ],
+    "date_commande": "2025-01-20T05:01:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "570 Silverview",
+        "ville": "Gadsden"
+    }
+}

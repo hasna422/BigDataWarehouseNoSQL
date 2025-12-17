@@ -1,0 +1,21 @@
+{
+    "order_id": 203423,
+    "client_id": 2819,
+    "produits": [
+        {
+            "produit_id": "P1205",
+            "nom": "Ergonomic Rubber Shoes",
+            "quantite": 5,
+            "prix_unitaire": 325.3
+        },
+        {
+            "produit_id": "P3940",
+            "nom": "Sleek Chips",
+            "quantite": 1,
+            "prix_unitaire": 229.59
+        }
+    ],
+    "date_commande": "2024-08-29T16:09:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

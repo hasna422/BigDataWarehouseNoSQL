@@ -1,0 +1,25 @@
+{
+    "order_id": 251295,
+    "client_id": 4712,
+    "produits": [
+        {
+            "produit_id": "P1777",
+            "nom": "Tasty Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 452.25
+        },
+        {
+            "produit_id": "P5912",
+            "nom": "Ergonomic Computer",
+            "quantite": 1,
+            "prix_unitaire": 470.35
+        }
+    ],
+    "date_commande": "2024-04-14T12:15:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "534 Barnard",
+        "ville": "Schenectady"
+    }
+}

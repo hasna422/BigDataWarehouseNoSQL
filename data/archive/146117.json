@@ -1,0 +1,19 @@
+{
+    "order_id": 146117,
+    "client_id": 7372,
+    "produits": [
+        {
+            "produit_id": "P0213",
+            "nom": "Sleek Soft Pants",
+            "quantite": 3,
+            "prix_unitaire": 41.93
+        }
+    ],
+    "date_commande": "2024-11-21T13:36:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1103 Great",
+        "ville": "Lebanon"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 798918,
+    "client_id": 2481,
+    "produits": [
+        {
+            "produit_id": "P4855",
+            "nom": "Ergonomic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 352.16
+        }
+    ],
+    "date_commande": "2024-04-15T13:47:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

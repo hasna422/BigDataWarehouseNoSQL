@@ -1,0 +1,25 @@
+{
+    "order_id": 963136,
+    "client_id": 6538,
+    "produits": [
+        {
+            "produit_id": "P5426",
+            "nom": "Practical Fresh Pants",
+            "quantite": 3,
+            "prix_unitaire": 254.61
+        },
+        {
+            "produit_id": "P8954",
+            "nom": "Unbranded Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 383.13
+        }
+    ],
+    "date_commande": "2023-06-23T13:15:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "774 Laskie",
+        "ville": "Houston"
+    }
+}

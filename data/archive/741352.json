@@ -1,0 +1,27 @@
+{
+    "order_id": 741352,
+    "client_id": 1813,
+    "produits": [
+        {
+            "produit_id": "P6130",
+            "nom": "Sleek Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 352.01
+        },
+        {
+            "produit_id": "P7382",
+            "nom": "Gorgeous Steel Cheese",
+            "quantite": 4,
+            "prix_unitaire": 231.08
+        },
+        {
+            "produit_id": "P1445",
+            "nom": "Awesome Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 284.38
+        }
+    ],
+    "date_commande": "2024-10-30T19:55:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

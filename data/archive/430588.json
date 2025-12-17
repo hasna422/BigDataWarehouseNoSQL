@@ -1,0 +1,25 @@
+{
+    "order_id": 430588,
+    "client_id": 6271,
+    "produits": [
+        {
+            "produit_id": "P9297",
+            "nom": "Gorgeous Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 180.86
+        },
+        {
+            "produit_id": "P7239",
+            "nom": "Refined Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 54.04
+        }
+    ],
+    "date_commande": "2025-04-16T18:27:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "510 Utah",
+        "ville": "Vero Beach"
+    }
+}

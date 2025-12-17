@@ -1,0 +1,25 @@
+{
+    "order_id": 427940,
+    "client_id": 8924,
+    "produits": [
+        {
+            "produit_id": "P5880",
+            "nom": "Handmade Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 250.76
+        },
+        {
+            "produit_id": "P9609",
+            "nom": "Refined Soft Sausages",
+            "quantite": 4,
+            "prix_unitaire": 442.9
+        }
+    ],
+    "date_commande": "2023-09-23T19:08:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "269 Hemdale",
+        "ville": "Meriden"
+    }
+}

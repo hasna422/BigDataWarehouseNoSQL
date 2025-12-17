@@ -1,0 +1,27 @@
+{
+    "order_id": 898527,
+    "client_id": 8600,
+    "produits": [
+        {
+            "produit_id": "P5024",
+            "nom": "Handmade Pants",
+            "quantite": 1,
+            "prix_unitaire": 62.39
+        },
+        {
+            "produit_id": "P4783",
+            "nom": "Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 98.11
+        },
+        {
+            "produit_id": "P4364",
+            "nom": "Frozen Ball",
+            "quantite": 4,
+            "prix_unitaire": 178.83
+        }
+    ],
+    "date_commande": "2023-12-12T15:39:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

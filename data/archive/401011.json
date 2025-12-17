@@ -1,0 +1,19 @@
+{
+    "order_id": 401011,
+    "client_id": 4268,
+    "produits": [
+        {
+            "produit_id": "P0025",
+            "nom": "Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 298.69
+        }
+    ],
+    "date_commande": "2024-05-15T15:41:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1092 Wedemeyer",
+        "ville": "Providence"
+    }
+}

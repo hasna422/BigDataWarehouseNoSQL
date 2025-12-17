@@ -1,0 +1,15 @@
+{
+    "order_id": 107266,
+    "client_id": 3896,
+    "produits": [
+        {
+            "produit_id": "P4832",
+            "nom": "Handmade Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 65.39
+        }
+    ],
+    "date_commande": "2023-09-04T09:50:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

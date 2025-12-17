@@ -1,0 +1,27 @@
+{
+    "order_id": 241857,
+    "client_id": 2919,
+    "produits": [
+        {
+            "produit_id": "P3200",
+            "nom": "Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 364.44
+        },
+        {
+            "produit_id": "P1416",
+            "nom": "Soft Car",
+            "quantite": 3,
+            "prix_unitaire": 439.96
+        },
+        {
+            "produit_id": "P7426",
+            "nom": "Licensed Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 371.34
+        }
+    ],
+    "date_commande": "2024-07-23T20:12:43",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

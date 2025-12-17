@@ -1,0 +1,19 @@
+{
+    "order_id": 540644,
+    "client_id": 8245,
+    "produits": [
+        {
+            "produit_id": "P0765",
+            "nom": "Licensed Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 92.95
+        }
+    ],
+    "date_commande": "2025-03-19T21:04:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1101 Horne",
+        "ville": "O'Fallon"
+    }
+}

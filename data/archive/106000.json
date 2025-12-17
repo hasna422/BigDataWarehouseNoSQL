@@ -1,0 +1,25 @@
+{
+    "order_id": 106000,
+    "client_id": 8368,
+    "produits": [
+        {
+            "produit_id": "P0936",
+            "nom": "Sleek Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 159.96
+        },
+        {
+            "produit_id": "P0331",
+            "nom": "For repair Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 417.56
+        }
+    ],
+    "date_commande": "2024-01-13T15:59:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1135 Blythdale",
+        "ville": "Evergreen Park"
+    }
+}

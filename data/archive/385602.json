@@ -1,0 +1,31 @@
+{
+    "order_id": 385602,
+    "client_id": 5261,
+    "produits": [
+        {
+            "produit_id": "P3463",
+            "nom": "For repair Concrete Car",
+            "quantite": 2,
+            "prix_unitaire": 465.0
+        },
+        {
+            "produit_id": "P9312",
+            "nom": "Sleek Metal Bike",
+            "quantite": 1,
+            "prix_unitaire": 69.07
+        },
+        {
+            "produit_id": "P3105",
+            "nom": "Refined Metal Bacon",
+            "quantite": 3,
+            "prix_unitaire": 342.06
+        }
+    ],
+    "date_commande": "2025-01-16T09:58:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1095 Crossover",
+        "ville": "South Salt Lake"
+    }
+}

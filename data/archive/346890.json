@@ -1,0 +1,19 @@
+{
+    "order_id": 346890,
+    "client_id": 5354,
+    "produits": [
+        {
+            "produit_id": "P8304",
+            "nom": "Handmade Salad",
+            "quantite": 5,
+            "prix_unitaire": 177.74
+        }
+    ],
+    "date_commande": "2024-07-13T11:17:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "10 Gaven",
+        "ville": "Weston"
+    }
+}

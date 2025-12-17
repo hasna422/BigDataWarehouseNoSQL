@@ -1,0 +1,21 @@
+{
+    "order_id": 837368,
+    "client_id": 2831,
+    "produits": [
+        {
+            "produit_id": "P5703",
+            "nom": "Generic Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 467.88
+        },
+        {
+            "produit_id": "P2125",
+            "nom": "Sleek Frozen Shoes",
+            "quantite": 3,
+            "prix_unitaire": 347.72
+        }
+    ],
+    "date_commande": "2024-12-21T00:20:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

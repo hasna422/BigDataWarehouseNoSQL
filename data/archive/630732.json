@@ -1,0 +1,31 @@
+{
+    "order_id": 630732,
+    "client_id": 2949,
+    "produits": [
+        {
+            "produit_id": "P0922",
+            "nom": "Used Wooden Computer",
+            "quantite": 5,
+            "prix_unitaire": 326.45
+        },
+        {
+            "produit_id": "P1154",
+            "nom": "Used Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 322.77
+        },
+        {
+            "produit_id": "P3945",
+            "nom": "Practical Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 47.38
+        }
+    ],
+    "date_commande": "2023-12-13T19:01:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "135 Toyon",
+        "ville": "Placentia"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 647462,
+    "client_id": 2467,
+    "produits": [
+        {
+            "produit_id": "P2736",
+            "nom": "Awesome Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 43.15
+        },
+        {
+            "produit_id": "P7924",
+            "nom": "Generic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 393.49
+        },
+        {
+            "produit_id": "P6693",
+            "nom": "Sleek Frozen Pants",
+            "quantite": 3,
+            "prix_unitaire": 58.57
+        }
+    ],
+    "date_commande": "2024-01-17T01:34:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

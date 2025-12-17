@@ -1,0 +1,25 @@
+{
+    "order_id": 120688,
+    "client_id": 2495,
+    "produits": [
+        {
+            "produit_id": "P3597",
+            "nom": "Refined Soft Pants",
+            "quantite": 2,
+            "prix_unitaire": 164.22
+        },
+        {
+            "produit_id": "P2740",
+            "nom": "Fantastic Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 128.18
+        }
+    ],
+    "date_commande": "2023-08-29T11:14:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "260 Moulton",
+        "ville": "Riverton"
+    }
+}

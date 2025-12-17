@@ -1,0 +1,19 @@
+{
+    "order_id": 625721,
+    "client_id": 8068,
+    "produits": [
+        {
+            "produit_id": "P2178",
+            "nom": "For repair Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 241.81
+        }
+    ],
+    "date_commande": "2023-09-19T12:37:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "839 Watchman",
+        "ville": "Providence"
+    }
+}

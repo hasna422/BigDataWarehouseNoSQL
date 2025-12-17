@@ -1,0 +1,25 @@
+{
+    "order_id": 131181,
+    "client_id": 6101,
+    "produits": [
+        {
+            "produit_id": "P0818",
+            "nom": "Sleek Cotton Chips",
+            "quantite": 1,
+            "prix_unitaire": 88.54
+        },
+        {
+            "produit_id": "P0690",
+            "nom": "Used Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 388.9
+        }
+    ],
+    "date_commande": "2024-12-27T03:28:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "512 Horne",
+        "ville": "Rochester Hills"
+    }
+}

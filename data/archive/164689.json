@@ -1,0 +1,25 @@
+{
+    "order_id": 164689,
+    "client_id": 3228,
+    "produits": [
+        {
+            "produit_id": "P7196",
+            "nom": "Small Plastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 290.09
+        },
+        {
+            "produit_id": "P3266",
+            "nom": "Refined Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 129.25
+        }
+    ],
+    "date_commande": "2024-02-11T02:12:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "77 Pomona",
+        "ville": "West Jordan"
+    }
+}

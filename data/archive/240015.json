@@ -1,0 +1,19 @@
+{
+    "order_id": 240015,
+    "client_id": 8121,
+    "produits": [
+        {
+            "produit_id": "P1871",
+            "nom": "Licensed Frozen Mouse",
+            "quantite": 1,
+            "prix_unitaire": 411.98
+        }
+    ],
+    "date_commande": "2024-08-30T15:16:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1242 Rosa Parks",
+        "ville": "Ossining"
+    }
+}

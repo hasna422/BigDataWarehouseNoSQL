@@ -1,0 +1,19 @@
+{
+    "order_id": 371500,
+    "client_id": 9211,
+    "produits": [
+        {
+            "produit_id": "P8090",
+            "nom": "Unbranded Hat",
+            "quantite": 4,
+            "prix_unitaire": 227.11
+        }
+    ],
+    "date_commande": "2023-11-30T08:59:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "722 Guttenberg",
+        "ville": "Faribault"
+    }
+}

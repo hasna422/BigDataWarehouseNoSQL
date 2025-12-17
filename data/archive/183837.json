@@ -1,0 +1,21 @@
+{
+    "order_id": 183837,
+    "client_id": 3694,
+    "produits": [
+        {
+            "produit_id": "P1242",
+            "nom": "Practical Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 341.8
+        },
+        {
+            "produit_id": "P4083",
+            "nom": "Gently Used Cotton Ball",
+            "quantite": 3,
+            "prix_unitaire": 440.0
+        }
+    ],
+    "date_commande": "2024-05-20T03:43:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

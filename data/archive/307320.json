@@ -1,0 +1,27 @@
+{
+    "order_id": 307320,
+    "client_id": 8366,
+    "produits": [
+        {
+            "produit_id": "P1971",
+            "nom": "New Shoes",
+            "quantite": 2,
+            "prix_unitaire": 39.15
+        },
+        {
+            "produit_id": "P8760",
+            "nom": "Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 398.37
+        },
+        {
+            "produit_id": "P5906",
+            "nom": "Generic Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 27.07
+        }
+    ],
+    "date_commande": "2025-03-13T00:30:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

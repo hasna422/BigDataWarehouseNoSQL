@@ -1,0 +1,25 @@
+{
+    "order_id": 417798,
+    "client_id": 3188,
+    "produits": [
+        {
+            "produit_id": "P4090",
+            "nom": "Unbranded Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 432.01
+        },
+        {
+            "produit_id": "P2966",
+            "nom": "Handcrafted Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 203.85
+        }
+    ],
+    "date_commande": "2025-04-23T12:24:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "399 Candyland",
+        "ville": "Hilliard"
+    }
+}

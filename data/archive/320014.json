@@ -1,0 +1,27 @@
+{
+    "order_id": 320014,
+    "client_id": 7511,
+    "produits": [
+        {
+            "produit_id": "P5089",
+            "nom": "Handcrafted Gloves",
+            "quantite": 1,
+            "prix_unitaire": 317.71
+        },
+        {
+            "produit_id": "P3496",
+            "nom": "Towels",
+            "quantite": 5,
+            "prix_unitaire": 63.4
+        },
+        {
+            "produit_id": "P3374",
+            "nom": "Refined Hat",
+            "quantite": 5,
+            "prix_unitaire": 251.48
+        }
+    ],
+    "date_commande": "2024-05-16T14:59:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

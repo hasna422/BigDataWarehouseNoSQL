@@ -1,0 +1,15 @@
+{
+    "order_id": 652169,
+    "client_id": 2417,
+    "produits": [
+        {
+            "produit_id": "P1017",
+            "nom": "Licensed Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 117.58
+        }
+    ],
+    "date_commande": "2025-03-15T02:48:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

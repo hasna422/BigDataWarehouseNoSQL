@@ -1,0 +1,25 @@
+{
+    "order_id": 842544,
+    "client_id": 6818,
+    "produits": [
+        {
+            "produit_id": "P2664",
+            "nom": "Intelligent Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 252.89
+        },
+        {
+            "produit_id": "P1582",
+            "nom": "Used Rubber Table",
+            "quantite": 3,
+            "prix_unitaire": 218.23
+        }
+    ],
+    "date_commande": "2024-12-31T04:58:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "421 Kansas",
+        "ville": "Enid"
+    }
+}

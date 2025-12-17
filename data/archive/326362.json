@@ -1,0 +1,25 @@
+{
+    "order_id": 326362,
+    "client_id": 6128,
+    "produits": [
+        {
+            "produit_id": "P6602",
+            "nom": "For repair Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 351.01
+        },
+        {
+            "produit_id": "P7279",
+            "nom": "Sleek Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 418.86
+        }
+    ],
+    "date_commande": "2023-07-25T15:45:02",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "405 Isola",
+        "ville": "Oak Ridge"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 979318,
+    "client_id": 2092,
+    "produits": [
+        {
+            "produit_id": "P6165",
+            "nom": "Practical Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 163.89
+        },
+        {
+            "produit_id": "P2720",
+            "nom": "Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 346.76
+        }
+    ],
+    "date_commande": "2025-02-16T02:32:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "76 Brumiss",
+        "ville": "Suffolk"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 625645,
+    "client_id": 4213,
+    "produits": [
+        {
+            "produit_id": "P1120",
+            "nom": "Incredible Metal Soap",
+            "quantite": 5,
+            "prix_unitaire": 192.72
+        }
+    ],
+    "date_commande": "2024-01-11T20:20:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "96 Sparta",
+        "ville": "Morristown"
+    }
+}

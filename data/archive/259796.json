@@ -1,0 +1,25 @@
+{
+    "order_id": 259796,
+    "client_id": 4083,
+    "produits": [
+        {
+            "produit_id": "P8729",
+            "nom": "Awesome Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 64.65
+        },
+        {
+            "produit_id": "P8377",
+            "nom": "Sleek Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 97.51
+        }
+    ],
+    "date_commande": "2023-10-01T11:15:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1092 Bannock",
+        "ville": "Racine"
+    }
+}

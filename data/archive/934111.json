@@ -1,0 +1,31 @@
+{
+    "order_id": 934111,
+    "client_id": 1925,
+    "produits": [
+        {
+            "produit_id": "P2367",
+            "nom": "Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 176.07
+        },
+        {
+            "produit_id": "P7983",
+            "nom": "New Gloves",
+            "quantite": 5,
+            "prix_unitaire": 355.92
+        },
+        {
+            "produit_id": "P6875",
+            "nom": "Tasty Bacon",
+            "quantite": 1,
+            "prix_unitaire": 445.37
+        }
+    ],
+    "date_commande": "2024-01-28T11:30:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "383 Santa Barbara",
+        "ville": "Galesburg"
+    }
+}

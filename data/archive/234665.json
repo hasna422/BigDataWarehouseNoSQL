@@ -1,0 +1,31 @@
+{
+    "order_id": 234665,
+    "client_id": 7563,
+    "produits": [
+        {
+            "produit_id": "P3101",
+            "nom": "Incredible Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 50.54
+        },
+        {
+            "produit_id": "P6821",
+            "nom": "For repair Fresh Fish",
+            "quantite": 3,
+            "prix_unitaire": 134.15
+        },
+        {
+            "produit_id": "P2055",
+            "nom": "For repair Wooden Sausages",
+            "quantite": 3,
+            "prix_unitaire": 254.55
+        }
+    ],
+    "date_commande": "2024-01-06T10:01:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1215 Peabody",
+        "ville": "Nogales"
+    }
+}

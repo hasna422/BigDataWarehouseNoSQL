@@ -1,0 +1,27 @@
+{
+    "order_id": 152426,
+    "client_id": 1778,
+    "produits": [
+        {
+            "produit_id": "P1790",
+            "nom": "Refined Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 111.38
+        },
+        {
+            "produit_id": "P0992",
+            "nom": "Rustic Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 112.68
+        },
+        {
+            "produit_id": "P9032",
+            "nom": "Generic Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 441.0
+        }
+    ],
+    "date_commande": "2024-06-28T21:42:37",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

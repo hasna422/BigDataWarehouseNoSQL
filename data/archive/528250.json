@@ -1,0 +1,19 @@
+{
+    "order_id": 528250,
+    "client_id": 6789,
+    "produits": [
+        {
+            "produit_id": "P8864",
+            "nom": "Rustic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 161.63
+        }
+    ],
+    "date_commande": "2023-11-07T05:25:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1088 Romain",
+        "ville": "Bellflower"
+    }
+}

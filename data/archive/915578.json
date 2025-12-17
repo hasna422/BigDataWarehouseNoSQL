@@ -1,0 +1,19 @@
+{
+    "order_id": 915578,
+    "client_id": 8822,
+    "produits": [
+        {
+            "produit_id": "P1034",
+            "nom": "Ergonomic Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 132.43
+        }
+    ],
+    "date_commande": "2023-11-22T00:48:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "849 Vine",
+        "ville": "Placentia"
+    }
+}

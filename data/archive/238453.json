@@ -1,0 +1,31 @@
+{
+    "order_id": 238453,
+    "client_id": 1170,
+    "produits": [
+        {
+            "produit_id": "P1062",
+            "nom": "Small Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 290.88
+        },
+        {
+            "produit_id": "P6652",
+            "nom": "Awesome Concrete Ball",
+            "quantite": 3,
+            "prix_unitaire": 210.78
+        },
+        {
+            "produit_id": "P6570",
+            "nom": "Licensed Soft Bike",
+            "quantite": 5,
+            "prix_unitaire": 32.9
+        }
+    ],
+    "date_commande": "2023-12-22T23:34:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "746 Dolphin",
+        "ville": "Aliso Viejo"
+    }
+}

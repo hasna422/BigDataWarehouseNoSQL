@@ -1,0 +1,31 @@
+{
+    "order_id": 252664,
+    "client_id": 7435,
+    "produits": [
+        {
+            "produit_id": "P2206",
+            "nom": "Fantastic Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 245.11
+        },
+        {
+            "produit_id": "P8736",
+            "nom": "Incredible Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 351.91
+        },
+        {
+            "produit_id": "P6257",
+            "nom": "Generic Cotton Bacon",
+            "quantite": 5,
+            "prix_unitaire": 168.49
+        }
+    ],
+    "date_commande": "2023-06-19T20:38:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "309 Washburn",
+        "ville": "Arlington"
+    }
+}

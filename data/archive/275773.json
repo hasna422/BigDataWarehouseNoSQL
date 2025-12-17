@@ -1,0 +1,19 @@
+{
+    "order_id": 275773,
+    "client_id": 6521,
+    "produits": [
+        {
+            "produit_id": "P4154",
+            "nom": "Licensed Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 67.35
+        }
+    ],
+    "date_commande": "2024-03-23T03:43:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1221 Osgood",
+        "ville": "Lake Charles"
+    }
+}

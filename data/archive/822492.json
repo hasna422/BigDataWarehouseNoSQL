@@ -1,0 +1,27 @@
+{
+    "order_id": 822492,
+    "client_id": 3283,
+    "produits": [
+        {
+            "produit_id": "P4973",
+            "nom": "Ergonomic Cotton Ball",
+            "quantite": 1,
+            "prix_unitaire": 226.71
+        },
+        {
+            "produit_id": "P6399",
+            "nom": "Used Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 451.5
+        },
+        {
+            "produit_id": "P1313",
+            "nom": "Intelligent Cotton Table",
+            "quantite": 2,
+            "prix_unitaire": 401.24
+        }
+    ],
+    "date_commande": "2023-12-06T08:36:05",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

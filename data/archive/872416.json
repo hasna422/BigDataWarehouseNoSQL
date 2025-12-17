@@ -1,0 +1,27 @@
+{
+    "order_id": 872416,
+    "client_id": 3810,
+    "produits": [
+        {
+            "produit_id": "P0216",
+            "nom": "Used Steel Mouse",
+            "quantite": 5,
+            "prix_unitaire": 430.74
+        },
+        {
+            "produit_id": "P6733",
+            "nom": "Licensed Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 13.15
+        },
+        {
+            "produit_id": "P5565",
+            "nom": "Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 256.8
+        }
+    ],
+    "date_commande": "2025-04-07T04:49:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

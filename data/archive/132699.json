@@ -1,0 +1,19 @@
+{
+    "order_id": 132699,
+    "client_id": 3753,
+    "produits": [
+        {
+            "produit_id": "P4611",
+            "nom": "Intelligent Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 62.51
+        }
+    ],
+    "date_commande": "2024-11-23T15:09:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "317 Cordova",
+        "ville": "Sioux City"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 963238,
+    "client_id": 5527,
+    "produits": [
+        {
+            "produit_id": "P5922",
+            "nom": "Ergonomic Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 143.63
+        },
+        {
+            "produit_id": "P9658",
+            "nom": "Handmade Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 267.07
+        },
+        {
+            "produit_id": "P0859",
+            "nom": "Tasty Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 402.71
+        }
+    ],
+    "date_commande": "2025-04-12T19:05:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "854 Halyburton",
+        "ville": "Avenal"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 688539,
+    "client_id": 3313,
+    "produits": [
+        {
+            "produit_id": "P6160",
+            "nom": "Small Soft Tuna",
+            "quantite": 2,
+            "prix_unitaire": 497.47
+        }
+    ],
+    "date_commande": "2024-07-26T00:19:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1050 Martin Luther King Jr",
+        "ville": "Baton Rouge"
+    }
+}

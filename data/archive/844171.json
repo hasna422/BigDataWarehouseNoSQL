@@ -1,0 +1,19 @@
+{
+    "order_id": 844171,
+    "client_id": 1272,
+    "produits": [
+        {
+            "produit_id": "P2503",
+            "nom": "Ergonomic Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 57.97
+        }
+    ],
+    "date_commande": "2024-08-08T18:23:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "610 Berwick",
+        "ville": "Vallejo"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 889907,
+    "client_id": 6257,
+    "produits": [
+        {
+            "produit_id": "P7055",
+            "nom": "Sleek Plastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 492.27
+        },
+        {
+            "produit_id": "P1314",
+            "nom": "Intelligent Fresh Sausages",
+            "quantite": 5,
+            "prix_unitaire": 479.94
+        },
+        {
+            "produit_id": "P5637",
+            "nom": "For repair Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 52.39
+        }
+    ],
+    "date_commande": "2024-08-26T20:59:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "862 Kenwood",
+        "ville": "Boca Raton"
+    }
+}

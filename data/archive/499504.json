@@ -1,0 +1,15 @@
+{
+    "order_id": 499504,
+    "client_id": 1719,
+    "produits": [
+        {
+            "produit_id": "P2483",
+            "nom": "For repair Concrete Soap",
+            "quantite": 1,
+            "prix_unitaire": 486.69
+        }
+    ],
+    "date_commande": "2023-09-15T00:15:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

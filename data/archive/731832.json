@@ -1,0 +1,19 @@
+{
+    "order_id": 731832,
+    "client_id": 2105,
+    "produits": [
+        {
+            "produit_id": "P5328",
+            "nom": "Unbranded Computer",
+            "quantite": 5,
+            "prix_unitaire": 31.51
+        }
+    ],
+    "date_commande": "2024-11-12T04:44:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "78 Hollis",
+        "ville": "West Memphis"
+    }
+}

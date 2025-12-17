@@ -1,0 +1,19 @@
+{
+    "order_id": 943280,
+    "client_id": 9807,
+    "produits": [
+        {
+            "produit_id": "P8051",
+            "nom": "Refined Wooden Gloves",
+            "quantite": 1,
+            "prix_unitaire": 457.68
+        }
+    ],
+    "date_commande": "2023-06-04T04:21:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "74 Halyburton",
+        "ville": "Syracuse"
+    }
+}

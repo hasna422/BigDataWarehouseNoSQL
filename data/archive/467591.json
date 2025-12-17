@@ -1,0 +1,19 @@
+{
+    "order_id": 467591,
+    "client_id": 9753,
+    "produits": [
+        {
+            "produit_id": "P0260",
+            "nom": "Incredible Granite Shoes",
+            "quantite": 2,
+            "prix_unitaire": 444.41
+        }
+    ],
+    "date_commande": "2024-09-27T04:11:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1056 Valmar",
+        "ville": "Dallas"
+    }
+}

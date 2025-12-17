@@ -1,0 +1,15 @@
+{
+    "order_id": 755505,
+    "client_id": 5953,
+    "produits": [
+        {
+            "produit_id": "P9746",
+            "nom": "Small Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 371.26
+        }
+    ],
+    "date_commande": "2023-08-28T05:39:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

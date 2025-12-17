@@ -1,0 +1,21 @@
+{
+    "order_id": 146411,
+    "client_id": 6491,
+    "produits": [
+        {
+            "produit_id": "P5043",
+            "nom": "Small Computer",
+            "quantite": 5,
+            "prix_unitaire": 236.65
+        },
+        {
+            "produit_id": "P9929",
+            "nom": "Tasty Bike",
+            "quantite": 5,
+            "prix_unitaire": 97.4
+        }
+    ],
+    "date_commande": "2024-11-05T19:31:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 454787,
+    "client_id": 7634,
+    "produits": [
+        {
+            "produit_id": "P1843",
+            "nom": "Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 86.85
+        },
+        {
+            "produit_id": "P4957",
+            "nom": "Awesome Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 26.54
+        }
+    ],
+    "date_commande": "2023-09-05T08:24:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "784 Bret Harte",
+        "ville": "Crystal Lake"
+    }
+}

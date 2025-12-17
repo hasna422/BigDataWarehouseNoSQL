@@ -1,0 +1,31 @@
+{
+    "order_id": 831318,
+    "client_id": 5070,
+    "produits": [
+        {
+            "produit_id": "P1979",
+            "nom": "Handcrafted Concrete Bacon",
+            "quantite": 5,
+            "prix_unitaire": 241.54
+        },
+        {
+            "produit_id": "P7339",
+            "nom": "Sleek Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 430.03
+        },
+        {
+            "produit_id": "P1834",
+            "nom": "Intelligent Soft Shirt",
+            "quantite": 1,
+            "prix_unitaire": 239.99
+        }
+    ],
+    "date_commande": "2024-06-21T06:21:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1153 Daniel Burnham",
+        "ville": "Moscow"
+    }
+}

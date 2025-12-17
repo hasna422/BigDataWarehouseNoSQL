@@ -1,0 +1,31 @@
+{
+    "order_id": 417055,
+    "client_id": 6187,
+    "produits": [
+        {
+            "produit_id": "P9556",
+            "nom": "Used Granite Towels",
+            "quantite": 3,
+            "prix_unitaire": 90.78
+        },
+        {
+            "produit_id": "P3343",
+            "nom": "New Wooden Soap",
+            "quantite": 2,
+            "prix_unitaire": 483.46
+        },
+        {
+            "produit_id": "P4425",
+            "nom": "For repair Concrete Computer",
+            "quantite": 3,
+            "prix_unitaire": 256.47
+        }
+    ],
+    "date_commande": "2023-09-11T18:52:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "551 Rex",
+        "ville": "Douglas"
+    }
+}

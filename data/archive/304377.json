@@ -1,0 +1,19 @@
+{
+    "order_id": 304377,
+    "client_id": 9011,
+    "produits": [
+        {
+            "produit_id": "P5472",
+            "nom": "Plastic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 327.37
+        }
+    ],
+    "date_commande": "2024-04-20T17:36:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1290 Rod",
+        "ville": "Claremore"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 458011,
+    "client_id": 3751,
+    "produits": [
+        {
+            "produit_id": "P4281",
+            "nom": "Generic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 97.57
+        },
+        {
+            "produit_id": "P2407",
+            "nom": "Wooden Chicken",
+            "quantite": 1,
+            "prix_unitaire": 468.68
+        }
+    ],
+    "date_commande": "2023-09-01T19:04:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

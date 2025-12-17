@@ -1,0 +1,31 @@
+{
+    "order_id": 110742,
+    "client_id": 2204,
+    "produits": [
+        {
+            "produit_id": "P2559",
+            "nom": "Generic Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 52.97
+        },
+        {
+            "produit_id": "P5963",
+            "nom": "Sleek Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 481.27
+        },
+        {
+            "produit_id": "P0627",
+            "nom": "Practical Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 286.22
+        }
+    ],
+    "date_commande": "2025-04-11T13:25:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1003 Mariner",
+        "ville": "Frisco"
+    }
+}

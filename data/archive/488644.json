@@ -1,0 +1,27 @@
+{
+    "order_id": 488644,
+    "client_id": 7738,
+    "produits": [
+        {
+            "produit_id": "P5711",
+            "nom": "Gently Used Plastic Table",
+            "quantite": 2,
+            "prix_unitaire": 265.93
+        },
+        {
+            "produit_id": "P5157",
+            "nom": "Gently Used Plastic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 436.43
+        },
+        {
+            "produit_id": "P5461",
+            "nom": "Generic Wooden Mouse",
+            "quantite": 5,
+            "prix_unitaire": 162.87
+        }
+    ],
+    "date_commande": "2024-06-21T07:40:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

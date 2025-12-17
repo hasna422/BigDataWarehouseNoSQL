@@ -1,0 +1,19 @@
+{
+    "order_id": 496748,
+    "client_id": 5517,
+    "produits": [
+        {
+            "produit_id": "P2930",
+            "nom": "Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 30.94
+        }
+    ],
+    "date_commande": "2024-08-09T05:41:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "746 Wyton",
+        "ville": "Suffolk"
+    }
+}

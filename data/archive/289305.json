@@ -1,0 +1,31 @@
+{
+    "order_id": 289305,
+    "client_id": 8279,
+    "produits": [
+        {
+            "produit_id": "P8332",
+            "nom": "Licensed Frozen Tuna",
+            "quantite": 3,
+            "prix_unitaire": 187.0
+        },
+        {
+            "produit_id": "P7886",
+            "nom": "Used Chicken",
+            "quantite": 5,
+            "prix_unitaire": 249.56
+        },
+        {
+            "produit_id": "P1167",
+            "nom": "Incredible Tuna",
+            "quantite": 1,
+            "prix_unitaire": 118.74
+        }
+    ],
+    "date_commande": "2025-03-16T08:34:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "706 Chula",
+        "ville": "Chester"
+    }
+}

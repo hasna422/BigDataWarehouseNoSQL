@@ -1,0 +1,15 @@
+{
+    "order_id": 108526,
+    "client_id": 9135,
+    "produits": [
+        {
+            "produit_id": "P5092",
+            "nom": "Unbranded Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 215.84
+        }
+    ],
+    "date_commande": "2024-02-28T04:12:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

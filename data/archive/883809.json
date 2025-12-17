@@ -1,0 +1,31 @@
+{
+    "order_id": 883809,
+    "client_id": 3495,
+    "produits": [
+        {
+            "produit_id": "P9685",
+            "nom": "Small Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 348.78
+        },
+        {
+            "produit_id": "P2261",
+            "nom": "Rustic Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 61.33
+        },
+        {
+            "produit_id": "P0784",
+            "nom": "Gorgeous Steel Hat",
+            "quantite": 2,
+            "prix_unitaire": 207.25
+        }
+    ],
+    "date_commande": "2024-05-24T13:06:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "458 Hussey",
+        "ville": "Aliso Viejo"
+    }
+}

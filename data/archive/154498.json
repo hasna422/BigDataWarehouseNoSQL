@@ -1,0 +1,31 @@
+{
+    "order_id": 154498,
+    "client_id": 8532,
+    "produits": [
+        {
+            "produit_id": "P3898",
+            "nom": "Handmade Fresh Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 240.94
+        },
+        {
+            "produit_id": "P9204",
+            "nom": "Handmade Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 289.68
+        },
+        {
+            "produit_id": "P7775",
+            "nom": "Handcrafted Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 446.18
+        }
+    ],
+    "date_commande": "2023-10-12T17:33:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1098 Hill Point",
+        "ville": "Cincinnati"
+    }
+}

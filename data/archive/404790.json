@@ -1,0 +1,25 @@
+{
+    "order_id": 404790,
+    "client_id": 7223,
+    "produits": [
+        {
+            "produit_id": "P6593",
+            "nom": "Practical Rubber Gloves",
+            "quantite": 1,
+            "prix_unitaire": 369.02
+        },
+        {
+            "produit_id": "P3859",
+            "nom": "Refined Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 262.29
+        }
+    ],
+    "date_commande": "2024-05-03T11:27:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1205 Van Buren",
+        "ville": "Hopewell"
+    }
+}

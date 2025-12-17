@@ -1,0 +1,19 @@
+{
+    "order_id": 338339,
+    "client_id": 3127,
+    "produits": [
+        {
+            "produit_id": "P1152",
+            "nom": "Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 370.38
+        }
+    ],
+    "date_commande": "2025-01-13T20:07:40",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "204 Prado",
+        "ville": "Upland"
+    }
+}

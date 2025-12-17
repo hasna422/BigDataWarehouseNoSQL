@@ -1,0 +1,15 @@
+{
+    "order_id": 419599,
+    "client_id": 7884,
+    "produits": [
+        {
+            "produit_id": "P7443",
+            "nom": "Handcrafted Metal Fish",
+            "quantite": 5,
+            "prix_unitaire": 427.77
+        }
+    ],
+    "date_commande": "2025-03-13T17:33:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

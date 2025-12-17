@@ -1,0 +1,25 @@
+{
+    "order_id": 220128,
+    "client_id": 4807,
+    "produits": [
+        {
+            "produit_id": "P5791",
+            "nom": "For repair Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 49.18
+        },
+        {
+            "produit_id": "P6777",
+            "nom": "Practical Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 116.47
+        }
+    ],
+    "date_commande": "2025-04-23T06:50:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "646 Pelton",
+        "ville": "Crestview"
+    }
+}

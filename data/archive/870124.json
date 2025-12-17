@@ -1,0 +1,15 @@
+{
+    "order_id": 870124,
+    "client_id": 2468,
+    "produits": [
+        {
+            "produit_id": "P6600",
+            "nom": "Handcrafted Soft Chips",
+            "quantite": 1,
+            "prix_unitaire": 442.52
+        }
+    ],
+    "date_commande": "2024-03-28T01:25:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

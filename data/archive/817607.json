@@ -1,0 +1,27 @@
+{
+    "order_id": 817607,
+    "client_id": 7015,
+    "produits": [
+        {
+            "produit_id": "P4776",
+            "nom": "Ergonomic Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 91.49
+        },
+        {
+            "produit_id": "P9320",
+            "nom": "Gorgeous Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 123.57
+        },
+        {
+            "produit_id": "P3406",
+            "nom": "Rustic Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 55.59
+        }
+    ],
+    "date_commande": "2024-03-06T11:19:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

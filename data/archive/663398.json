@@ -1,0 +1,21 @@
+{
+    "order_id": 663398,
+    "client_id": 8902,
+    "produits": [
+        {
+            "produit_id": "P7337",
+            "nom": "Sleek Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 135.85
+        },
+        {
+            "produit_id": "P7240",
+            "nom": "Generic Soft Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 12.1
+        }
+    ],
+    "date_commande": "2024-02-24T04:04:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

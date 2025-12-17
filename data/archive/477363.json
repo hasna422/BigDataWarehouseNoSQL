@@ -1,0 +1,31 @@
+{
+    "order_id": 477363,
+    "client_id": 6494,
+    "produits": [
+        {
+            "produit_id": "P4590",
+            "nom": "Gorgeous Shirt",
+            "quantite": 1,
+            "prix_unitaire": 479.02
+        },
+        {
+            "produit_id": "P5614",
+            "nom": "Fresh Soap",
+            "quantite": 2,
+            "prix_unitaire": 198.99
+        },
+        {
+            "produit_id": "P8279",
+            "nom": "Tasty Plastic Bike",
+            "quantite": 3,
+            "prix_unitaire": 51.61
+        }
+    ],
+    "date_commande": "2024-11-12T14:06:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "78 Whittier",
+        "ville": "Clinton"
+    }
+}

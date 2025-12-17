@@ -1,0 +1,31 @@
+{
+    "order_id": 313138,
+    "client_id": 1090,
+    "produits": [
+        {
+            "produit_id": "P2007",
+            "nom": "Granite Computer",
+            "quantite": 2,
+            "prix_unitaire": 380.63
+        },
+        {
+            "produit_id": "P5617",
+            "nom": "Generic Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 121.42
+        },
+        {
+            "produit_id": "P4042",
+            "nom": "Used Table",
+            "quantite": 3,
+            "prix_unitaire": 314.54
+        }
+    ],
+    "date_commande": "2023-11-13T01:29:27",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "698 Carpenter",
+        "ville": "North Royalton"
+    }
+}

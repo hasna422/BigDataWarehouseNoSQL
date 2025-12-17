@@ -1,0 +1,19 @@
+{
+    "order_id": 853639,
+    "client_id": 6976,
+    "produits": [
+        {
+            "produit_id": "P0704",
+            "nom": "Incredible Plastic Car",
+            "quantite": 3,
+            "prix_unitaire": 99.69
+        }
+    ],
+    "date_commande": "2023-07-22T11:47:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1345 Collins",
+        "ville": "Baton Rouge"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 598598,
+    "client_id": 1868,
+    "produits": [
+        {
+            "produit_id": "P3743",
+            "nom": "Generic Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 459.28
+        },
+        {
+            "produit_id": "P8166",
+            "nom": "For repair Metal Car",
+            "quantite": 5,
+            "prix_unitaire": 138.74
+        }
+    ],
+    "date_commande": "2024-03-21T17:34:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

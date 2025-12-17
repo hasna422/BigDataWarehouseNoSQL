@@ -1,0 +1,25 @@
+{
+    "order_id": 790614,
+    "client_id": 9779,
+    "produits": [
+        {
+            "produit_id": "P9848",
+            "nom": "Refined Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 53.09
+        },
+        {
+            "produit_id": "P6504",
+            "nom": "Rustic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 263.11
+        }
+    ],
+    "date_commande": "2024-01-30T17:43:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "112 Rayburn",
+        "ville": "Rockwall"
+    }
+}

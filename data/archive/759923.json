@@ -1,0 +1,25 @@
+{
+    "order_id": 759923,
+    "client_id": 2110,
+    "produits": [
+        {
+            "produit_id": "P4844",
+            "nom": "Handmade Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 435.22
+        },
+        {
+            "produit_id": "P5415",
+            "nom": "Incredible Concrete Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 98.62
+        }
+    ],
+    "date_commande": "2025-02-19T14:22:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "741 Dakota",
+        "ville": "Shreveport"
+    }
+}

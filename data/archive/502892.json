@@ -1,0 +1,27 @@
+{
+    "order_id": 502892,
+    "client_id": 5751,
+    "produits": [
+        {
+            "produit_id": "P3482",
+            "nom": "Fantastic Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 72.01
+        },
+        {
+            "produit_id": "P6775",
+            "nom": "For repair Shoes",
+            "quantite": 3,
+            "prix_unitaire": 417.52
+        },
+        {
+            "produit_id": "P7040",
+            "nom": "Incredible Pizza",
+            "quantite": 3,
+            "prix_unitaire": 240.11
+        }
+    ],
+    "date_commande": "2023-11-12T18:33:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

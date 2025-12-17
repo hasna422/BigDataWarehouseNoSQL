@@ -1,0 +1,31 @@
+{
+    "order_id": 384636,
+    "client_id": 4323,
+    "produits": [
+        {
+            "produit_id": "P2252",
+            "nom": "Refined Soft Soap",
+            "quantite": 4,
+            "prix_unitaire": 495.41
+        },
+        {
+            "produit_id": "P2645",
+            "nom": "Gorgeous Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 48.8
+        },
+        {
+            "produit_id": "P1283",
+            "nom": "Small Wooden Shirt",
+            "quantite": 5,
+            "prix_unitaire": 118.93
+        }
+    ],
+    "date_commande": "2024-10-26T02:38:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "339 Rivera",
+        "ville": "Poughkeepsie"
+    }
+}

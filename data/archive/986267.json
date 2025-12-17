@@ -1,0 +1,15 @@
+{
+    "order_id": 986267,
+    "client_id": 9403,
+    "produits": [
+        {
+            "produit_id": "P5826",
+            "nom": "Handmade Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 130.86
+        }
+    ],
+    "date_commande": "2023-08-23T00:59:01",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

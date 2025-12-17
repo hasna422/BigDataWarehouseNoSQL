@@ -1,0 +1,25 @@
+{
+    "order_id": 176741,
+    "client_id": 8493,
+    "produits": [
+        {
+            "produit_id": "P2599",
+            "nom": "Intelligent Plastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 493.07
+        },
+        {
+            "produit_id": "P2894",
+            "nom": "Tasty Concrete Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 249.76
+        }
+    ],
+    "date_commande": "2023-06-22T07:58:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "588 Evans",
+        "ville": "Gloucester"
+    }
+}

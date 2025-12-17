@@ -1,0 +1,25 @@
+{
+    "order_id": 409614,
+    "client_id": 6491,
+    "produits": [
+        {
+            "produit_id": "P5403",
+            "nom": "Tasty Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 247.15
+        },
+        {
+            "produit_id": "P4068",
+            "nom": "Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 360.67
+        }
+    ],
+    "date_commande": "2024-03-29T18:40:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1221 Division",
+        "ville": "Highland Park"
+    }
+}

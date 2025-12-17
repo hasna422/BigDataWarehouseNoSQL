@@ -1,0 +1,19 @@
+{
+    "order_id": 812108,
+    "client_id": 8538,
+    "produits": [
+        {
+            "produit_id": "P6525",
+            "nom": "Rustic Metal Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 180.89
+        }
+    ],
+    "date_commande": "2025-02-18T06:32:23",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "321 Blatchford",
+        "ville": "Brighton"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 594336,
+    "client_id": 7752,
+    "produits": [
+        {
+            "produit_id": "P8577",
+            "nom": "Sleek Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 373.97
+        },
+        {
+            "produit_id": "P5242",
+            "nom": "Fantastic Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 61.43
+        }
+    ],
+    "date_commande": "2024-10-11T14:34:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 507507,
+    "client_id": 4232,
+    "produits": [
+        {
+            "produit_id": "P6116",
+            "nom": "Sleek Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 41.25
+        }
+    ],
+    "date_commande": "2024-07-13T08:15:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

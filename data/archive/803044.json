@@ -1,0 +1,25 @@
+{
+    "order_id": 803044,
+    "client_id": 3488,
+    "produits": [
+        {
+            "produit_id": "P0936",
+            "nom": "Incredible Soft Table",
+            "quantite": 1,
+            "prix_unitaire": 420.37
+        },
+        {
+            "produit_id": "P5492",
+            "nom": "Intelligent Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 129.44
+        }
+    ],
+    "date_commande": "2024-10-05T16:55:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "218 South Hill",
+        "ville": "Paterson"
+    }
+}

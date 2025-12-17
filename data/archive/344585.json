@@ -1,0 +1,21 @@
+{
+    "order_id": 344585,
+    "client_id": 1411,
+    "produits": [
+        {
+            "produit_id": "P1909",
+            "nom": "Ergonomic Rubber Pizza",
+            "quantite": 2,
+            "prix_unitaire": 9.72
+        },
+        {
+            "produit_id": "P1652",
+            "nom": "Refined Shoes",
+            "quantite": 2,
+            "prix_unitaire": 127.69
+        }
+    ],
+    "date_commande": "2025-02-08T04:57:11",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

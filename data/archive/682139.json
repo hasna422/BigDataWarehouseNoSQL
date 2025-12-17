@@ -1,0 +1,25 @@
+{
+    "order_id": 682139,
+    "client_id": 3706,
+    "produits": [
+        {
+            "produit_id": "P4896",
+            "nom": "Fantastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 426.96
+        },
+        {
+            "produit_id": "P9946",
+            "nom": "Sleek Wooden Hat",
+            "quantite": 5,
+            "prix_unitaire": 393.24
+        }
+    ],
+    "date_commande": "2023-09-06T23:08:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "885 Century",
+        "ville": "Vincennes"
+    }
+}

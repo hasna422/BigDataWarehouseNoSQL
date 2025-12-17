@@ -1,0 +1,31 @@
+{
+    "order_id": 656287,
+    "client_id": 2643,
+    "produits": [
+        {
+            "produit_id": "P7365",
+            "nom": "Intelligent Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 248.46
+        },
+        {
+            "produit_id": "P9418",
+            "nom": "Rustic Steel Bike",
+            "quantite": 5,
+            "prix_unitaire": 447.01
+        },
+        {
+            "produit_id": "P8054",
+            "nom": "Practical Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 425.13
+        }
+    ],
+    "date_commande": "2023-06-03T08:25:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "114 Yerba Buena",
+        "ville": "Brooklyn Center"
+    }
+}

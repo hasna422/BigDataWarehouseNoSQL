@@ -1,0 +1,25 @@
+{
+    "order_id": 288287,
+    "client_id": 1675,
+    "produits": [
+        {
+            "produit_id": "P4419",
+            "nom": "Fantastic Frozen Ball",
+            "quantite": 3,
+            "prix_unitaire": 332.78
+        },
+        {
+            "produit_id": "P2569",
+            "nom": "Used Computer",
+            "quantite": 4,
+            "prix_unitaire": 394.83
+        }
+    ],
+    "date_commande": "2023-10-08T03:28:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1242 Masonic",
+        "ville": "Upland"
+    }
+}

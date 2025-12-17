@@ -1,0 +1,25 @@
+{
+    "order_id": 897665,
+    "client_id": 2737,
+    "produits": [
+        {
+            "produit_id": "P1724",
+            "nom": "Intelligent Steel Cheese",
+            "quantite": 2,
+            "prix_unitaire": 142.51
+        },
+        {
+            "produit_id": "P0824",
+            "nom": "For repair Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 481.49
+        }
+    ],
+    "date_commande": "2025-04-27T18:06:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1360 La Playa",
+        "ville": "Wyoming"
+    }
+}

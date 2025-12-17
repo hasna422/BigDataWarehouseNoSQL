@@ -1,0 +1,19 @@
+{
+    "order_id": 709375,
+    "client_id": 3959,
+    "produits": [
+        {
+            "produit_id": "P7756",
+            "nom": "For repair Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 151.74
+        }
+    ],
+    "date_commande": "2025-05-23T07:43:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "421 Wallen",
+        "ville": "Champaign"
+    }
+}

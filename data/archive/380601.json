@@ -1,0 +1,19 @@
+{
+    "order_id": 380601,
+    "client_id": 7784,
+    "produits": [
+        {
+            "produit_id": "P9058",
+            "nom": "Handmade Soap",
+            "quantite": 5,
+            "prix_unitaire": 466.3
+        }
+    ],
+    "date_commande": "2024-07-10T03:46:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1345 Ordway",
+        "ville": "Cleveland"
+    }
+}

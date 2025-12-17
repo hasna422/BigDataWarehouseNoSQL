@@ -1,0 +1,31 @@
+{
+    "order_id": 789906,
+    "client_id": 5457,
+    "produits": [
+        {
+            "produit_id": "P4702",
+            "nom": "Tasty Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 207.36
+        },
+        {
+            "produit_id": "P0344",
+            "nom": "Awesome Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 167.93
+        },
+        {
+            "produit_id": "P6458",
+            "nom": "Gorgeous Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 296.57
+        }
+    ],
+    "date_commande": "2023-07-23T08:17:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "732 Stoneyford",
+        "ville": "Chaska"
+    }
+}

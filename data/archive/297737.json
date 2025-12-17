@@ -1,0 +1,25 @@
+{
+    "order_id": 297737,
+    "client_id": 1152,
+    "produits": [
+        {
+            "produit_id": "P8102",
+            "nom": "Incredible Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 448.69
+        },
+        {
+            "produit_id": "P6499",
+            "nom": "Sleek Computer",
+            "quantite": 5,
+            "prix_unitaire": 85.97
+        }
+    ],
+    "date_commande": "2025-01-10T11:59:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "489 Arnold",
+        "ville": "Norfolk"
+    }
+}

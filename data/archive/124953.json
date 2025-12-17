@@ -1,0 +1,19 @@
+{
+    "order_id": 124953,
+    "client_id": 5038,
+    "produits": [
+        {
+            "produit_id": "P8400",
+            "nom": "Intelligent Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 102.43
+        }
+    ],
+    "date_commande": "2023-08-04T20:20:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "427 Leroy",
+        "ville": "San Fernando"
+    }
+}

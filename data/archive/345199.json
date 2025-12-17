@@ -1,0 +1,19 @@
+{
+    "order_id": 345199,
+    "client_id": 8639,
+    "produits": [
+        {
+            "produit_id": "P9418",
+            "nom": "Rustic Fresh Fish",
+            "quantite": 3,
+            "prix_unitaire": 157.5
+        }
+    ],
+    "date_commande": "2023-11-02T11:35:24",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "469 Alabama",
+        "ville": "Gloucester"
+    }
+}

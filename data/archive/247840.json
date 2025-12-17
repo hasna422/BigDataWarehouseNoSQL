@@ -1,0 +1,19 @@
+{
+    "order_id": 247840,
+    "client_id": 2328,
+    "produits": [
+        {
+            "produit_id": "P8774",
+            "nom": "Licensed Shoes",
+            "quantite": 3,
+            "prix_unitaire": 400.1
+        }
+    ],
+    "date_commande": "2023-07-20T04:56:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "587 Safira",
+        "ville": "Stephenville"
+    }
+}

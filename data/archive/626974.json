@@ -1,0 +1,19 @@
+{
+    "order_id": 626974,
+    "client_id": 8071,
+    "produits": [
+        {
+            "produit_id": "P9737",
+            "nom": "Generic Fresh Table",
+            "quantite": 2,
+            "prix_unitaire": 110.29
+        }
+    ],
+    "date_commande": "2024-08-18T03:29:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "278 West Point",
+        "ville": "Clemmons"
+    }
+}

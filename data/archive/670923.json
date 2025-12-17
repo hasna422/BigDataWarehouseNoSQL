@@ -1,0 +1,19 @@
+{
+    "order_id": 670923,
+    "client_id": 9876,
+    "produits": [
+        {
+            "produit_id": "P5376",
+            "nom": "Licensed Cotton Pants",
+            "quantite": 3,
+            "prix_unitaire": 421.38
+        }
+    ],
+    "date_commande": "2024-09-25T19:35:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "589 Pulaski",
+        "ville": "New London"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 939945,
+    "client_id": 6271,
+    "produits": [
+        {
+            "produit_id": "P6731",
+            "nom": "Refined Wooden Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 326.26
+        },
+        {
+            "produit_id": "P8343",
+            "nom": "Handcrafted Granite Sausages",
+            "quantite": 5,
+            "prix_unitaire": 188.3
+        },
+        {
+            "produit_id": "P6366",
+            "nom": "Rustic Steel Cheese",
+            "quantite": 3,
+            "prix_unitaire": 357.44
+        }
+    ],
+    "date_commande": "2025-02-25T13:04:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "14 Samoset",
+        "ville": "Caledonia"
+    }
+}

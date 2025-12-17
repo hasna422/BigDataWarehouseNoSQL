@@ -1,0 +1,31 @@
+{
+    "order_id": 566912,
+    "client_id": 8130,
+    "produits": [
+        {
+            "produit_id": "P7879",
+            "nom": "Unbranded Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 272.87
+        },
+        {
+            "produit_id": "P8043",
+            "nom": "Unbranded Soft Bacon",
+            "quantite": 3,
+            "prix_unitaire": 110.31
+        },
+        {
+            "produit_id": "P3970",
+            "nom": "Unbranded Soft Tuna",
+            "quantite": 4,
+            "prix_unitaire": 84.42
+        }
+    ],
+    "date_commande": "2024-10-18T08:21:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "293 Paramount",
+        "ville": "Newburyport"
+    }
+}

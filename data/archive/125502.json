@@ -1,0 +1,27 @@
+{
+    "order_id": 125502,
+    "client_id": 1865,
+    "produits": [
+        {
+            "produit_id": "P7936",
+            "nom": "Unbranded Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 354.31
+        },
+        {
+            "produit_id": "P5651",
+            "nom": "Unbranded Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 441.21
+        },
+        {
+            "produit_id": "P8752",
+            "nom": "Tasty Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 431.62
+        }
+    ],
+    "date_commande": "2025-05-13T09:11:56",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

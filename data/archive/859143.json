@@ -1,0 +1,19 @@
+{
+    "order_id": 859143,
+    "client_id": 3855,
+    "produits": [
+        {
+            "produit_id": "P4823",
+            "nom": "Awesome Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 449.03
+        }
+    ],
+    "date_commande": "2024-10-19T18:14:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "26 Nautilus",
+        "ville": "Urbana"
+    }
+}

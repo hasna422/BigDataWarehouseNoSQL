@@ -1,0 +1,19 @@
+{
+    "order_id": 897305,
+    "client_id": 5164,
+    "produits": [
+        {
+            "produit_id": "P8389",
+            "nom": "Practical Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 10.0
+        }
+    ],
+    "date_commande": "2024-11-29T18:27:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1157 Elmira",
+        "ville": "Burbank"
+    }
+}

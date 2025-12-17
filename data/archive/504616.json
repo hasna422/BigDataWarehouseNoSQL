@@ -1,0 +1,27 @@
+{
+    "order_id": 504616,
+    "client_id": 6117,
+    "produits": [
+        {
+            "produit_id": "P7242",
+            "nom": "Sleek Cotton Bike",
+            "quantite": 2,
+            "prix_unitaire": 183.9
+        },
+        {
+            "produit_id": "P0204",
+            "nom": "Intelligent Steel Computer",
+            "quantite": 4,
+            "prix_unitaire": 450.36
+        },
+        {
+            "produit_id": "P4078",
+            "nom": "New Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 195.01
+        }
+    ],
+    "date_commande": "2023-10-10T17:03:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

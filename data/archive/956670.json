@@ -1,0 +1,19 @@
+{
+    "order_id": 956670,
+    "client_id": 6873,
+    "produits": [
+        {
+            "produit_id": "P6058",
+            "nom": "Wooden Car",
+            "quantite": 3,
+            "prix_unitaire": 230.62
+        }
+    ],
+    "date_commande": "2024-02-16T06:00:45",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "623 Kempton",
+        "ville": "Eagle Mountain"
+    }
+}

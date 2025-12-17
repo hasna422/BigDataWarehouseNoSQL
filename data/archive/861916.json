@@ -1,0 +1,31 @@
+{
+    "order_id": 861916,
+    "client_id": 5618,
+    "produits": [
+        {
+            "produit_id": "P2042",
+            "nom": "Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 55.05
+        },
+        {
+            "produit_id": "P6528",
+            "nom": "New Soft Tuna",
+            "quantite": 4,
+            "prix_unitaire": 489.56
+        },
+        {
+            "produit_id": "P5406",
+            "nom": "Gently Used Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 170.59
+        }
+    ],
+    "date_commande": "2024-08-06T16:54:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "749 Mccoppin",
+        "ville": "Bowling Green"
+    }
+}

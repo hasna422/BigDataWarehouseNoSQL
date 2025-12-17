@@ -1,0 +1,19 @@
+{
+    "order_id": 706102,
+    "client_id": 2154,
+    "produits": [
+        {
+            "produit_id": "P3642",
+            "nom": "Handcrafted Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 425.0
+        }
+    ],
+    "date_commande": "2024-02-12T22:47:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "698 Marcela",
+        "ville": "Roanoke"
+    }
+}

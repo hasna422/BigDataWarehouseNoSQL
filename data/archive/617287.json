@@ -1,0 +1,25 @@
+{
+    "order_id": 617287,
+    "client_id": 5099,
+    "produits": [
+        {
+            "produit_id": "P9100",
+            "nom": "For repair Frozen Computer",
+            "quantite": 3,
+            "prix_unitaire": 51.38
+        },
+        {
+            "produit_id": "P9873",
+            "nom": "Refined Chair",
+            "quantite": 4,
+            "prix_unitaire": 224.53
+        }
+    ],
+    "date_commande": "2025-03-13T15:27:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "236 Knockash",
+        "ville": "Fountain Valley"
+    }
+}

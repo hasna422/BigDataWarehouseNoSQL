@@ -1,0 +1,31 @@
+{
+    "order_id": 275297,
+    "client_id": 5205,
+    "produits": [
+        {
+            "produit_id": "P5133",
+            "nom": "Awesome Wooden Shoes",
+            "quantite": 3,
+            "prix_unitaire": 87.4
+        },
+        {
+            "produit_id": "P4954",
+            "nom": "Unbranded Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 53.71
+        },
+        {
+            "produit_id": "P7191",
+            "nom": "Awesome Wooden Mouse",
+            "quantite": 3,
+            "prix_unitaire": 346.67
+        }
+    ],
+    "date_commande": "2024-09-03T20:11:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "51 Oak Access",
+        "ville": "Bozeman"
+    }
+}

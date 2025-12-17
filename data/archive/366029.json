@@ -1,0 +1,31 @@
+{
+    "order_id": 366029,
+    "client_id": 5257,
+    "produits": [
+        {
+            "produit_id": "P6198",
+            "nom": "Incredible Table",
+            "quantite": 2,
+            "prix_unitaire": 187.09
+        },
+        {
+            "produit_id": "P8316",
+            "nom": "Sleek Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 499.77
+        },
+        {
+            "produit_id": "P9817",
+            "nom": "Granite Hat",
+            "quantite": 3,
+            "prix_unitaire": 398.22
+        }
+    ],
+    "date_commande": "2024-02-15T23:22:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1132 Orben",
+        "ville": "North Miami Beach"
+    }
+}

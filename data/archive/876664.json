@@ -1,0 +1,19 @@
+{
+    "order_id": 876664,
+    "client_id": 1397,
+    "produits": [
+        {
+            "produit_id": "P2878",
+            "nom": "Intelligent Soap",
+            "quantite": 4,
+            "prix_unitaire": 342.06
+        }
+    ],
+    "date_commande": "2023-12-18T00:40:18",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1235 Page",
+        "ville": "Wadsworth"
+    }
+}

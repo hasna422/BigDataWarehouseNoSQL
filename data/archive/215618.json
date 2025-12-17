@@ -1,0 +1,19 @@
+{
+    "order_id": 215618,
+    "client_id": 2305,
+    "produits": [
+        {
+            "produit_id": "P3942",
+            "nom": "Gently Used Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 351.86
+        }
+    ],
+    "date_commande": "2025-03-23T05:21:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "274 Cyril Magnin",
+        "ville": "Pittsfield"
+    }
+}

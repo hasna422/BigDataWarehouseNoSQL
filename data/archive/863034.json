@@ -1,0 +1,19 @@
+{
+    "order_id": 863034,
+    "client_id": 6390,
+    "produits": [
+        {
+            "produit_id": "P9936",
+            "nom": "Gorgeous Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 495.43
+        }
+    ],
+    "date_commande": "2024-12-07T01:18:59",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "171 Stanley",
+        "ville": "San Juan Capistrano"
+    }
+}

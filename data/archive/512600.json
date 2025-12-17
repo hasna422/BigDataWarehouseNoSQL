@@ -1,0 +1,27 @@
+{
+    "order_id": 512600,
+    "client_id": 2437,
+    "produits": [
+        {
+            "produit_id": "P0285",
+            "nom": "Refined Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 253.83
+        },
+        {
+            "produit_id": "P1621",
+            "nom": "Used Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 20.36
+        },
+        {
+            "produit_id": "P2232",
+            "nom": "Gorgeous Cotton Computer",
+            "quantite": 3,
+            "prix_unitaire": 331.02
+        }
+    ],
+    "date_commande": "2023-06-06T13:06:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

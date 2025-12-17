@@ -1,0 +1,25 @@
+{
+    "order_id": 322304,
+    "client_id": 1497,
+    "produits": [
+        {
+            "produit_id": "P4245",
+            "nom": "Ergonomic Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 421.07
+        },
+        {
+            "produit_id": "P5084",
+            "nom": "Used Frozen Gloves",
+            "quantite": 1,
+            "prix_unitaire": 199.82
+        }
+    ],
+    "date_commande": "2023-12-05T15:27:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "435 Carmel",
+        "ville": "Key West"
+    }
+}

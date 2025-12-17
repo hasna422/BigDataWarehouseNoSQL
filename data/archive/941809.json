@@ -1,0 +1,31 @@
+{
+    "order_id": 941809,
+    "client_id": 3705,
+    "produits": [
+        {
+            "produit_id": "P2574",
+            "nom": "Sleek Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 439.88
+        },
+        {
+            "produit_id": "P9683",
+            "nom": "Tasty Shoes",
+            "quantite": 4,
+            "prix_unitaire": 431.3
+        },
+        {
+            "produit_id": "P5306",
+            "nom": "Ergonomic Concrete Chair",
+            "quantite": 4,
+            "prix_unitaire": 473.61
+        }
+    ],
+    "date_commande": "2024-08-06T05:04:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "564 Ralston",
+        "ville": "Xenia"
+    }
+}

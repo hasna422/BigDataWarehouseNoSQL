@@ -1,0 +1,19 @@
+{
+    "order_id": 416728,
+    "client_id": 6474,
+    "produits": [
+        {
+            "produit_id": "P5534",
+            "nom": "Rustic Cotton Chair",
+            "quantite": 5,
+            "prix_unitaire": 132.87
+        }
+    ],
+    "date_commande": "2025-01-31T12:42:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "940 Lombard",
+        "ville": "Seaside"
+    }
+}

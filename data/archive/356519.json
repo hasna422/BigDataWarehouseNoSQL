@@ -1,0 +1,25 @@
+{
+    "order_id": 356519,
+    "client_id": 8333,
+    "produits": [
+        {
+            "produit_id": "P5417",
+            "nom": "Unbranded Computer",
+            "quantite": 5,
+            "prix_unitaire": 31.06
+        },
+        {
+            "produit_id": "P8177",
+            "nom": "Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 146.73
+        }
+    ],
+    "date_commande": "2025-03-09T11:19:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "35 Presidio",
+        "ville": "Rowlett"
+    }
+}

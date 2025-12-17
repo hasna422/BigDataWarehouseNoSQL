@@ -1,0 +1,25 @@
+{
+    "order_id": 423709,
+    "client_id": 3171,
+    "produits": [
+        {
+            "produit_id": "P3751",
+            "nom": "Intelligent Table",
+            "quantite": 1,
+            "prix_unitaire": 389.96
+        },
+        {
+            "produit_id": "P2616",
+            "nom": "Gorgeous Fresh Shirt",
+            "quantite": 4,
+            "prix_unitaire": 455.35
+        }
+    ],
+    "date_commande": "2023-06-05T23:47:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "561 Worden",
+        "ville": "Mountain View"
+    }
+}

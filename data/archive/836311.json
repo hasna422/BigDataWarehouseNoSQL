@@ -1,0 +1,19 @@
+{
+    "order_id": 836311,
+    "client_id": 5748,
+    "produits": [
+        {
+            "produit_id": "P3799",
+            "nom": "Gorgeous Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 169.92
+        }
+    ],
+    "date_commande": "2024-03-18T02:45:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "323 Robert Kirk",
+        "ville": "Battle Creek"
+    }
+}

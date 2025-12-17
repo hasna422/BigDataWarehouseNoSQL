@@ -1,0 +1,21 @@
+{
+    "order_id": 928365,
+    "client_id": 1979,
+    "produits": [
+        {
+            "produit_id": "P7330",
+            "nom": "New Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 401.84
+        },
+        {
+            "produit_id": "P7578",
+            "nom": "For repair Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 88.41
+        }
+    ],
+    "date_commande": "2024-12-19T17:40:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

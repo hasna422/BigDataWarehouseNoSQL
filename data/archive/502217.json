@@ -1,0 +1,19 @@
+{
+    "order_id": 502217,
+    "client_id": 7813,
+    "produits": [
+        {
+            "produit_id": "P2148",
+            "nom": "Awesome Car",
+            "quantite": 3,
+            "prix_unitaire": 308.25
+        }
+    ],
+    "date_commande": "2023-11-09T07:44:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "602 Cloud",
+        "ville": "Grand Prairie"
+    }
+}

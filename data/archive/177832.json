@@ -1,0 +1,25 @@
+{
+    "order_id": 177832,
+    "client_id": 3584,
+    "produits": [
+        {
+            "produit_id": "P9037",
+            "nom": "Gently Used Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 29.97
+        },
+        {
+            "produit_id": "P2276",
+            "nom": "Unbranded Metal Fish",
+            "quantite": 1,
+            "prix_unitaire": 108.56
+        }
+    ],
+    "date_commande": "2023-12-02T18:20:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "629 Whitney",
+        "ville": "Bellflower"
+    }
+}

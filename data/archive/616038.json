@@ -1,0 +1,27 @@
+{
+    "order_id": 616038,
+    "client_id": 5982,
+    "produits": [
+        {
+            "produit_id": "P6571",
+            "nom": "Used Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 16.26
+        },
+        {
+            "produit_id": "P0474",
+            "nom": "Used Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 73.22
+        },
+        {
+            "produit_id": "P8517",
+            "nom": "For repair Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 117.88
+        }
+    ],
+    "date_commande": "2024-08-08T13:55:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

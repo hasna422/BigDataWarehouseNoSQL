@@ -1,0 +1,25 @@
+{
+    "order_id": 775535,
+    "client_id": 7288,
+    "produits": [
+        {
+            "produit_id": "P7214",
+            "nom": "Fantastic Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 382.19
+        },
+        {
+            "produit_id": "P0574",
+            "nom": "Incredible Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 326.91
+        }
+    ],
+    "date_commande": "2024-11-01T23:24:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "811 Pearl",
+        "ville": "San Clemente"
+    }
+}

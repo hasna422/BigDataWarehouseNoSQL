@@ -1,0 +1,31 @@
+{
+    "order_id": 717965,
+    "client_id": 9861,
+    "produits": [
+        {
+            "produit_id": "P7386",
+            "nom": "For repair Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 415.69
+        },
+        {
+            "produit_id": "P6271",
+            "nom": "Tasty Granite Bacon",
+            "quantite": 1,
+            "prix_unitaire": 361.04
+        },
+        {
+            "produit_id": "P5685",
+            "nom": "Used Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 96.49
+        }
+    ],
+    "date_commande": "2024-09-10T01:30:34",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "781 West Broadway",
+        "ville": "Sylvania"
+    }
+}

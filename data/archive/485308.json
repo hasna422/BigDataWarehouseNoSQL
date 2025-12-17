@@ -1,0 +1,27 @@
+{
+    "order_id": 485308,
+    "client_id": 5421,
+    "produits": [
+        {
+            "produit_id": "P4142",
+            "nom": "Practical Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 252.99
+        },
+        {
+            "produit_id": "P0101",
+            "nom": "Used Hat",
+            "quantite": 5,
+            "prix_unitaire": 318.79
+        },
+        {
+            "produit_id": "P7816",
+            "nom": "Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 57.39
+        }
+    ],
+    "date_commande": "2024-07-30T19:56:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

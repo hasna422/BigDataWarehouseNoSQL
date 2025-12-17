@@ -1,0 +1,27 @@
+{
+    "order_id": 506142,
+    "client_id": 2155,
+    "produits": [
+        {
+            "produit_id": "P1360",
+            "nom": "Handmade Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 105.88
+        },
+        {
+            "produit_id": "P0044",
+            "nom": "Handcrafted Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 465.03
+        },
+        {
+            "produit_id": "P1689",
+            "nom": "Fantastic Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 165.08
+        }
+    ],
+    "date_commande": "2025-02-09T00:08:24",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

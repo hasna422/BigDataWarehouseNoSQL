@@ -1,0 +1,31 @@
+{
+    "order_id": 119163,
+    "client_id": 8952,
+    "produits": [
+        {
+            "produit_id": "P9849",
+            "nom": "Fantastic Fresh Computer",
+            "quantite": 5,
+            "prix_unitaire": 57.61
+        },
+        {
+            "produit_id": "P7551",
+            "nom": "Gorgeous Wooden Salad",
+            "quantite": 5,
+            "prix_unitaire": 340.18
+        },
+        {
+            "produit_id": "P6567",
+            "nom": "Generic Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 21.64
+        }
+    ],
+    "date_commande": "2024-07-30T14:13:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "964 Sherwood",
+        "ville": "Owatonna"
+    }
+}

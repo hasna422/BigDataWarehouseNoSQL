@@ -1,0 +1,25 @@
+{
+    "order_id": 341654,
+    "client_id": 5107,
+    "produits": [
+        {
+            "produit_id": "P1374",
+            "nom": "Handmade Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 379.59
+        },
+        {
+            "produit_id": "P8060",
+            "nom": "New Concrete Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 448.7
+        }
+    ],
+    "date_commande": "2023-10-02T11:21:41",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "560 Otsego",
+        "ville": "New Iberia"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 344622,
+    "client_id": 1892,
+    "produits": [
+        {
+            "produit_id": "P7792",
+            "nom": "Gently Used Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 359.32
+        },
+        {
+            "produit_id": "P1266",
+            "nom": "Unbranded Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 329.88
+        }
+    ],
+    "date_commande": "2024-04-10T22:42:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "381 Lysette",
+        "ville": "Menlo Park"
+    }
+}

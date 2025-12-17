@@ -1,0 +1,25 @@
+{
+    "order_id": 103330,
+    "client_id": 7664,
+    "produits": [
+        {
+            "produit_id": "P4349",
+            "nom": "Handmade Frozen Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 409.48
+        },
+        {
+            "produit_id": "P2455",
+            "nom": "Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 318.71
+        }
+    ],
+    "date_commande": "2024-01-17T04:18:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "8 Hamlin",
+        "ville": "Upland"
+    }
+}

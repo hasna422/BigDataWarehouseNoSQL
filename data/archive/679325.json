@@ -1,0 +1,25 @@
+{
+    "order_id": 679325,
+    "client_id": 2775,
+    "produits": [
+        {
+            "produit_id": "P2333",
+            "nom": "Handcrafted Rubber Gloves",
+            "quantite": 5,
+            "prix_unitaire": 377.4
+        },
+        {
+            "produit_id": "P2263",
+            "nom": "Unbranded Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 153.4
+        }
+    ],
+    "date_commande": "2023-12-31T04:39:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "355 Homewood",
+        "ville": "West Memphis"
+    }
+}

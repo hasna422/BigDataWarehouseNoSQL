@@ -1,0 +1,31 @@
+{
+    "order_id": 463098,
+    "client_id": 3002,
+    "produits": [
+        {
+            "produit_id": "P4165",
+            "nom": "Small Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 117.54
+        },
+        {
+            "produit_id": "P3939",
+            "nom": "Intelligent Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 53.85
+        },
+        {
+            "produit_id": "P5169",
+            "nom": "Awesome Metal Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 489.07
+        }
+    ],
+    "date_commande": "2024-05-15T18:53:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "297 Mccoppin",
+        "ville": "Terre Haute"
+    }
+}

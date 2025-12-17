@@ -1,0 +1,15 @@
+{
+    "order_id": 312049,
+    "client_id": 6288,
+    "produits": [
+        {
+            "produit_id": "P9345",
+            "nom": "Ergonomic Frozen Ball",
+            "quantite": 2,
+            "prix_unitaire": 157.57
+        }
+    ],
+    "date_commande": "2023-10-13T11:49:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

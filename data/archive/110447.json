@@ -1,0 +1,31 @@
+{
+    "order_id": 110447,
+    "client_id": 9442,
+    "produits": [
+        {
+            "produit_id": "P8076",
+            "nom": "Fantastic Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 305.51
+        },
+        {
+            "produit_id": "P3072",
+            "nom": "Gently Used Fresh Table",
+            "quantite": 3,
+            "prix_unitaire": 279.38
+        },
+        {
+            "produit_id": "P3097",
+            "nom": "Practical Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 89.01
+        }
+    ],
+    "date_commande": "2024-05-09T14:32:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "341 Avoca",
+        "ville": "Chelsea"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 160672,
+    "client_id": 9119,
+    "produits": [
+        {
+            "produit_id": "P1178",
+            "nom": "Handcrafted Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 448.14
+        },
+        {
+            "produit_id": "P8040",
+            "nom": "Gorgeous Bike",
+            "quantite": 1,
+            "prix_unitaire": 465.38
+        },
+        {
+            "produit_id": "P3732",
+            "nom": "Gently Used Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 270.69
+        }
+    ],
+    "date_commande": "2024-07-09T17:27:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

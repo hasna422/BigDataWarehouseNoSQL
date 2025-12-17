@@ -1,0 +1,15 @@
+{
+    "order_id": 592850,
+    "client_id": 3974,
+    "produits": [
+        {
+            "produit_id": "P9625",
+            "nom": "Soft Table",
+            "quantite": 1,
+            "prix_unitaire": 66.16
+        }
+    ],
+    "date_commande": "2023-12-20T10:28:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

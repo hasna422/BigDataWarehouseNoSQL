@@ -1,0 +1,19 @@
+{
+    "order_id": 552861,
+    "client_id": 5445,
+    "produits": [
+        {
+            "produit_id": "P9362",
+            "nom": "Fantastic Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 364.42
+        }
+    ],
+    "date_commande": "2024-04-05T20:21:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "123 Majestic",
+        "ville": "Miami"
+    }
+}

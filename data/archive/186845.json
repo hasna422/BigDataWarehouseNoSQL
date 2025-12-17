@@ -1,0 +1,31 @@
+{
+    "order_id": 186845,
+    "client_id": 8224,
+    "produits": [
+        {
+            "produit_id": "P7647",
+            "nom": "Tasty Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 79.36
+        },
+        {
+            "produit_id": "P0007",
+            "nom": "Fantastic Plastic Tuna",
+            "quantite": 5,
+            "prix_unitaire": 28.88
+        },
+        {
+            "produit_id": "P0753",
+            "nom": "For repair Fresh Bacon",
+            "quantite": 1,
+            "prix_unitaire": 127.22
+        }
+    ],
+    "date_commande": "2023-10-08T09:00:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "333 Lansdale",
+        "ville": "San Marcos"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 161442,
+    "client_id": 4113,
+    "produits": [
+        {
+            "produit_id": "P3100",
+            "nom": "Handcrafted Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 179.07
+        },
+        {
+            "produit_id": "P6124",
+            "nom": "Small Salad",
+            "quantite": 1,
+            "prix_unitaire": 231.3
+        }
+    ],
+    "date_commande": "2025-04-10T17:46:16",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "241 Alhambra",
+        "ville": "Corcoran"
+    }
+}

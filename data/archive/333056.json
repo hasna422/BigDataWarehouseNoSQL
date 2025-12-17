@@ -1,0 +1,25 @@
+{
+    "order_id": 333056,
+    "client_id": 6130,
+    "produits": [
+        {
+            "produit_id": "P4822",
+            "nom": "Gently Used Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 206.14
+        },
+        {
+            "produit_id": "P2394",
+            "nom": "Fantastic Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 371.85
+        }
+    ],
+    "date_commande": "2024-09-25T11:17:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "387 Brooklyn",
+        "ville": "Poughkeepsie"
+    }
+}

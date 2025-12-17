@@ -1,0 +1,27 @@
+{
+    "order_id": 451376,
+    "client_id": 2499,
+    "produits": [
+        {
+            "produit_id": "P8386",
+            "nom": "Ergonomic Granite Mouse",
+            "quantite": 2,
+            "prix_unitaire": 266.37
+        },
+        {
+            "produit_id": "P9521",
+            "nom": "Intelligent Pants",
+            "quantite": 1,
+            "prix_unitaire": 21.73
+        },
+        {
+            "produit_id": "P4386",
+            "nom": "Rustic Concrete Cheese",
+            "quantite": 3,
+            "prix_unitaire": 69.23
+        }
+    ],
+    "date_commande": "2023-06-29T23:15:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

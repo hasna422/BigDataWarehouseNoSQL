@@ -1,0 +1,19 @@
+{
+    "order_id": 960250,
+    "client_id": 6362,
+    "produits": [
+        {
+            "produit_id": "P1466",
+            "nom": "New Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 230.8
+        }
+    ],
+    "date_commande": "2023-06-21T00:25:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1381 Toland",
+        "ville": "Richardson"
+    }
+}

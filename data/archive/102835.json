@@ -1,0 +1,19 @@
+{
+    "order_id": 102835,
+    "client_id": 9024,
+    "produits": [
+        {
+            "produit_id": "P6614",
+            "nom": "New Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 385.81
+        }
+    ],
+    "date_commande": "2024-10-10T01:07:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "34 Graymalkin",
+        "ville": "Dickinson"
+    }
+}

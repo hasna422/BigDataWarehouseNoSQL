@@ -1,0 +1,19 @@
+{
+    "order_id": 912866,
+    "client_id": 3283,
+    "produits": [
+        {
+            "produit_id": "P3114",
+            "nom": "Incredible Plastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 391.05
+        }
+    ],
+    "date_commande": "2023-09-08T08:51:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "71 Morrell",
+        "ville": "Rock Springs"
+    }
+}

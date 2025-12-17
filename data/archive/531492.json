@@ -1,0 +1,25 @@
+{
+    "order_id": 531492,
+    "client_id": 8886,
+    "produits": [
+        {
+            "produit_id": "P2652",
+            "nom": "Sleek Rubber Cheese",
+            "quantite": 1,
+            "prix_unitaire": 29.88
+        },
+        {
+            "produit_id": "P4473",
+            "nom": "Frozen Pants",
+            "quantite": 1,
+            "prix_unitaire": 114.42
+        }
+    ],
+    "date_commande": "2024-10-31T15:34:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "902 Gay",
+        "ville": "Mason City"
+    }
+}

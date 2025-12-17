@@ -1,0 +1,31 @@
+{
+    "order_id": 790737,
+    "client_id": 9002,
+    "produits": [
+        {
+            "produit_id": "P1015",
+            "nom": "Intelligent Concrete Salad",
+            "quantite": 1,
+            "prix_unitaire": 125.02
+        },
+        {
+            "produit_id": "P2239",
+            "nom": "Frozen Computer",
+            "quantite": 3,
+            "prix_unitaire": 120.93
+        },
+        {
+            "produit_id": "P2535",
+            "nom": "Sleek Table",
+            "quantite": 1,
+            "prix_unitaire": 190.98
+        }
+    ],
+    "date_commande": "2024-11-01T22:04:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1247 Lawrence",
+        "ville": "North Lauderdale"
+    }
+}

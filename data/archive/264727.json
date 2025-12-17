@@ -1,0 +1,19 @@
+{
+    "order_id": 264727,
+    "client_id": 2646,
+    "produits": [
+        {
+            "produit_id": "P4704",
+            "nom": "Unbranded Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 329.89
+        }
+    ],
+    "date_commande": "2023-09-16T01:08:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "523 Point Lobos",
+        "ville": "Skokie"
+    }
+}

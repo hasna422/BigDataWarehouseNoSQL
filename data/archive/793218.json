@@ -1,0 +1,21 @@
+{
+    "order_id": 793218,
+    "client_id": 2343,
+    "produits": [
+        {
+            "produit_id": "P2008",
+            "nom": "Tasty Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 294.23
+        },
+        {
+            "produit_id": "P6331",
+            "nom": "Generic Frozen Salad",
+            "quantite": 5,
+            "prix_unitaire": 216.44
+        }
+    ],
+    "date_commande": "2025-02-10T19:58:18",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

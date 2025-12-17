@@ -1,0 +1,31 @@
+{
+    "order_id": 233037,
+    "client_id": 3414,
+    "produits": [
+        {
+            "produit_id": "P0214",
+            "nom": "Generic Rubber Tuna",
+            "quantite": 5,
+            "prix_unitaire": 15.57
+        },
+        {
+            "produit_id": "P6818",
+            "nom": "Used Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 419.22
+        },
+        {
+            "produit_id": "P5502",
+            "nom": "Refined Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 407.42
+        }
+    ],
+    "date_commande": "2025-03-02T21:57:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "910 Lee",
+        "ville": "North Canton"
+    }
+}

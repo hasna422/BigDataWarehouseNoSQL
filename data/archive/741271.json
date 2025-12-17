@@ -1,0 +1,25 @@
+{
+    "order_id": 741271,
+    "client_id": 9830,
+    "produits": [
+        {
+            "produit_id": "P7807",
+            "nom": "Rustic Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 428.57
+        },
+        {
+            "produit_id": "P3850",
+            "nom": "Handcrafted Plastic Sausages",
+            "quantite": 4,
+            "prix_unitaire": 92.7
+        }
+    ],
+    "date_commande": "2024-10-18T04:53:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "285 Diana",
+        "ville": "Jackson"
+    }
+}

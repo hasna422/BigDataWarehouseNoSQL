@@ -1,0 +1,19 @@
+{
+    "order_id": 553443,
+    "client_id": 9147,
+    "produits": [
+        {
+            "produit_id": "P5680",
+            "nom": "Gorgeous Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 234.97
+        }
+    ],
+    "date_commande": "2023-11-23T17:17:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "815 Hayes",
+        "ville": "Gary"
+    }
+}

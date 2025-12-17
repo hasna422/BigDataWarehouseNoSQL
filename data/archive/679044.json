@@ -1,0 +1,27 @@
+{
+    "order_id": 679044,
+    "client_id": 5887,
+    "produits": [
+        {
+            "produit_id": "P1509",
+            "nom": "Unbranded Cotton Bike",
+            "quantite": 1,
+            "prix_unitaire": 61.24
+        },
+        {
+            "produit_id": "P4319",
+            "nom": "Sleek Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 93.95
+        },
+        {
+            "produit_id": "P5010",
+            "nom": "Incredible Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 320.44
+        }
+    ],
+    "date_commande": "2025-02-26T12:28:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

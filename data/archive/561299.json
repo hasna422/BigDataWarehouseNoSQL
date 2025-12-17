@@ -1,0 +1,19 @@
+{
+    "order_id": 561299,
+    "client_id": 9677,
+    "produits": [
+        {
+            "produit_id": "P6149",
+            "nom": "Practical Frozen Hat",
+            "quantite": 4,
+            "prix_unitaire": 65.0
+        }
+    ],
+    "date_commande": "2024-01-23T09:53:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1240 Cadell",
+        "ville": "Davis"
+    }
+}

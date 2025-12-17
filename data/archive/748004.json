@@ -1,0 +1,21 @@
+{
+    "order_id": 748004,
+    "client_id": 2916,
+    "produits": [
+        {
+            "produit_id": "P8489",
+            "nom": "New Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 311.76
+        },
+        {
+            "produit_id": "P3486",
+            "nom": "Rustic Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 104.24
+        }
+    ],
+    "date_commande": "2024-11-22T13:08:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 426479,
+    "client_id": 6329,
+    "produits": [
+        {
+            "produit_id": "P1755",
+            "nom": "Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 348.96
+        },
+        {
+            "produit_id": "P1653",
+            "nom": "Gently Used Granite Tuna",
+            "quantite": 5,
+            "prix_unitaire": 22.65
+        }
+    ],
+    "date_commande": "2024-06-27T12:49:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

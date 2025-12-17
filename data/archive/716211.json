@@ -1,0 +1,19 @@
+{
+    "order_id": 716211,
+    "client_id": 3729,
+    "produits": [
+        {
+            "produit_id": "P9431",
+            "nom": "Gorgeous Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 342.15
+        }
+    ],
+    "date_commande": "2023-11-23T15:04:33",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1119 Loyola",
+        "ville": "Salisbury"
+    }
+}

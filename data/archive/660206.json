@@ -1,0 +1,19 @@
+{
+    "order_id": 660206,
+    "client_id": 3711,
+    "produits": [
+        {
+            "produit_id": "P0701",
+            "nom": "Gently Used Chips",
+            "quantite": 5,
+            "prix_unitaire": 155.16
+        }
+    ],
+    "date_commande": "2024-08-25T05:53:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "765 Bowdoin",
+        "ville": "Ruston"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 914909,
+    "client_id": 2211,
+    "produits": [
+        {
+            "produit_id": "P8549",
+            "nom": "Gorgeous Fresh Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 275.42
+        },
+        {
+            "produit_id": "P3177",
+            "nom": "Tasty Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 450.64
+        }
+    ],
+    "date_commande": "2023-10-05T02:17:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "718 Saint George",
+        "ville": "Huntersville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 969407,
+    "client_id": 8060,
+    "produits": [
+        {
+            "produit_id": "P3385",
+            "nom": "Gently Used Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 187.09
+        },
+        {
+            "produit_id": "P6073",
+            "nom": "Gorgeous Fish",
+            "quantite": 4,
+            "prix_unitaire": 103.73
+        }
+    ],
+    "date_commande": "2024-07-28T01:17:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "129 Old Harford",
+        "ville": "Redding"
+    }
+}

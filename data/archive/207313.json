@@ -1,0 +1,19 @@
+{
+    "order_id": 207313,
+    "client_id": 7548,
+    "produits": [
+        {
+            "produit_id": "P6927",
+            "nom": "Handmade Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 204.03
+        }
+    ],
+    "date_commande": "2025-03-04T15:49:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1107 Van Dyke",
+        "ville": "New Albany"
+    }
+}

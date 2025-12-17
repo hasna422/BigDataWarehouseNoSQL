@@ -1,0 +1,19 @@
+{
+    "order_id": 322335,
+    "client_id": 6494,
+    "produits": [
+        {
+            "produit_id": "P0195",
+            "nom": "Fantastic Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 35.28
+        }
+    ],
+    "date_commande": "2024-11-19T14:36:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "420 Brady",
+        "ville": "Livonia"
+    }
+}

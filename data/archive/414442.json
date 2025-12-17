@@ -1,0 +1,25 @@
+{
+    "order_id": 414442,
+    "client_id": 2143,
+    "produits": [
+        {
+            "produit_id": "P8514",
+            "nom": "Used Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 42.94
+        },
+        {
+            "produit_id": "P0765",
+            "nom": "Refined Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 484.05
+        }
+    ],
+    "date_commande": "2024-05-26T00:08:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "598 Islais",
+        "ville": "Daytona Beach"
+    }
+}

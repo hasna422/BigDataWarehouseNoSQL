@@ -1,0 +1,25 @@
+{
+    "order_id": 875915,
+    "client_id": 5254,
+    "produits": [
+        {
+            "produit_id": "P3507",
+            "nom": "Sleek Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 392.54
+        },
+        {
+            "produit_id": "P9902",
+            "nom": "Generic Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 34.43
+        }
+    ],
+    "date_commande": "2024-01-24T03:10:26",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "993 Mckinley",
+        "ville": "Hammond"
+    }
+}

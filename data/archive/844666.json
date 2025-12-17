@@ -1,0 +1,21 @@
+{
+    "order_id": 844666,
+    "client_id": 6691,
+    "produits": [
+        {
+            "produit_id": "P4347",
+            "nom": "Small Bacon",
+            "quantite": 5,
+            "prix_unitaire": 48.03
+        },
+        {
+            "produit_id": "P8187",
+            "nom": "Used Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 119.44
+        }
+    ],
+    "date_commande": "2023-12-03T17:02:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

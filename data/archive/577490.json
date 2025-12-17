@@ -1,0 +1,21 @@
+{
+    "order_id": 577490,
+    "client_id": 5896,
+    "produits": [
+        {
+            "produit_id": "P8842",
+            "nom": "Tasty Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 433.43
+        },
+        {
+            "produit_id": "P8211",
+            "nom": "New Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 379.47
+        }
+    ],
+    "date_commande": "2024-04-08T08:21:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

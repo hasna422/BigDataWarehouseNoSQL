@@ -1,0 +1,31 @@
+{
+    "order_id": 810488,
+    "client_id": 5817,
+    "produits": [
+        {
+            "produit_id": "P4333",
+            "nom": "Incredible Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 444.7
+        },
+        {
+            "produit_id": "P5098",
+            "nom": "Sleek Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 268.33
+        },
+        {
+            "produit_id": "P1379",
+            "nom": "Refined Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 341.43
+        }
+    ],
+    "date_commande": "2024-01-04T06:14:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1344 Richard Henry Dana",
+        "ville": "Del Rio"
+    }
+}

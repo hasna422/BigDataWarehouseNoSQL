@@ -1,0 +1,19 @@
+{
+    "order_id": 101757,
+    "client_id": 3419,
+    "produits": [
+        {
+            "produit_id": "P8070",
+            "nom": "Practical Steel Soap",
+            "quantite": 4,
+            "prix_unitaire": 317.92
+        }
+    ],
+    "date_commande": "2024-10-19T05:57:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "964 Sickles",
+        "ville": "Mason City"
+    }
+}

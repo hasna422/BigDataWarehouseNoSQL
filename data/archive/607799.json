@@ -1,0 +1,21 @@
+{
+    "order_id": 607799,
+    "client_id": 2750,
+    "produits": [
+        {
+            "produit_id": "P2384",
+            "nom": "Tasty Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 472.86
+        },
+        {
+            "produit_id": "P3313",
+            "nom": "Ergonomic Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 217.16
+        }
+    ],
+    "date_commande": "2024-11-10T19:56:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

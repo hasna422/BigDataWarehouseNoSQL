@@ -1,0 +1,25 @@
+{
+    "order_id": 755984,
+    "client_id": 6864,
+    "produits": [
+        {
+            "produit_id": "P7009",
+            "nom": "Refined Metal Mouse",
+            "quantite": 3,
+            "prix_unitaire": 365.39
+        },
+        {
+            "produit_id": "P4923",
+            "nom": "Fantastic Wooden Shirt",
+            "quantite": 4,
+            "prix_unitaire": 244.74
+        }
+    ],
+    "date_commande": "2023-09-10T05:51:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "652 Cesar Chavez On",
+        "ville": "Inglewood"
+    }
+}

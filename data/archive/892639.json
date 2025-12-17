@@ -1,0 +1,21 @@
+{
+    "order_id": 892639,
+    "client_id": 7225,
+    "produits": [
+        {
+            "produit_id": "P8899",
+            "nom": "Gently Used Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 186.64
+        },
+        {
+            "produit_id": "P5333",
+            "nom": "Awesome Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 43.55
+        }
+    ],
+    "date_commande": "2023-09-16T04:05:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

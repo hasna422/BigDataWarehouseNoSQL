@@ -1,0 +1,15 @@
+{
+    "order_id": 973966,
+    "client_id": 9301,
+    "produits": [
+        {
+            "produit_id": "P0117",
+            "nom": "Tasty Soft Gloves",
+            "quantite": 1,
+            "prix_unitaire": 487.98
+        }
+    ],
+    "date_commande": "2024-07-05T22:58:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

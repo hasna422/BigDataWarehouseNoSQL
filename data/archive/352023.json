@@ -1,0 +1,31 @@
+{
+    "order_id": 352023,
+    "client_id": 1635,
+    "produits": [
+        {
+            "produit_id": "P8214",
+            "nom": "New Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 160.11
+        },
+        {
+            "produit_id": "P9687",
+            "nom": "New Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 318.05
+        },
+        {
+            "produit_id": "P9547",
+            "nom": "Rustic Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 317.56
+        }
+    ],
+    "date_commande": "2024-08-31T17:29:23",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "313 Sloan",
+        "ville": "Edmond"
+    }
+}

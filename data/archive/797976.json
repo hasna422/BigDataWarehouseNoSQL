@@ -1,0 +1,31 @@
+{
+    "order_id": 797976,
+    "client_id": 8066,
+    "produits": [
+        {
+            "produit_id": "P7844",
+            "nom": "Sleek Frozen Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 242.1
+        },
+        {
+            "produit_id": "P9394",
+            "nom": "Ergonomic Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 413.13
+        },
+        {
+            "produit_id": "P3814",
+            "nom": "Rustic Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 271.51
+        }
+    ],
+    "date_commande": "2023-06-09T19:38:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "26 Industrial",
+        "ville": "Ventura"
+    }
+}

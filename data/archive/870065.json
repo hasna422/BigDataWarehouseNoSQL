@@ -1,0 +1,25 @@
+{
+    "order_id": 870065,
+    "client_id": 5422,
+    "produits": [
+        {
+            "produit_id": "P3051",
+            "nom": "Unbranded Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 342.67
+        },
+        {
+            "produit_id": "P5334",
+            "nom": "Ergonomic Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 280.97
+        }
+    ],
+    "date_commande": "2024-07-10T19:36:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "812 Emmett",
+        "ville": "Turlock"
+    }
+}

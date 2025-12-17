@@ -1,0 +1,27 @@
+{
+    "order_id": 554832,
+    "client_id": 4923,
+    "produits": [
+        {
+            "produit_id": "P3272",
+            "nom": "For repair Sausages",
+            "quantite": 1,
+            "prix_unitaire": 435.94
+        },
+        {
+            "produit_id": "P0106",
+            "nom": "Pizza",
+            "quantite": 4,
+            "prix_unitaire": 483.25
+        },
+        {
+            "produit_id": "P9253",
+            "nom": "Gently Used Soft Shoes",
+            "quantite": 4,
+            "prix_unitaire": 375.68
+        }
+    ],
+    "date_commande": "2024-11-28T20:41:33",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

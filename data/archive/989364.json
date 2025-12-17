@@ -1,0 +1,27 @@
+{
+    "order_id": 989364,
+    "client_id": 5801,
+    "produits": [
+        {
+            "produit_id": "P9623",
+            "nom": "Used Ball",
+            "quantite": 4,
+            "prix_unitaire": 402.2
+        },
+        {
+            "produit_id": "P5907",
+            "nom": "Tasty Wooden Shirt",
+            "quantite": 1,
+            "prix_unitaire": 264.74
+        },
+        {
+            "produit_id": "P6692",
+            "nom": "Rustic Ball",
+            "quantite": 5,
+            "prix_unitaire": 470.44
+        }
+    ],
+    "date_commande": "2024-11-01T16:58:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

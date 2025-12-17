@@ -1,0 +1,21 @@
+{
+    "order_id": 640872,
+    "client_id": 9409,
+    "produits": [
+        {
+            "produit_id": "P5067",
+            "nom": "Fantastic Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 397.03
+        },
+        {
+            "produit_id": "P3438",
+            "nom": "Gorgeous Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 59.54
+        }
+    ],
+    "date_commande": "2024-11-30T23:04:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

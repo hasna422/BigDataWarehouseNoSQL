@@ -1,0 +1,25 @@
+{
+    "order_id": 996789,
+    "client_id": 9537,
+    "produits": [
+        {
+            "produit_id": "P2082",
+            "nom": "Awesome Steel Shirt",
+            "quantite": 4,
+            "prix_unitaire": 254.13
+        },
+        {
+            "produit_id": "P9551",
+            "nom": "Ergonomic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 352.88
+        }
+    ],
+    "date_commande": "2023-06-14T14:37:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1050 Mallorca",
+        "ville": "Sumter"
+    }
+}

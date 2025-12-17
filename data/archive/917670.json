@@ -1,0 +1,31 @@
+{
+    "order_id": 917670,
+    "client_id": 6818,
+    "produits": [
+        {
+            "produit_id": "P0946",
+            "nom": "Rustic Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 400.54
+        },
+        {
+            "produit_id": "P1740",
+            "nom": "Ergonomic Plastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 95.29
+        },
+        {
+            "produit_id": "P0486",
+            "nom": "Rustic Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 19.38
+        }
+    ],
+    "date_commande": "2024-02-24T13:42:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "103 Battery Cranston",
+        "ville": "Lawrence"
+    }
+}

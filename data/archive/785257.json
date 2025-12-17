@@ -1,0 +1,31 @@
+{
+    "order_id": 785257,
+    "client_id": 6087,
+    "produits": [
+        {
+            "produit_id": "P9533",
+            "nom": "Fantastic Fresh Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 260.09
+        },
+        {
+            "produit_id": "P2588",
+            "nom": "Rustic Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 181.27
+        },
+        {
+            "produit_id": "P7492",
+            "nom": "New Fresh Tuna",
+            "quantite": 5,
+            "prix_unitaire": 171.6
+        }
+    ],
+    "date_commande": "2024-02-14T15:36:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "600 Ames",
+        "ville": "Richardson"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 416528,
+    "client_id": 5987,
+    "produits": [
+        {
+            "produit_id": "P1542",
+            "nom": "Gently Used Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 142.31
+        }
+    ],
+    "date_commande": "2023-06-04T23:02:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "424 Faxon",
+        "ville": "Urbana"
+    }
+}

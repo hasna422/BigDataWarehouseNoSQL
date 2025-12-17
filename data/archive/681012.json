@@ -1,0 +1,31 @@
+{
+    "order_id": 681012,
+    "client_id": 2619,
+    "produits": [
+        {
+            "produit_id": "P3997",
+            "nom": "Gently Used Cheese",
+            "quantite": 2,
+            "prix_unitaire": 202.87
+        },
+        {
+            "produit_id": "P9687",
+            "nom": "Sleek Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 214.25
+        },
+        {
+            "produit_id": "P7100",
+            "nom": "Gorgeous Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 19.06
+        }
+    ],
+    "date_commande": "2024-10-04T21:34:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1047 Nob Hill",
+        "ville": "Temecula"
+    }
+}

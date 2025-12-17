@@ -1,0 +1,19 @@
+{
+    "order_id": 481699,
+    "client_id": 2872,
+    "produits": [
+        {
+            "produit_id": "P2192",
+            "nom": "Used Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 475.27
+        }
+    ],
+    "date_commande": "2023-07-19T02:47:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "809 Pfeiffer",
+        "ville": "New Iberia"
+    }
+}

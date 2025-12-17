@@ -1,0 +1,31 @@
+{
+    "order_id": 204732,
+    "client_id": 6137,
+    "produits": [
+        {
+            "produit_id": "P6515",
+            "nom": "Ergonomic Wooden Car",
+            "quantite": 3,
+            "prix_unitaire": 442.96
+        },
+        {
+            "produit_id": "P5882",
+            "nom": "Gorgeous Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 50.16
+        },
+        {
+            "produit_id": "P0858",
+            "nom": "Refined Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 244.67
+        }
+    ],
+    "date_commande": "2025-04-22T19:10:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1106 Brown",
+        "ville": "North Chicago"
+    }
+}

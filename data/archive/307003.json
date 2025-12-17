@@ -1,0 +1,27 @@
+{
+    "order_id": 307003,
+    "client_id": 2489,
+    "produits": [
+        {
+            "produit_id": "P7172",
+            "nom": "Intelligent Computer",
+            "quantite": 1,
+            "prix_unitaire": 122.59
+        },
+        {
+            "produit_id": "P2795",
+            "nom": "Unbranded Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 463.45
+        },
+        {
+            "produit_id": "P1423",
+            "nom": "Unbranded Cotton Bacon",
+            "quantite": 2,
+            "prix_unitaire": 69.74
+        }
+    ],
+    "date_commande": "2024-10-28T06:19:43",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 594678,
+    "client_id": 1187,
+    "produits": [
+        {
+            "produit_id": "P6127",
+            "nom": "Licensed Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 336.0
+        },
+        {
+            "produit_id": "P0974",
+            "nom": "Refined Soft Fish",
+            "quantite": 4,
+            "prix_unitaire": 121.95
+        },
+        {
+            "produit_id": "P3275",
+            "nom": "Unbranded Rubber Sausages",
+            "quantite": 5,
+            "prix_unitaire": 370.07
+        }
+    ],
+    "date_commande": "2023-08-18T08:25:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

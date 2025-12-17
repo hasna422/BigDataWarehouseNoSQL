@@ -1,0 +1,25 @@
+{
+    "order_id": 576543,
+    "client_id": 8875,
+    "produits": [
+        {
+            "produit_id": "P5842",
+            "nom": "Generic Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 102.68
+        },
+        {
+            "produit_id": "P5421",
+            "nom": "New Granite Salad",
+            "quantite": 3,
+            "prix_unitaire": 250.95
+        }
+    ],
+    "date_commande": "2024-11-10T22:37:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "733 Anza",
+        "ville": "Oakdale"
+    }
+}

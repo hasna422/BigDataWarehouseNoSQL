@@ -1,0 +1,27 @@
+{
+    "order_id": 738047,
+    "client_id": 4085,
+    "produits": [
+        {
+            "produit_id": "P6388",
+            "nom": "Generic Cotton Tuna",
+            "quantite": 5,
+            "prix_unitaire": 351.2
+        },
+        {
+            "produit_id": "P1589",
+            "nom": "Fantastic Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 348.37
+        },
+        {
+            "produit_id": "P9193",
+            "nom": "New Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 291.58
+        }
+    ],
+    "date_commande": "2024-09-25T04:26:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

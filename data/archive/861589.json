@@ -1,0 +1,25 @@
+{
+    "order_id": 861589,
+    "client_id": 1239,
+    "produits": [
+        {
+            "produit_id": "P7335",
+            "nom": "Licensed Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 137.84
+        },
+        {
+            "produit_id": "P5749",
+            "nom": "Handmade Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 116.95
+        }
+    ],
+    "date_commande": "2024-05-01T02:24:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "408 Normandie",
+        "ville": "Sherwood"
+    }
+}

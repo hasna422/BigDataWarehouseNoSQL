@@ -1,0 +1,31 @@
+{
+    "order_id": 565224,
+    "client_id": 3146,
+    "produits": [
+        {
+            "produit_id": "P1098",
+            "nom": "Practical Concrete Cheese",
+            "quantite": 2,
+            "prix_unitaire": 485.46
+        },
+        {
+            "produit_id": "P6644",
+            "nom": "For repair Wooden Shoes",
+            "quantite": 3,
+            "prix_unitaire": 472.79
+        },
+        {
+            "produit_id": "P1544",
+            "nom": "Handmade Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 352.63
+        }
+    ],
+    "date_commande": "2024-05-31T19:56:31",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "187 Helena",
+        "ville": "Euless"
+    }
+}

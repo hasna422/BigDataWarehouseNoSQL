@@ -1,0 +1,25 @@
+{
+    "order_id": 469749,
+    "client_id": 3594,
+    "produits": [
+        {
+            "produit_id": "P8259",
+            "nom": "Practical Wooden Pants",
+            "quantite": 5,
+            "prix_unitaire": 21.86
+        },
+        {
+            "produit_id": "P6306",
+            "nom": "Rustic Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 148.43
+        }
+    ],
+    "date_commande": "2024-02-19T19:45:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1142 Ils",
+        "ville": "Plano"
+    }
+}

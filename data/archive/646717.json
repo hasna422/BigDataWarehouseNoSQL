@@ -1,0 +1,21 @@
+{
+    "order_id": 646717,
+    "client_id": 5411,
+    "produits": [
+        {
+            "produit_id": "P6103",
+            "nom": "Sleek Cheese",
+            "quantite": 1,
+            "prix_unitaire": 241.06
+        },
+        {
+            "produit_id": "P6724",
+            "nom": "Awesome Pants",
+            "quantite": 1,
+            "prix_unitaire": 424.31
+        }
+    ],
+    "date_commande": "2023-06-30T16:03:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

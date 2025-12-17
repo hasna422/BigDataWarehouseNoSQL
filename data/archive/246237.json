@@ -1,0 +1,25 @@
+{
+    "order_id": 246237,
+    "client_id": 3137,
+    "produits": [
+        {
+            "produit_id": "P1951",
+            "nom": "Handcrafted Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 271.08
+        },
+        {
+            "produit_id": "P4455",
+            "nom": "Intelligent Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 464.06
+        }
+    ],
+    "date_commande": "2023-12-30T19:05:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "746 Mclaren",
+        "ville": "Kenner"
+    }
+}

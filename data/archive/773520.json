@@ -1,0 +1,21 @@
+{
+    "order_id": 773520,
+    "client_id": 4826,
+    "produits": [
+        {
+            "produit_id": "P3317",
+            "nom": "Licensed Fresh Bacon",
+            "quantite": 1,
+            "prix_unitaire": 131.83
+        },
+        {
+            "produit_id": "P9759",
+            "nom": "Licensed Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 471.07
+        }
+    ],
+    "date_commande": "2023-11-28T23:20:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

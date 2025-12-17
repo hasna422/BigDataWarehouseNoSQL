@@ -1,0 +1,19 @@
+{
+    "order_id": 867562,
+    "client_id": 3373,
+    "produits": [
+        {
+            "produit_id": "P5046",
+            "nom": "Refined Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 109.41
+        }
+    ],
+    "date_commande": "2024-10-21T07:20:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1321 Riverton",
+        "ville": "Long Beach"
+    }
+}

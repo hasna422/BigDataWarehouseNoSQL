@@ -1,0 +1,27 @@
+{
+    "order_id": 814428,
+    "client_id": 4806,
+    "produits": [
+        {
+            "produit_id": "P8956",
+            "nom": "Generic Metal Chair",
+            "quantite": 5,
+            "prix_unitaire": 479.4
+        },
+        {
+            "produit_id": "P3070",
+            "nom": "Intelligent Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 313.82
+        },
+        {
+            "produit_id": "P6153",
+            "nom": "Unbranded Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 44.26
+        }
+    ],
+    "date_commande": "2025-02-08T01:04:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

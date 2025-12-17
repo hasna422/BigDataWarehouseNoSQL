@@ -1,0 +1,21 @@
+{
+    "order_id": 446499,
+    "client_id": 4586,
+    "produits": [
+        {
+            "produit_id": "P2589",
+            "nom": "Licensed Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 168.37
+        },
+        {
+            "produit_id": "P0718",
+            "nom": "Tasty Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 326.05
+        }
+    ],
+    "date_commande": "2025-03-28T04:12:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

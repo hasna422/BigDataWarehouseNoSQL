@@ -1,0 +1,25 @@
+{
+    "order_id": 431299,
+    "client_id": 1176,
+    "produits": [
+        {
+            "produit_id": "P9408",
+            "nom": "Incredible Mouse",
+            "quantite": 3,
+            "prix_unitaire": 416.68
+        },
+        {
+            "produit_id": "P5324",
+            "nom": "For repair Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 216.26
+        }
+    ],
+    "date_commande": "2023-09-28T21:23:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "374 Presidio",
+        "ville": "Chickasha"
+    }
+}

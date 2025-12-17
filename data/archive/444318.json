@@ -1,0 +1,31 @@
+{
+    "order_id": 444318,
+    "client_id": 3693,
+    "produits": [
+        {
+            "produit_id": "P1432",
+            "nom": "Gorgeous Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 491.41
+        },
+        {
+            "produit_id": "P4014",
+            "nom": "Handcrafted Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 172.82
+        },
+        {
+            "produit_id": "P7632",
+            "nom": "Unbranded Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 471.39
+        }
+    ],
+    "date_commande": "2024-10-29T08:25:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "876 Berwick",
+        "ville": "Apple Valley"
+    }
+}

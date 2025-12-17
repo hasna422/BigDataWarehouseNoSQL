@@ -1,0 +1,19 @@
+{
+    "order_id": 181520,
+    "client_id": 5824,
+    "produits": [
+        {
+            "produit_id": "P9140",
+            "nom": "Rustic Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 288.68
+        }
+    ],
+    "date_commande": "2024-07-14T06:42:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1190 Armstrong",
+        "ville": "Myrtle Beach"
+    }
+}

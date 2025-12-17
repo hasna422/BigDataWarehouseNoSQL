@@ -1,0 +1,19 @@
+{
+    "order_id": 420626,
+    "client_id": 9197,
+    "produits": [
+        {
+            "produit_id": "P7598",
+            "nom": "Practical Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 216.52
+        }
+    ],
+    "date_commande": "2023-10-15T22:34:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "449 Dalewood",
+        "ville": "Livermore"
+    }
+}

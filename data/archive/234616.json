@@ -1,0 +1,15 @@
+{
+    "order_id": 234616,
+    "client_id": 7957,
+    "produits": [
+        {
+            "produit_id": "P2860",
+            "nom": "Generic Soap",
+            "quantite": 4,
+            "prix_unitaire": 391.14
+        }
+    ],
+    "date_commande": "2024-02-22T14:05:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

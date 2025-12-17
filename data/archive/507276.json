@@ -1,0 +1,21 @@
+{
+    "order_id": 507276,
+    "client_id": 5429,
+    "produits": [
+        {
+            "produit_id": "P0408",
+            "nom": "Used Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 310.15
+        },
+        {
+            "produit_id": "P4418",
+            "nom": "For repair Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 239.94
+        }
+    ],
+    "date_commande": "2024-05-08T22:54:07",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

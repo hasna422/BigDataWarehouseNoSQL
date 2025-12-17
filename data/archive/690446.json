@@ -1,0 +1,31 @@
+{
+    "order_id": 690446,
+    "client_id": 8644,
+    "produits": [
+        {
+            "produit_id": "P7291",
+            "nom": "Used Granite Table",
+            "quantite": 3,
+            "prix_unitaire": 293.46
+        },
+        {
+            "produit_id": "P8263",
+            "nom": "Rustic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 236.78
+        },
+        {
+            "produit_id": "P4444",
+            "nom": "Fresh Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 431.59
+        }
+    ],
+    "date_commande": "2024-01-08T21:32:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "736 Carolina",
+        "ville": "Perrysburg"
+    }
+}

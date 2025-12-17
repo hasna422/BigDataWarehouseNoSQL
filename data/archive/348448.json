@@ -1,0 +1,31 @@
+{
+    "order_id": 348448,
+    "client_id": 5779,
+    "produits": [
+        {
+            "produit_id": "P1325",
+            "nom": "Handmade Gloves",
+            "quantite": 3,
+            "prix_unitaire": 82.35
+        },
+        {
+            "produit_id": "P5459",
+            "nom": "Used Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 353.76
+        },
+        {
+            "produit_id": "P3070",
+            "nom": "Incredible Pants",
+            "quantite": 5,
+            "prix_unitaire": 176.29
+        }
+    ],
+    "date_commande": "2023-07-21T06:02:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "414 Aptos",
+        "ville": "New Braunfels"
+    }
+}

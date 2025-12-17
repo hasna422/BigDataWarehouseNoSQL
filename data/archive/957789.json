@@ -1,0 +1,31 @@
+{
+    "order_id": 957789,
+    "client_id": 8914,
+    "produits": [
+        {
+            "produit_id": "P0557",
+            "nom": "Sleek Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 420.89
+        },
+        {
+            "produit_id": "P5301",
+            "nom": "Unbranded Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 233.37
+        },
+        {
+            "produit_id": "P5272",
+            "nom": "Handmade Metal Cheese",
+            "quantite": 1,
+            "prix_unitaire": 238.31
+        }
+    ],
+    "date_commande": "2024-08-02T17:44:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "380 Ludlow",
+        "ville": "Ann Arbor"
+    }
+}

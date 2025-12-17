@@ -1,0 +1,19 @@
+{
+    "order_id": 508146,
+    "client_id": 9220,
+    "produits": [
+        {
+            "produit_id": "P0409",
+            "nom": "New Rubber Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 302.32
+        }
+    ],
+    "date_commande": "2023-09-29T13:14:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "223 Santa Rosa",
+        "ville": "Lino Lakes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 591756,
+    "client_id": 6574,
+    "produits": [
+        {
+            "produit_id": "P7067",
+            "nom": "Gorgeous Soft Bacon",
+            "quantite": 1,
+            "prix_unitaire": 413.6
+        },
+        {
+            "produit_id": "P4342",
+            "nom": "Gently Used Metal Gloves",
+            "quantite": 5,
+            "prix_unitaire": 353.9
+        },
+        {
+            "produit_id": "P0738",
+            "nom": "For repair Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 213.79
+        }
+    ],
+    "date_commande": "2023-08-30T04:55:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

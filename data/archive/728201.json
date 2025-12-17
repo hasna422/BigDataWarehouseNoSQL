@@ -1,0 +1,19 @@
+{
+    "order_id": 728201,
+    "client_id": 3771,
+    "produits": [
+        {
+            "produit_id": "P0469",
+            "nom": "Handcrafted Granite Pizza",
+            "quantite": 1,
+            "prix_unitaire": 314.5
+        }
+    ],
+    "date_commande": "2025-05-22T13:23:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "554 Staples",
+        "ville": "Turlock"
+    }
+}

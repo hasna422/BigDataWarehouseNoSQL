@@ -1,0 +1,21 @@
+{
+    "order_id": 274889,
+    "client_id": 9090,
+    "produits": [
+        {
+            "produit_id": "P5621",
+            "nom": "Small Steel Car",
+            "quantite": 2,
+            "prix_unitaire": 38.71
+        },
+        {
+            "produit_id": "P9527",
+            "nom": "Gently Used Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 118.94
+        }
+    ],
+    "date_commande": "2024-05-27T13:14:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

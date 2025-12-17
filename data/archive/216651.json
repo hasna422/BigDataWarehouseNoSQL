@@ -1,0 +1,19 @@
+{
+    "order_id": 216651,
+    "client_id": 8490,
+    "produits": [
+        {
+            "produit_id": "P9773",
+            "nom": "Intelligent Soft Fish",
+            "quantite": 3,
+            "prix_unitaire": 387.62
+        }
+    ],
+    "date_commande": "2023-07-08T19:10:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1047 Princeton",
+        "ville": "Park Ridge"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 576767,
+    "client_id": 9130,
+    "produits": [
+        {
+            "produit_id": "P8062",
+            "nom": "Handcrafted Pizza",
+            "quantite": 2,
+            "prix_unitaire": 60.71
+        },
+        {
+            "produit_id": "P2931",
+            "nom": "For repair Steel Shirt",
+            "quantite": 5,
+            "prix_unitaire": 449.55
+        }
+    ],
+    "date_commande": "2025-01-30T01:04:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "162 Cochrane",
+        "ville": "Altoona"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 121427,
+    "client_id": 9533,
+    "produits": [
+        {
+            "produit_id": "P4403",
+            "nom": "Intelligent Plastic Bike",
+            "quantite": 5,
+            "prix_unitaire": 92.89
+        },
+        {
+            "produit_id": "P8396",
+            "nom": "Practical Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 353.16
+        }
+    ],
+    "date_commande": "2024-06-01T12:10:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

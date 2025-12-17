@@ -1,0 +1,27 @@
+{
+    "order_id": 650497,
+    "client_id": 6747,
+    "produits": [
+        {
+            "produit_id": "P2047",
+            "nom": "Intelligent Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 354.91
+        },
+        {
+            "produit_id": "P0386",
+            "nom": "Sleek Metal Salad",
+            "quantite": 5,
+            "prix_unitaire": 361.32
+        },
+        {
+            "produit_id": "P5928",
+            "nom": "Generic Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 278.02
+        }
+    ],
+    "date_commande": "2023-10-03T06:08:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

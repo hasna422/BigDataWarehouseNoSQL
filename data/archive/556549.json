@@ -1,0 +1,19 @@
+{
+    "order_id": 556549,
+    "client_id": 5929,
+    "produits": [
+        {
+            "produit_id": "P6851",
+            "nom": "Gorgeous Granite Chair",
+            "quantite": 3,
+            "prix_unitaire": 206.28
+        }
+    ],
+    "date_commande": "2024-04-14T16:54:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "449 Aerial",
+        "ville": "Sherman"
+    }
+}

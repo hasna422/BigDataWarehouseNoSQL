@@ -1,0 +1,27 @@
+{
+    "order_id": 867106,
+    "client_id": 1573,
+    "produits": [
+        {
+            "produit_id": "P9442",
+            "nom": "Tasty Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 424.43
+        },
+        {
+            "produit_id": "P6175",
+            "nom": "Licensed Steel Chair",
+            "quantite": 1,
+            "prix_unitaire": 361.69
+        },
+        {
+            "produit_id": "P0884",
+            "nom": "Gorgeous Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 165.55
+        }
+    ],
+    "date_commande": "2025-04-18T15:24:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

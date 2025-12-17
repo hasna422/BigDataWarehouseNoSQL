@@ -1,0 +1,31 @@
+{
+    "order_id": 582227,
+    "client_id": 7525,
+    "produits": [
+        {
+            "produit_id": "P0725",
+            "nom": "Sleek Fish",
+            "quantite": 5,
+            "prix_unitaire": 203.52
+        },
+        {
+            "produit_id": "P3363",
+            "nom": "Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 354.56
+        },
+        {
+            "produit_id": "P4965",
+            "nom": "Licensed Wooden Salad",
+            "quantite": 3,
+            "prix_unitaire": 455.83
+        }
+    ],
+    "date_commande": "2025-01-03T23:57:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "284 Olympia",
+        "ville": "East St. Louis"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 828341,
+    "client_id": 4607,
+    "produits": [
+        {
+            "produit_id": "P2710",
+            "nom": "Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 429.65
+        },
+        {
+            "produit_id": "P6541",
+            "nom": "Towels",
+            "quantite": 5,
+            "prix_unitaire": 304.7
+        },
+        {
+            "produit_id": "P1173",
+            "nom": "Granite Fish",
+            "quantite": 4,
+            "prix_unitaire": 137.98
+        }
+    ],
+    "date_commande": "2025-04-11T17:38:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "581 Merrimac",
+        "ville": "Sacramento"
+    }
+}

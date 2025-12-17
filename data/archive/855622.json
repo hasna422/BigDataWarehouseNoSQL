@@ -1,0 +1,15 @@
+{
+    "order_id": 855622,
+    "client_id": 4494,
+    "produits": [
+        {
+            "produit_id": "P9120",
+            "nom": "Handcrafted Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 130.82
+        }
+    ],
+    "date_commande": "2024-06-16T18:05:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

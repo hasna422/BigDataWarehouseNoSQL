@@ -1,0 +1,15 @@
+{
+    "order_id": 491901,
+    "client_id": 5751,
+    "produits": [
+        {
+            "produit_id": "P7515",
+            "nom": "Fantastic Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 383.13
+        }
+    ],
+    "date_commande": "2023-10-05T22:35:22",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

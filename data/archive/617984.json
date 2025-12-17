@@ -1,0 +1,25 @@
+{
+    "order_id": 617984,
+    "client_id": 1563,
+    "produits": [
+        {
+            "produit_id": "P5501",
+            "nom": "Gently Used Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 486.7
+        },
+        {
+            "produit_id": "P2728",
+            "nom": "Rustic Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 273.25
+        }
+    ],
+    "date_commande": "2024-05-01T18:44:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1242 Upper Service",
+        "ville": "Clarksville"
+    }
+}

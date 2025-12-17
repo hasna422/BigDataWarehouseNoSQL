@@ -1,0 +1,25 @@
+{
+    "order_id": 343158,
+    "client_id": 9091,
+    "produits": [
+        {
+            "produit_id": "P8480",
+            "nom": "Tasty Soap",
+            "quantite": 3,
+            "prix_unitaire": 127.28
+        },
+        {
+            "produit_id": "P8619",
+            "nom": "Intelligent Metal Chair",
+            "quantite": 5,
+            "prix_unitaire": 356.61
+        }
+    ],
+    "date_commande": "2025-02-05T20:31:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "554 Thor",
+        "ville": "Grand Prairie"
+    }
+}

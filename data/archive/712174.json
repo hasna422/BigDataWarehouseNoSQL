@@ -1,0 +1,27 @@
+{
+    "order_id": 712174,
+    "client_id": 3960,
+    "produits": [
+        {
+            "produit_id": "P9206",
+            "nom": "Gently Used Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 289.47
+        },
+        {
+            "produit_id": "P9710",
+            "nom": "Handcrafted Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 389.1
+        },
+        {
+            "produit_id": "P0164",
+            "nom": "For repair Tuna",
+            "quantite": 2,
+            "prix_unitaire": 290.95
+        }
+    ],
+    "date_commande": "2024-09-05T13:43:28",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

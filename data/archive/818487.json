@@ -1,0 +1,31 @@
+{
+    "order_id": 818487,
+    "client_id": 9619,
+    "produits": [
+        {
+            "produit_id": "P1904",
+            "nom": "Refined Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 332.03
+        },
+        {
+            "produit_id": "P9174",
+            "nom": "Rustic Bike",
+            "quantite": 1,
+            "prix_unitaire": 117.64
+        },
+        {
+            "produit_id": "P2784",
+            "nom": "Handcrafted Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 160.99
+        }
+    ],
+    "date_commande": "2024-04-07T20:21:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "138 Rosa Parks",
+        "ville": "Beavercreek"
+    }
+}

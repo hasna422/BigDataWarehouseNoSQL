@@ -1,0 +1,21 @@
+{
+    "order_id": 577296,
+    "client_id": 6340,
+    "produits": [
+        {
+            "produit_id": "P7822",
+            "nom": "Handmade Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 318.42
+        },
+        {
+            "produit_id": "P6173",
+            "nom": "Refined Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 349.86
+        }
+    ],
+    "date_commande": "2023-07-27T08:54:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

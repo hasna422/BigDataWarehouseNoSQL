@@ -1,0 +1,25 @@
+{
+    "order_id": 866854,
+    "client_id": 3182,
+    "produits": [
+        {
+            "produit_id": "P0773",
+            "nom": "Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 82.27
+        },
+        {
+            "produit_id": "P6563",
+            "nom": "Tasty Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 267.46
+        }
+    ],
+    "date_commande": "2025-03-17T16:11:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "820 Stigwood",
+        "ville": "Fort Dodge"
+    }
+}

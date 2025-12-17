@@ -1,0 +1,25 @@
+{
+    "order_id": 517500,
+    "client_id": 4058,
+    "produits": [
+        {
+            "produit_id": "P1525",
+            "nom": "Wooden Shirt",
+            "quantite": 1,
+            "prix_unitaire": 134.93
+        },
+        {
+            "produit_id": "P6404",
+            "nom": "Awesome Soap",
+            "quantite": 4,
+            "prix_unitaire": 337.23
+        }
+    ],
+    "date_commande": "2023-10-06T17:30:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "451 San Marcos",
+        "ville": "Havelock"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 297595,
+    "client_id": 3509,
+    "produits": [
+        {
+            "produit_id": "P2839",
+            "nom": "Refined Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 362.41
+        }
+    ],
+    "date_commande": "2025-03-19T10:35:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

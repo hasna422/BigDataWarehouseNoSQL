@@ -1,0 +1,27 @@
+{
+    "order_id": 531555,
+    "client_id": 1516,
+    "produits": [
+        {
+            "produit_id": "P7420",
+            "nom": "Practical Shirt",
+            "quantite": 4,
+            "prix_unitaire": 439.06
+        },
+        {
+            "produit_id": "P7824",
+            "nom": "Practical Soap",
+            "quantite": 2,
+            "prix_unitaire": 307.34
+        },
+        {
+            "produit_id": "P8106",
+            "nom": "For repair Ball",
+            "quantite": 3,
+            "prix_unitaire": 23.53
+        }
+    ],
+    "date_commande": "2025-05-23T01:07:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 652210,
+    "client_id": 5297,
+    "produits": [
+        {
+            "produit_id": "P1831",
+            "nom": "Small Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 89.34
+        },
+        {
+            "produit_id": "P1678",
+            "nom": "Unbranded Plastic Gloves",
+            "quantite": 4,
+            "prix_unitaire": 107.43
+        },
+        {
+            "produit_id": "P7714",
+            "nom": "For repair Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 341.88
+        }
+    ],
+    "date_commande": "2023-09-07T15:16:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "631 Saint George",
+        "ville": "Napa"
+    }
+}

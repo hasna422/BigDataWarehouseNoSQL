@@ -1,0 +1,31 @@
+{
+    "order_id": 882476,
+    "client_id": 3335,
+    "produits": [
+        {
+            "produit_id": "P9703",
+            "nom": "Fantastic Plastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 286.46
+        },
+        {
+            "produit_id": "P9251",
+            "nom": "Gently Used Plastic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 166.54
+        },
+        {
+            "produit_id": "P6734",
+            "nom": "Used Shoes",
+            "quantite": 1,
+            "prix_unitaire": 209.69
+        }
+    ],
+    "date_commande": "2024-03-27T03:32:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1015 Pixley",
+        "ville": "Saratoga Springs"
+    }
+}

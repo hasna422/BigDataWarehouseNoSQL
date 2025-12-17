@@ -1,0 +1,31 @@
+{
+    "order_id": 933165,
+    "client_id": 2902,
+    "produits": [
+        {
+            "produit_id": "P4888",
+            "nom": "Gorgeous Car",
+            "quantite": 5,
+            "prix_unitaire": 452.86
+        },
+        {
+            "produit_id": "P2166",
+            "nom": "Practical Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 324.26
+        },
+        {
+            "produit_id": "P4875",
+            "nom": "Small Sausages",
+            "quantite": 1,
+            "prix_unitaire": 310.89
+        }
+    ],
+    "date_commande": "2024-01-01T20:24:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "367 Jennifer",
+        "ville": "Sandy"
+    }
+}

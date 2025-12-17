@@ -1,0 +1,31 @@
+{
+    "order_id": 579301,
+    "client_id": 6347,
+    "produits": [
+        {
+            "produit_id": "P3807",
+            "nom": "Sleek Frozen Soap",
+            "quantite": 1,
+            "prix_unitaire": 135.79
+        },
+        {
+            "produit_id": "P7870",
+            "nom": "Fantastic Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 455.9
+        },
+        {
+            "produit_id": "P8799",
+            "nom": "For repair Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 304.93
+        }
+    ],
+    "date_commande": "2023-08-26T16:47:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "171 Elgin",
+        "ville": "Roanoke"
+    }
+}

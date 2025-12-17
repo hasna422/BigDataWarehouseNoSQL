@@ -1,0 +1,31 @@
+{
+    "order_id": 363784,
+    "client_id": 7866,
+    "produits": [
+        {
+            "produit_id": "P0793",
+            "nom": "Used Concrete Bike",
+            "quantite": 4,
+            "prix_unitaire": 305.47
+        },
+        {
+            "produit_id": "P0903",
+            "nom": "New Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 497.5
+        },
+        {
+            "produit_id": "P8769",
+            "nom": "Awesome Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 45.08
+        }
+    ],
+    "date_commande": "2024-02-12T09:19:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1174 Still",
+        "ville": "Parkersburg"
+    }
+}

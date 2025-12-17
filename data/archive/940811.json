@@ -1,0 +1,19 @@
+{
+    "order_id": 940811,
+    "client_id": 2978,
+    "produits": [
+        {
+            "produit_id": "P5530",
+            "nom": "Gorgeous Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 495.34
+        }
+    ],
+    "date_commande": "2024-11-11T20:29:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "10 Balance",
+        "ville": "Kiryas Joel"
+    }
+}

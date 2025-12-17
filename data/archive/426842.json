@@ -1,0 +1,31 @@
+{
+    "order_id": 426842,
+    "client_id": 1930,
+    "produits": [
+        {
+            "produit_id": "P7884",
+            "nom": "Practical Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 429.83
+        },
+        {
+            "produit_id": "P1409",
+            "nom": "Awesome Soft Sausages",
+            "quantite": 3,
+            "prix_unitaire": 129.66
+        },
+        {
+            "produit_id": "P2470",
+            "nom": "Handcrafted Rubber Cheese",
+            "quantite": 1,
+            "prix_unitaire": 216.2
+        }
+    ],
+    "date_commande": "2024-09-17T09:21:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1006 Berkshire",
+        "ville": "Claremont"
+    }
+}

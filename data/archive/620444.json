@@ -1,0 +1,19 @@
+{
+    "order_id": 620444,
+    "client_id": 8089,
+    "produits": [
+        {
+            "produit_id": "P5100",
+            "nom": "Generic Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 6.72
+        }
+    ],
+    "date_commande": "2024-02-07T20:52:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1255 Newell",
+        "ville": "Colton"
+    }
+}

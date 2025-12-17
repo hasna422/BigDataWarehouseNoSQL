@@ -1,0 +1,31 @@
+{
+    "order_id": 592943,
+    "client_id": 4179,
+    "produits": [
+        {
+            "produit_id": "P4489",
+            "nom": "Handcrafted Shoes",
+            "quantite": 5,
+            "prix_unitaire": 331.19
+        },
+        {
+            "produit_id": "P8072",
+            "nom": "Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 175.81
+        },
+        {
+            "produit_id": "P5632",
+            "nom": "Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 131.69
+        }
+    ],
+    "date_commande": "2023-12-22T08:22:41",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "496 Homewood",
+        "ville": "Kissimmee"
+    }
+}

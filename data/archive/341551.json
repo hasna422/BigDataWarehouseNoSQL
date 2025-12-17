@@ -1,0 +1,31 @@
+{
+    "order_id": 341551,
+    "client_id": 4589,
+    "produits": [
+        {
+            "produit_id": "P6699",
+            "nom": "Fantastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 490.91
+        },
+        {
+            "produit_id": "P5540",
+            "nom": "Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 299.34
+        },
+        {
+            "produit_id": "P2997",
+            "nom": "Licensed Pizza",
+            "quantite": 1,
+            "prix_unitaire": 415.64
+        }
+    ],
+    "date_commande": "2024-12-25T23:45:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "955 Bruce",
+        "ville": "Greenville"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 349035,
+    "client_id": 1492,
+    "produits": [
+        {
+            "produit_id": "P2250",
+            "nom": "Gently Used Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 282.81
+        },
+        {
+            "produit_id": "P1995",
+            "nom": "Gorgeous Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 366.29
+        },
+        {
+            "produit_id": "P9377",
+            "nom": "Ergonomic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 433.89
+        }
+    ],
+    "date_commande": "2025-04-29T01:24:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

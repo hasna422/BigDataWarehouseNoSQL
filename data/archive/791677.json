@@ -1,0 +1,31 @@
+{
+    "order_id": 791677,
+    "client_id": 5607,
+    "produits": [
+        {
+            "produit_id": "P1382",
+            "nom": "Fantastic Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 251.65
+        },
+        {
+            "produit_id": "P9027",
+            "nom": "Refined Frozen Ball",
+            "quantite": 2,
+            "prix_unitaire": 343.5
+        },
+        {
+            "produit_id": "P3098",
+            "nom": "Practical Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 160.19
+        }
+    ],
+    "date_commande": "2024-12-05T13:48:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "193 Texas",
+        "ville": "Ogden"
+    }
+}

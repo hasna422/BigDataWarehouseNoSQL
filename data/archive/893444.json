@@ -1,0 +1,31 @@
+{
+    "order_id": 893444,
+    "client_id": 7577,
+    "produits": [
+        {
+            "produit_id": "P7623",
+            "nom": "Ergonomic Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 459.33
+        },
+        {
+            "produit_id": "P8997",
+            "nom": "For repair Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 274.31
+        },
+        {
+            "produit_id": "P4833",
+            "nom": "Small Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 57.87
+        }
+    ],
+    "date_commande": "2024-10-11T20:00:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1308 Shaw",
+        "ville": "Delano"
+    }
+}

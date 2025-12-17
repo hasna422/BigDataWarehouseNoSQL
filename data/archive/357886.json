@@ -1,0 +1,15 @@
+{
+    "order_id": 357886,
+    "client_id": 4233,
+    "produits": [
+        {
+            "produit_id": "P0478",
+            "nom": "New Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 266.55
+        }
+    ],
+    "date_commande": "2024-12-05T20:36:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 257712,
+    "client_id": 6045,
+    "produits": [
+        {
+            "produit_id": "P1047",
+            "nom": "Intelligent Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 98.93
+        },
+        {
+            "produit_id": "P3757",
+            "nom": "Gorgeous Cotton Towels",
+            "quantite": 3,
+            "prix_unitaire": 204.65
+        }
+    ],
+    "date_commande": "2023-06-08T21:49:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "837 Radio",
+        "ville": "South Pasadena"
+    }
+}

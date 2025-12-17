@@ -1,0 +1,25 @@
+{
+    "order_id": 572969,
+    "client_id": 3162,
+    "produits": [
+        {
+            "produit_id": "P8915",
+            "nom": "Incredible Metal Ball",
+            "quantite": 5,
+            "prix_unitaire": 95.25
+        },
+        {
+            "produit_id": "P9487",
+            "nom": "Tasty Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 378.97
+        }
+    ],
+    "date_commande": "2025-03-29T19:04:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "553 Eugenia",
+        "ville": "New Orleans"
+    }
+}

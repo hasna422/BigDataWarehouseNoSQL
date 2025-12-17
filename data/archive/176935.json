@@ -1,0 +1,25 @@
+{
+    "order_id": 176935,
+    "client_id": 4916,
+    "produits": [
+        {
+            "produit_id": "P5220",
+            "nom": "Sleek Cotton Pants",
+            "quantite": 2,
+            "prix_unitaire": 421.86
+        },
+        {
+            "produit_id": "P2222",
+            "nom": "Ergonomic Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 223.97
+        }
+    ],
+    "date_commande": "2023-10-05T07:21:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1174 Watchman",
+        "ville": "Belvidere"
+    }
+}

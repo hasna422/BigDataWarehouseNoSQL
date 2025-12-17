@@ -1,0 +1,31 @@
+{
+    "order_id": 848387,
+    "client_id": 1150,
+    "produits": [
+        {
+            "produit_id": "P5398",
+            "nom": "Awesome Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 467.58
+        },
+        {
+            "produit_id": "P7079",
+            "nom": "Ergonomic Shirt",
+            "quantite": 2,
+            "prix_unitaire": 228.32
+        },
+        {
+            "produit_id": "P9560",
+            "nom": "Handcrafted Soft Car",
+            "quantite": 2,
+            "prix_unitaire": 183.01
+        }
+    ],
+    "date_commande": "2025-04-05T02:50:13",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "211 Banneker",
+        "ville": "Ferguson"
+    }
+}

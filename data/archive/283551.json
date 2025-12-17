@@ -1,0 +1,31 @@
+{
+    "order_id": 283551,
+    "client_id": 2457,
+    "produits": [
+        {
+            "produit_id": "P2743",
+            "nom": "Generic Soft Sausages",
+            "quantite": 1,
+            "prix_unitaire": 149.99
+        },
+        {
+            "produit_id": "P0047",
+            "nom": "Small Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 387.0
+        },
+        {
+            "produit_id": "P2934",
+            "nom": "New Fresh Bike",
+            "quantite": 5,
+            "prix_unitaire": 285.68
+        }
+    ],
+    "date_commande": "2023-10-07T06:29:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "580 Sansome",
+        "ville": "Chapel Hill"
+    }
+}

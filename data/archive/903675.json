@@ -1,0 +1,15 @@
+{
+    "order_id": 903675,
+    "client_id": 7652,
+    "produits": [
+        {
+            "produit_id": "P2766",
+            "nom": "Tasty Soft Chicken",
+            "quantite": 2,
+            "prix_unitaire": 357.22
+        }
+    ],
+    "date_commande": "2024-12-22T17:00:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

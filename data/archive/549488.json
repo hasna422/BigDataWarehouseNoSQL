@@ -1,0 +1,21 @@
+{
+    "order_id": 549488,
+    "client_id": 1032,
+    "produits": [
+        {
+            "produit_id": "P5515",
+            "nom": "Small Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 470.91
+        },
+        {
+            "produit_id": "P5348",
+            "nom": "Gently Used Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 459.71
+        }
+    ],
+    "date_commande": "2023-08-14T03:42:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

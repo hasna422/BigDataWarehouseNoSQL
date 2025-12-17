@@ -1,0 +1,15 @@
+{
+    "order_id": 565353,
+    "client_id": 7994,
+    "produits": [
+        {
+            "produit_id": "P0024",
+            "nom": "Intelligent Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 154.44
+        }
+    ],
+    "date_commande": "2024-06-09T11:52:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

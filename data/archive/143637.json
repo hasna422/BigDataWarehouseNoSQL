@@ -1,0 +1,27 @@
+{
+    "order_id": 143637,
+    "client_id": 7281,
+    "produits": [
+        {
+            "produit_id": "P0960",
+            "nom": "Used Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 329.18
+        },
+        {
+            "produit_id": "P6926",
+            "nom": "Sleek Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 430.26
+        },
+        {
+            "produit_id": "P5074",
+            "nom": "Small Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 130.28
+        }
+    ],
+    "date_commande": "2024-11-20T10:02:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 256154,
+    "client_id": 6491,
+    "produits": [
+        {
+            "produit_id": "P7599",
+            "nom": "Incredible Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 444.76
+        }
+    ],
+    "date_commande": "2024-08-11T07:03:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "657 View",
+        "ville": "Hermosa Beach"
+    }
+}

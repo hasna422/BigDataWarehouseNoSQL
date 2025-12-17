@@ -1,0 +1,31 @@
+{
+    "order_id": 189973,
+    "client_id": 1647,
+    "produits": [
+        {
+            "produit_id": "P2630",
+            "nom": "Gently Used Chicken",
+            "quantite": 5,
+            "prix_unitaire": 368.39
+        },
+        {
+            "produit_id": "P3234",
+            "nom": "Unbranded Pizza",
+            "quantite": 2,
+            "prix_unitaire": 41.49
+        },
+        {
+            "produit_id": "P0513",
+            "nom": "Generic Fresh Car",
+            "quantite": 5,
+            "prix_unitaire": 445.52
+        }
+    ],
+    "date_commande": "2024-07-11T00:09:28",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1384 Arkansas",
+        "ville": "Round Rock"
+    }
+}

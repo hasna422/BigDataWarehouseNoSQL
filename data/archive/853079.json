@@ -1,0 +1,31 @@
+{
+    "order_id": 853079,
+    "client_id": 5550,
+    "produits": [
+        {
+            "produit_id": "P0788",
+            "nom": "Awesome Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 266.63
+        },
+        {
+            "produit_id": "P2162",
+            "nom": "Handmade Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 66.35
+        },
+        {
+            "produit_id": "P6684",
+            "nom": "Generic Wooden Bacon",
+            "quantite": 3,
+            "prix_unitaire": 361.91
+        }
+    ],
+    "date_commande": "2023-06-24T14:49:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1272 Waterloo",
+        "ville": "Hudson"
+    }
+}

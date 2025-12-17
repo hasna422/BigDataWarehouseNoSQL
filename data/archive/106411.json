@@ -1,0 +1,31 @@
+{
+    "order_id": 106411,
+    "client_id": 3528,
+    "produits": [
+        {
+            "produit_id": "P9704",
+            "nom": "Unbranded Granite Car",
+            "quantite": 5,
+            "prix_unitaire": 41.64
+        },
+        {
+            "produit_id": "P7777",
+            "nom": "Sleek Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 407.99
+        },
+        {
+            "produit_id": "P9148",
+            "nom": "Tasty Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 209.09
+        }
+    ],
+    "date_commande": "2024-07-19T08:19:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "68 Russia",
+        "ville": "Palm Desert"
+    }
+}

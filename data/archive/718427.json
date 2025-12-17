@@ -1,0 +1,31 @@
+{
+    "order_id": 718427,
+    "client_id": 2249,
+    "produits": [
+        {
+            "produit_id": "P0419",
+            "nom": "Unbranded Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 276.54
+        },
+        {
+            "produit_id": "P0444",
+            "nom": "Refined Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 356.19
+        },
+        {
+            "produit_id": "P2105",
+            "nom": "Used Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 41.63
+        }
+    ],
+    "date_commande": "2023-08-04T20:07:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "628 Virgil",
+        "ville": "Lubbock"
+    }
+}

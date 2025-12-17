@@ -1,0 +1,15 @@
+{
+    "order_id": 446225,
+    "client_id": 7827,
+    "produits": [
+        {
+            "produit_id": "P1891",
+            "nom": "Handmade Frozen Chicken",
+            "quantite": 1,
+            "prix_unitaire": 199.73
+        }
+    ],
+    "date_commande": "2024-11-27T08:29:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

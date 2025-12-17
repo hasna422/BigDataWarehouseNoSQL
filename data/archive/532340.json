@@ -1,0 +1,15 @@
+{
+    "order_id": 532340,
+    "client_id": 1843,
+    "produits": [
+        {
+            "produit_id": "P9115",
+            "nom": "Used Frozen Pizza",
+            "quantite": 4,
+            "prix_unitaire": 317.08
+        }
+    ],
+    "date_commande": "2025-05-02T21:24:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

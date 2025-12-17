@@ -1,0 +1,25 @@
+{
+    "order_id": 789431,
+    "client_id": 8709,
+    "produits": [
+        {
+            "produit_id": "P2553",
+            "nom": "Sleek Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 469.27
+        },
+        {
+            "produit_id": "P4490",
+            "nom": "New Concrete Tuna",
+            "quantite": 4,
+            "prix_unitaire": 102.16
+        }
+    ],
+    "date_commande": "2024-11-27T18:35:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "393 Bliss",
+        "ville": "College Station"
+    }
+}

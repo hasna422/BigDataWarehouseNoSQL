@@ -1,0 +1,21 @@
+{
+    "order_id": 709620,
+    "client_id": 6040,
+    "produits": [
+        {
+            "produit_id": "P6184",
+            "nom": "Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 28.56
+        },
+        {
+            "produit_id": "P4337",
+            "nom": "Practical Table",
+            "quantite": 1,
+            "prix_unitaire": 301.07
+        }
+    ],
+    "date_commande": "2023-11-27T20:22:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

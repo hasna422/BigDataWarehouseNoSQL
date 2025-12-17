@@ -1,0 +1,31 @@
+{
+    "order_id": 777920,
+    "client_id": 1489,
+    "produits": [
+        {
+            "produit_id": "P6086",
+            "nom": "Ergonomic Rubber Chair",
+            "quantite": 1,
+            "prix_unitaire": 143.54
+        },
+        {
+            "produit_id": "P1039",
+            "nom": "Used Soft Sausages",
+            "quantite": 4,
+            "prix_unitaire": 383.47
+        },
+        {
+            "produit_id": "P8993",
+            "nom": "Handcrafted Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 369.51
+        }
+    ],
+    "date_commande": "2025-03-19T01:53:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "437 San Jacinto",
+        "ville": "Brooklyn Park"
+    }
+}

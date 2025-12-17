@@ -1,0 +1,19 @@
+{
+    "order_id": 662913,
+    "client_id": 4668,
+    "produits": [
+        {
+            "produit_id": "P4342",
+            "nom": "Awesome Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 121.18
+        }
+    ],
+    "date_commande": "2025-05-23T04:57:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "254 Santa Monica",
+        "ville": "Trussville"
+    }
+}

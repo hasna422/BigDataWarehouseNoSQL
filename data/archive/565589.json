@@ -1,0 +1,19 @@
+{
+    "order_id": 565589,
+    "client_id": 5643,
+    "produits": [
+        {
+            "produit_id": "P2727",
+            "nom": "Unbranded Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 43.03
+        }
+    ],
+    "date_commande": "2024-12-14T13:05:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "64 Saturn",
+        "ville": "Boynton Beach"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 139672,
+    "client_id": 3190,
+    "produits": [
+        {
+            "produit_id": "P1140",
+            "nom": "Intelligent Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 427.5
+        }
+    ],
+    "date_commande": "2024-05-14T05:24:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

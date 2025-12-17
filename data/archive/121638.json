@@ -1,0 +1,15 @@
+{
+    "order_id": 121638,
+    "client_id": 1915,
+    "produits": [
+        {
+            "produit_id": "P5273",
+            "nom": "Used Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 171.98
+        }
+    ],
+    "date_commande": "2024-01-17T16:30:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

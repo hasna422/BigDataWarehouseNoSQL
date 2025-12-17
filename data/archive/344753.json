@@ -1,0 +1,31 @@
+{
+    "order_id": 344753,
+    "client_id": 7776,
+    "produits": [
+        {
+            "produit_id": "P8221",
+            "nom": "Handmade Pizza",
+            "quantite": 4,
+            "prix_unitaire": 25.74
+        },
+        {
+            "produit_id": "P8868",
+            "nom": "Awesome Fresh Fish",
+            "quantite": 5,
+            "prix_unitaire": 136.41
+        },
+        {
+            "produit_id": "P7672",
+            "nom": "Tasty Towels",
+            "quantite": 4,
+            "prix_unitaire": 467.74
+        }
+    ],
+    "date_commande": "2025-01-20T09:50:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "548 Spruce",
+        "ville": "Country Club Hills"
+    }
+}

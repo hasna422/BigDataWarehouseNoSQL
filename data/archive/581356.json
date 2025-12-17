@@ -1,0 +1,25 @@
+{
+    "order_id": 581356,
+    "client_id": 7701,
+    "produits": [
+        {
+            "produit_id": "P2774",
+            "nom": "Handmade Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 334.02
+        },
+        {
+            "produit_id": "P9082",
+            "nom": "Handmade Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 267.04
+        }
+    ],
+    "date_commande": "2024-12-17T04:04:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "118 Rosemary",
+        "ville": "Whitehall"
+    }
+}

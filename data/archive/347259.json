@@ -1,0 +1,19 @@
+{
+    "order_id": 347259,
+    "client_id": 2641,
+    "produits": [
+        {
+            "produit_id": "P2130",
+            "nom": "Used Shirt",
+            "quantite": 2,
+            "prix_unitaire": 12.2
+        }
+    ],
+    "date_commande": "2024-06-22T04:05:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "867 Julius",
+        "ville": "Columbia"
+    }
+}

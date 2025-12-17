@@ -1,0 +1,27 @@
+{
+    "order_id": 806923,
+    "client_id": 2451,
+    "produits": [
+        {
+            "produit_id": "P0467",
+            "nom": "Rustic Steel Car",
+            "quantite": 2,
+            "prix_unitaire": 86.83
+        },
+        {
+            "produit_id": "P2204",
+            "nom": "Handcrafted Plastic Pizza",
+            "quantite": 3,
+            "prix_unitaire": 188.88
+        },
+        {
+            "produit_id": "P9824",
+            "nom": "Used Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 54.17
+        }
+    ],
+    "date_commande": "2023-11-23T03:15:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

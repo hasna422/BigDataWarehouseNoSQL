@@ -1,0 +1,31 @@
+{
+    "order_id": 820755,
+    "client_id": 9404,
+    "produits": [
+        {
+            "produit_id": "P3675",
+            "nom": "Small Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 463.61
+        },
+        {
+            "produit_id": "P0056",
+            "nom": "Gorgeous Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 264.27
+        },
+        {
+            "produit_id": "P6823",
+            "nom": "Gently Used Fish",
+            "quantite": 1,
+            "prix_unitaire": 420.37
+        }
+    ],
+    "date_commande": "2023-10-20T19:01:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "950 West Broadway",
+        "ville": "Kannapolis"
+    }
+}

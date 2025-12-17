@@ -1,0 +1,19 @@
+{
+    "order_id": 254555,
+    "client_id": 6242,
+    "produits": [
+        {
+            "produit_id": "P2632",
+            "nom": "Handmade Shirt",
+            "quantite": 5,
+            "prix_unitaire": 198.24
+        }
+    ],
+    "date_commande": "2024-02-05T03:23:51",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "914 Linden",
+        "ville": "Natchez"
+    }
+}

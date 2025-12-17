@@ -1,0 +1,31 @@
+{
+    "order_id": 956532,
+    "client_id": 9939,
+    "produits": [
+        {
+            "produit_id": "P6173",
+            "nom": "Incredible Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 236.86
+        },
+        {
+            "produit_id": "P3458",
+            "nom": "Practical Concrete Computer",
+            "quantite": 3,
+            "prix_unitaire": 41.26
+        },
+        {
+            "produit_id": "P7614",
+            "nom": "Tasty Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 489.8
+        }
+    ],
+    "date_commande": "2024-02-22T07:11:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "69 Merrill",
+        "ville": "Bethlehem"
+    }
+}

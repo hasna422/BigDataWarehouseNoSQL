@@ -1,0 +1,31 @@
+{
+    "order_id": 901732,
+    "client_id": 9885,
+    "produits": [
+        {
+            "produit_id": "P2540",
+            "nom": "Incredible Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 470.68
+        },
+        {
+            "produit_id": "P6381",
+            "nom": "Ergonomic Concrete Cheese",
+            "quantite": 4,
+            "prix_unitaire": 123.64
+        },
+        {
+            "produit_id": "P5750",
+            "nom": "Handcrafted Concrete Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 331.72
+        }
+    ],
+    "date_commande": "2024-06-14T00:12:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "656 North Point",
+        "ville": "Wayne"
+    }
+}

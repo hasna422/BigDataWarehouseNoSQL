@@ -1,0 +1,25 @@
+{
+    "order_id": 203952,
+    "client_id": 1025,
+    "produits": [
+        {
+            "produit_id": "P9436",
+            "nom": "Licensed Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 492.65
+        },
+        {
+            "produit_id": "P9101",
+            "nom": "Handmade Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 387.64
+        }
+    ],
+    "date_commande": "2024-10-31T21:10:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1129 Juan Bautista",
+        "ville": "Glendale Heights"
+    }
+}

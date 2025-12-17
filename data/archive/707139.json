@@ -1,0 +1,19 @@
+{
+    "order_id": 707139,
+    "client_id": 2713,
+    "produits": [
+        {
+            "produit_id": "P2256",
+            "nom": "Generic Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 454.47
+        }
+    ],
+    "date_commande": "2024-03-27T14:11:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "309 Huntington",
+        "ville": "Virginia Beach"
+    }
+}

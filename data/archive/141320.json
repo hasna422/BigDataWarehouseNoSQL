@@ -1,0 +1,31 @@
+{
+    "order_id": 141320,
+    "client_id": 7182,
+    "produits": [
+        {
+            "produit_id": "P1620",
+            "nom": "Generic Chair",
+            "quantite": 4,
+            "prix_unitaire": 61.92
+        },
+        {
+            "produit_id": "P4504",
+            "nom": "Tasty Soft Tuna",
+            "quantite": 2,
+            "prix_unitaire": 48.65
+        },
+        {
+            "produit_id": "P5212",
+            "nom": "Gorgeous Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 83.56
+        }
+    ],
+    "date_commande": "2024-12-22T11:31:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "700 Caire",
+        "ville": "Pittsfield"
+    }
+}

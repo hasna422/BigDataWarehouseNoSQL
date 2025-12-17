@@ -1,0 +1,19 @@
+{
+    "order_id": 283638,
+    "client_id": 1567,
+    "produits": [
+        {
+            "produit_id": "P5024",
+            "nom": "Incredible Rubber Pizza",
+            "quantite": 2,
+            "prix_unitaire": 306.55
+        }
+    ],
+    "date_commande": "2024-08-25T05:28:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "907 Toyon",
+        "ville": "Blacksburg"
+    }
+}

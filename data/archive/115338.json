@@ -1,0 +1,31 @@
+{
+    "order_id": 115338,
+    "client_id": 1622,
+    "produits": [
+        {
+            "produit_id": "P0715",
+            "nom": "Rustic Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 446.07
+        },
+        {
+            "produit_id": "P9929",
+            "nom": "Chicken",
+            "quantite": 4,
+            "prix_unitaire": 143.59
+        },
+        {
+            "produit_id": "P4230",
+            "nom": "Tasty Plastic Fish",
+            "quantite": 5,
+            "prix_unitaire": 329.76
+        }
+    ],
+    "date_commande": "2024-07-14T04:43:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1377 Spear",
+        "ville": "Montclair"
+    }
+}

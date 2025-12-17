@@ -1,0 +1,31 @@
+{
+    "order_id": 275292,
+    "client_id": 1318,
+    "produits": [
+        {
+            "produit_id": "P2513",
+            "nom": "Ergonomic Metal Pizza",
+            "quantite": 3,
+            "prix_unitaire": 364.73
+        },
+        {
+            "produit_id": "P7597",
+            "nom": "Intelligent Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 243.15
+        },
+        {
+            "produit_id": "P9905",
+            "nom": "Practical Rubber Shoes",
+            "quantite": 5,
+            "prix_unitaire": 49.45
+        }
+    ],
+    "date_commande": "2024-08-18T12:03:29",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "177 Brighton",
+        "ville": "Santa Paula"
+    }
+}

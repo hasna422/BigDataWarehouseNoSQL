@@ -1,0 +1,31 @@
+{
+    "order_id": 818699,
+    "client_id": 1493,
+    "produits": [
+        {
+            "produit_id": "P4716",
+            "nom": "Rustic Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 260.8
+        },
+        {
+            "produit_id": "P8175",
+            "nom": "Handcrafted Plastic Salad",
+            "quantite": 1,
+            "prix_unitaire": 470.25
+        },
+        {
+            "produit_id": "P9478",
+            "nom": "Gorgeous Soft Chips",
+            "quantite": 2,
+            "prix_unitaire": 31.89
+        }
+    ],
+    "date_commande": "2023-07-31T10:56:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "754 Lowell",
+        "ville": "El Mirage"
+    }
+}

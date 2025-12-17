@@ -1,0 +1,25 @@
+{
+    "order_id": 852217,
+    "client_id": 6741,
+    "produits": [
+        {
+            "produit_id": "P0410",
+            "nom": "Awesome Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 77.85
+        },
+        {
+            "produit_id": "P9863",
+            "nom": "Handmade Cheese",
+            "quantite": 2,
+            "prix_unitaire": 375.29
+        }
+    ],
+    "date_commande": "2024-09-08T22:15:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "662 Marview",
+        "ville": "Garfield Heights"
+    }
+}

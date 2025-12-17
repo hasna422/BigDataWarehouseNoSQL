@@ -1,0 +1,27 @@
+{
+    "order_id": 748837,
+    "client_id": 8781,
+    "produits": [
+        {
+            "produit_id": "P1382",
+            "nom": "Rubber Chair",
+            "quantite": 4,
+            "prix_unitaire": 373.43
+        },
+        {
+            "produit_id": "P8001",
+            "nom": "Chicken",
+            "quantite": 2,
+            "prix_unitaire": 105.94
+        },
+        {
+            "produit_id": "P7782",
+            "nom": "Rustic Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 137.78
+        }
+    ],
+    "date_commande": "2023-12-27T11:33:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

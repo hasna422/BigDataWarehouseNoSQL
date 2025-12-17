@@ -1,0 +1,31 @@
+{
+    "order_id": 413664,
+    "client_id": 9886,
+    "produits": [
+        {
+            "produit_id": "P4523",
+            "nom": "Granite Tuna",
+            "quantite": 3,
+            "prix_unitaire": 52.82
+        },
+        {
+            "produit_id": "P9290",
+            "nom": "Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 397.08
+        },
+        {
+            "produit_id": "P0854",
+            "nom": "Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 456.7
+        }
+    ],
+    "date_commande": "2023-06-25T18:32:15",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "603 Spring Valley",
+        "ville": "Brentwood"
+    }
+}

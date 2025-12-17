@@ -1,0 +1,15 @@
+{
+    "order_id": 428647,
+    "client_id": 7348,
+    "produits": [
+        {
+            "produit_id": "P8244",
+            "nom": "Granite Chicken",
+            "quantite": 2,
+            "prix_unitaire": 271.85
+        }
+    ],
+    "date_commande": "2024-04-23T20:04:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

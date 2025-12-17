@@ -1,0 +1,19 @@
+{
+    "order_id": 221192,
+    "client_id": 6437,
+    "produits": [
+        {
+            "produit_id": "P0584",
+            "nom": "Incredible Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 411.71
+        }
+    ],
+    "date_commande": "2024-01-12T12:57:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1246 Commercial",
+        "ville": "Round Rock"
+    }
+}

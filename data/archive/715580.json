@@ -1,0 +1,25 @@
+{
+    "order_id": 715580,
+    "client_id": 8141,
+    "produits": [
+        {
+            "produit_id": "P9560",
+            "nom": "Practical Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 419.35
+        },
+        {
+            "produit_id": "P2053",
+            "nom": "Practical Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 116.0
+        }
+    ],
+    "date_commande": "2024-09-26T21:30:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "924 Gatun",
+        "ville": "Victorville"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 955578,
+    "client_id": 5539,
+    "produits": [
+        {
+            "produit_id": "P2003",
+            "nom": "Unbranded Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 239.19
+        },
+        {
+            "produit_id": "P9368",
+            "nom": "Awesome Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 351.91
+        },
+        {
+            "produit_id": "P2343",
+            "nom": "Unbranded Concrete Sausages",
+            "quantite": 3,
+            "prix_unitaire": 290.07
+        }
+    ],
+    "date_commande": "2025-05-01T18:34:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1237 Flood",
+        "ville": "Mesa"
+    }
+}

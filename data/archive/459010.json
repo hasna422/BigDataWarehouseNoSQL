@@ -1,0 +1,15 @@
+{
+    "order_id": 459010,
+    "client_id": 2444,
+    "produits": [
+        {
+            "produit_id": "P9797",
+            "nom": "Generic Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 467.11
+        }
+    ],
+    "date_commande": "2024-02-04T01:18:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

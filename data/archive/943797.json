@@ -1,0 +1,21 @@
+{
+    "order_id": 943797,
+    "client_id": 4421,
+    "produits": [
+        {
+            "produit_id": "P6548",
+            "nom": "Rustic Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 141.65
+        },
+        {
+            "produit_id": "P5368",
+            "nom": "Fantastic Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 442.86
+        }
+    ],
+    "date_commande": "2024-11-10T04:10:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

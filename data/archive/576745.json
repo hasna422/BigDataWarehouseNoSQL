@@ -1,0 +1,27 @@
+{
+    "order_id": 576745,
+    "client_id": 4638,
+    "produits": [
+        {
+            "produit_id": "P3381",
+            "nom": "Small Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 452.12
+        },
+        {
+            "produit_id": "P5073",
+            "nom": "Unbranded Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 344.99
+        },
+        {
+            "produit_id": "P4276",
+            "nom": "Small Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 42.06
+        }
+    ],
+    "date_commande": "2025-02-18T20:16:07",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

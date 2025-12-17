@@ -1,0 +1,25 @@
+{
+    "order_id": 561737,
+    "client_id": 4626,
+    "produits": [
+        {
+            "produit_id": "P2933",
+            "nom": "Fantastic Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 403.94
+        },
+        {
+            "produit_id": "P6562",
+            "nom": "Handcrafted Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 339.13
+        }
+    ],
+    "date_commande": "2023-06-10T06:05:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "318 North 15Th",
+        "ville": "Oak Ridge"
+    }
+}

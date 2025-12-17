@@ -1,0 +1,25 @@
+{
+    "order_id": 869573,
+    "client_id": 7848,
+    "produits": [
+        {
+            "produit_id": "P7950",
+            "nom": "Intelligent Cheese",
+            "quantite": 3,
+            "prix_unitaire": 28.2
+        },
+        {
+            "produit_id": "P9459",
+            "nom": "New Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 154.13
+        }
+    ],
+    "date_commande": "2025-02-13T11:03:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "742 Dorcas",
+        "ville": "Topeka"
+    }
+}

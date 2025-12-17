@@ -1,0 +1,31 @@
+{
+    "order_id": 255999,
+    "client_id": 4699,
+    "produits": [
+        {
+            "produit_id": "P9215",
+            "nom": "Sleek Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 480.06
+        },
+        {
+            "produit_id": "P7308",
+            "nom": "For repair Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 213.34
+        },
+        {
+            "produit_id": "P5124",
+            "nom": "Handcrafted Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 102.56
+        }
+    ],
+    "date_commande": "2023-12-27T02:43:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1307 Alviso",
+        "ville": "New Philadelphia"
+    }
+}

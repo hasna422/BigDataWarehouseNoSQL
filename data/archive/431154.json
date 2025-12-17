@@ -1,0 +1,31 @@
+{
+    "order_id": 431154,
+    "client_id": 5185,
+    "produits": [
+        {
+            "produit_id": "P3014",
+            "nom": "Gently Used Chicken",
+            "quantite": 1,
+            "prix_unitaire": 60.08
+        },
+        {
+            "produit_id": "P1863",
+            "nom": "Concrete Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 130.08
+        },
+        {
+            "produit_id": "P0080",
+            "nom": "Soft Sausages",
+            "quantite": 4,
+            "prix_unitaire": 62.68
+        }
+    ],
+    "date_commande": "2024-10-21T18:56:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1266 Folsom",
+        "ville": "Mill Creek"
+    }
+}

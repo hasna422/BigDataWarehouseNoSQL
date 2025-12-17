@@ -1,0 +1,25 @@
+{
+    "order_id": 877261,
+    "client_id": 6020,
+    "produits": [
+        {
+            "produit_id": "P4802",
+            "nom": "Licensed Rubber Gloves",
+            "quantite": 4,
+            "prix_unitaire": 486.97
+        },
+        {
+            "produit_id": "P2139",
+            "nom": "Rustic Frozen Gloves",
+            "quantite": 2,
+            "prix_unitaire": 477.75
+        }
+    ],
+    "date_commande": "2024-09-28T03:16:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "420 Ardenwood",
+        "ville": "Lake Jackson"
+    }
+}

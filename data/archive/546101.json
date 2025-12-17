@@ -1,0 +1,27 @@
+{
+    "order_id": 546101,
+    "client_id": 7591,
+    "produits": [
+        {
+            "produit_id": "P9178",
+            "nom": "For repair Rubber Tuna",
+            "quantite": 3,
+            "prix_unitaire": 104.98
+        },
+        {
+            "produit_id": "P1448",
+            "nom": "Fantastic Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 252.59
+        },
+        {
+            "produit_id": "P7033",
+            "nom": "Generic Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 53.77
+        }
+    ],
+    "date_commande": "2023-09-29T21:35:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

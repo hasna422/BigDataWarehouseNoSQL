@@ -1,0 +1,21 @@
+{
+    "order_id": 896389,
+    "client_id": 1097,
+    "produits": [
+        {
+            "produit_id": "P7197",
+            "nom": "Handcrafted Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 446.2
+        },
+        {
+            "produit_id": "P1533",
+            "nom": "Handcrafted Metal Bike",
+            "quantite": 5,
+            "prix_unitaire": 8.88
+        }
+    ],
+    "date_commande": "2024-09-28T05:11:03",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

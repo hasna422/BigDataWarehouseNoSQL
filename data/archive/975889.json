@@ -1,0 +1,19 @@
+{
+    "order_id": 975889,
+    "client_id": 7332,
+    "produits": [
+        {
+            "produit_id": "P0346",
+            "nom": "New Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 261.65
+        }
+    ],
+    "date_commande": "2023-11-07T13:59:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "797 Monument",
+        "ville": "Southlake"
+    }
+}

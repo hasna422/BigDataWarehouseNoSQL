@@ -1,0 +1,15 @@
+{
+    "order_id": 254190,
+    "client_id": 4071,
+    "produits": [
+        {
+            "produit_id": "P2133",
+            "nom": "Handcrafted Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 138.04
+        }
+    ],
+    "date_commande": "2024-10-26T06:17:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

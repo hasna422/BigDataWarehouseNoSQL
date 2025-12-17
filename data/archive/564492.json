@@ -1,0 +1,19 @@
+{
+    "order_id": 564492,
+    "client_id": 6579,
+    "produits": [
+        {
+            "produit_id": "P2962",
+            "nom": "Practical Soft Towels",
+            "quantite": 3,
+            "prix_unitaire": 497.18
+        }
+    ],
+    "date_commande": "2025-04-23T08:57:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "973 Casa",
+        "ville": "Tacoma"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 119961,
+    "client_id": 9025,
+    "produits": [
+        {
+            "produit_id": "P6022",
+            "nom": "Tasty Concrete Salad",
+            "quantite": 5,
+            "prix_unitaire": 138.07
+        },
+        {
+            "produit_id": "P3391",
+            "nom": "Generic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 78.88
+        },
+        {
+            "produit_id": "P0903",
+            "nom": "Gently Used Fresh Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 410.39
+        }
+    ],
+    "date_commande": "2024-03-01T04:30:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "271 Dolphin",
+        "ville": "Lansing"
+    }
+}

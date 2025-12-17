@@ -1,0 +1,21 @@
+{
+    "order_id": 939089,
+    "client_id": 1184,
+    "produits": [
+        {
+            "produit_id": "P5710",
+            "nom": "Sleek Granite Table",
+            "quantite": 2,
+            "prix_unitaire": 340.82
+        },
+        {
+            "produit_id": "P9174",
+            "nom": "New Fresh Mouse",
+            "quantite": 2,
+            "prix_unitaire": 411.83
+        }
+    ],
+    "date_commande": "2024-05-10T23:59:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

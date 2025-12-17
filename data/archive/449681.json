@@ -1,0 +1,21 @@
+{
+    "order_id": 449681,
+    "client_id": 6405,
+    "produits": [
+        {
+            "produit_id": "P3289",
+            "nom": "Rustic Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 397.51
+        },
+        {
+            "produit_id": "P6400",
+            "nom": "Tasty Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 491.84
+        }
+    ],
+    "date_commande": "2025-05-04T07:59:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

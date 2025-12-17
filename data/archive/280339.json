@@ -1,0 +1,15 @@
+{
+    "order_id": 280339,
+    "client_id": 9313,
+    "produits": [
+        {
+            "produit_id": "P4435",
+            "nom": "Tasty Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 386.82
+        }
+    ],
+    "date_commande": "2024-05-19T19:30:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

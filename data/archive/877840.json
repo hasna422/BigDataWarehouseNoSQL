@@ -1,0 +1,19 @@
+{
+    "order_id": 877840,
+    "client_id": 3978,
+    "produits": [
+        {
+            "produit_id": "P6889",
+            "nom": "Handmade Frozen Sausages",
+            "quantite": 1,
+            "prix_unitaire": 423.08
+        }
+    ],
+    "date_commande": "2024-02-01T20:54:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1156 Mcdonald",
+        "ville": "Pleasant Grove"
+    }
+}

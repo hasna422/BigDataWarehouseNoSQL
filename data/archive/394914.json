@@ -1,0 +1,25 @@
+{
+    "order_id": 394914,
+    "client_id": 7475,
+    "produits": [
+        {
+            "produit_id": "P4646",
+            "nom": "Incredible Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 422.36
+        },
+        {
+            "produit_id": "P6668",
+            "nom": "New Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 227.46
+        }
+    ],
+    "date_commande": "2024-02-07T23:36:31",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "874 Jack London",
+        "ville": "Winter Springs"
+    }
+}

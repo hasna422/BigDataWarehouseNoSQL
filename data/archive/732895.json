@@ -1,0 +1,27 @@
+{
+    "order_id": 732895,
+    "client_id": 2572,
+    "produits": [
+        {
+            "produit_id": "P0160",
+            "nom": "Intelligent Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 28.53
+        },
+        {
+            "produit_id": "P0999",
+            "nom": "Ergonomic Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 399.68
+        },
+        {
+            "produit_id": "P4844",
+            "nom": "Unbranded Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 309.92
+        }
+    ],
+    "date_commande": "2024-05-19T02:03:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

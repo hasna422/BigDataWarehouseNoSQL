@@ -1,0 +1,19 @@
+{
+    "order_id": 522276,
+    "client_id": 8745,
+    "produits": [
+        {
+            "produit_id": "P5598",
+            "nom": "Ergonomic Frozen Tuna",
+            "quantite": 2,
+            "prix_unitaire": 349.3
+        }
+    ],
+    "date_commande": "2023-08-03T07:08:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "739 Douglass",
+        "ville": "Southlake"
+    }
+}

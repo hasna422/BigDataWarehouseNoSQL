@@ -1,0 +1,25 @@
+{
+    "order_id": 940146,
+    "client_id": 9127,
+    "produits": [
+        {
+            "produit_id": "P0685",
+            "nom": "Awesome Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 279.38
+        },
+        {
+            "produit_id": "P4559",
+            "nom": "Handmade Shoes",
+            "quantite": 1,
+            "prix_unitaire": 174.79
+        }
+    ],
+    "date_commande": "2025-01-14T01:44:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1375 Magellan",
+        "ville": "Eugene"
+    }
+}

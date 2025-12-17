@@ -1,0 +1,27 @@
+{
+    "order_id": 376536,
+    "client_id": 1689,
+    "produits": [
+        {
+            "produit_id": "P4889",
+            "nom": "Awesome Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 278.89
+        },
+        {
+            "produit_id": "P5031",
+            "nom": "For repair Table",
+            "quantite": 2,
+            "prix_unitaire": 13.2
+        },
+        {
+            "produit_id": "P2180",
+            "nom": "Refined Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 72.23
+        }
+    ],
+    "date_commande": "2024-10-06T13:39:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

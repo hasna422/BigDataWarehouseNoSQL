@@ -1,0 +1,31 @@
+{
+    "order_id": 753606,
+    "client_id": 8225,
+    "produits": [
+        {
+            "produit_id": "P8065",
+            "nom": "Intelligent Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 285.87
+        },
+        {
+            "produit_id": "P6566",
+            "nom": "Fantastic Fresh Ball",
+            "quantite": 3,
+            "prix_unitaire": 134.5
+        },
+        {
+            "produit_id": "P4416",
+            "nom": "Practical Metal Computer",
+            "quantite": 5,
+            "prix_unitaire": 491.29
+        }
+    ],
+    "date_commande": "2024-05-14T15:44:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "728 Menoher",
+        "ville": "Laurel"
+    }
+}

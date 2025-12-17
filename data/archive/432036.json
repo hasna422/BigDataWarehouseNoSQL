@@ -1,0 +1,31 @@
+{
+    "order_id": 432036,
+    "client_id": 6634,
+    "produits": [
+        {
+            "produit_id": "P6850",
+            "nom": "Unbranded Plastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 397.39
+        },
+        {
+            "produit_id": "P4914",
+            "nom": "Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 355.0
+        },
+        {
+            "produit_id": "P7432",
+            "nom": "Gorgeous Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 25.98
+        }
+    ],
+    "date_commande": "2024-04-28T01:17:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "127 Trader Vic",
+        "ville": "Davie"
+    }
+}

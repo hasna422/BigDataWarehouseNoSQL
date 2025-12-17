@@ -1,0 +1,27 @@
+{
+    "order_id": 485694,
+    "client_id": 2457,
+    "produits": [
+        {
+            "produit_id": "P6802",
+            "nom": "Intelligent Wooden Computer",
+            "quantite": 5,
+            "prix_unitaire": 150.12
+        },
+        {
+            "produit_id": "P5407",
+            "nom": "Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 488.57
+        },
+        {
+            "produit_id": "P6616",
+            "nom": "Ergonomic Ball",
+            "quantite": 5,
+            "prix_unitaire": 241.05
+        }
+    ],
+    "date_commande": "2024-03-06T00:33:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

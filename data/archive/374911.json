@@ -1,0 +1,15 @@
+{
+    "order_id": 374911,
+    "client_id": 7840,
+    "produits": [
+        {
+            "produit_id": "P2239",
+            "nom": "Gently Used Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 37.55
+        }
+    ],
+    "date_commande": "2025-02-01T21:19:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

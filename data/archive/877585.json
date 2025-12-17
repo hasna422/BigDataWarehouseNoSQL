@@ -1,0 +1,21 @@
+{
+    "order_id": 877585,
+    "client_id": 3843,
+    "produits": [
+        {
+            "produit_id": "P9069",
+            "nom": "Small Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 23.97
+        },
+        {
+            "produit_id": "P2120",
+            "nom": "Sleek Soft Towels",
+            "quantite": 2,
+            "prix_unitaire": 349.67
+        }
+    ],
+    "date_commande": "2024-10-12T01:09:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

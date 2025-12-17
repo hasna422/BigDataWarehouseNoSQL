@@ -1,0 +1,31 @@
+{
+    "order_id": 886230,
+    "client_id": 4685,
+    "produits": [
+        {
+            "produit_id": "P7799",
+            "nom": "Sleek Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 153.18
+        },
+        {
+            "produit_id": "P4314",
+            "nom": "New Steel Mouse",
+            "quantite": 4,
+            "prix_unitaire": 168.35
+        },
+        {
+            "produit_id": "P6292",
+            "nom": "Gently Used Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 73.53
+        }
+    ],
+    "date_commande": "2024-03-18T06:56:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "63 Mark Twain",
+        "ville": "Laramie"
+    }
+}

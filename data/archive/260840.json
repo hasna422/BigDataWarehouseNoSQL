@@ -1,0 +1,19 @@
+{
+    "order_id": 260840,
+    "client_id": 6862,
+    "produits": [
+        {
+            "produit_id": "P6737",
+            "nom": "Tasty Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 221.59
+        }
+    ],
+    "date_commande": "2025-03-09T10:30:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "927 Norfolk",
+        "ville": "Moreno Valley"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 409179,
+    "client_id": 9581,
+    "produits": [
+        {
+            "produit_id": "P9300",
+            "nom": "Fantastic Granite Towels",
+            "quantite": 3,
+            "prix_unitaire": 390.16
+        },
+        {
+            "produit_id": "P4921",
+            "nom": "Refined Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 135.45
+        },
+        {
+            "produit_id": "P0255",
+            "nom": "Frozen Tuna",
+            "quantite": 4,
+            "prix_unitaire": 366.91
+        }
+    ],
+    "date_commande": "2025-05-16T17:23:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1368 Don Chee",
+        "ville": "Aiken"
+    }
+}

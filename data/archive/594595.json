@@ -1,0 +1,21 @@
+{
+    "order_id": 594595,
+    "client_id": 4123,
+    "produits": [
+        {
+            "produit_id": "P5104",
+            "nom": "For repair Pants",
+            "quantite": 4,
+            "prix_unitaire": 212.94
+        },
+        {
+            "produit_id": "P7125",
+            "nom": "Fresh Gloves",
+            "quantite": 4,
+            "prix_unitaire": 340.53
+        }
+    ],
+    "date_commande": "2024-03-20T22:32:08",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

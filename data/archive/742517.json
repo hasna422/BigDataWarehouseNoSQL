@@ -1,0 +1,19 @@
+{
+    "order_id": 742517,
+    "client_id": 6774,
+    "produits": [
+        {
+            "produit_id": "P2292",
+            "nom": "Gently Used Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 355.09
+        }
+    ],
+    "date_commande": "2023-12-24T08:07:24",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "156 Verna",
+        "ville": "Calumet City"
+    }
+}

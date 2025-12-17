@@ -1,0 +1,19 @@
+{
+    "order_id": 922831,
+    "client_id": 5393,
+    "produits": [
+        {
+            "produit_id": "P6903",
+            "nom": "Gently Used Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 308.36
+        }
+    ],
+    "date_commande": "2023-12-15T04:35:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "366 Potomac",
+        "ville": "Goodlettsville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 280514,
+    "client_id": 5435,
+    "produits": [
+        {
+            "produit_id": "P4543",
+            "nom": "Refined Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 403.77
+        },
+        {
+            "produit_id": "P2325",
+            "nom": "Sleek Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 278.94
+        }
+    ],
+    "date_commande": "2025-02-15T11:18:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "13 Lick",
+        "ville": "Waukesha"
+    }
+}

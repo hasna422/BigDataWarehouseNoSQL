@@ -1,0 +1,19 @@
+{
+    "order_id": 951763,
+    "client_id": 9586,
+    "produits": [
+        {
+            "produit_id": "P4892",
+            "nom": "For repair Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 245.81
+        }
+    ],
+    "date_commande": "2023-08-05T07:50:35",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "994 Lyon",
+        "ville": "Saco"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 435856,
+    "client_id": 2608,
+    "produits": [
+        {
+            "produit_id": "P2892",
+            "nom": "Unbranded Fresh Fish",
+            "quantite": 5,
+            "prix_unitaire": 480.48
+        }
+    ],
+    "date_commande": "2025-03-01T02:25:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1361 Sierra",
+        "ville": "Herndon"
+    }
+}

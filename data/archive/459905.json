@@ -1,0 +1,19 @@
+{
+    "order_id": 459905,
+    "client_id": 6810,
+    "produits": [
+        {
+            "produit_id": "P8530",
+            "nom": "Small Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 289.21
+        }
+    ],
+    "date_commande": "2023-08-14T04:07:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "953 Larch",
+        "ville": "San Rafael"
+    }
+}

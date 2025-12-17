@@ -1,0 +1,31 @@
+{
+    "order_id": 386522,
+    "client_id": 1041,
+    "produits": [
+        {
+            "produit_id": "P0280",
+            "nom": "Used Sausages",
+            "quantite": 2,
+            "prix_unitaire": 79.68
+        },
+        {
+            "produit_id": "P7888",
+            "nom": "Gorgeous Metal Chicken",
+            "quantite": 1,
+            "prix_unitaire": 443.09
+        },
+        {
+            "produit_id": "P6766",
+            "nom": "Refined Concrete Pizza",
+            "quantite": 5,
+            "prix_unitaire": 280.51
+        }
+    ],
+    "date_commande": "2024-11-26T04:33:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1075 Lilac",
+        "ville": "Eugene"
+    }
+}

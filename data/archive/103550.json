@@ -1,0 +1,25 @@
+{
+    "order_id": 103550,
+    "client_id": 1810,
+    "produits": [
+        {
+            "produit_id": "P9713",
+            "nom": "Handmade Frozen Tuna",
+            "quantite": 4,
+            "prix_unitaire": 40.36
+        },
+        {
+            "produit_id": "P9754",
+            "nom": "Fantastic Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 110.25
+        }
+    ],
+    "date_commande": "2024-10-04T09:11:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "249 Seal Cove",
+        "ville": "Walker"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 757451,
+    "client_id": 8465,
+    "produits": [
+        {
+            "produit_id": "P7315",
+            "nom": "New Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 164.91
+        },
+        {
+            "produit_id": "P5965",
+            "nom": "Refined Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 470.32
+        },
+        {
+            "produit_id": "P3900",
+            "nom": "Fantastic Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 456.43
+        }
+    ],
+    "date_commande": "2025-04-20T19:10:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "647 Acorn",
+        "ville": "Spring Hill"
+    }
+}

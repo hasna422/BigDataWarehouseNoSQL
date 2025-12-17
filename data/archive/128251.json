@@ -1,0 +1,15 @@
+{
+    "order_id": 128251,
+    "client_id": 7755,
+    "produits": [
+        {
+            "produit_id": "P2879",
+            "nom": "Gorgeous Rubber Tuna",
+            "quantite": 3,
+            "prix_unitaire": 196.77
+        }
+    ],
+    "date_commande": "2023-06-02T20:06:11",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

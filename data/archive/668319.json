@@ -1,0 +1,15 @@
+{
+    "order_id": 668319,
+    "client_id": 3249,
+    "produits": [
+        {
+            "produit_id": "P4401",
+            "nom": "Incredible Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 243.67
+        }
+    ],
+    "date_commande": "2025-03-20T04:06:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

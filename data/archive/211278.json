@@ -1,0 +1,19 @@
+{
+    "order_id": 211278,
+    "client_id": 2281,
+    "produits": [
+        {
+            "produit_id": "P1354",
+            "nom": "Unbranded Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 135.68
+        }
+    ],
+    "date_commande": "2025-05-11T13:30:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "25 Starr King",
+        "ville": "Norman"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 796197,
+    "client_id": 3144,
+    "produits": [
+        {
+            "produit_id": "P5386",
+            "nom": "Refined Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 372.08
+        },
+        {
+            "produit_id": "P2465",
+            "nom": "Tasty Chair",
+            "quantite": 2,
+            "prix_unitaire": 160.93
+        }
+    ],
+    "date_commande": "2025-02-15T07:19:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "259 Austin",
+        "ville": "Sulphur"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 117205,
+    "client_id": 8747,
+    "produits": [
+        {
+            "produit_id": "P0774",
+            "nom": "Used Hat",
+            "quantite": 4,
+            "prix_unitaire": 159.79
+        }
+    ],
+    "date_commande": "2023-06-29T20:02:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "883 Briarcliff",
+        "ville": "Baytown"
+    }
+}

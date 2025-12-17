@@ -1,0 +1,21 @@
+{
+    "order_id": 548863,
+    "client_id": 2695,
+    "produits": [
+        {
+            "produit_id": "P0136",
+            "nom": "Refined Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 342.52
+        },
+        {
+            "produit_id": "P6519",
+            "nom": "Handmade Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 252.94
+        }
+    ],
+    "date_commande": "2023-06-12T06:39:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

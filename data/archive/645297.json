@@ -1,0 +1,21 @@
+{
+    "order_id": 645297,
+    "client_id": 3241,
+    "produits": [
+        {
+            "produit_id": "P4012",
+            "nom": "Fantastic Metal Tuna",
+            "quantite": 3,
+            "prix_unitaire": 343.65
+        },
+        {
+            "produit_id": "P0660",
+            "nom": "For repair Rubber Sausages",
+            "quantite": 3,
+            "prix_unitaire": 334.49
+        }
+    ],
+    "date_commande": "2024-03-13T12:24:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

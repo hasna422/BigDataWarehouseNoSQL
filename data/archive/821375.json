@@ -1,0 +1,19 @@
+{
+    "order_id": 821375,
+    "client_id": 8905,
+    "produits": [
+        {
+            "produit_id": "P2696",
+            "nom": "Plastic Fish",
+            "quantite": 5,
+            "prix_unitaire": 25.2
+        }
+    ],
+    "date_commande": "2023-07-29T02:13:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1137 Winn",
+        "ville": "Norwood"
+    }
+}

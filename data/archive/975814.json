@@ -1,0 +1,31 @@
+{
+    "order_id": 975814,
+    "client_id": 3883,
+    "produits": [
+        {
+            "produit_id": "P0636",
+            "nom": "Generic Soap",
+            "quantite": 5,
+            "prix_unitaire": 453.33
+        },
+        {
+            "produit_id": "P8568",
+            "nom": "Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 53.58
+        },
+        {
+            "produit_id": "P5153",
+            "nom": "Rustic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 452.77
+        }
+    ],
+    "date_commande": "2023-12-05T00:54:59",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "314 Dedman",
+        "ville": "Bixby"
+    }
+}

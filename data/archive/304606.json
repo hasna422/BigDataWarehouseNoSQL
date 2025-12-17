@@ -1,0 +1,15 @@
+{
+    "order_id": 304606,
+    "client_id": 6577,
+    "produits": [
+        {
+            "produit_id": "P5080",
+            "nom": "Sleek Bacon",
+            "quantite": 4,
+            "prix_unitaire": 90.0
+        }
+    ],
+    "date_commande": "2024-10-02T15:57:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

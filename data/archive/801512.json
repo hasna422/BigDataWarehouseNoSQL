@@ -1,0 +1,19 @@
+{
+    "order_id": 801512,
+    "client_id": 1466,
+    "produits": [
+        {
+            "produit_id": "P7161",
+            "nom": "Ergonomic Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 492.93
+        }
+    ],
+    "date_commande": "2024-04-07T13:27:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "444 Devonshire",
+        "ville": "Newark"
+    }
+}

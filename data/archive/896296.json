@@ -1,0 +1,25 @@
+{
+    "order_id": 896296,
+    "client_id": 5102,
+    "produits": [
+        {
+            "produit_id": "P7962",
+            "nom": "Licensed Plastic Towels",
+            "quantite": 3,
+            "prix_unitaire": 198.28
+        },
+        {
+            "produit_id": "P2337",
+            "nom": "New Hat",
+            "quantite": 1,
+            "prix_unitaire": 343.3
+        }
+    ],
+    "date_commande": "2023-07-09T16:39:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "479 Clayton",
+        "ville": "Peachtree City"
+    }
+}

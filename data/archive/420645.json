@@ -1,0 +1,25 @@
+{
+    "order_id": 420645,
+    "client_id": 3978,
+    "produits": [
+        {
+            "produit_id": "P2719",
+            "nom": "Intelligent Plastic Shirt",
+            "quantite": 3,
+            "prix_unitaire": 481.73
+        },
+        {
+            "produit_id": "P3542",
+            "nom": "Used Concrete Table",
+            "quantite": 1,
+            "prix_unitaire": 163.96
+        }
+    ],
+    "date_commande": "2024-02-26T13:09:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1147 Sickles",
+        "ville": "Houma"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 666137,
+    "client_id": 7235,
+    "produits": [
+        {
+            "produit_id": "P9311",
+            "nom": "Small Soft Gloves",
+            "quantite": 5,
+            "prix_unitaire": 480.01
+        },
+        {
+            "produit_id": "P8584",
+            "nom": "Ergonomic Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 333.3
+        },
+        {
+            "produit_id": "P9167",
+            "nom": "Handmade Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 246.51
+        }
+    ],
+    "date_commande": "2023-10-16T22:44:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "579 Rausch",
+        "ville": "Agoura Hills"
+    }
+}

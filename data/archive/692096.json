@@ -1,0 +1,31 @@
+{
+    "order_id": 692096,
+    "client_id": 8685,
+    "produits": [
+        {
+            "produit_id": "P4575",
+            "nom": "Handcrafted Steel Chair",
+            "quantite": 4,
+            "prix_unitaire": 203.84
+        },
+        {
+            "produit_id": "P2935",
+            "nom": "Licensed Frozen Computer",
+            "quantite": 4,
+            "prix_unitaire": 217.62
+        },
+        {
+            "produit_id": "P5382",
+            "nom": "Awesome Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 125.65
+        }
+    ],
+    "date_commande": "2023-10-09T11:32:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1094 Fillmore",
+        "ville": "Santa Ana"
+    }
+}

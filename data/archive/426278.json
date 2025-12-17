@@ -1,0 +1,21 @@
+{
+    "order_id": 426278,
+    "client_id": 8502,
+    "produits": [
+        {
+            "produit_id": "P0390",
+            "nom": "Unbranded Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 29.06
+        },
+        {
+            "produit_id": "P6296",
+            "nom": "Fantastic Fresh Gloves",
+            "quantite": 3,
+            "prix_unitaire": 436.54
+        }
+    ],
+    "date_commande": "2024-11-01T02:46:56",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

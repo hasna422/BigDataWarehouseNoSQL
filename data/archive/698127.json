@@ -1,0 +1,31 @@
+{
+    "order_id": 698127,
+    "client_id": 8194,
+    "produits": [
+        {
+            "produit_id": "P4031",
+            "nom": "Metal Pizza",
+            "quantite": 5,
+            "prix_unitaire": 285.87
+        },
+        {
+            "produit_id": "P8002",
+            "nom": "Incredible Computer",
+            "quantite": 1,
+            "prix_unitaire": 195.82
+        },
+        {
+            "produit_id": "P2818",
+            "nom": "New Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 488.49
+        }
+    ],
+    "date_commande": "2023-10-02T22:18:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1037 Hemway",
+        "ville": "Texarkana"
+    }
+}

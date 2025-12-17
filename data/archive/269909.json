@@ -1,0 +1,25 @@
+{
+    "order_id": 269909,
+    "client_id": 1656,
+    "produits": [
+        {
+            "produit_id": "P0441",
+            "nom": "Intelligent Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 80.77
+        },
+        {
+            "produit_id": "P2746",
+            "nom": "Handcrafted Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 349.31
+        }
+    ],
+    "date_commande": "2024-10-21T04:56:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1330 Sussex",
+        "ville": "East Cleveland"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 603309,
+    "client_id": 5425,
+    "produits": [
+        {
+            "produit_id": "P1200",
+            "nom": "Unbranded Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 444.11
+        },
+        {
+            "produit_id": "P1525",
+            "nom": "Rustic Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 64.25
+        },
+        {
+            "produit_id": "P2964",
+            "nom": "Intelligent Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 29.94
+        }
+    ],
+    "date_commande": "2024-05-01T23:25:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "275 San Lorenzo",
+        "ville": "Marysville"
+    }
+}

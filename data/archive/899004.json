@@ -1,0 +1,27 @@
+{
+    "order_id": 899004,
+    "client_id": 1367,
+    "produits": [
+        {
+            "produit_id": "P3341",
+            "nom": "Handcrafted Cotton Tuna",
+            "quantite": 3,
+            "prix_unitaire": 60.41
+        },
+        {
+            "produit_id": "P5735",
+            "nom": "Practical Cotton Salad",
+            "quantite": 3,
+            "prix_unitaire": 174.94
+        },
+        {
+            "produit_id": "P9411",
+            "nom": "Handmade Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 219.41
+        }
+    ],
+    "date_commande": "2023-12-05T16:05:08",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

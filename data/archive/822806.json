@@ -1,0 +1,25 @@
+{
+    "order_id": 822806,
+    "client_id": 6762,
+    "produits": [
+        {
+            "produit_id": "P0073",
+            "nom": "Handcrafted Plastic Gloves",
+            "quantite": 5,
+            "prix_unitaire": 128.48
+        },
+        {
+            "produit_id": "P2819",
+            "nom": "Unbranded Soft Ball",
+            "quantite": 5,
+            "prix_unitaire": 23.89
+        }
+    ],
+    "date_commande": "2024-01-12T21:39:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "338 Zeno",
+        "ville": "Phoenix"
+    }
+}

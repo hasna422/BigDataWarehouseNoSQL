@@ -1,0 +1,15 @@
+{
+    "order_id": 285824,
+    "client_id": 1055,
+    "produits": [
+        {
+            "produit_id": "P6954",
+            "nom": "Sleek Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 398.95
+        }
+    ],
+    "date_commande": "2025-04-24T03:41:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

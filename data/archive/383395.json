@@ -1,0 +1,25 @@
+{
+    "order_id": 383395,
+    "client_id": 8093,
+    "produits": [
+        {
+            "produit_id": "P8806",
+            "nom": "Fantastic Concrete Car",
+            "quantite": 1,
+            "prix_unitaire": 152.04
+        },
+        {
+            "produit_id": "P6176",
+            "nom": "For repair Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 7.5
+        }
+    ],
+    "date_commande": "2025-05-03T17:02:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "460 Gellert",
+        "ville": "Dumont"
+    }
+}

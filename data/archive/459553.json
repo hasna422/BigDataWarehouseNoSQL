@@ -1,0 +1,25 @@
+{
+    "order_id": 459553,
+    "client_id": 9902,
+    "produits": [
+        {
+            "produit_id": "P3380",
+            "nom": "Fantastic Granite Table",
+            "quantite": 2,
+            "prix_unitaire": 337.96
+        },
+        {
+            "produit_id": "P7636",
+            "nom": "Tasty Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 388.65
+        }
+    ],
+    "date_commande": "2025-02-04T11:58:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "223 Coral",
+        "ville": "Edwardsville"
+    }
+}

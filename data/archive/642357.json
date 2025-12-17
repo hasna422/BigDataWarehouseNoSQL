@@ -1,0 +1,19 @@
+{
+    "order_id": 642357,
+    "client_id": 8914,
+    "produits": [
+        {
+            "produit_id": "P9887",
+            "nom": "Generic Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 481.4
+        }
+    ],
+    "date_commande": "2023-06-20T19:54:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "772 Ccsf Parking Lot",
+        "ville": "South Holland"
+    }
+}

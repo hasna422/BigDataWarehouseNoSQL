@@ -1,0 +1,31 @@
+{
+    "order_id": 964199,
+    "client_id": 6488,
+    "produits": [
+        {
+            "produit_id": "P9123",
+            "nom": "Ergonomic Rubber Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 413.94
+        },
+        {
+            "produit_id": "P1515",
+            "nom": "Gorgeous Granite Car",
+            "quantite": 1,
+            "prix_unitaire": 286.94
+        },
+        {
+            "produit_id": "P5608",
+            "nom": "Fantastic Steel Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 381.58
+        }
+    ],
+    "date_commande": "2024-09-05T03:51:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "536 Muir",
+        "ville": "Shakopee"
+    }
+}

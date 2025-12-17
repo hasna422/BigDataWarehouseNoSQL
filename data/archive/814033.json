@@ -1,0 +1,15 @@
+{
+    "order_id": 814033,
+    "client_id": 8725,
+    "produits": [
+        {
+            "produit_id": "P2088",
+            "nom": "Practical Mouse",
+            "quantite": 5,
+            "prix_unitaire": 442.08
+        }
+    ],
+    "date_commande": "2023-05-30T03:20:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

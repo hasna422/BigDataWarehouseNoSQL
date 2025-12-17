@@ -1,0 +1,31 @@
+{
+    "order_id": 739388,
+    "client_id": 7627,
+    "produits": [
+        {
+            "produit_id": "P6701",
+            "nom": "Fantastic Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 470.74
+        },
+        {
+            "produit_id": "P1938",
+            "nom": "Small Cotton Ball",
+            "quantite": 4,
+            "prix_unitaire": 38.06
+        },
+        {
+            "produit_id": "P4538",
+            "nom": "Ergonomic Concrete Cheese",
+            "quantite": 1,
+            "prix_unitaire": 145.76
+        }
+    ],
+    "date_commande": "2023-06-03T23:26:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "478 Ashburton",
+        "ville": "Calumet City"
+    }
+}

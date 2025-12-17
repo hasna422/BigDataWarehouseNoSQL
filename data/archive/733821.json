@@ -1,0 +1,31 @@
+{
+    "order_id": 733821,
+    "client_id": 7931,
+    "produits": [
+        {
+            "produit_id": "P2358",
+            "nom": "Unbranded Cheese",
+            "quantite": 1,
+            "prix_unitaire": 272.52
+        },
+        {
+            "produit_id": "P2971",
+            "nom": "Practical Steel Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 455.47
+        },
+        {
+            "produit_id": "P8802",
+            "nom": "For repair Concrete Fish",
+            "quantite": 3,
+            "prix_unitaire": 338.36
+        }
+    ],
+    "date_commande": "2024-03-23T00:22:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "586 Magnolia",
+        "ville": "Eagle"
+    }
+}

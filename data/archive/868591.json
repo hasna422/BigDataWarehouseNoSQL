@@ -1,0 +1,19 @@
+{
+    "order_id": 868591,
+    "client_id": 2977,
+    "produits": [
+        {
+            "produit_id": "P7711",
+            "nom": "Incredible Fresh Salad",
+            "quantite": 1,
+            "prix_unitaire": 426.49
+        }
+    ],
+    "date_commande": "2024-09-21T08:32:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "708 Helena",
+        "ville": "Gresham"
+    }
+}

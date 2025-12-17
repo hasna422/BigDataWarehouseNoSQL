@@ -1,0 +1,31 @@
+{
+    "order_id": 639761,
+    "client_id": 6064,
+    "produits": [
+        {
+            "produit_id": "P2371",
+            "nom": "Used Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 98.03
+        },
+        {
+            "produit_id": "P7095",
+            "nom": "Used Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 167.39
+        },
+        {
+            "produit_id": "P5557",
+            "nom": "Small Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 474.42
+        }
+    ],
+    "date_commande": "2023-09-28T19:55:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1194 Bitting",
+        "ville": "Ithaca"
+    }
+}

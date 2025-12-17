@@ -1,0 +1,19 @@
+{
+    "order_id": 749697,
+    "client_id": 2068,
+    "produits": [
+        {
+            "produit_id": "P2228",
+            "nom": "Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 35.51
+        }
+    ],
+    "date_commande": "2024-09-21T00:43:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "125 Connecticut",
+        "ville": "Euclid"
+    }
+}

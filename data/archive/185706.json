@@ -1,0 +1,25 @@
+{
+    "order_id": 185706,
+    "client_id": 4579,
+    "produits": [
+        {
+            "produit_id": "P8897",
+            "nom": "Handmade Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 208.52
+        },
+        {
+            "produit_id": "P7052",
+            "nom": "Licensed Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 386.59
+        }
+    ],
+    "date_commande": "2025-02-06T07:45:59",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "882 Justin",
+        "ville": "Murrysville"
+    }
+}

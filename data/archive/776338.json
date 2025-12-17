@@ -1,0 +1,31 @@
+{
+    "order_id": 776338,
+    "client_id": 5091,
+    "produits": [
+        {
+            "produit_id": "P0195",
+            "nom": "Gorgeous Soap",
+            "quantite": 2,
+            "prix_unitaire": 85.24
+        },
+        {
+            "produit_id": "P8347",
+            "nom": "Practical Pants",
+            "quantite": 1,
+            "prix_unitaire": 138.9
+        },
+        {
+            "produit_id": "P7203",
+            "nom": "Tasty Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 168.09
+        }
+    ],
+    "date_commande": "2025-01-02T15:31:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1199 Kirkham",
+        "ville": "Southlake"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 511026,
+    "client_id": 6982,
+    "produits": [
+        {
+            "produit_id": "P1200",
+            "nom": "Handcrafted Plastic Towels",
+            "quantite": 3,
+            "prix_unitaire": 404.91
+        }
+    ],
+    "date_commande": "2024-02-19T04:17:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "91 Fern",
+        "ville": "Peoria"
+    }
+}

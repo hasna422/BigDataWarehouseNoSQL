@@ -1,0 +1,25 @@
+{
+    "order_id": 168048,
+    "client_id": 6292,
+    "produits": [
+        {
+            "produit_id": "P7519",
+            "nom": "For repair Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 408.83
+        },
+        {
+            "produit_id": "P0313",
+            "nom": "Ergonomic Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 291.57
+        }
+    ],
+    "date_commande": "2023-07-03T16:45:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "779 Highland",
+        "ville": "New York"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 279316,
+    "client_id": 1919,
+    "produits": [
+        {
+            "produit_id": "P4779",
+            "nom": "Rustic Wooden Chair",
+            "quantite": 2,
+            "prix_unitaire": 82.45
+        }
+    ],
+    "date_commande": "2024-08-06T05:34:35",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1165 Chancery",
+        "ville": "Acworth"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 555800,
+    "client_id": 7017,
+    "produits": [
+        {
+            "produit_id": "P1539",
+            "nom": "Gorgeous Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 74.61
+        },
+        {
+            "produit_id": "P1282",
+            "nom": "New Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 354.36
+        },
+        {
+            "produit_id": "P0388",
+            "nom": "Generic Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 485.28
+        }
+    ],
+    "date_commande": "2023-11-06T01:00:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

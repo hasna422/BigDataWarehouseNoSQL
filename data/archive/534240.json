@@ -1,0 +1,25 @@
+{
+    "order_id": 534240,
+    "client_id": 8026,
+    "produits": [
+        {
+            "produit_id": "P8625",
+            "nom": "Sleek Steel Soap",
+            "quantite": 3,
+            "prix_unitaire": 10.16
+        },
+        {
+            "produit_id": "P1875",
+            "nom": "Sleek Wooden Bacon",
+            "quantite": 3,
+            "prix_unitaire": 397.77
+        }
+    ],
+    "date_commande": "2024-02-29T22:43:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "512 Newcomb",
+        "ville": "Corinth"
+    }
+}

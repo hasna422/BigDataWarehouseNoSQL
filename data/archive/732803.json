@@ -1,0 +1,19 @@
+{
+    "order_id": 732803,
+    "client_id": 8240,
+    "produits": [
+        {
+            "produit_id": "P9139",
+            "nom": "Fantastic Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 153.12
+        }
+    ],
+    "date_commande": "2023-10-25T17:40:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "52 Prado",
+        "ville": "Matteson"
+    }
+}

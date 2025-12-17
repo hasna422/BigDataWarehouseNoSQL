@@ -1,0 +1,31 @@
+{
+    "order_id": 582640,
+    "client_id": 8795,
+    "produits": [
+        {
+            "produit_id": "P9173",
+            "nom": "Licensed Chair",
+            "quantite": 3,
+            "prix_unitaire": 446.75
+        },
+        {
+            "produit_id": "P1183",
+            "nom": "Practical Granite Sausages",
+            "quantite": 4,
+            "prix_unitaire": 206.64
+        },
+        {
+            "produit_id": "P3324",
+            "nom": "Intelligent Tuna",
+            "quantite": 5,
+            "prix_unitaire": 392.37
+        }
+    ],
+    "date_commande": "2024-04-16T23:00:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1118 Mclaren Lodge Access",
+        "ville": "New Braunfels"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 392592,
+    "client_id": 8790,
+    "produits": [
+        {
+            "produit_id": "P0731",
+            "nom": "Rustic Cotton Sausages",
+            "quantite": 4,
+            "prix_unitaire": 297.5
+        },
+        {
+            "produit_id": "P7673",
+            "nom": "Ergonomic Concrete Pants",
+            "quantite": 1,
+            "prix_unitaire": 118.62
+        },
+        {
+            "produit_id": "P7668",
+            "nom": "Gorgeous Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 43.22
+        }
+    ],
+    "date_commande": "2025-03-30T08:20:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1108 Peter Yorke",
+        "ville": "Patterson"
+    }
+}

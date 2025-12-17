@@ -1,0 +1,19 @@
+{
+    "order_id": 664786,
+    "client_id": 6539,
+    "produits": [
+        {
+            "produit_id": "P1771",
+            "nom": "Used Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 62.24
+        }
+    ],
+    "date_commande": "2024-03-07T16:01:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "962 Trainor",
+        "ville": "Cathedral City"
+    }
+}

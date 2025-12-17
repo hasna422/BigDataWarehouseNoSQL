@@ -1,0 +1,31 @@
+{
+    "order_id": 720047,
+    "client_id": 8059,
+    "produits": [
+        {
+            "produit_id": "P2883",
+            "nom": "Gorgeous Towels",
+            "quantite": 5,
+            "prix_unitaire": 324.89
+        },
+        {
+            "produit_id": "P0574",
+            "nom": "Used Ball",
+            "quantite": 1,
+            "prix_unitaire": 204.76
+        },
+        {
+            "produit_id": "P7761",
+            "nom": "Gently Used Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 480.74
+        }
+    ],
+    "date_commande": "2024-05-21T16:54:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "6 Candlestick Cove",
+        "ville": "Lino Lakes"
+    }
+}

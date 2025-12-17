@@ -1,0 +1,21 @@
+{
+    "order_id": 519167,
+    "client_id": 7113,
+    "produits": [
+        {
+            "produit_id": "P9342",
+            "nom": "Incredible Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 459.63
+        },
+        {
+            "produit_id": "P5049",
+            "nom": "Refined Cotton Gloves",
+            "quantite": 3,
+            "prix_unitaire": 90.6
+        }
+    ],
+    "date_commande": "2023-12-17T11:00:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

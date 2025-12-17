@@ -1,0 +1,21 @@
+{
+    "order_id": 562779,
+    "client_id": 4917,
+    "produits": [
+        {
+            "produit_id": "P0545",
+            "nom": "Used Fresh Salad",
+            "quantite": 4,
+            "prix_unitaire": 243.21
+        },
+        {
+            "produit_id": "P0211",
+            "nom": "Incredible Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 331.29
+        }
+    ],
+    "date_commande": "2023-12-11T02:03:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

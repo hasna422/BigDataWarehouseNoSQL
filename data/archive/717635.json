@@ -1,0 +1,15 @@
+{
+    "order_id": 717635,
+    "client_id": 3586,
+    "produits": [
+        {
+            "produit_id": "P0071",
+            "nom": "New Plastic Tuna",
+            "quantite": 3,
+            "prix_unitaire": 389.17
+        }
+    ],
+    "date_commande": "2024-06-14T19:13:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

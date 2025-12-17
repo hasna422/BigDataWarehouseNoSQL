@@ -1,0 +1,25 @@
+{
+    "order_id": 689636,
+    "client_id": 8274,
+    "produits": [
+        {
+            "produit_id": "P4047",
+            "nom": "Practical Soft Bacon",
+            "quantite": 1,
+            "prix_unitaire": 301.79
+        },
+        {
+            "produit_id": "P1725",
+            "nom": "Small Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 457.92
+        }
+    ],
+    "date_commande": "2025-04-08T08:23:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "224 Jack Balestreri",
+        "ville": "Gresham"
+    }
+}

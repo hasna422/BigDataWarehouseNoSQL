@@ -1,0 +1,21 @@
+{
+    "order_id": 826737,
+    "client_id": 1548,
+    "produits": [
+        {
+            "produit_id": "P1255",
+            "nom": "Gorgeous Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 420.96
+        },
+        {
+            "produit_id": "P7298",
+            "nom": "Generic Metal Chips",
+            "quantite": 5,
+            "prix_unitaire": 123.59
+        }
+    ],
+    "date_commande": "2023-10-06T01:32:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

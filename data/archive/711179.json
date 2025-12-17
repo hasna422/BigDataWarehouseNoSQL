@@ -1,0 +1,25 @@
+{
+    "order_id": 711179,
+    "client_id": 7787,
+    "produits": [
+        {
+            "produit_id": "P9622",
+            "nom": "Practical Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 319.3
+        },
+        {
+            "produit_id": "P3876",
+            "nom": "Gorgeous Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 110.05
+        }
+    ],
+    "date_commande": "2024-10-15T05:22:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "142 Sutro Heights",
+        "ville": "Arnold"
+    }
+}

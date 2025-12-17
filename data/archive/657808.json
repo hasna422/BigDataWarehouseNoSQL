@@ -1,0 +1,31 @@
+{
+    "order_id": 657808,
+    "client_id": 2768,
+    "produits": [
+        {
+            "produit_id": "P0288",
+            "nom": "Gorgeous Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 308.64
+        },
+        {
+            "produit_id": "P9055",
+            "nom": "Handcrafted Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 268.44
+        },
+        {
+            "produit_id": "P5149",
+            "nom": "Gently Used Concrete Cheese",
+            "quantite": 2,
+            "prix_unitaire": 384.18
+        }
+    ],
+    "date_commande": "2025-01-10T05:57:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1336 La Avanzada",
+        "ville": "Kennesaw"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 316473,
+    "client_id": 6202,
+    "produits": [
+        {
+            "produit_id": "P1215",
+            "nom": "Ergonomic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 406.6
+        },
+        {
+            "produit_id": "P6435",
+            "nom": "Handcrafted Ball",
+            "quantite": 1,
+            "prix_unitaire": 458.33
+        }
+    ],
+    "date_commande": "2025-03-18T11:05:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1190 Valencia",
+        "ville": "Battle Ground"
+    }
+}

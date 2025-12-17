@@ -1,0 +1,19 @@
+{
+    "order_id": 545639,
+    "client_id": 2819,
+    "produits": [
+        {
+            "produit_id": "P8520",
+            "nom": "Small Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 488.82
+        }
+    ],
+    "date_commande": "2023-07-05T17:40:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "353 Harris",
+        "ville": "Fort Lauderdale"
+    }
+}

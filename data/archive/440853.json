@@ -1,0 +1,21 @@
+{
+    "order_id": 440853,
+    "client_id": 3232,
+    "produits": [
+        {
+            "produit_id": "P7590",
+            "nom": "Tasty Concrete Mouse",
+            "quantite": 5,
+            "prix_unitaire": 218.58
+        },
+        {
+            "produit_id": "P5762",
+            "nom": "Practical Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 184.03
+        }
+    ],
+    "date_commande": "2024-03-27T13:35:54",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

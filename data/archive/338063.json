@@ -1,0 +1,27 @@
+{
+    "order_id": 338063,
+    "client_id": 7802,
+    "produits": [
+        {
+            "produit_id": "P3322",
+            "nom": "Gorgeous Fresh Bike",
+            "quantite": 4,
+            "prix_unitaire": 180.21
+        },
+        {
+            "produit_id": "P5178",
+            "nom": "Tasty Fresh Cheese",
+            "quantite": 3,
+            "prix_unitaire": 201.19
+        },
+        {
+            "produit_id": "P2357",
+            "nom": "Awesome Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 23.64
+        }
+    ],
+    "date_commande": "2025-05-05T02:28:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 668898,
+    "client_id": 2294,
+    "produits": [
+        {
+            "produit_id": "P5271",
+            "nom": "Gorgeous Plastic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 377.28
+        },
+        {
+            "produit_id": "P8336",
+            "nom": "Generic Concrete Chicken",
+            "quantite": 1,
+            "prix_unitaire": 19.88
+        },
+        {
+            "produit_id": "P3800",
+            "nom": "Gorgeous Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 44.57
+        }
+    ],
+    "date_commande": "2024-11-22T13:24:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1020 Federal",
+        "ville": "Union City"
+    }
+}

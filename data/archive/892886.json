@@ -1,0 +1,19 @@
+{
+    "order_id": 892886,
+    "client_id": 3006,
+    "produits": [
+        {
+            "produit_id": "P5870",
+            "nom": "Incredible Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 228.12
+        }
+    ],
+    "date_commande": "2023-10-01T04:49:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "489 Nadell",
+        "ville": "Hobbs"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 926780,
+    "client_id": 3356,
+    "produits": [
+        {
+            "produit_id": "P5341",
+            "nom": "Rustic Gloves",
+            "quantite": 3,
+            "prix_unitaire": 14.99
+        },
+        {
+            "produit_id": "P9984",
+            "nom": "Fantastic Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 104.66
+        }
+    ],
+    "date_commande": "2024-02-02T11:47:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

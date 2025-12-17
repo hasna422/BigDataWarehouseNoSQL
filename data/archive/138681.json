@@ -1,0 +1,19 @@
+{
+    "order_id": 138681,
+    "client_id": 6751,
+    "produits": [
+        {
+            "produit_id": "P0386",
+            "nom": "Tasty Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 257.73
+        }
+    ],
+    "date_commande": "2023-10-25T17:21:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1340 Marine",
+        "ville": "Woburn"
+    }
+}

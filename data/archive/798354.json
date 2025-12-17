@@ -1,0 +1,25 @@
+{
+    "order_id": 798354,
+    "client_id": 8508,
+    "produits": [
+        {
+            "produit_id": "P5208",
+            "nom": "Handcrafted Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 416.27
+        },
+        {
+            "produit_id": "P7366",
+            "nom": "Generic Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 204.51
+        }
+    ],
+    "date_commande": "2025-01-13T01:17:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "444 Bancroft",
+        "ville": "Owensboro"
+    }
+}

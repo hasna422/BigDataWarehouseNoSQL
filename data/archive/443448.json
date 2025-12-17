@@ -1,0 +1,31 @@
+{
+    "order_id": 443448,
+    "client_id": 4755,
+    "produits": [
+        {
+            "produit_id": "P4520",
+            "nom": "Small Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 493.07
+        },
+        {
+            "produit_id": "P1382",
+            "nom": "Licensed Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 419.78
+        },
+        {
+            "produit_id": "P6917",
+            "nom": "Used Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 480.84
+        }
+    ],
+    "date_commande": "2024-07-29T01:17:17",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "29 Dukes",
+        "ville": "Schaumburg"
+    }
+}

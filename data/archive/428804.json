@@ -1,0 +1,25 @@
+{
+    "order_id": 428804,
+    "client_id": 5353,
+    "produits": [
+        {
+            "produit_id": "P5645",
+            "nom": "Sleek Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 424.38
+        },
+        {
+            "produit_id": "P8132",
+            "nom": "Intelligent Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 307.14
+        }
+    ],
+    "date_commande": "2023-11-18T06:41:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "26 Belgrave",
+        "ville": "Inver Grove Heights"
+    }
+}

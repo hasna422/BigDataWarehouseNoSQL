@@ -1,0 +1,19 @@
+{
+    "order_id": 429058,
+    "client_id": 9112,
+    "produits": [
+        {
+            "produit_id": "P2311",
+            "nom": "Refined Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 82.88
+        }
+    ],
+    "date_commande": "2024-12-20T03:51:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "540 Osage",
+        "ville": "Des Moines"
+    }
+}

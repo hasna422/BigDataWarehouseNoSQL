@@ -1,0 +1,31 @@
+{
+    "order_id": 616041,
+    "client_id": 8081,
+    "produits": [
+        {
+            "produit_id": "P5420",
+            "nom": "New Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 191.92
+        },
+        {
+            "produit_id": "P7643",
+            "nom": "Ball",
+            "quantite": 5,
+            "prix_unitaire": 471.99
+        },
+        {
+            "produit_id": "P4799",
+            "nom": "Used Soap",
+            "quantite": 1,
+            "prix_unitaire": 127.77
+        }
+    ],
+    "date_commande": "2025-02-13T00:02:59",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1350 Imperial",
+        "ville": "Burlingame"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 182165,
+    "client_id": 4716,
+    "produits": [
+        {
+            "produit_id": "P9011",
+            "nom": "Unbranded Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 273.09
+        }
+    ],
+    "date_commande": "2024-02-23T16:09:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

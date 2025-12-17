@@ -1,0 +1,21 @@
+{
+    "order_id": 129879,
+    "client_id": 4626,
+    "produits": [
+        {
+            "produit_id": "P2871",
+            "nom": "For repair Frozen Mouse",
+            "quantite": 1,
+            "prix_unitaire": 85.79
+        },
+        {
+            "produit_id": "P0158",
+            "nom": "Practical Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 131.22
+        }
+    ],
+    "date_commande": "2023-12-06T15:33:22",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

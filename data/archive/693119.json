@@ -1,0 +1,25 @@
+{
+    "order_id": 693119,
+    "client_id": 2923,
+    "produits": [
+        {
+            "produit_id": "P0242",
+            "nom": "New Metal Cheese",
+            "quantite": 3,
+            "prix_unitaire": 222.69
+        },
+        {
+            "produit_id": "P1438",
+            "nom": "Handmade Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 400.93
+        }
+    ],
+    "date_commande": "2023-08-03T16:34:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "365 Copper",
+        "ville": "Irving"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 676392,
+    "client_id": 2968,
+    "produits": [
+        {
+            "produit_id": "P5723",
+            "nom": "Unbranded Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 481.03
+        }
+    ],
+    "date_commande": "2024-03-13T22:07:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "680 Mesa",
+        "ville": "Smyrna"
+    }
+}

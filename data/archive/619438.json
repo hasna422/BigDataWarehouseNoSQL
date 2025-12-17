@@ -1,0 +1,27 @@
+{
+    "order_id": 619438,
+    "client_id": 9547,
+    "produits": [
+        {
+            "produit_id": "P4594",
+            "nom": "Refined Tuna",
+            "quantite": 4,
+            "prix_unitaire": 19.56
+        },
+        {
+            "produit_id": "P7058",
+            "nom": "Tasty Soft Cheese",
+            "quantite": 2,
+            "prix_unitaire": 338.71
+        },
+        {
+            "produit_id": "P9393",
+            "nom": "Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 217.16
+        }
+    ],
+    "date_commande": "2024-08-11T10:02:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

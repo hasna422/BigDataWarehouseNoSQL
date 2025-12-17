@@ -1,0 +1,19 @@
+{
+    "order_id": 393696,
+    "client_id": 7887,
+    "produits": [
+        {
+            "produit_id": "P8877",
+            "nom": "Sleek Concrete Soap",
+            "quantite": 3,
+            "prix_unitaire": 185.03
+        }
+    ],
+    "date_commande": "2024-10-29T01:18:14",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1377 Nottingham",
+        "ville": "Hesperia"
+    }
+}

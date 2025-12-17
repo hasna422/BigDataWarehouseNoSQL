@@ -1,0 +1,15 @@
+{
+    "order_id": 169146,
+    "client_id": 5225,
+    "produits": [
+        {
+            "produit_id": "P1563",
+            "nom": "Used Fresh Mouse",
+            "quantite": 5,
+            "prix_unitaire": 90.5
+        }
+    ],
+    "date_commande": "2024-12-17T16:57:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

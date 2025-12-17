@@ -1,0 +1,19 @@
+{
+    "order_id": 202505,
+    "client_id": 9433,
+    "produits": [
+        {
+            "produit_id": "P8231",
+            "nom": "Tasty Plastic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 283.22
+        }
+    ],
+    "date_commande": "2023-11-21T03:56:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1278 Sydney",
+        "ville": "Abilene"
+    }
+}

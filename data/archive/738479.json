@@ -1,0 +1,25 @@
+{
+    "order_id": 738479,
+    "client_id": 3619,
+    "produits": [
+        {
+            "produit_id": "P1874",
+            "nom": "Intelligent Metal Soap",
+            "quantite": 4,
+            "prix_unitaire": 467.97
+        },
+        {
+            "produit_id": "P5184",
+            "nom": "Practical Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 9.52
+        }
+    ],
+    "date_commande": "2024-07-10T02:57:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "436 Vicente",
+        "ville": "Boulder"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 322179,
+    "client_id": 6166,
+    "produits": [
+        {
+            "produit_id": "P6868",
+            "nom": "Sleek Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 265.86
+        },
+        {
+            "produit_id": "P4738",
+            "nom": "Refined Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 361.79
+        },
+        {
+            "produit_id": "P8693",
+            "nom": "Ergonomic Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 336.72
+        }
+    ],
+    "date_commande": "2024-03-21T01:47:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1214 Shannon",
+        "ville": "Taylor"
+    }
+}

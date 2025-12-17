@@ -1,0 +1,19 @@
+{
+    "order_id": 847510,
+    "client_id": 5760,
+    "produits": [
+        {
+            "produit_id": "P2688",
+            "nom": "New Fresh Cheese",
+            "quantite": 3,
+            "prix_unitaire": 276.93
+        }
+    ],
+    "date_commande": "2024-12-11T20:27:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "621 Newell",
+        "ville": "Bristol"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 493323,
+    "client_id": 3333,
+    "produits": [
+        {
+            "produit_id": "P3457",
+            "nom": "Awesome Steel Soap",
+            "quantite": 3,
+            "prix_unitaire": 373.31
+        },
+        {
+            "produit_id": "P2624",
+            "nom": "Licensed Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 146.38
+        },
+        {
+            "produit_id": "P7665",
+            "nom": "Handcrafted Concrete Chair",
+            "quantite": 3,
+            "prix_unitaire": 427.86
+        }
+    ],
+    "date_commande": "2025-04-20T07:56:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

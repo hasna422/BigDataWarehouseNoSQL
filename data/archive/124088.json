@@ -1,0 +1,15 @@
+{
+    "order_id": 124088,
+    "client_id": 1422,
+    "produits": [
+        {
+            "produit_id": "P9959",
+            "nom": "Tasty Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 284.61
+        }
+    ],
+    "date_commande": "2024-09-08T18:35:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

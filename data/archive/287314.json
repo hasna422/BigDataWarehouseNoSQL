@@ -1,0 +1,19 @@
+{
+    "order_id": 287314,
+    "client_id": 3093,
+    "produits": [
+        {
+            "produit_id": "P2608",
+            "nom": "Handcrafted Rubber Car",
+            "quantite": 2,
+            "prix_unitaire": 394.45
+        }
+    ],
+    "date_commande": "2024-10-27T02:57:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "535 Ludlow",
+        "ville": "Sandy Springs"
+    }
+}

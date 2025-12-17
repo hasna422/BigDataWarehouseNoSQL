@@ -1,0 +1,21 @@
+{
+    "order_id": 471573,
+    "client_id": 8190,
+    "produits": [
+        {
+            "produit_id": "P7248",
+            "nom": "Fantastic Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 416.21
+        },
+        {
+            "produit_id": "P8461",
+            "nom": "Gorgeous Granite Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 276.04
+        }
+    ],
+    "date_commande": "2023-10-28T15:15:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

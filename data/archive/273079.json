@@ -1,0 +1,31 @@
+{
+    "order_id": 273079,
+    "client_id": 2396,
+    "produits": [
+        {
+            "produit_id": "P4952",
+            "nom": "Incredible Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 60.22
+        },
+        {
+            "produit_id": "P0358",
+            "nom": "Fantastic Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 441.0
+        },
+        {
+            "produit_id": "P7037",
+            "nom": "Handmade Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 109.93
+        }
+    ],
+    "date_commande": "2024-02-12T08:42:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1310 San Marcos",
+        "ville": "Alvin"
+    }
+}

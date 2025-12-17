@@ -1,0 +1,25 @@
+{
+    "order_id": 840843,
+    "client_id": 5435,
+    "produits": [
+        {
+            "produit_id": "P8460",
+            "nom": "Practical Table",
+            "quantite": 3,
+            "prix_unitaire": 13.75
+        },
+        {
+            "produit_id": "P6924",
+            "nom": "New Shoes",
+            "quantite": 4,
+            "prix_unitaire": 280.15
+        }
+    ],
+    "date_commande": "2023-11-08T21:05:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "69 Ulloa",
+        "ville": "Forest Grove"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 787696,
+    "client_id": 8988,
+    "produits": [
+        {
+            "produit_id": "P8583",
+            "nom": "Generic Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 326.09
+        },
+        {
+            "produit_id": "P6741",
+            "nom": "Incredible Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 111.23
+        },
+        {
+            "produit_id": "P3173",
+            "nom": "Awesome Cotton Computer",
+            "quantite": 5,
+            "prix_unitaire": 182.98
+        }
+    ],
+    "date_commande": "2023-08-24T06:49:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "137 Alemany",
+        "ville": "Wausau"
+    }
+}

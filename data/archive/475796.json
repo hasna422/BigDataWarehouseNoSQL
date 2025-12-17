@@ -1,0 +1,25 @@
+{
+    "order_id": 475796,
+    "client_id": 4230,
+    "produits": [
+        {
+            "produit_id": "P4951",
+            "nom": "Gorgeous Chair",
+            "quantite": 1,
+            "prix_unitaire": 125.19
+        },
+        {
+            "produit_id": "P1503",
+            "nom": "For repair Steel Salad",
+            "quantite": 2,
+            "prix_unitaire": 173.86
+        }
+    ],
+    "date_commande": "2023-11-19T09:52:56",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "790 Harkness",
+        "ville": "West St. Paul"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 743043,
+    "client_id": 8123,
+    "produits": [
+        {
+            "produit_id": "P0470",
+            "nom": "Rustic Pants",
+            "quantite": 1,
+            "prix_unitaire": 423.53
+        },
+        {
+            "produit_id": "P5193",
+            "nom": "Intelligent Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 467.69
+        }
+    ],
+    "date_commande": "2023-09-16T02:09:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "405 Northern",
+        "ville": "Fairfax"
+    }
+}

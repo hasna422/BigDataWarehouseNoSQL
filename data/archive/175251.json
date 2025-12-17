@@ -1,0 +1,15 @@
+{
+    "order_id": 175251,
+    "client_id": 8739,
+    "produits": [
+        {
+            "produit_id": "P6854",
+            "nom": "New Granite Computer",
+            "quantite": 5,
+            "prix_unitaire": 499.92
+        }
+    ],
+    "date_commande": "2024-07-11T02:02:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

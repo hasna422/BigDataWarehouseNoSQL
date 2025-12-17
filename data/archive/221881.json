@@ -1,0 +1,31 @@
+{
+    "order_id": 221881,
+    "client_id": 5036,
+    "produits": [
+        {
+            "produit_id": "P5783",
+            "nom": "Generic Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 317.84
+        },
+        {
+            "produit_id": "P2287",
+            "nom": "Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 473.68
+        },
+        {
+            "produit_id": "P0508",
+            "nom": "Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 94.49
+        }
+    ],
+    "date_commande": "2023-08-19T03:48:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "771 Kempton",
+        "ville": "Cottonwood Heights"
+    }
+}

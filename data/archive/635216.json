@@ -1,0 +1,15 @@
+{
+    "order_id": 635216,
+    "client_id": 4474,
+    "produits": [
+        {
+            "produit_id": "P7711",
+            "nom": "Handcrafted Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 171.17
+        }
+    ],
+    "date_commande": "2023-09-26T21:11:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

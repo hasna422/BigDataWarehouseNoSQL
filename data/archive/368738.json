@@ -1,0 +1,19 @@
+{
+    "order_id": 368738,
+    "client_id": 6265,
+    "produits": [
+        {
+            "produit_id": "P4401",
+            "nom": "Handcrafted Pants",
+            "quantite": 1,
+            "prix_unitaire": 341.07
+        }
+    ],
+    "date_commande": "2025-01-12T16:00:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "208 Broadmoor",
+        "ville": "Cary"
+    }
+}

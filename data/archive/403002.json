@@ -1,0 +1,25 @@
+{
+    "order_id": 403002,
+    "client_id": 3119,
+    "produits": [
+        {
+            "produit_id": "P0896",
+            "nom": "Ergonomic Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 126.99
+        },
+        {
+            "produit_id": "P7071",
+            "nom": "Fantastic Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 277.31
+        }
+    ],
+    "date_commande": "2023-08-05T03:39:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "31 Matthew",
+        "ville": "Sikeston"
+    }
+}

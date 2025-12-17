@@ -1,0 +1,25 @@
+{
+    "order_id": 344911,
+    "client_id": 2766,
+    "produits": [
+        {
+            "produit_id": "P0118",
+            "nom": "Ergonomic Rubber Salad",
+            "quantite": 2,
+            "prix_unitaire": 134.04
+        },
+        {
+            "produit_id": "P4937",
+            "nom": "Fantastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 108.86
+        }
+    ],
+    "date_commande": "2024-10-23T03:29:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "283 Bertha",
+        "ville": "Terre Haute"
+    }
+}

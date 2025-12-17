@@ -1,0 +1,19 @@
+{
+    "order_id": 922688,
+    "client_id": 4045,
+    "produits": [
+        {
+            "produit_id": "P6947",
+            "nom": "Refined Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 374.71
+        }
+    ],
+    "date_commande": "2024-08-21T21:42:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "471 Scotland",
+        "ville": "Ansonia"
+    }
+}

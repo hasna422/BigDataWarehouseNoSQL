@@ -1,0 +1,27 @@
+{
+    "order_id": 909730,
+    "client_id": 4420,
+    "produits": [
+        {
+            "produit_id": "P8977",
+            "nom": "Incredible Chair",
+            "quantite": 4,
+            "prix_unitaire": 127.04
+        },
+        {
+            "produit_id": "P2009",
+            "nom": "Incredible Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 300.13
+        },
+        {
+            "produit_id": "P6637",
+            "nom": "Concrete Gloves",
+            "quantite": 4,
+            "prix_unitaire": 355.63
+        }
+    ],
+    "date_commande": "2024-03-24T06:02:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

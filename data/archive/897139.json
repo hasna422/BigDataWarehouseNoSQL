@@ -1,0 +1,19 @@
+{
+    "order_id": 897139,
+    "client_id": 5836,
+    "produits": [
+        {
+            "produit_id": "P9942",
+            "nom": "Handcrafted Granite Mouse",
+            "quantite": 3,
+            "prix_unitaire": 28.29
+        }
+    ],
+    "date_commande": "2025-01-25T12:57:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1128 Macarthur",
+        "ville": "Ocala"
+    }
+}

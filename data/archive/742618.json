@@ -1,0 +1,19 @@
+{
+    "order_id": 742618,
+    "client_id": 5871,
+    "produits": [
+        {
+            "produit_id": "P3728",
+            "nom": "Frozen Hat",
+            "quantite": 2,
+            "prix_unitaire": 129.12
+        }
+    ],
+    "date_commande": "2024-09-20T10:49:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "628 Cherry",
+        "ville": "Texas City"
+    }
+}

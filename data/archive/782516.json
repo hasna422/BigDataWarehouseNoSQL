@@ -1,0 +1,15 @@
+{
+    "order_id": 782516,
+    "client_id": 3676,
+    "produits": [
+        {
+            "produit_id": "P7359",
+            "nom": "Rustic Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 20.27
+        }
+    ],
+    "date_commande": "2024-04-30T03:56:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

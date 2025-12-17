@@ -1,0 +1,15 @@
+{
+    "order_id": 457201,
+    "client_id": 4807,
+    "produits": [
+        {
+            "produit_id": "P1859",
+            "nom": "Sleek Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 282.63
+        }
+    ],
+    "date_commande": "2025-04-26T18:38:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

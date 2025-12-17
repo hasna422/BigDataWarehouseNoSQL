@@ -1,0 +1,19 @@
+{
+    "order_id": 259455,
+    "client_id": 6567,
+    "produits": [
+        {
+            "produit_id": "P5503",
+            "nom": "Handmade Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 436.07
+        }
+    ],
+    "date_commande": "2023-10-12T05:29:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "831 Nellie",
+        "ville": "North Little Rock"
+    }
+}

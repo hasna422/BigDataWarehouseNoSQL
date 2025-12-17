@@ -1,0 +1,21 @@
+{
+    "order_id": 938214,
+    "client_id": 7021,
+    "produits": [
+        {
+            "produit_id": "P5690",
+            "nom": "Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 364.18
+        },
+        {
+            "produit_id": "P0318",
+            "nom": "Refined Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 41.16
+        }
+    ],
+    "date_commande": "2023-06-10T17:29:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

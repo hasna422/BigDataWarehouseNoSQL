@@ -1,0 +1,27 @@
+{
+    "order_id": 805726,
+    "client_id": 8940,
+    "produits": [
+        {
+            "produit_id": "P9545",
+            "nom": "Licensed Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 149.23
+        },
+        {
+            "produit_id": "P8863",
+            "nom": "For repair Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 438.98
+        },
+        {
+            "produit_id": "P2955",
+            "nom": "Ergonomic Cotton Chips",
+            "quantite": 1,
+            "prix_unitaire": 220.73
+        }
+    ],
+    "date_commande": "2024-02-24T12:58:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

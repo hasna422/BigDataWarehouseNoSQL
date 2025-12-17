@@ -1,0 +1,25 @@
+{
+    "order_id": 292198,
+    "client_id": 1819,
+    "produits": [
+        {
+            "produit_id": "P9527",
+            "nom": "Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 440.21
+        },
+        {
+            "produit_id": "P0728",
+            "nom": "Handcrafted Chicken",
+            "quantite": 1,
+            "prix_unitaire": 296.19
+        }
+    ],
+    "date_commande": "2023-12-09T14:53:00",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "645 Camellia",
+        "ville": "Golden"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 527016,
+    "client_id": 1276,
+    "produits": [
+        {
+            "produit_id": "P0127",
+            "nom": "Tasty Granite Chair",
+            "quantite": 3,
+            "prix_unitaire": 21.32
+        },
+        {
+            "produit_id": "P1523",
+            "nom": "Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 408.92
+        }
+    ],
+    "date_commande": "2023-06-06T21:07:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

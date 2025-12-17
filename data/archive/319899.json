@@ -1,0 +1,19 @@
+{
+    "order_id": 319899,
+    "client_id": 5024,
+    "produits": [
+        {
+            "produit_id": "P3999",
+            "nom": "Handcrafted Soft Table",
+            "quantite": 4,
+            "prix_unitaire": 152.82
+        }
+    ],
+    "date_commande": "2024-06-15T05:56:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "606 Crags",
+        "ville": "National City"
+    }
+}

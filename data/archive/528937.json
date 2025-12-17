@@ -1,0 +1,31 @@
+{
+    "order_id": 528937,
+    "client_id": 9311,
+    "produits": [
+        {
+            "produit_id": "P1528",
+            "nom": "Fantastic Cotton Chair",
+            "quantite": 3,
+            "prix_unitaire": 199.75
+        },
+        {
+            "produit_id": "P6804",
+            "nom": "Gorgeous Plastic Mouse",
+            "quantite": 3,
+            "prix_unitaire": 302.27
+        },
+        {
+            "produit_id": "P3688",
+            "nom": "Used Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 84.07
+        }
+    ],
+    "date_commande": "2024-10-06T14:32:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "84 Fairfield",
+        "ville": "Boston"
+    }
+}

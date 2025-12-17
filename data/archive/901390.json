@@ -1,0 +1,19 @@
+{
+    "order_id": 901390,
+    "client_id": 9408,
+    "produits": [
+        {
+            "produit_id": "P1807",
+            "nom": "Practical Computer",
+            "quantite": 5,
+            "prix_unitaire": 259.47
+        }
+    ],
+    "date_commande": "2024-11-02T09:41:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "830 Downey",
+        "ville": "Pleasantville"
+    }
+}

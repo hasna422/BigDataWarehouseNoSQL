@@ -1,0 +1,31 @@
+{
+    "order_id": 251120,
+    "client_id": 3111,
+    "produits": [
+        {
+            "produit_id": "P2579",
+            "nom": "New Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 440.74
+        },
+        {
+            "produit_id": "P7098",
+            "nom": "Ergonomic Fresh Pizza",
+            "quantite": 3,
+            "prix_unitaire": 25.04
+        },
+        {
+            "produit_id": "P5584",
+            "nom": "Sleek Metal Pizza",
+            "quantite": 5,
+            "prix_unitaire": 373.73
+        }
+    ],
+    "date_commande": "2024-07-24T12:47:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1132 Lapu-Lapu",
+        "ville": "Boulder"
+    }
+}

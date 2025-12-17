@@ -1,0 +1,15 @@
+{
+    "order_id": 297730,
+    "client_id": 4151,
+    "produits": [
+        {
+            "produit_id": "P3031",
+            "nom": "Small Concrete Ball",
+            "quantite": 5,
+            "prix_unitaire": 27.27
+        }
+    ],
+    "date_commande": "2024-08-06T23:45:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

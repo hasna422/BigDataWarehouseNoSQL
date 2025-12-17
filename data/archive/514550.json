@@ -1,0 +1,31 @@
+{
+    "order_id": 514550,
+    "client_id": 1801,
+    "produits": [
+        {
+            "produit_id": "P6793",
+            "nom": "Awesome Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 32.07
+        },
+        {
+            "produit_id": "P4893",
+            "nom": "Practical Granite Shoes",
+            "quantite": 3,
+            "prix_unitaire": 333.93
+        },
+        {
+            "produit_id": "P6547",
+            "nom": "Refined Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 275.59
+        }
+    ],
+    "date_commande": "2025-01-07T03:21:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "66 Lester",
+        "ville": "Hobart"
+    }
+}

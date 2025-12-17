@@ -1,0 +1,19 @@
+{
+    "order_id": 420203,
+    "client_id": 3662,
+    "produits": [
+        {
+            "produit_id": "P0038",
+            "nom": "Unbranded Cheese",
+            "quantite": 2,
+            "prix_unitaire": 215.31
+        }
+    ],
+    "date_commande": "2024-11-11T17:29:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "259 Mint",
+        "ville": "Shelton"
+    }
+}

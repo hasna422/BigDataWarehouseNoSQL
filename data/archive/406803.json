@@ -1,0 +1,21 @@
+{
+    "order_id": 406803,
+    "client_id": 7101,
+    "produits": [
+        {
+            "produit_id": "P6691",
+            "nom": "Used Concrete Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 214.38
+        },
+        {
+            "produit_id": "P6580",
+            "nom": "Rustic Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 157.08
+        }
+    ],
+    "date_commande": "2024-10-27T17:52:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

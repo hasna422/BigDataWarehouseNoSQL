@@ -1,0 +1,27 @@
+{
+    "order_id": 923247,
+    "client_id": 2267,
+    "produits": [
+        {
+            "produit_id": "P6024",
+            "nom": "Tasty Rubber Computer",
+            "quantite": 3,
+            "prix_unitaire": 139.09
+        },
+        {
+            "produit_id": "P5056",
+            "nom": "Generic Granite Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 56.75
+        },
+        {
+            "produit_id": "P5611",
+            "nom": "Gently Used Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 297.39
+        }
+    ],
+    "date_commande": "2024-11-06T23:35:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

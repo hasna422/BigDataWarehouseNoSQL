@@ -1,0 +1,19 @@
+{
+    "order_id": 705094,
+    "client_id": 1504,
+    "produits": [
+        {
+            "produit_id": "P6020",
+            "nom": "Steel Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 250.62
+        }
+    ],
+    "date_commande": "2024-09-10T06:55:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "892 Midway",
+        "ville": "Huntley"
+    }
+}

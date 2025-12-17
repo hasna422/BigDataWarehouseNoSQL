@@ -1,0 +1,19 @@
+{
+    "order_id": 577677,
+    "client_id": 3988,
+    "produits": [
+        {
+            "produit_id": "P0367",
+            "nom": "Small Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 323.25
+        }
+    ],
+    "date_commande": "2025-01-22T12:49:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "977 Phoenix",
+        "ville": "Wausau"
+    }
+}

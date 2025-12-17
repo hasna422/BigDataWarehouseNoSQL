@@ -1,0 +1,19 @@
+{
+    "order_id": 179603,
+    "client_id": 5680,
+    "produits": [
+        {
+            "produit_id": "P7818",
+            "nom": "Ergonomic Frozen Salad",
+            "quantite": 5,
+            "prix_unitaire": 429.83
+        }
+    ],
+    "date_commande": "2023-10-01T04:03:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "740 Polaris",
+        "ville": "Burnsville"
+    }
+}

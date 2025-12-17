@@ -1,0 +1,25 @@
+{
+    "order_id": 649856,
+    "client_id": 2451,
+    "produits": [
+        {
+            "produit_id": "P8407",
+            "nom": "Incredible Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 412.63
+        },
+        {
+            "produit_id": "P7946",
+            "nom": "Incredible Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 313.45
+        }
+    ],
+    "date_commande": "2024-09-05T23:14:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "62 Russia",
+        "ville": "Colleyville"
+    }
+}

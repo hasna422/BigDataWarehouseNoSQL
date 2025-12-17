@@ -1,0 +1,25 @@
+{
+    "order_id": 875180,
+    "client_id": 2643,
+    "produits": [
+        {
+            "produit_id": "P1280",
+            "nom": "Used Rubber Chips",
+            "quantite": 2,
+            "prix_unitaire": 481.32
+        },
+        {
+            "produit_id": "P2063",
+            "nom": "Tasty Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 304.28
+        }
+    ],
+    "date_commande": "2025-01-07T08:40:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1071 Sadowa",
+        "ville": "Asheboro"
+    }
+}

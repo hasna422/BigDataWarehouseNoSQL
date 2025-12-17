@@ -1,0 +1,19 @@
+{
+    "order_id": 901081,
+    "client_id": 7418,
+    "produits": [
+        {
+            "produit_id": "P4576",
+            "nom": "Concrete Chair",
+            "quantite": 1,
+            "prix_unitaire": 225.76
+        }
+    ],
+    "date_commande": "2024-08-14T00:21:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1281 Colby",
+        "ville": "Midwest City"
+    }
+}

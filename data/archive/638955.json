@@ -1,0 +1,21 @@
+{
+    "order_id": 638955,
+    "client_id": 2345,
+    "produits": [
+        {
+            "produit_id": "P8139",
+            "nom": "For repair Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 151.68
+        },
+        {
+            "produit_id": "P4353",
+            "nom": "Licensed Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 347.17
+        }
+    ],
+    "date_commande": "2023-08-18T21:54:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

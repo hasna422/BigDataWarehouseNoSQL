@@ -1,0 +1,15 @@
+{
+    "order_id": 224058,
+    "client_id": 8925,
+    "produits": [
+        {
+            "produit_id": "P7437",
+            "nom": "Intelligent Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 284.84
+        }
+    ],
+    "date_commande": "2023-12-24T10:30:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

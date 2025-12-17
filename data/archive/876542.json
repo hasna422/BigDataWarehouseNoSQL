@@ -1,0 +1,19 @@
+{
+    "order_id": 876542,
+    "client_id": 6824,
+    "produits": [
+        {
+            "produit_id": "P0424",
+            "nom": "Sleek Metal Gloves",
+            "quantite": 1,
+            "prix_unitaire": 139.25
+        }
+    ],
+    "date_commande": "2024-09-26T01:57:17",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1037 Lansing",
+        "ville": "Mayfield Heights"
+    }
+}

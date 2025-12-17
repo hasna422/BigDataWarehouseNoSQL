@@ -1,0 +1,31 @@
+{
+    "order_id": 771484,
+    "client_id": 2782,
+    "produits": [
+        {
+            "produit_id": "P7926",
+            "nom": "Handcrafted Soft Mouse",
+            "quantite": 1,
+            "prix_unitaire": 129.33
+        },
+        {
+            "produit_id": "P9012",
+            "nom": "Gently Used Cotton Bacon",
+            "quantite": 3,
+            "prix_unitaire": 244.29
+        },
+        {
+            "produit_id": "P6875",
+            "nom": "Tasty Granite Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 88.14
+        }
+    ],
+    "date_commande": "2025-01-15T14:07:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "576 Northwood",
+        "ville": "Derby"
+    }
+}

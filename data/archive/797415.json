@@ -1,0 +1,19 @@
+{
+    "order_id": 797415,
+    "client_id": 5746,
+    "produits": [
+        {
+            "produit_id": "P2525",
+            "nom": "Car",
+            "quantite": 5,
+            "prix_unitaire": 335.9
+        }
+    ],
+    "date_commande": "2024-08-01T16:31:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "280 Spruce",
+        "ville": "Rancho Cordova"
+    }
+}

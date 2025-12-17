@@ -1,0 +1,19 @@
+{
+    "order_id": 735002,
+    "client_id": 2938,
+    "produits": [
+        {
+            "produit_id": "P9394",
+            "nom": "Gently Used Hat",
+            "quantite": 4,
+            "prix_unitaire": 257.45
+        }
+    ],
+    "date_commande": "2025-02-19T07:24:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "681 Whipple",
+        "ville": "Visalia"
+    }
+}

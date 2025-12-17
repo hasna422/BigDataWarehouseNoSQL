@@ -1,0 +1,27 @@
+{
+    "order_id": 972006,
+    "client_id": 5506,
+    "produits": [
+        {
+            "produit_id": "P4576",
+            "nom": "Unbranded Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 30.15
+        },
+        {
+            "produit_id": "P2254",
+            "nom": "Intelligent Fresh Shoes",
+            "quantite": 5,
+            "prix_unitaire": 163.08
+        },
+        {
+            "produit_id": "P8729",
+            "nom": "Fantastic Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 435.38
+        }
+    ],
+    "date_commande": "2025-01-31T00:10:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 888452,
+    "client_id": 7680,
+    "produits": [
+        {
+            "produit_id": "P1552",
+            "nom": "Refined Pants",
+            "quantite": 2,
+            "prix_unitaire": 452.94
+        }
+    ],
+    "date_commande": "2023-11-04T14:27:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1351 Mississippi",
+        "ville": "South Burlington"
+    }
+}

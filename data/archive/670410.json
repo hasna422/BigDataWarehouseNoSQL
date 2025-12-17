@@ -1,0 +1,25 @@
+{
+    "order_id": 670410,
+    "client_id": 3258,
+    "produits": [
+        {
+            "produit_id": "P3153",
+            "nom": "Gently Used Fresh Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 433.5
+        },
+        {
+            "produit_id": "P2621",
+            "nom": "Fresh Chair",
+            "quantite": 4,
+            "prix_unitaire": 175.51
+        }
+    ],
+    "date_commande": "2024-12-31T17:32:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "370 Moulton",
+        "ville": "Howard"
+    }
+}

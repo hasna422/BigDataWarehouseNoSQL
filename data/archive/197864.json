@@ -1,0 +1,25 @@
+{
+    "order_id": 197864,
+    "client_id": 9132,
+    "produits": [
+        {
+            "produit_id": "P5441",
+            "nom": "For repair Plastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 307.95
+        },
+        {
+            "produit_id": "P4905",
+            "nom": "Rustic Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 303.89
+        }
+    ],
+    "date_commande": "2023-07-31T15:17:48",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1377 Villa",
+        "ville": "Goodyear"
+    }
+}

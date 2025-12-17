@@ -1,0 +1,27 @@
+{
+    "order_id": 397966,
+    "client_id": 7553,
+    "produits": [
+        {
+            "produit_id": "P3014",
+            "nom": "Ergonomic Soft Chair",
+            "quantite": 4,
+            "prix_unitaire": 425.34
+        },
+        {
+            "produit_id": "P5978",
+            "nom": "Ergonomic Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 128.62
+        },
+        {
+            "produit_id": "P5706",
+            "nom": "Licensed Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 369.41
+        }
+    ],
+    "date_commande": "2024-05-05T18:39:58",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

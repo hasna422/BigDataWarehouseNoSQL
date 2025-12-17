@@ -1,0 +1,27 @@
+{
+    "order_id": 522340,
+    "client_id": 5895,
+    "produits": [
+        {
+            "produit_id": "P9425",
+            "nom": "Licensed Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 491.8
+        },
+        {
+            "produit_id": "P2635",
+            "nom": "Gently Used Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 242.44
+        },
+        {
+            "produit_id": "P6726",
+            "nom": "New Frozen Pants",
+            "quantite": 4,
+            "prix_unitaire": 19.31
+        }
+    ],
+    "date_commande": "2023-08-14T16:05:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

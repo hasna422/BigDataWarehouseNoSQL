@@ -1,0 +1,21 @@
+{
+    "order_id": 603689,
+    "client_id": 3584,
+    "produits": [
+        {
+            "produit_id": "P6840",
+            "nom": "For repair Chips",
+            "quantite": 1,
+            "prix_unitaire": 330.92
+        },
+        {
+            "produit_id": "P3965",
+            "nom": "Practical Soft Fish",
+            "quantite": 5,
+            "prix_unitaire": 22.08
+        }
+    ],
+    "date_commande": "2024-11-02T14:56:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

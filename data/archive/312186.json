@@ -1,0 +1,25 @@
+{
+    "order_id": 312186,
+    "client_id": 7299,
+    "produits": [
+        {
+            "produit_id": "P1694",
+            "nom": "For repair Shoes",
+            "quantite": 1,
+            "prix_unitaire": 494.51
+        },
+        {
+            "produit_id": "P0612",
+            "nom": "Tasty Wooden Bacon",
+            "quantite": 5,
+            "prix_unitaire": 59.92
+        }
+    ],
+    "date_commande": "2025-04-27T14:36:29",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1007 Cabrillo",
+        "ville": "Edinburg"
+    }
+}

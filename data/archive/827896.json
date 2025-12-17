@@ -1,0 +1,27 @@
+{
+    "order_id": 827896,
+    "client_id": 6061,
+    "produits": [
+        {
+            "produit_id": "P5578",
+            "nom": "Small Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 120.01
+        },
+        {
+            "produit_id": "P3396",
+            "nom": "Incredible Rubber Bacon",
+            "quantite": 5,
+            "prix_unitaire": 265.96
+        },
+        {
+            "produit_id": "P3492",
+            "nom": "Refined Steel Cheese",
+            "quantite": 5,
+            "prix_unitaire": 366.57
+        }
+    ],
+    "date_commande": "2025-02-23T01:11:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

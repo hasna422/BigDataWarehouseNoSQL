@@ -1,0 +1,25 @@
+{
+    "order_id": 956704,
+    "client_id": 3563,
+    "produits": [
+        {
+            "produit_id": "P8097",
+            "nom": "Handcrafted Metal Chicken",
+            "quantite": 2,
+            "prix_unitaire": 343.07
+        },
+        {
+            "produit_id": "P0130",
+            "nom": "Handcrafted Frozen Soap",
+            "quantite": 1,
+            "prix_unitaire": 370.96
+        }
+    ],
+    "date_commande": "2025-02-04T23:02:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "346 Baldwin",
+        "ville": "Blue Springs"
+    }
+}

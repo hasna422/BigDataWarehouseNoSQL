@@ -1,0 +1,19 @@
+{
+    "order_id": 586508,
+    "client_id": 4327,
+    "produits": [
+        {
+            "produit_id": "P9937",
+            "nom": "Used Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 105.11
+        }
+    ],
+    "date_commande": "2023-11-24T21:03:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "179 San Jacinto",
+        "ville": "Yuba City"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 855319,
+    "client_id": 5142,
+    "produits": [
+        {
+            "produit_id": "P9642",
+            "nom": "Incredible Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 205.11
+        },
+        {
+            "produit_id": "P3650",
+            "nom": "Fantastic Plastic Table",
+            "quantite": 5,
+            "prix_unitaire": 337.85
+        },
+        {
+            "produit_id": "P9458",
+            "nom": "Unbranded Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 283.88
+        }
+    ],
+    "date_commande": "2023-09-30T16:01:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1368 Chancery",
+        "ville": "Biloxi"
+    }
+}

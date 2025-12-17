@@ -1,0 +1,19 @@
+{
+    "order_id": 982883,
+    "client_id": 4533,
+    "produits": [
+        {
+            "produit_id": "P6271",
+            "nom": "Handmade Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 54.04
+        }
+    ],
+    "date_commande": "2024-12-19T22:16:27",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1189 Cashmere",
+        "ville": "Seattle"
+    }
+}

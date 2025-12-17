@@ -1,0 +1,25 @@
+{
+    "order_id": 566190,
+    "client_id": 1001,
+    "produits": [
+        {
+            "produit_id": "P5456",
+            "nom": "Gently Used Granite Shirt",
+            "quantite": 2,
+            "prix_unitaire": 392.96
+        },
+        {
+            "produit_id": "P8140",
+            "nom": "Used Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 158.68
+        }
+    ],
+    "date_commande": "2023-10-12T14:10:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1265 Mandalay",
+        "ville": "Helena"
+    }
+}

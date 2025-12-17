@@ -1,0 +1,25 @@
+{
+    "order_id": 457628,
+    "client_id": 4073,
+    "produits": [
+        {
+            "produit_id": "P9310",
+            "nom": "Handcrafted Wooden Ball",
+            "quantite": 5,
+            "prix_unitaire": 126.96
+        },
+        {
+            "produit_id": "P7496",
+            "nom": "Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 404.2
+        }
+    ],
+    "date_commande": "2024-12-19T09:46:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "743 Ash",
+        "ville": "Culver City"
+    }
+}

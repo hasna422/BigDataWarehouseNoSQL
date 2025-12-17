@@ -1,0 +1,15 @@
+{
+    "order_id": 469793,
+    "client_id": 6097,
+    "produits": [
+        {
+            "produit_id": "P9564",
+            "nom": "Tasty Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 487.96
+        }
+    ],
+    "date_commande": "2024-03-27T15:18:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

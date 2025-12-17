@@ -1,0 +1,15 @@
+{
+    "order_id": 630014,
+    "client_id": 9127,
+    "produits": [
+        {
+            "produit_id": "P9042",
+            "nom": "Generic Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 382.11
+        }
+    ],
+    "date_commande": "2023-07-11T14:25:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

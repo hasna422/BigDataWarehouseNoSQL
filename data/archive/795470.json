@@ -1,0 +1,27 @@
+{
+    "order_id": 795470,
+    "client_id": 9683,
+    "produits": [
+        {
+            "produit_id": "P6730",
+            "nom": "Handcrafted Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 155.41
+        },
+        {
+            "produit_id": "P9581",
+            "nom": "Gorgeous Tuna",
+            "quantite": 1,
+            "prix_unitaire": 140.47
+        },
+        {
+            "produit_id": "P6565",
+            "nom": "New Fresh Shirt",
+            "quantite": 1,
+            "prix_unitaire": 38.05
+        }
+    ],
+    "date_commande": "2025-01-22T03:34:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 261969,
+    "client_id": 9215,
+    "produits": [
+        {
+            "produit_id": "P0212",
+            "nom": "Gorgeous Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 397.48
+        },
+        {
+            "produit_id": "P7515",
+            "nom": "Awesome Steel Chips",
+            "quantite": 5,
+            "prix_unitaire": 246.27
+        },
+        {
+            "produit_id": "P4658",
+            "nom": "Unbranded Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 343.13
+        }
+    ],
+    "date_commande": "2024-03-18T00:40:15",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "515 Tampa",
+        "ville": "Sarasota"
+    }
+}

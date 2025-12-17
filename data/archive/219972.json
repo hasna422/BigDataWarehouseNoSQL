@@ -1,0 +1,27 @@
+{
+    "order_id": 219972,
+    "client_id": 5965,
+    "produits": [
+        {
+            "produit_id": "P1214",
+            "nom": "Licensed Towels",
+            "quantite": 5,
+            "prix_unitaire": 246.24
+        },
+        {
+            "produit_id": "P9977",
+            "nom": "Licensed Frozen Soap",
+            "quantite": 3,
+            "prix_unitaire": 133.07
+        },
+        {
+            "produit_id": "P0302",
+            "nom": "Generic Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 343.48
+        }
+    ],
+    "date_commande": "2025-05-06T20:19:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

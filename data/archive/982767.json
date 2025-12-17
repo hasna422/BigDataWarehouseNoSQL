@@ -1,0 +1,31 @@
+{
+    "order_id": 982767,
+    "client_id": 6046,
+    "produits": [
+        {
+            "produit_id": "P3546",
+            "nom": "Gently Used Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 445.61
+        },
+        {
+            "produit_id": "P5648",
+            "nom": "Fantastic Concrete Pizza",
+            "quantite": 5,
+            "prix_unitaire": 143.18
+        },
+        {
+            "produit_id": "P3576",
+            "nom": "Ergonomic Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 144.15
+        }
+    ],
+    "date_commande": "2024-04-22T09:47:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "199 States",
+        "ville": "Diamond Bar"
+    }
+}

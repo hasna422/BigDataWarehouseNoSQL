@@ -1,0 +1,21 @@
+{
+    "order_id": 231912,
+    "client_id": 9854,
+    "produits": [
+        {
+            "produit_id": "P8712",
+            "nom": "Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 177.56
+        },
+        {
+            "produit_id": "P7334",
+            "nom": "Awesome Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 489.76
+        }
+    ],
+    "date_commande": "2024-03-23T16:35:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

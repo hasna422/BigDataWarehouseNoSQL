@@ -1,0 +1,25 @@
+{
+    "order_id": 427553,
+    "client_id": 5486,
+    "produits": [
+        {
+            "produit_id": "P8434",
+            "nom": "Fantastic Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 300.43
+        },
+        {
+            "produit_id": "P2387",
+            "nom": "Handcrafted Bacon",
+            "quantite": 1,
+            "prix_unitaire": 225.21
+        }
+    ],
+    "date_commande": "2025-05-11T03:55:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "192 Cresta Vista",
+        "ville": "Delano"
+    }
+}

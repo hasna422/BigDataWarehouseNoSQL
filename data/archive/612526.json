@@ -1,0 +1,27 @@
+{
+    "order_id": 612526,
+    "client_id": 3010,
+    "produits": [
+        {
+            "produit_id": "P4338",
+            "nom": "Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 345.38
+        },
+        {
+            "produit_id": "P3651",
+            "nom": "Steel Cheese",
+            "quantite": 1,
+            "prix_unitaire": 37.14
+        },
+        {
+            "produit_id": "P1654",
+            "nom": "For repair Cheese",
+            "quantite": 1,
+            "prix_unitaire": 83.34
+        }
+    ],
+    "date_commande": "2025-04-07T02:14:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

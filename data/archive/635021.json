@@ -1,0 +1,15 @@
+{
+    "order_id": 635021,
+    "client_id": 6796,
+    "produits": [
+        {
+            "produit_id": "P2535",
+            "nom": "Licensed Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 292.7
+        }
+    ],
+    "date_commande": "2024-03-20T21:46:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

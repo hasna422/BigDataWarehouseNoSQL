@@ -1,0 +1,25 @@
+{
+    "order_id": 487615,
+    "client_id": 8602,
+    "produits": [
+        {
+            "produit_id": "P8417",
+            "nom": "Gorgeous Granite Shoes",
+            "quantite": 5,
+            "prix_unitaire": 123.37
+        },
+        {
+            "produit_id": "P4148",
+            "nom": "Unbranded Steel Tuna",
+            "quantite": 5,
+            "prix_unitaire": 230.43
+        }
+    ],
+    "date_commande": "2023-11-13T04:41:25",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "288 Tulare",
+        "ville": "Park Forest"
+    }
+}

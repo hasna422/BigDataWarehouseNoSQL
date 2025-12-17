@@ -1,0 +1,31 @@
+{
+    "order_id": 659680,
+    "client_id": 6881,
+    "produits": [
+        {
+            "produit_id": "P5730",
+            "nom": "Awesome Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 139.08
+        },
+        {
+            "produit_id": "P9420",
+            "nom": "Gently Used Metal Hat",
+            "quantite": 5,
+            "prix_unitaire": 71.87
+        },
+        {
+            "produit_id": "P1618",
+            "nom": "New Tuna",
+            "quantite": 3,
+            "prix_unitaire": 227.46
+        }
+    ],
+    "date_commande": "2023-06-13T19:11:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "362 Juniper",
+        "ville": "Temple Terrace"
+    }
+}

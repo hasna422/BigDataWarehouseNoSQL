@@ -1,0 +1,19 @@
+{
+    "order_id": 548165,
+    "client_id": 1218,
+    "produits": [
+        {
+            "produit_id": "P7752",
+            "nom": "Sleek Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 61.07
+        }
+    ],
+    "date_commande": "2025-01-05T11:04:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "854 Santa Ana",
+        "ville": "Rocky Mount"
+    }
+}

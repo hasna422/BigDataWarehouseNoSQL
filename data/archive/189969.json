@@ -1,0 +1,15 @@
+{
+    "order_id": 189969,
+    "client_id": 8984,
+    "produits": [
+        {
+            "produit_id": "P7460",
+            "nom": "Handcrafted Wooden Shoes",
+            "quantite": 1,
+            "prix_unitaire": 441.27
+        }
+    ],
+    "date_commande": "2024-06-19T02:32:22",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

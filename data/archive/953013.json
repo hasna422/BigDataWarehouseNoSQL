@@ -1,0 +1,25 @@
+{
+    "order_id": 953013,
+    "client_id": 8839,
+    "produits": [
+        {
+            "produit_id": "P1060",
+            "nom": "Gently Used Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 394.81
+        },
+        {
+            "produit_id": "P4982",
+            "nom": "Awesome Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 231.36
+        }
+    ],
+    "date_commande": "2023-07-27T20:05:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "156 Plum",
+        "ville": "Winter Springs"
+    }
+}

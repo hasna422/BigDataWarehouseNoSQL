@@ -1,0 +1,15 @@
+{
+    "order_id": 708383,
+    "client_id": 6214,
+    "produits": [
+        {
+            "produit_id": "P1780",
+            "nom": "Licensed Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 382.36
+        }
+    ],
+    "date_commande": "2023-09-10T22:16:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

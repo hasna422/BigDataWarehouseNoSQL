@@ -1,0 +1,21 @@
+{
+    "order_id": 320846,
+    "client_id": 1231,
+    "produits": [
+        {
+            "produit_id": "P6527",
+            "nom": "Used Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 257.1
+        },
+        {
+            "produit_id": "P5409",
+            "nom": "Rustic Soft Fish",
+            "quantite": 5,
+            "prix_unitaire": 163.37
+        }
+    ],
+    "date_commande": "2025-03-28T06:12:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

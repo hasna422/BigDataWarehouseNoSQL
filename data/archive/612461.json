@@ -1,0 +1,21 @@
+{
+    "order_id": 612461,
+    "client_id": 6653,
+    "produits": [
+        {
+            "produit_id": "P1708",
+            "nom": "Tasty Frozen Pizza",
+            "quantite": 5,
+            "prix_unitaire": 14.12
+        },
+        {
+            "produit_id": "P1857",
+            "nom": "Used Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 172.32
+        }
+    ],
+    "date_commande": "2024-11-18T01:15:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

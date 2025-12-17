@@ -1,0 +1,19 @@
+{
+    "order_id": 562733,
+    "client_id": 2521,
+    "produits": [
+        {
+            "produit_id": "P0681",
+            "nom": "New Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 430.04
+        }
+    ],
+    "date_commande": "2024-09-28T21:12:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "677 Daggett",
+        "ville": "Sandy"
+    }
+}

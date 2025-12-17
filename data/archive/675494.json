@@ -1,0 +1,25 @@
+{
+    "order_id": 675494,
+    "client_id": 9467,
+    "produits": [
+        {
+            "produit_id": "P6537",
+            "nom": "Gently Used Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 30.46
+        },
+        {
+            "produit_id": "P7120",
+            "nom": "Handcrafted Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 221.63
+        }
+    ],
+    "date_commande": "2025-03-10T23:09:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1025 South Hill",
+        "ville": "Conway"
+    }
+}

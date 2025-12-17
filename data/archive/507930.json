@@ -1,0 +1,19 @@
+{
+    "order_id": 507930,
+    "client_id": 7632,
+    "produits": [
+        {
+            "produit_id": "P5816",
+            "nom": "Tasty Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 118.67
+        }
+    ],
+    "date_commande": "2024-06-18T00:40:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "598 Knollview",
+        "ville": "Spanish Fork"
+    }
+}

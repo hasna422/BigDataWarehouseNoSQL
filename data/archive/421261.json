@@ -1,0 +1,25 @@
+{
+    "order_id": 421261,
+    "client_id": 3797,
+    "produits": [
+        {
+            "produit_id": "P7181",
+            "nom": "Rustic Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 113.61
+        },
+        {
+            "produit_id": "P4595",
+            "nom": "Small Concrete Pizza",
+            "quantite": 5,
+            "prix_unitaire": 433.22
+        }
+    ],
+    "date_commande": "2023-09-17T18:13:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "137 Hillway",
+        "ville": "South Gate"
+    }
+}

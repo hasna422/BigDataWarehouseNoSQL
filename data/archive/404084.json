@@ -1,0 +1,21 @@
+{
+    "order_id": 404084,
+    "client_id": 7793,
+    "produits": [
+        {
+            "produit_id": "P6930",
+            "nom": "Incredible Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 309.26
+        },
+        {
+            "produit_id": "P0991",
+            "nom": "Unbranded Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 322.58
+        }
+    ],
+    "date_commande": "2023-08-08T13:56:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

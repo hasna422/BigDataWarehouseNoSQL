@@ -1,0 +1,19 @@
+{
+    "order_id": 501985,
+    "client_id": 3000,
+    "produits": [
+        {
+            "produit_id": "P3595",
+            "nom": "Sleek Granite Table",
+            "quantite": 2,
+            "prix_unitaire": 295.0
+        }
+    ],
+    "date_commande": "2025-05-20T02:57:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "149 Arellano",
+        "ville": "Barberton"
+    }
+}

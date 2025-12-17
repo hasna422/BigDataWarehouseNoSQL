@@ -1,0 +1,19 @@
+{
+    "order_id": 659511,
+    "client_id": 4943,
+    "produits": [
+        {
+            "produit_id": "P7453",
+            "nom": "Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 37.5
+        }
+    ],
+    "date_commande": "2024-03-02T07:14:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1146 Diamond Cove",
+        "ville": "Mishawaka"
+    }
+}

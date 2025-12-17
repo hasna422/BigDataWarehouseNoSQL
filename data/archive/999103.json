@@ -1,0 +1,21 @@
+{
+    "order_id": 999103,
+    "client_id": 2827,
+    "produits": [
+        {
+            "produit_id": "P9142",
+            "nom": "Licensed Metal Fish",
+            "quantite": 1,
+            "prix_unitaire": 495.51
+        },
+        {
+            "produit_id": "P0592",
+            "nom": "Gently Used Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 398.22
+        }
+    ],
+    "date_commande": "2024-01-05T01:57:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

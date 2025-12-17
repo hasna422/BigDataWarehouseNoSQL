@@ -1,0 +1,25 @@
+{
+    "order_id": 390183,
+    "client_id": 8341,
+    "produits": [
+        {
+            "produit_id": "P1032",
+            "nom": "Awesome Concrete Car",
+            "quantite": 5,
+            "prix_unitaire": 473.43
+        },
+        {
+            "produit_id": "P3061",
+            "nom": "Unbranded Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 189.25
+        }
+    ],
+    "date_commande": "2023-11-16T14:01:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1178 Parsons",
+        "ville": "Newberg"
+    }
+}

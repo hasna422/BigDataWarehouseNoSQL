@@ -1,0 +1,19 @@
+{
+    "order_id": 513869,
+    "client_id": 7128,
+    "produits": [
+        {
+            "produit_id": "P8388",
+            "nom": "Ergonomic Bike",
+            "quantite": 1,
+            "prix_unitaire": 469.57
+        }
+    ],
+    "date_commande": "2024-08-05T22:14:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "122 Edgewood",
+        "ville": "Salinas"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 367501,
+    "client_id": 1358,
+    "produits": [
+        {
+            "produit_id": "P7221",
+            "nom": "Gently Used Rubber Chair",
+            "quantite": 3,
+            "prix_unitaire": 378.26
+        },
+        {
+            "produit_id": "P7468",
+            "nom": "Awesome Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 353.82
+        },
+        {
+            "produit_id": "P8624",
+            "nom": "For repair Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 175.06
+        }
+    ],
+    "date_commande": "2023-12-02T16:04:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "357 Battery Blaney",
+        "ville": "Lemon Grove"
+    }
+}

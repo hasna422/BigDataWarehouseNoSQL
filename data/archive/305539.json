@@ -1,0 +1,27 @@
+{
+    "order_id": 305539,
+    "client_id": 9849,
+    "produits": [
+        {
+            "produit_id": "P2916",
+            "nom": "Used Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 231.54
+        },
+        {
+            "produit_id": "P3323",
+            "nom": "Used Fish",
+            "quantite": 2,
+            "prix_unitaire": 214.86
+        },
+        {
+            "produit_id": "P4823",
+            "nom": "Gently Used Bacon",
+            "quantite": 2,
+            "prix_unitaire": 452.42
+        }
+    ],
+    "date_commande": "2025-02-15T19:42:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 572412,
+    "client_id": 5808,
+    "produits": [
+        {
+            "produit_id": "P5304",
+            "nom": "Handcrafted Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 201.66
+        },
+        {
+            "produit_id": "P8003",
+            "nom": "Fantastic Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 232.92
+        }
+    ],
+    "date_commande": "2023-08-11T16:27:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "142 Elgin",
+        "ville": "Commerce City"
+    }
+}

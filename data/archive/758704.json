@@ -1,0 +1,19 @@
+{
+    "order_id": 758704,
+    "client_id": 7270,
+    "produits": [
+        {
+            "produit_id": "P7395",
+            "nom": "Gently Used Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 406.6
+        }
+    ],
+    "date_commande": "2023-09-06T05:21:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "816 Old Mason",
+        "ville": "San Francisco"
+    }
+}

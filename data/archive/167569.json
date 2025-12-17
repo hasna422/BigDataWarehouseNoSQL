@@ -1,0 +1,25 @@
+{
+    "order_id": 167569,
+    "client_id": 7462,
+    "produits": [
+        {
+            "produit_id": "P2584",
+            "nom": "Fantastic Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 491.58
+        },
+        {
+            "produit_id": "P5162",
+            "nom": "New Pizza",
+            "quantite": 5,
+            "prix_unitaire": 442.83
+        }
+    ],
+    "date_commande": "2025-01-20T20:49:25",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "30 Wyman",
+        "ville": "Battle Creek"
+    }
+}

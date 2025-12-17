@@ -1,0 +1,31 @@
+{
+    "order_id": 477663,
+    "client_id": 8520,
+    "produits": [
+        {
+            "produit_id": "P9038",
+            "nom": "Rustic Granite Shirt",
+            "quantite": 3,
+            "prix_unitaire": 344.44
+        },
+        {
+            "produit_id": "P1506",
+            "nom": "Small Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 490.27
+        },
+        {
+            "produit_id": "P5273",
+            "nom": "Unbranded Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 152.37
+        }
+    ],
+    "date_commande": "2025-04-22T06:16:27",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "652 Tapia",
+        "ville": "Wilmette"
+    }
+}

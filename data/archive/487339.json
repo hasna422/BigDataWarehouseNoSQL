@@ -1,0 +1,25 @@
+{
+    "order_id": 487339,
+    "client_id": 2093,
+    "produits": [
+        {
+            "produit_id": "P3700",
+            "nom": "Used Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 490.93
+        },
+        {
+            "produit_id": "P5399",
+            "nom": "For repair Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 391.53
+        }
+    ],
+    "date_commande": "2025-03-19T21:04:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "481 Rockdale",
+        "ville": "Frankfort"
+    }
+}

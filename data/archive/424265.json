@@ -1,0 +1,25 @@
+{
+    "order_id": 424265,
+    "client_id": 6618,
+    "produits": [
+        {
+            "produit_id": "P6452",
+            "nom": "Fantastic Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 273.13
+        },
+        {
+            "produit_id": "P8704",
+            "nom": "Handcrafted Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 66.9
+        }
+    ],
+    "date_commande": "2023-11-15T12:22:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "216 Pino",
+        "ville": "Tiffin"
+    }
+}

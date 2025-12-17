@@ -1,0 +1,25 @@
+{
+    "order_id": 443169,
+    "client_id": 1414,
+    "produits": [
+        {
+            "produit_id": "P2387",
+            "nom": "Ergonomic Steel Bacon",
+            "quantite": 4,
+            "prix_unitaire": 67.96
+        },
+        {
+            "produit_id": "P6140",
+            "nom": "Handmade Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 465.94
+        }
+    ],
+    "date_commande": "2024-08-22T14:18:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "669 Patterson",
+        "ville": "Lake Havasu City"
+    }
+}

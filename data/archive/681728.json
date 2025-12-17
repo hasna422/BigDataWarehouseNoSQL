@@ -1,0 +1,31 @@
+{
+    "order_id": 681728,
+    "client_id": 8557,
+    "produits": [
+        {
+            "produit_id": "P1800",
+            "nom": "Rustic Rubber Shoes",
+            "quantite": 3,
+            "prix_unitaire": 152.84
+        },
+        {
+            "produit_id": "P4573",
+            "nom": "Sleek Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 345.0
+        },
+        {
+            "produit_id": "P8690",
+            "nom": "Concrete Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 472.78
+        }
+    ],
+    "date_commande": "2024-11-10T12:39:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "881 Earl",
+        "ville": "East Peoria"
+    }
+}

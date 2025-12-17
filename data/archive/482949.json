@@ -1,0 +1,31 @@
+{
+    "order_id": 482949,
+    "client_id": 1675,
+    "produits": [
+        {
+            "produit_id": "P4280",
+            "nom": "Gorgeous Tuna",
+            "quantite": 1,
+            "prix_unitaire": 300.27
+        },
+        {
+            "produit_id": "P5067",
+            "nom": "Gently Used Pizza",
+            "quantite": 3,
+            "prix_unitaire": 360.16
+        },
+        {
+            "produit_id": "P8241",
+            "nom": "Sleek Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 480.05
+        }
+    ],
+    "date_commande": "2024-02-13T02:53:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "264 Lone Mountain",
+        "ville": "Andover"
+    }
+}

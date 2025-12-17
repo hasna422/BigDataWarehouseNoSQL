@@ -1,0 +1,25 @@
+{
+    "order_id": 325522,
+    "client_id": 9307,
+    "produits": [
+        {
+            "produit_id": "P7480",
+            "nom": "Refined Granite Table",
+            "quantite": 5,
+            "prix_unitaire": 135.4
+        },
+        {
+            "produit_id": "P2273",
+            "nom": "Refined Cotton Sausages",
+            "quantite": 4,
+            "prix_unitaire": 384.47
+        }
+    ],
+    "date_commande": "2025-03-28T16:22:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "3 Berkshire",
+        "ville": "Bartow"
+    }
+}

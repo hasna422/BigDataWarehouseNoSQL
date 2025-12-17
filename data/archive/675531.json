@@ -1,0 +1,31 @@
+{
+    "order_id": 675531,
+    "client_id": 8490,
+    "produits": [
+        {
+            "produit_id": "P9296",
+            "nom": "Ergonomic Chips",
+            "quantite": 2,
+            "prix_unitaire": 463.79
+        },
+        {
+            "produit_id": "P6902",
+            "nom": "Cotton Bike",
+            "quantite": 2,
+            "prix_unitaire": 340.2
+        },
+        {
+            "produit_id": "P3113",
+            "nom": "Fantastic Rubber Sausages",
+            "quantite": 3,
+            "prix_unitaire": 147.34
+        }
+    ],
+    "date_commande": "2024-10-24T23:23:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "130 Industrial",
+        "ville": "Skokie"
+    }
+}

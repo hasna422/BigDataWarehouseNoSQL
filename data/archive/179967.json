@@ -1,0 +1,21 @@
+{
+    "order_id": 179967,
+    "client_id": 6479,
+    "produits": [
+        {
+            "produit_id": "P8569",
+            "nom": "Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 188.75
+        },
+        {
+            "produit_id": "P3158",
+            "nom": "Refined Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 477.17
+        }
+    ],
+    "date_commande": "2024-09-27T17:35:13",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

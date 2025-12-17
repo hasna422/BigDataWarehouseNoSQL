@@ -1,0 +1,25 @@
+{
+    "order_id": 571849,
+    "client_id": 9384,
+    "produits": [
+        {
+            "produit_id": "P5230",
+            "nom": "New Rubber Table",
+            "quantite": 3,
+            "prix_unitaire": 167.79
+        },
+        {
+            "produit_id": "P3852",
+            "nom": "Intelligent Plastic Fish",
+            "quantite": 5,
+            "prix_unitaire": 138.43
+        }
+    ],
+    "date_commande": "2023-07-19T05:09:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "796 Monument",
+        "ville": "Salinas"
+    }
+}

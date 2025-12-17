@@ -1,0 +1,31 @@
+{
+    "order_id": 350441,
+    "client_id": 4755,
+    "produits": [
+        {
+            "produit_id": "P8985",
+            "nom": "New Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 109.54
+        },
+        {
+            "produit_id": "P7190",
+            "nom": "Handcrafted Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 416.14
+        },
+        {
+            "produit_id": "P3281",
+            "nom": "Gently Used Granite Car",
+            "quantite": 5,
+            "prix_unitaire": 161.89
+        }
+    ],
+    "date_commande": "2023-11-01T05:54:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "617 Sunnyside",
+        "ville": "Fredericksburg"
+    }
+}

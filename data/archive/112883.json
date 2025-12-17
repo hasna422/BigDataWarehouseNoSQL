@@ -1,0 +1,25 @@
+{
+    "order_id": 112883,
+    "client_id": 7581,
+    "produits": [
+        {
+            "produit_id": "P2668",
+            "nom": "Gently Used Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 498.28
+        },
+        {
+            "produit_id": "P7490",
+            "nom": "Tasty Pants",
+            "quantite": 5,
+            "prix_unitaire": 118.09
+        }
+    ],
+    "date_commande": "2025-05-07T04:30:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "370 Dichiera",
+        "ville": "Berkeley"
+    }
+}

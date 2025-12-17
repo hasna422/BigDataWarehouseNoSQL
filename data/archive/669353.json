@@ -1,0 +1,15 @@
+{
+    "order_id": 669353,
+    "client_id": 6392,
+    "produits": [
+        {
+            "produit_id": "P1920",
+            "nom": "For repair Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 477.48
+        }
+    ],
+    "date_commande": "2023-06-30T13:28:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

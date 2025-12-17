@@ -1,0 +1,19 @@
+{
+    "order_id": 762590,
+    "client_id": 7750,
+    "produits": [
+        {
+            "produit_id": "P6517",
+            "nom": "Unbranded Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 90.94
+        }
+    ],
+    "date_commande": "2025-05-10T22:59:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "87 Pontiac",
+        "ville": "Fort Myers"
+    }
+}

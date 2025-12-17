@@ -1,0 +1,19 @@
+{
+    "order_id": 514873,
+    "client_id": 1045,
+    "produits": [
+        {
+            "produit_id": "P7912",
+            "nom": "Generic Hat",
+            "quantite": 4,
+            "prix_unitaire": 78.61
+        }
+    ],
+    "date_commande": "2024-10-20T18:23:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "994 Gladstone",
+        "ville": "Auburn"
+    }
+}

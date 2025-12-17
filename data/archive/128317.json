@@ -1,0 +1,27 @@
+{
+    "order_id": 128317,
+    "client_id": 7077,
+    "produits": [
+        {
+            "produit_id": "P6649",
+            "nom": "Handcrafted Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 200.49
+        },
+        {
+            "produit_id": "P8094",
+            "nom": "Handcrafted Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 294.23
+        },
+        {
+            "produit_id": "P4221",
+            "nom": "Handcrafted Fresh Bacon",
+            "quantite": 5,
+            "prix_unitaire": 266.26
+        }
+    ],
+    "date_commande": "2023-12-23T23:03:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

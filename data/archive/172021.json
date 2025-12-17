@@ -1,0 +1,19 @@
+{
+    "order_id": 172021,
+    "client_id": 4895,
+    "produits": [
+        {
+            "produit_id": "P8118",
+            "nom": "Handmade Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 187.69
+        }
+    ],
+    "date_commande": "2024-09-03T01:33:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "404 Grove",
+        "ville": "Eagle Mountain"
+    }
+}

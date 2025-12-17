@@ -1,0 +1,27 @@
+{
+    "order_id": 312073,
+    "client_id": 1178,
+    "produits": [
+        {
+            "produit_id": "P0553",
+            "nom": "Generic Metal Bacon",
+            "quantite": 2,
+            "prix_unitaire": 360.06
+        },
+        {
+            "produit_id": "P4663",
+            "nom": "Intelligent Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 288.28
+        },
+        {
+            "produit_id": "P1577",
+            "nom": "New Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 483.53
+        }
+    ],
+    "date_commande": "2024-03-04T12:00:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

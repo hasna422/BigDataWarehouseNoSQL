@@ -1,0 +1,31 @@
+{
+    "order_id": 543758,
+    "client_id": 1338,
+    "produits": [
+        {
+            "produit_id": "P1345",
+            "nom": "Licensed Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 385.06
+        },
+        {
+            "produit_id": "P5166",
+            "nom": "For repair Rubber Hat",
+            "quantite": 3,
+            "prix_unitaire": 434.06
+        },
+        {
+            "produit_id": "P6401",
+            "nom": "Ergonomic Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 261.76
+        }
+    ],
+    "date_commande": "2023-09-12T09:19:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1349 Magnolia",
+        "ville": "Cortland"
+    }
+}

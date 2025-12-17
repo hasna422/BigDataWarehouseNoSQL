@@ -1,0 +1,19 @@
+{
+    "order_id": 904771,
+    "client_id": 9547,
+    "produits": [
+        {
+            "produit_id": "P6965",
+            "nom": "Licensed Towels",
+            "quantite": 4,
+            "prix_unitaire": 157.42
+        }
+    ],
+    "date_commande": "2023-11-06T12:27:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1065 Encinal",
+        "ville": "Pittsfield"
+    }
+}

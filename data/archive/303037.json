@@ -1,0 +1,31 @@
+{
+    "order_id": 303037,
+    "client_id": 7690,
+    "produits": [
+        {
+            "produit_id": "P7478",
+            "nom": "Handcrafted Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 439.34
+        },
+        {
+            "produit_id": "P4846",
+            "nom": "Fantastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 188.58
+        },
+        {
+            "produit_id": "P7530",
+            "nom": "Used Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 361.49
+        }
+    ],
+    "date_commande": "2023-06-06T17:52:28",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "453 Maryland",
+        "ville": "Atlanta"
+    }
+}

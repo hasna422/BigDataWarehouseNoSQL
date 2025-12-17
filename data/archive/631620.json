@@ -1,0 +1,15 @@
+{
+    "order_id": 631620,
+    "client_id": 1416,
+    "produits": [
+        {
+            "produit_id": "P6697",
+            "nom": "Rustic Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 186.57
+        }
+    ],
+    "date_commande": "2025-05-19T10:04:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

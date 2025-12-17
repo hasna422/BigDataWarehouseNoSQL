@@ -1,0 +1,21 @@
+{
+    "order_id": 783474,
+    "client_id": 8938,
+    "produits": [
+        {
+            "produit_id": "P3619",
+            "nom": "Incredible Gloves",
+            "quantite": 4,
+            "prix_unitaire": 71.89
+        },
+        {
+            "produit_id": "P3592",
+            "nom": "Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 138.75
+        }
+    ],
+    "date_commande": "2023-08-07T13:13:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

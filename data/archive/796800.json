@@ -1,0 +1,19 @@
+{
+    "order_id": 796800,
+    "client_id": 6432,
+    "produits": [
+        {
+            "produit_id": "P9823",
+            "nom": "Awesome Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 48.08
+        }
+    ],
+    "date_commande": "2024-09-15T04:36:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "505 Candlestick Cove",
+        "ville": "Salisbury"
+    }
+}

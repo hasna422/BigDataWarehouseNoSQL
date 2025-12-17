@@ -1,0 +1,27 @@
+{
+    "order_id": 457544,
+    "client_id": 8530,
+    "produits": [
+        {
+            "produit_id": "P7544",
+            "nom": "Handmade Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 206.34
+        },
+        {
+            "produit_id": "P6211",
+            "nom": "Unbranded Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 479.53
+        },
+        {
+            "produit_id": "P5529",
+            "nom": "Handmade Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 221.79
+        }
+    ],
+    "date_commande": "2023-12-01T02:33:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

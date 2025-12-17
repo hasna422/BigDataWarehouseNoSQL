@@ -1,0 +1,25 @@
+{
+    "order_id": 838523,
+    "client_id": 9537,
+    "produits": [
+        {
+            "produit_id": "P3447",
+            "nom": "Awesome Hat",
+            "quantite": 5,
+            "prix_unitaire": 266.36
+        },
+        {
+            "produit_id": "P7102",
+            "nom": "Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 121.78
+        }
+    ],
+    "date_commande": "2024-12-07T22:56:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1343 Hampshire",
+        "ville": "Shelbyville"
+    }
+}

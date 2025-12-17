@@ -1,0 +1,19 @@
+{
+    "order_id": 943712,
+    "client_id": 6126,
+    "produits": [
+        {
+            "produit_id": "P2709",
+            "nom": "New Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 382.52
+        }
+    ],
+    "date_commande": "2025-03-01T02:23:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "258 The Block",
+        "ville": "Fort Myers"
+    }
+}

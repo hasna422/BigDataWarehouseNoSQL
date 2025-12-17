@@ -1,0 +1,19 @@
+{
+    "order_id": 983498,
+    "client_id": 7558,
+    "produits": [
+        {
+            "produit_id": "P8295",
+            "nom": "Sleek Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 418.58
+        }
+    ],
+    "date_commande": "2023-09-10T23:27:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "234 Augusta",
+        "ville": "Grand Island"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 794523,
+    "client_id": 1322,
+    "produits": [
+        {
+            "produit_id": "P7876",
+            "nom": "Incredible Fresh Tuna",
+            "quantite": 5,
+            "prix_unitaire": 465.23
+        },
+        {
+            "produit_id": "P0637",
+            "nom": "Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 90.21
+        },
+        {
+            "produit_id": "P4829",
+            "nom": "Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 378.36
+        }
+    ],
+    "date_commande": "2023-10-16T09:40:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1015 De Forest",
+        "ville": "Natchitoches"
+    }
+}

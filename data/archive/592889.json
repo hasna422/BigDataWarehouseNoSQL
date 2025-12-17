@@ -1,0 +1,31 @@
+{
+    "order_id": 592889,
+    "client_id": 1381,
+    "produits": [
+        {
+            "produit_id": "P5848",
+            "nom": "New Soft Soap",
+            "quantite": 3,
+            "prix_unitaire": 116.98
+        },
+        {
+            "produit_id": "P5254",
+            "nom": "Unbranded Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 451.31
+        },
+        {
+            "produit_id": "P4360",
+            "nom": "Generic Steel Salad",
+            "quantite": 1,
+            "prix_unitaire": 210.43
+        }
+    ],
+    "date_commande": "2023-12-13T06:13:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "832 Laguna Honda",
+        "ville": "New Brighton"
+    }
+}

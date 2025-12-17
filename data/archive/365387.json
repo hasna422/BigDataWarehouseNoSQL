@@ -1,0 +1,21 @@
+{
+    "order_id": 365387,
+    "client_id": 5983,
+    "produits": [
+        {
+            "produit_id": "P3078",
+            "nom": "Intelligent Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 42.77
+        },
+        {
+            "produit_id": "P2828",
+            "nom": "Incredible Mouse",
+            "quantite": 2,
+            "prix_unitaire": 349.76
+        }
+    ],
+    "date_commande": "2025-02-26T01:04:00",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

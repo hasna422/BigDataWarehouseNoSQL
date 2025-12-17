@@ -1,0 +1,31 @@
+{
+    "order_id": 755277,
+    "client_id": 5762,
+    "produits": [
+        {
+            "produit_id": "P9889",
+            "nom": "Refined Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 108.59
+        },
+        {
+            "produit_id": "P4257",
+            "nom": "Fantastic Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 184.98
+        },
+        {
+            "produit_id": "P5888",
+            "nom": "Gorgeous Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 270.53
+        }
+    ],
+    "date_commande": "2023-09-06T18:58:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "45 Boalt",
+        "ville": "Tracy"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 959778,
+    "client_id": 1486,
+    "produits": [
+        {
+            "produit_id": "P9736",
+            "nom": "Unbranded Metal Hat",
+            "quantite": 5,
+            "prix_unitaire": 321.72
+        },
+        {
+            "produit_id": "P4307",
+            "nom": "Licensed Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 220.38
+        }
+    ],
+    "date_commande": "2025-05-10T20:39:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

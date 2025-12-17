@@ -1,0 +1,15 @@
+{
+    "order_id": 739605,
+    "client_id": 3568,
+    "produits": [
+        {
+            "produit_id": "P6834",
+            "nom": "Ergonomic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 56.17
+        }
+    ],
+    "date_commande": "2025-01-16T04:44:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 400019,
+    "client_id": 2322,
+    "produits": [
+        {
+            "produit_id": "P3960",
+            "nom": "Fantastic Rubber Sausages",
+            "quantite": 5,
+            "prix_unitaire": 379.91
+        },
+        {
+            "produit_id": "P5687",
+            "nom": "Small Granite Car",
+            "quantite": 1,
+            "prix_unitaire": 353.55
+        },
+        {
+            "produit_id": "P5281",
+            "nom": "Gently Used Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 125.33
+        }
+    ],
+    "date_commande": "2024-07-24T09:38:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

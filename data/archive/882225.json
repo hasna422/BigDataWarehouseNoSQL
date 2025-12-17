@@ -1,0 +1,25 @@
+{
+    "order_id": 882225,
+    "client_id": 4601,
+    "produits": [
+        {
+            "produit_id": "P7914",
+            "nom": "Gorgeous Soft Table",
+            "quantite": 4,
+            "prix_unitaire": 104.68
+        },
+        {
+            "produit_id": "P6542",
+            "nom": "New Wooden Fish",
+            "quantite": 1,
+            "prix_unitaire": 198.73
+        }
+    ],
+    "date_commande": "2023-11-10T23:36:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "998 Topaz",
+        "ville": "Perris"
+    }
+}

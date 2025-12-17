@@ -1,0 +1,27 @@
+{
+    "order_id": 300171,
+    "client_id": 4688,
+    "produits": [
+        {
+            "produit_id": "P7440",
+            "nom": "Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 350.81
+        },
+        {
+            "produit_id": "P7391",
+            "nom": "Rustic Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 421.62
+        },
+        {
+            "produit_id": "P8381",
+            "nom": "Small Concrete Bike",
+            "quantite": 3,
+            "prix_unitaire": 159.69
+        }
+    ],
+    "date_commande": "2024-10-17T05:11:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

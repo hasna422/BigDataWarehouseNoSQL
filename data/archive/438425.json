@@ -1,0 +1,31 @@
+{
+    "order_id": 438425,
+    "client_id": 7318,
+    "produits": [
+        {
+            "produit_id": "P6684",
+            "nom": "Gorgeous Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 443.49
+        },
+        {
+            "produit_id": "P3028",
+            "nom": "Tasty Rubber Salad",
+            "quantite": 5,
+            "prix_unitaire": 183.53
+        },
+        {
+            "produit_id": "P6982",
+            "nom": "Handcrafted Fresh Sausages",
+            "quantite": 5,
+            "prix_unitaire": 373.96
+        }
+    ],
+    "date_commande": "2023-07-21T21:27:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "909 Myra",
+        "ville": "Bloomingdale"
+    }
+}

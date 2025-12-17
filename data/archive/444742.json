@@ -1,0 +1,21 @@
+{
+    "order_id": 444742,
+    "client_id": 2655,
+    "produits": [
+        {
+            "produit_id": "P4781",
+            "nom": "Handcrafted Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 31.93
+        },
+        {
+            "produit_id": "P8561",
+            "nom": "Tasty Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 58.19
+        }
+    ],
+    "date_commande": "2025-02-21T12:33:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

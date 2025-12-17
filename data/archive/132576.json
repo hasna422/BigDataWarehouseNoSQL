@@ -1,0 +1,31 @@
+{
+    "order_id": 132576,
+    "client_id": 6624,
+    "produits": [
+        {
+            "produit_id": "P8286",
+            "nom": "Used Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 24.93
+        },
+        {
+            "produit_id": "P1589",
+            "nom": "Practical Granite Chicken",
+            "quantite": 2,
+            "prix_unitaire": 427.43
+        },
+        {
+            "produit_id": "P3805",
+            "nom": "Rustic Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 218.13
+        }
+    ],
+    "date_commande": "2024-04-12T14:56:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "504 Farallones",
+        "ville": "La Vergne"
+    }
+}

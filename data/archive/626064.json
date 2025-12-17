@@ -1,0 +1,21 @@
+{
+    "order_id": 626064,
+    "client_id": 5361,
+    "produits": [
+        {
+            "produit_id": "P4863",
+            "nom": "Intelligent Metal Bike",
+            "quantite": 2,
+            "prix_unitaire": 433.62
+        },
+        {
+            "produit_id": "P6271",
+            "nom": "Rustic Steel Fish",
+            "quantite": 4,
+            "prix_unitaire": 135.1
+        }
+    ],
+    "date_commande": "2024-05-06T01:25:58",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

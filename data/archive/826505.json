@@ -1,0 +1,31 @@
+{
+    "order_id": 826505,
+    "client_id": 9047,
+    "produits": [
+        {
+            "produit_id": "P3818",
+            "nom": "Steel Hat",
+            "quantite": 3,
+            "prix_unitaire": 484.66
+        },
+        {
+            "produit_id": "P6744",
+            "nom": "Intelligent Towels",
+            "quantite": 3,
+            "prix_unitaire": 36.42
+        },
+        {
+            "produit_id": "P9599",
+            "nom": "Handmade Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 346.56
+        }
+    ],
+    "date_commande": "2025-05-12T21:48:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "592 Mercato",
+        "ville": "Hopkinsville"
+    }
+}

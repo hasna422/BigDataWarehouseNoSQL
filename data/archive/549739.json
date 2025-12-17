@@ -1,0 +1,25 @@
+{
+    "order_id": 549739,
+    "client_id": 6373,
+    "produits": [
+        {
+            "produit_id": "P7934",
+            "nom": "Refined Rubber Salad",
+            "quantite": 2,
+            "prix_unitaire": 34.89
+        },
+        {
+            "produit_id": "P0353",
+            "nom": "Handmade Cotton Towels",
+            "quantite": 1,
+            "prix_unitaire": 234.62
+        }
+    ],
+    "date_commande": "2025-03-09T17:59:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "224 Fitzgerald",
+        "ville": "Haverhill"
+    }
+}

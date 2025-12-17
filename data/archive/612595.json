@@ -1,0 +1,31 @@
+{
+    "order_id": 612595,
+    "client_id": 5181,
+    "produits": [
+        {
+            "produit_id": "P3804",
+            "nom": "Licensed Fresh Pizza",
+            "quantite": 4,
+            "prix_unitaire": 374.37
+        },
+        {
+            "produit_id": "P2858",
+            "nom": "Incredible Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 398.92
+        },
+        {
+            "produit_id": "P2243",
+            "nom": "Handcrafted Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 392.86
+        }
+    ],
+    "date_commande": "2024-02-08T20:18:45",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "146 Hauser",
+        "ville": "Seguin"
+    }
+}

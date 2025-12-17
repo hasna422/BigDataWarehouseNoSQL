@@ -1,0 +1,27 @@
+{
+    "order_id": 580066,
+    "client_id": 3207,
+    "produits": [
+        {
+            "produit_id": "P0725",
+            "nom": "Rustic Wooden Bacon",
+            "quantite": 5,
+            "prix_unitaire": 402.43
+        },
+        {
+            "produit_id": "P8682",
+            "nom": "Ergonomic Steel Fish",
+            "quantite": 5,
+            "prix_unitaire": 356.25
+        },
+        {
+            "produit_id": "P9711",
+            "nom": "For repair Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 242.9
+        }
+    ],
+    "date_commande": "2024-04-04T04:16:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

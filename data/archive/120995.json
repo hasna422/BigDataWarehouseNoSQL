@@ -1,0 +1,19 @@
+{
+    "order_id": 120995,
+    "client_id": 8298,
+    "produits": [
+        {
+            "produit_id": "P2564",
+            "nom": "Handmade Granite Shoes",
+            "quantite": 5,
+            "prix_unitaire": 417.86
+        }
+    ],
+    "date_commande": "2024-03-29T05:45:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "76 Museum",
+        "ville": "South Euclid"
+    }
+}

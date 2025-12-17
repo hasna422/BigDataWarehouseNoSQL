@@ -1,0 +1,31 @@
+{
+    "order_id": 632172,
+    "client_id": 8677,
+    "produits": [
+        {
+            "produit_id": "P2038",
+            "nom": "Refined Cotton Computer",
+            "quantite": 5,
+            "prix_unitaire": 96.61
+        },
+        {
+            "produit_id": "P6870",
+            "nom": "Incredible Hat",
+            "quantite": 5,
+            "prix_unitaire": 15.79
+        },
+        {
+            "produit_id": "P9073",
+            "nom": "Generic Plastic Table",
+            "quantite": 2,
+            "prix_unitaire": 350.78
+        }
+    ],
+    "date_commande": "2024-04-23T02:29:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "415 Head",
+        "ville": "Ithaca"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 585354,
+    "client_id": 5498,
+    "produits": [
+        {
+            "produit_id": "P7150",
+            "nom": "For repair Granite Shirt",
+            "quantite": 2,
+            "prix_unitaire": 252.62
+        }
+    ],
+    "date_commande": "2025-01-29T04:50:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

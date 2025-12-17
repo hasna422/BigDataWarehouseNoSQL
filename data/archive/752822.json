@@ -1,0 +1,15 @@
+{
+    "order_id": 752822,
+    "client_id": 5028,
+    "produits": [
+        {
+            "produit_id": "P8839",
+            "nom": "Used Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 15.39
+        }
+    ],
+    "date_commande": "2024-04-15T16:47:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

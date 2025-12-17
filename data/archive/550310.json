@@ -1,0 +1,25 @@
+{
+    "order_id": 550310,
+    "client_id": 7934,
+    "produits": [
+        {
+            "produit_id": "P8776",
+            "nom": "Incredible Ball",
+            "quantite": 2,
+            "prix_unitaire": 284.84
+        },
+        {
+            "produit_id": "P9469",
+            "nom": "Soft Fish",
+            "quantite": 3,
+            "prix_unitaire": 356.72
+        }
+    ],
+    "date_commande": "2024-05-03T17:29:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "547 Pope",
+        "ville": "Yuma"
+    }
+}

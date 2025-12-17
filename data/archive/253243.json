@@ -1,0 +1,25 @@
+{
+    "order_id": 253243,
+    "client_id": 2688,
+    "produits": [
+        {
+            "produit_id": "P4295",
+            "nom": "Practical Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 157.17
+        },
+        {
+            "produit_id": "P3240",
+            "nom": "Rustic Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 406.11
+        }
+    ],
+    "date_commande": "2024-05-22T07:04:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "836 Lysette",
+        "ville": "Mobile"
+    }
+}

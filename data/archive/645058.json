@@ -1,0 +1,27 @@
+{
+    "order_id": 645058,
+    "client_id": 8858,
+    "produits": [
+        {
+            "produit_id": "P1431",
+            "nom": "Metal Cheese",
+            "quantite": 1,
+            "prix_unitaire": 72.73
+        },
+        {
+            "produit_id": "P7472",
+            "nom": "Licensed Granite Towels",
+            "quantite": 2,
+            "prix_unitaire": 422.38
+        },
+        {
+            "produit_id": "P8069",
+            "nom": "Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 465.24
+        }
+    ],
+    "date_commande": "2024-02-16T06:25:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

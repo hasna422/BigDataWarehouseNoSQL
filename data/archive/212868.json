@@ -1,0 +1,31 @@
+{
+    "order_id": 212868,
+    "client_id": 1990,
+    "produits": [
+        {
+            "produit_id": "P1636",
+            "nom": "Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 439.87
+        },
+        {
+            "produit_id": "P9875",
+            "nom": "New Gloves",
+            "quantite": 5,
+            "prix_unitaire": 186.15
+        },
+        {
+            "produit_id": "P2946",
+            "nom": "Practical Soap",
+            "quantite": 5,
+            "prix_unitaire": 332.7
+        }
+    ],
+    "date_commande": "2024-09-02T23:15:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "913 Rosenkranz",
+        "ville": "Coalinga"
+    }
+}

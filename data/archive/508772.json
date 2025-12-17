@@ -1,0 +1,15 @@
+{
+    "order_id": 508772,
+    "client_id": 1301,
+    "produits": [
+        {
+            "produit_id": "P9082",
+            "nom": "Unbranded Steel Bike",
+            "quantite": 5,
+            "prix_unitaire": 114.36
+        }
+    ],
+    "date_commande": "2023-09-29T17:40:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

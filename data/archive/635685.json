@@ -1,0 +1,21 @@
+{
+    "order_id": 635685,
+    "client_id": 2279,
+    "produits": [
+        {
+            "produit_id": "P8453",
+            "nom": "Used Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 247.57
+        },
+        {
+            "produit_id": "P1997",
+            "nom": "Fantastic Frozen Hat",
+            "quantite": 1,
+            "prix_unitaire": 314.35
+        }
+    ],
+    "date_commande": "2025-04-04T19:32:13",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

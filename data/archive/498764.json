@@ -1,0 +1,15 @@
+{
+    "order_id": 498764,
+    "client_id": 4871,
+    "produits": [
+        {
+            "produit_id": "P6660",
+            "nom": "Generic Salad",
+            "quantite": 2,
+            "prix_unitaire": 150.54
+        }
+    ],
+    "date_commande": "2023-09-24T05:45:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

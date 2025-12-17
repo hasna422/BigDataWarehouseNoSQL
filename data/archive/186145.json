@@ -1,0 +1,19 @@
+{
+    "order_id": 186145,
+    "client_id": 8350,
+    "produits": [
+        {
+            "produit_id": "P7246",
+            "nom": "Rubber Ball",
+            "quantite": 2,
+            "prix_unitaire": 427.9
+        }
+    ],
+    "date_commande": "2024-01-02T12:25:09",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "788 Glenbrook",
+        "ville": "Coalinga"
+    }
+}

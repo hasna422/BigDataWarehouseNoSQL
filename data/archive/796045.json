@@ -1,0 +1,31 @@
+{
+    "order_id": 796045,
+    "client_id": 8921,
+    "produits": [
+        {
+            "produit_id": "P5053",
+            "nom": "For repair Pizza",
+            "quantite": 5,
+            "prix_unitaire": 233.71
+        },
+        {
+            "produit_id": "P9692",
+            "nom": "Sleek Concrete Shoes",
+            "quantite": 3,
+            "prix_unitaire": 420.76
+        },
+        {
+            "produit_id": "P2820",
+            "nom": "Practical Cotton Bacon",
+            "quantite": 5,
+            "prix_unitaire": 442.29
+        }
+    ],
+    "date_commande": "2025-01-21T04:07:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1253 Pagoda",
+        "ville": "North Miami Beach"
+    }
+}

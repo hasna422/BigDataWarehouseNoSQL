@@ -1,0 +1,31 @@
+{
+    "order_id": 415615,
+    "client_id": 4580,
+    "produits": [
+        {
+            "produit_id": "P3077",
+            "nom": "Awesome Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 488.46
+        },
+        {
+            "produit_id": "P5025",
+            "nom": "Handcrafted Soft Soap",
+            "quantite": 2,
+            "prix_unitaire": 414.85
+        },
+        {
+            "produit_id": "P8755",
+            "nom": "Ergonomic Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 65.72
+        }
+    ],
+    "date_commande": "2023-07-12T21:37:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "794 Atoll",
+        "ville": "Moses Lake"
+    }
+}

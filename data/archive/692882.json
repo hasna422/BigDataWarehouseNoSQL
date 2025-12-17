@@ -1,0 +1,31 @@
+{
+    "order_id": 692882,
+    "client_id": 5136,
+    "produits": [
+        {
+            "produit_id": "P0526",
+            "nom": "Practical Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 172.44
+        },
+        {
+            "produit_id": "P5278",
+            "nom": "Licensed Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 488.41
+        },
+        {
+            "produit_id": "P9990",
+            "nom": "Used Chair",
+            "quantite": 3,
+            "prix_unitaire": 297.82
+        }
+    ],
+    "date_commande": "2024-11-18T20:47:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "370 Starr King",
+        "ville": "Belton"
+    }
+}

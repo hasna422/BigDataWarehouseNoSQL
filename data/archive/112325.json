@@ -1,0 +1,25 @@
+{
+    "order_id": 112325,
+    "client_id": 1927,
+    "produits": [
+        {
+            "produit_id": "P4911",
+            "nom": "Handcrafted Metal Car",
+            "quantite": 5,
+            "prix_unitaire": 99.41
+        },
+        {
+            "produit_id": "P7836",
+            "nom": "New Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 81.92
+        }
+    ],
+    "date_commande": "2023-11-20T11:01:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "400 Isadora Duncan",
+        "ville": "Mint Hill"
+    }
+}

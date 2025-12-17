@@ -1,0 +1,25 @@
+{
+    "order_id": 195883,
+    "client_id": 9920,
+    "produits": [
+        {
+            "produit_id": "P6998",
+            "nom": "Licensed Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 435.92
+        },
+        {
+            "produit_id": "P2827",
+            "nom": "For repair Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 43.34
+        }
+    ],
+    "date_commande": "2024-06-09T10:22:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "831 Homewood",
+        "ville": "Menasha"
+    }
+}

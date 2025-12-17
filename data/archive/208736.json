@@ -1,0 +1,31 @@
+{
+    "order_id": 208736,
+    "client_id": 3167,
+    "produits": [
+        {
+            "produit_id": "P9905",
+            "nom": "Intelligent Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 402.85
+        },
+        {
+            "produit_id": "P3408",
+            "nom": "Practical Wooden Computer",
+            "quantite": 5,
+            "prix_unitaire": 216.26
+        },
+        {
+            "produit_id": "P4633",
+            "nom": "Tasty Cotton Gloves",
+            "quantite": 1,
+            "prix_unitaire": 445.86
+        }
+    ],
+    "date_commande": "2023-09-06T18:01:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1367 Paulding",
+        "ville": "Akron"
+    }
+}

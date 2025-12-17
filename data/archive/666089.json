@@ -1,0 +1,15 @@
+{
+    "order_id": 666089,
+    "client_id": 3060,
+    "produits": [
+        {
+            "produit_id": "P4648",
+            "nom": "Rustic Granite Car",
+            "quantite": 5,
+            "prix_unitaire": 405.62
+        }
+    ],
+    "date_commande": "2024-03-02T09:02:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

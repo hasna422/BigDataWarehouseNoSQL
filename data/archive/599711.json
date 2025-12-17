@@ -1,0 +1,31 @@
+{
+    "order_id": 599711,
+    "client_id": 2481,
+    "produits": [
+        {
+            "produit_id": "P6399",
+            "nom": "Gently Used Granite Chicken",
+            "quantite": 2,
+            "prix_unitaire": 316.16
+        },
+        {
+            "produit_id": "P2000",
+            "nom": "Refined Cheese",
+            "quantite": 4,
+            "prix_unitaire": 376.78
+        },
+        {
+            "produit_id": "P3987",
+            "nom": "New Sausages",
+            "quantite": 1,
+            "prix_unitaire": 303.21
+        }
+    ],
+    "date_commande": "2024-12-05T18:35:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "888 Capra",
+        "ville": "Muskogee"
+    }
+}

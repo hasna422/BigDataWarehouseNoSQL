@@ -1,0 +1,25 @@
+{
+    "order_id": 448398,
+    "client_id": 6859,
+    "produits": [
+        {
+            "produit_id": "P7431",
+            "nom": "Used Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 271.07
+        },
+        {
+            "produit_id": "P5833",
+            "nom": "Rustic Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 459.72
+        }
+    ],
+    "date_commande": "2025-03-03T11:15:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1043 Acadia",
+        "ville": "Rancho Santa Margarita"
+    }
+}

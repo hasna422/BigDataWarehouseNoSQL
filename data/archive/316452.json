@@ -1,0 +1,21 @@
+{
+    "order_id": 316452,
+    "client_id": 2837,
+    "produits": [
+        {
+            "produit_id": "P9105",
+            "nom": "Refined Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 363.06
+        },
+        {
+            "produit_id": "P5469",
+            "nom": "Generic Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 64.17
+        }
+    ],
+    "date_commande": "2024-12-02T09:53:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 549524,
+    "client_id": 8848,
+    "produits": [
+        {
+            "produit_id": "P1489",
+            "nom": "Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 373.03
+        },
+        {
+            "produit_id": "P8152",
+            "nom": "Fantastic Mouse",
+            "quantite": 3,
+            "prix_unitaire": 47.36
+        },
+        {
+            "produit_id": "P5147",
+            "nom": "Sleek Shirt",
+            "quantite": 4,
+            "prix_unitaire": 288.65
+        }
+    ],
+    "date_commande": "2025-02-11T12:57:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

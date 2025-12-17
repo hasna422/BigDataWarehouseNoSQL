@@ -1,0 +1,25 @@
+{
+    "order_id": 477247,
+    "client_id": 8512,
+    "produits": [
+        {
+            "produit_id": "P9887",
+            "nom": "Generic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 371.76
+        },
+        {
+            "produit_id": "P5464",
+            "nom": "Tasty Bike",
+            "quantite": 4,
+            "prix_unitaire": 312.99
+        }
+    ],
+    "date_commande": "2024-12-18T20:05:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1001 Hays",
+        "ville": "Royal Oak"
+    }
+}

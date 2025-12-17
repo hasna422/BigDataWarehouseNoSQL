@@ -1,0 +1,25 @@
+{
+    "order_id": 274465,
+    "client_id": 5854,
+    "produits": [
+        {
+            "produit_id": "P5334",
+            "nom": "Ergonomic Computer",
+            "quantite": 4,
+            "prix_unitaire": 46.08
+        },
+        {
+            "produit_id": "P9055",
+            "nom": "Handmade Steel Chair",
+            "quantite": 2,
+            "prix_unitaire": 172.39
+        }
+    ],
+    "date_commande": "2024-03-05T17:43:29",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1148 Sagamore",
+        "ville": "Frisco"
+    }
+}

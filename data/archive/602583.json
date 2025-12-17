@@ -1,0 +1,19 @@
+{
+    "order_id": 602583,
+    "client_id": 7350,
+    "produits": [
+        {
+            "produit_id": "P7288",
+            "nom": "For repair Rubber Chips",
+            "quantite": 4,
+            "prix_unitaire": 303.56
+        }
+    ],
+    "date_commande": "2025-04-05T02:31:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1124 Gilroy",
+        "ville": "Mesa"
+    }
+}

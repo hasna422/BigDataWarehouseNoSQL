@@ -1,0 +1,15 @@
+{
+    "order_id": 656356,
+    "client_id": 5268,
+    "produits": [
+        {
+            "produit_id": "P4630",
+            "nom": "Practical Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 470.08
+        }
+    ],
+    "date_commande": "2023-08-14T07:40:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

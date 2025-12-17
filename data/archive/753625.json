@@ -1,0 +1,19 @@
+{
+    "order_id": 753625,
+    "client_id": 3843,
+    "produits": [
+        {
+            "produit_id": "P0455",
+            "nom": "Awesome Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 427.05
+        }
+    ],
+    "date_commande": "2025-05-04T12:46:58",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "547 Dow",
+        "ville": "Pleasant Prairie"
+    }
+}

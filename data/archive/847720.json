@@ -1,0 +1,15 @@
+{
+    "order_id": 847720,
+    "client_id": 8360,
+    "produits": [
+        {
+            "produit_id": "P1449",
+            "nom": "Handcrafted Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 116.37
+        }
+    ],
+    "date_commande": "2024-03-18T14:13:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 916246,
+    "client_id": 8808,
+    "produits": [
+        {
+            "produit_id": "P7525",
+            "nom": "Refined Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 242.34
+        }
+    ],
+    "date_commande": "2023-06-17T09:34:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

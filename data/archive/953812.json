@@ -1,0 +1,15 @@
+{
+    "order_id": 953812,
+    "client_id": 9579,
+    "produits": [
+        {
+            "produit_id": "P3115",
+            "nom": "Incredible Fresh Shoes",
+            "quantite": 2,
+            "prix_unitaire": 241.2
+        }
+    ],
+    "date_commande": "2024-05-09T19:56:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 418486,
+    "client_id": 6418,
+    "produits": [
+        {
+            "produit_id": "P2752",
+            "nom": "Handcrafted Plastic Fish",
+            "quantite": 5,
+            "prix_unitaire": 327.6
+        },
+        {
+            "produit_id": "P3710",
+            "nom": "For repair Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 30.66
+        }
+    ],
+    "date_commande": "2023-08-18T10:41:40",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 432285,
+    "client_id": 3790,
+    "produits": [
+        {
+            "produit_id": "P1912",
+            "nom": "Small Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 64.61
+        },
+        {
+            "produit_id": "P6633",
+            "nom": "Tasty Metal Pants",
+            "quantite": 4,
+            "prix_unitaire": 56.74
+        },
+        {
+            "produit_id": "P0083",
+            "nom": "Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 476.8
+        }
+    ],
+    "date_commande": "2023-08-25T05:56:14",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "678 Truby",
+        "ville": "Sulphur"
+    }
+}

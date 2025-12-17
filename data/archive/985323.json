@@ -1,0 +1,25 @@
+{
+    "order_id": 985323,
+    "client_id": 8423,
+    "produits": [
+        {
+            "produit_id": "P4030",
+            "nom": "Awesome Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 42.85
+        },
+        {
+            "produit_id": "P9373",
+            "nom": "Handcrafted Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 64.29
+        }
+    ],
+    "date_commande": "2024-06-19T10:58:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1020 Berry Extension",
+        "ville": "Tallmadge"
+    }
+}

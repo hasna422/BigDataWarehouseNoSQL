@@ -1,0 +1,25 @@
+{
+    "order_id": 329642,
+    "client_id": 2682,
+    "produits": [
+        {
+            "produit_id": "P5310",
+            "nom": "Sleek Plastic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 287.7
+        },
+        {
+            "produit_id": "P0120",
+            "nom": "New Chips",
+            "quantite": 3,
+            "prix_unitaire": 399.34
+        }
+    ],
+    "date_commande": "2024-11-16T05:32:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1051 Carpenter",
+        "ville": "Aberdeen"
+    }
+}

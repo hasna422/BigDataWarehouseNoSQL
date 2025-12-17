@@ -1,0 +1,19 @@
+{
+    "order_id": 508696,
+    "client_id": 8366,
+    "produits": [
+        {
+            "produit_id": "P8899",
+            "nom": "Rustic Fresh Mouse",
+            "quantite": 5,
+            "prix_unitaire": 255.36
+        }
+    ],
+    "date_commande": "2024-10-15T04:49:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "254 Nancy Pelosi",
+        "ville": "Norfolk"
+    }
+}

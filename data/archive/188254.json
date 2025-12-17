@@ -1,0 +1,25 @@
+{
+    "order_id": 188254,
+    "client_id": 8209,
+    "produits": [
+        {
+            "produit_id": "P5366",
+            "nom": "Refined Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 157.05
+        },
+        {
+            "produit_id": "P1730",
+            "nom": "Generic Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 488.77
+        }
+    ],
+    "date_commande": "2024-05-20T23:51:57",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "622 Central",
+        "ville": "League City"
+    }
+}

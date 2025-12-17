@@ -1,0 +1,25 @@
+{
+    "order_id": 364086,
+    "client_id": 8905,
+    "produits": [
+        {
+            "produit_id": "P3589",
+            "nom": "Wooden Chips",
+            "quantite": 2,
+            "prix_unitaire": 429.45
+        },
+        {
+            "produit_id": "P4499",
+            "nom": "Tasty Fish",
+            "quantite": 1,
+            "prix_unitaire": 82.21
+        }
+    ],
+    "date_commande": "2024-08-31T23:54:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "19 Berkshire",
+        "ville": "Lauderdale Lakes"
+    }
+}

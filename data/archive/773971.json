@@ -1,0 +1,31 @@
+{
+    "order_id": 773971,
+    "client_id": 7889,
+    "produits": [
+        {
+            "produit_id": "P9640",
+            "nom": "Used Pants",
+            "quantite": 5,
+            "prix_unitaire": 225.95
+        },
+        {
+            "produit_id": "P7454",
+            "nom": "Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 172.65
+        },
+        {
+            "produit_id": "P3333",
+            "nom": "Refined Shirt",
+            "quantite": 1,
+            "prix_unitaire": 74.56
+        }
+    ],
+    "date_commande": "2025-01-12T23:42:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "122 Diana",
+        "ville": "Pembroke Pines"
+    }
+}

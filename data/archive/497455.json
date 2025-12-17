@@ -1,0 +1,15 @@
+{
+    "order_id": 497455,
+    "client_id": 3037,
+    "produits": [
+        {
+            "produit_id": "P2211",
+            "nom": "Gorgeous Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 468.11
+        }
+    ],
+    "date_commande": "2023-07-24T06:26:49",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

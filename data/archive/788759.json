@@ -1,0 +1,31 @@
+{
+    "order_id": 788759,
+    "client_id": 2089,
+    "produits": [
+        {
+            "produit_id": "P0989",
+            "nom": "Intelligent Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 126.52
+        },
+        {
+            "produit_id": "P7954",
+            "nom": "Ergonomic Rubber Table",
+            "quantite": 2,
+            "prix_unitaire": 79.1
+        },
+        {
+            "produit_id": "P3298",
+            "nom": "Used Towels",
+            "quantite": 3,
+            "prix_unitaire": 195.34
+        }
+    ],
+    "date_commande": "2025-03-19T21:58:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "406 Joost",
+        "ville": "Mount Clemens"
+    }
+}

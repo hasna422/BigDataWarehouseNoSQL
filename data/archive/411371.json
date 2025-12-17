@@ -1,0 +1,27 @@
+{
+    "order_id": 411371,
+    "client_id": 8613,
+    "produits": [
+        {
+            "produit_id": "P2261",
+            "nom": "For repair Mouse",
+            "quantite": 1,
+            "prix_unitaire": 241.1
+        },
+        {
+            "produit_id": "P1935",
+            "nom": "Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 6.42
+        },
+        {
+            "produit_id": "P4642",
+            "nom": "Used Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 181.41
+        }
+    ],
+    "date_commande": "2024-10-09T01:58:48",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 880310,
+    "client_id": 1026,
+    "produits": [
+        {
+            "produit_id": "P0865",
+            "nom": "Rustic Granite Chicken",
+            "quantite": 3,
+            "prix_unitaire": 186.09
+        }
+    ],
+    "date_commande": "2023-12-05T21:48:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

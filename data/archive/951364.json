@@ -1,0 +1,21 @@
+{
+    "order_id": 951364,
+    "client_id": 7439,
+    "produits": [
+        {
+            "produit_id": "P7105",
+            "nom": "Tasty Granite Soap",
+            "quantite": 5,
+            "prix_unitaire": 11.48
+        },
+        {
+            "produit_id": "P0695",
+            "nom": "Metal Hat",
+            "quantite": 1,
+            "prix_unitaire": 423.38
+        }
+    ],
+    "date_commande": "2024-06-06T00:49:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

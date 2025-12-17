@@ -1,0 +1,19 @@
+{
+    "order_id": 608926,
+    "client_id": 8290,
+    "produits": [
+        {
+            "produit_id": "P6177",
+            "nom": "Refined Metal Shoes",
+            "quantite": 5,
+            "prix_unitaire": 100.97
+        }
+    ],
+    "date_commande": "2025-05-01T07:40:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "599 Louisiana",
+        "ville": "Orinda"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 530744,
+    "client_id": 1128,
+    "produits": [
+        {
+            "produit_id": "P7908",
+            "nom": "Awesome Soft Pizza",
+            "quantite": 4,
+            "prix_unitaire": 168.91
+        },
+        {
+            "produit_id": "P9027",
+            "nom": "Incredible Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 478.22
+        }
+    ],
+    "date_commande": "2023-08-09T19:01:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1332 West",
+        "ville": "Marina"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 990827,
+    "client_id": 1603,
+    "produits": [
+        {
+            "produit_id": "P2617",
+            "nom": "Ergonomic Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 461.45
+        }
+    ],
+    "date_commande": "2025-05-13T19:40:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

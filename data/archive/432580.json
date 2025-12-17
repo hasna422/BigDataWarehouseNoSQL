@@ -1,0 +1,15 @@
+{
+    "order_id": 432580,
+    "client_id": 2471,
+    "produits": [
+        {
+            "produit_id": "P8303",
+            "nom": "Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 107.4
+        }
+    ],
+    "date_commande": "2024-03-29T03:33:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

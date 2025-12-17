@@ -1,0 +1,15 @@
+{
+    "order_id": 129047,
+    "client_id": 3341,
+    "produits": [
+        {
+            "produit_id": "P8903",
+            "nom": "Licensed Pizza",
+            "quantite": 4,
+            "prix_unitaire": 279.83
+        }
+    ],
+    "date_commande": "2023-06-01T02:33:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

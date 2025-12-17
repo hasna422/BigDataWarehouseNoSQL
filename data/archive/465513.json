@@ -1,0 +1,31 @@
+{
+    "order_id": 465513,
+    "client_id": 9713,
+    "produits": [
+        {
+            "produit_id": "P1605",
+            "nom": "New Cotton Computer",
+            "quantite": 1,
+            "prix_unitaire": 361.8
+        },
+        {
+            "produit_id": "P0613",
+            "nom": "Small Hat",
+            "quantite": 3,
+            "prix_unitaire": 271.56
+        },
+        {
+            "produit_id": "P3474",
+            "nom": "Steel Chair",
+            "quantite": 4,
+            "prix_unitaire": 153.5
+        }
+    ],
+    "date_commande": "2024-10-17T08:59:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1340 Lucerne",
+        "ville": "Elgin"
+    }
+}

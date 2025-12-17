@@ -1,0 +1,19 @@
+{
+    "order_id": 538455,
+    "client_id": 1071,
+    "produits": [
+        {
+            "produit_id": "P5790",
+            "nom": "Intelligent Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 115.27
+        }
+    ],
+    "date_commande": "2025-01-04T04:25:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "28 Gould",
+        "ville": "Acworth"
+    }
+}

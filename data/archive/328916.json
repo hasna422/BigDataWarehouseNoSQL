@@ -1,0 +1,31 @@
+{
+    "order_id": 328916,
+    "client_id": 7300,
+    "produits": [
+        {
+            "produit_id": "P8267",
+            "nom": "For repair Steel Hat",
+            "quantite": 4,
+            "prix_unitaire": 404.6
+        },
+        {
+            "produit_id": "P3340",
+            "nom": "Unbranded Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 453.73
+        },
+        {
+            "produit_id": "P0887",
+            "nom": "Handmade Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 256.98
+        }
+    ],
+    "date_commande": "2024-12-18T21:13:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "945 Divisadero",
+        "ville": "Hemet"
+    }
+}

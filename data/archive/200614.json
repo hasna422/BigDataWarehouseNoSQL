@@ -1,0 +1,27 @@
+{
+    "order_id": 200614,
+    "client_id": 2267,
+    "produits": [
+        {
+            "produit_id": "P1583",
+            "nom": "Tasty Granite Chips",
+            "quantite": 4,
+            "prix_unitaire": 353.56
+        },
+        {
+            "produit_id": "P2112",
+            "nom": "Incredible Wooden Hat",
+            "quantite": 4,
+            "prix_unitaire": 18.74
+        },
+        {
+            "produit_id": "P5766",
+            "nom": "Ergonomic Wooden Bacon",
+            "quantite": 5,
+            "prix_unitaire": 203.33
+        }
+    ],
+    "date_commande": "2024-03-20T05:13:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 755053,
+    "client_id": 8187,
+    "produits": [
+        {
+            "produit_id": "P6968",
+            "nom": "Small Metal Hat",
+            "quantite": 2,
+            "prix_unitaire": 188.85
+        },
+        {
+            "produit_id": "P8548",
+            "nom": "Unbranded Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 233.09
+        },
+        {
+            "produit_id": "P2655",
+            "nom": "Small Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 295.57
+        }
+    ],
+    "date_commande": "2023-12-21T19:00:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

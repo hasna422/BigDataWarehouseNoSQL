@@ -1,0 +1,15 @@
+{
+    "order_id": 287033,
+    "client_id": 6240,
+    "produits": [
+        {
+            "produit_id": "P1922",
+            "nom": "Tasty Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 143.29
+        }
+    ],
+    "date_commande": "2024-08-03T17:49:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

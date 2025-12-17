@@ -1,0 +1,19 @@
+{
+    "order_id": 958973,
+    "client_id": 4000,
+    "produits": [
+        {
+            "produit_id": "P6679",
+            "nom": "Handcrafted Concrete Computer",
+            "quantite": 5,
+            "prix_unitaire": 11.06
+        }
+    ],
+    "date_commande": "2023-09-14T05:28:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1322 Fresnel",
+        "ville": "Oro Valley"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 745312,
+    "client_id": 3919,
+    "produits": [
+        {
+            "produit_id": "P3684",
+            "nom": "Licensed Concrete Sausages",
+            "quantite": 4,
+            "prix_unitaire": 493.16
+        },
+        {
+            "produit_id": "P2842",
+            "nom": "Refined Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 209.8
+        }
+    ],
+    "date_commande": "2024-04-27T22:15:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1190 Amazon",
+        "ville": "University Place"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 786838,
+    "client_id": 8067,
+    "produits": [
+        {
+            "produit_id": "P4136",
+            "nom": "Fantastic Frozen Tuna",
+            "quantite": 1,
+            "prix_unitaire": 327.12
+        },
+        {
+            "produit_id": "P7566",
+            "nom": "Sleek Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 22.76
+        },
+        {
+            "produit_id": "P4257",
+            "nom": "Sleek Ball",
+            "quantite": 4,
+            "prix_unitaire": 102.68
+        }
+    ],
+    "date_commande": "2025-01-22T17:17:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "961 Avocet",
+        "ville": "Boulder"
+    }
+}

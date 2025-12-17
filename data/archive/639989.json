@@ -1,0 +1,31 @@
+{
+    "order_id": 639989,
+    "client_id": 2897,
+    "produits": [
+        {
+            "produit_id": "P3603",
+            "nom": "Small Rubber Gloves",
+            "quantite": 1,
+            "prix_unitaire": 461.63
+        },
+        {
+            "produit_id": "P6862",
+            "nom": "Sleek Sausages",
+            "quantite": 2,
+            "prix_unitaire": 63.69
+        },
+        {
+            "produit_id": "P1253",
+            "nom": "Incredible Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 237.7
+        }
+    ],
+    "date_commande": "2023-09-15T15:28:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "428 Del Monte",
+        "ville": "Kingman"
+    }
+}

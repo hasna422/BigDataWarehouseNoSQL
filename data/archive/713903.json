@@ -1,0 +1,19 @@
+{
+    "order_id": 713903,
+    "client_id": 1030,
+    "produits": [
+        {
+            "produit_id": "P3373",
+            "nom": "Handcrafted Fresh Soap",
+            "quantite": 5,
+            "prix_unitaire": 483.79
+        }
+    ],
+    "date_commande": "2025-01-21T15:08:45",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "206 Mirando",
+        "ville": "Euless"
+    }
+}

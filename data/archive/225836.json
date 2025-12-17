@@ -1,0 +1,31 @@
+{
+    "order_id": 225836,
+    "client_id": 7942,
+    "produits": [
+        {
+            "produit_id": "P1549",
+            "nom": "Generic Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 462.63
+        },
+        {
+            "produit_id": "P1559",
+            "nom": "Small Pants",
+            "quantite": 1,
+            "prix_unitaire": 30.24
+        },
+        {
+            "produit_id": "P4295",
+            "nom": "Rubber Tuna",
+            "quantite": 2,
+            "prix_unitaire": 477.81
+        }
+    ],
+    "date_commande": "2025-03-12T15:27:23",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1287 Crestlake",
+        "ville": "Arcadia"
+    }
+}

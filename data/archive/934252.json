@@ -1,0 +1,31 @@
+{
+    "order_id": 934252,
+    "client_id": 1698,
+    "produits": [
+        {
+            "produit_id": "P6974",
+            "nom": "Fantastic Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 363.56
+        },
+        {
+            "produit_id": "P9752",
+            "nom": "Tasty Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 234.78
+        },
+        {
+            "produit_id": "P5567",
+            "nom": "Handcrafted Soft Chair",
+            "quantite": 3,
+            "prix_unitaire": 116.6
+        }
+    ],
+    "date_commande": "2023-08-28T21:04:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "910 Montague",
+        "ville": "Hopewell"
+    }
+}

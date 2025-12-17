@@ -1,0 +1,19 @@
+{
+    "order_id": 773369,
+    "client_id": 2335,
+    "produits": [
+        {
+            "produit_id": "P9448",
+            "nom": "Incredible Concrete Chips",
+            "quantite": 2,
+            "prix_unitaire": 455.53
+        }
+    ],
+    "date_commande": "2023-08-09T09:45:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "871 Exchange",
+        "ville": "Dumont"
+    }
+}

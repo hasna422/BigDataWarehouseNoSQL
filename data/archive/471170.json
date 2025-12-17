@@ -1,0 +1,19 @@
+{
+    "order_id": 471170,
+    "client_id": 9631,
+    "produits": [
+        {
+            "produit_id": "P0538",
+            "nom": "Practical Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 9.41
+        }
+    ],
+    "date_commande": "2024-10-27T00:21:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "368 Linda",
+        "ville": "Pearl"
+    }
+}

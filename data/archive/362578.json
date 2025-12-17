@@ -1,0 +1,19 @@
+{
+    "order_id": 362578,
+    "client_id": 7803,
+    "produits": [
+        {
+            "produit_id": "P8358",
+            "nom": "Sleek Soft Shirt",
+            "quantite": 5,
+            "prix_unitaire": 439.43
+        }
+    ],
+    "date_commande": "2023-09-19T06:54:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "366 Candyland",
+        "ville": "Fuquay-Varina"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 473229,
+    "client_id": 6671,
+    "produits": [
+        {
+            "produit_id": "P3532",
+            "nom": "Used Steel Salad",
+            "quantite": 2,
+            "prix_unitaire": 475.21
+        },
+        {
+            "produit_id": "P9014",
+            "nom": "Handmade Concrete Mouse",
+            "quantite": 5,
+            "prix_unitaire": 150.62
+        },
+        {
+            "produit_id": "P7716",
+            "nom": "Awesome Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 40.99
+        }
+    ],
+    "date_commande": "2024-12-28T18:23:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "323 Vicksburg",
+        "ville": "Sumter"
+    }
+}

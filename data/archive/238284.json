@@ -1,0 +1,31 @@
+{
+    "order_id": 238284,
+    "client_id": 1001,
+    "produits": [
+        {
+            "produit_id": "P6078",
+            "nom": "Granite Ball",
+            "quantite": 4,
+            "prix_unitaire": 33.76
+        },
+        {
+            "produit_id": "P2582",
+            "nom": "Small Table",
+            "quantite": 2,
+            "prix_unitaire": 32.61
+        },
+        {
+            "produit_id": "P2517",
+            "nom": "Wooden Chicken",
+            "quantite": 5,
+            "prix_unitaire": 404.94
+        }
+    ],
+    "date_commande": "2024-06-08T01:50:07",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1299 Codman",
+        "ville": "La Habra"
+    }
+}

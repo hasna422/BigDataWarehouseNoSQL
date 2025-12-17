@@ -1,0 +1,15 @@
+{
+    "order_id": 120238,
+    "client_id": 7479,
+    "produits": [
+        {
+            "produit_id": "P4816",
+            "nom": "Handcrafted Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 407.81
+        }
+    ],
+    "date_commande": "2025-05-05T04:50:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

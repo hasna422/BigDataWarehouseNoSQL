@@ -1,0 +1,21 @@
+{
+    "order_id": 666788,
+    "client_id": 1533,
+    "produits": [
+        {
+            "produit_id": "P5133",
+            "nom": "Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 81.65
+        },
+        {
+            "produit_id": "P5699",
+            "nom": "Tasty Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 365.42
+        }
+    ],
+    "date_commande": "2023-08-07T14:25:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

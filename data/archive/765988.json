@@ -1,0 +1,25 @@
+{
+    "order_id": 765988,
+    "client_id": 7455,
+    "produits": [
+        {
+            "produit_id": "P9287",
+            "nom": "Tasty Soft Fish",
+            "quantite": 4,
+            "prix_unitaire": 264.86
+        },
+        {
+            "produit_id": "P9603",
+            "nom": "Used Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 143.69
+        }
+    ],
+    "date_commande": "2023-12-24T20:06:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "124 Emery",
+        "ville": "San Francisco"
+    }
+}

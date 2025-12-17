@@ -1,0 +1,19 @@
+{
+    "order_id": 743010,
+    "client_id": 9585,
+    "produits": [
+        {
+            "produit_id": "P7041",
+            "nom": "Sleek Steel Salad",
+            "quantite": 3,
+            "prix_unitaire": 192.56
+        }
+    ],
+    "date_commande": "2023-09-12T22:03:54",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "738 Lyon",
+        "ville": "Santa Clara"
+    }
+}

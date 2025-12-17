@@ -1,0 +1,31 @@
+{
+    "order_id": 886813,
+    "client_id": 7122,
+    "produits": [
+        {
+            "produit_id": "P3893",
+            "nom": "Tasty Chips",
+            "quantite": 5,
+            "prix_unitaire": 176.5
+        },
+        {
+            "produit_id": "P3762",
+            "nom": "For repair Plastic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 120.76
+        },
+        {
+            "produit_id": "P5689",
+            "nom": "New Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 35.23
+        }
+    ],
+    "date_commande": "2024-03-27T19:55:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1328 Moneta",
+        "ville": "Hesperia"
+    }
+}

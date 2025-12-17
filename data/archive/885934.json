@@ -1,0 +1,25 @@
+{
+    "order_id": 885934,
+    "client_id": 8599,
+    "produits": [
+        {
+            "produit_id": "P7609",
+            "nom": "Rustic Concrete Shoes",
+            "quantite": 4,
+            "prix_unitaire": 186.11
+        },
+        {
+            "produit_id": "P8935",
+            "nom": "Ergonomic Wooden Chair",
+            "quantite": 2,
+            "prix_unitaire": 371.74
+        }
+    ],
+    "date_commande": "2024-05-12T09:04:24",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "524 Avenue M",
+        "ville": "Deer Park"
+    }
+}

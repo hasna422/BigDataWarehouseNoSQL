@@ -1,0 +1,19 @@
+{
+    "order_id": 226454,
+    "client_id": 2091,
+    "produits": [
+        {
+            "produit_id": "P5238",
+            "nom": "Incredible Bike",
+            "quantite": 3,
+            "prix_unitaire": 320.01
+        }
+    ],
+    "date_commande": "2025-05-07T04:00:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1144 Nauman",
+        "ville": "Northport"
+    }
+}

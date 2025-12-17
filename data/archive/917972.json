@@ -1,0 +1,19 @@
+{
+    "order_id": 917972,
+    "client_id": 6570,
+    "produits": [
+        {
+            "produit_id": "P8846",
+            "nom": "Ergonomic Granite Salad",
+            "quantite": 4,
+            "prix_unitaire": 251.8
+        }
+    ],
+    "date_commande": "2024-03-08T18:04:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "186 Barnard",
+        "ville": "Huntington Park"
+    }
+}

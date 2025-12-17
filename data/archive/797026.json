@@ -1,0 +1,31 @@
+{
+    "order_id": 797026,
+    "client_id": 6068,
+    "produits": [
+        {
+            "produit_id": "P9376",
+            "nom": "Unbranded Fish",
+            "quantite": 5,
+            "prix_unitaire": 40.18
+        },
+        {
+            "produit_id": "P5798",
+            "nom": "Handmade Fresh Ball",
+            "quantite": 4,
+            "prix_unitaire": 388.43
+        },
+        {
+            "produit_id": "P6425",
+            "nom": "Gently Used Fresh Pizza",
+            "quantite": 2,
+            "prix_unitaire": 66.66
+        }
+    ],
+    "date_commande": "2023-10-01T14:33:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "302 Majestic",
+        "ville": "Great Falls"
+    }
+}

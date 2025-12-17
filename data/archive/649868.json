@@ -1,0 +1,25 @@
+{
+    "order_id": 649868,
+    "client_id": 2658,
+    "produits": [
+        {
+            "produit_id": "P1632",
+            "nom": "Fantastic Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 130.72
+        },
+        {
+            "produit_id": "P3838",
+            "nom": "Gently Used Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 314.02
+        }
+    ],
+    "date_commande": "2023-09-19T08:24:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "380 Lindsay",
+        "ville": "Paducah"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 411782,
+    "client_id": 9451,
+    "produits": [
+        {
+            "produit_id": "P7517",
+            "nom": "Sleek Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 365.56
+        },
+        {
+            "produit_id": "P9108",
+            "nom": "Sleek Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 63.16
+        },
+        {
+            "produit_id": "P2126",
+            "nom": "Tasty Ball",
+            "quantite": 2,
+            "prix_unitaire": 381.99
+        }
+    ],
+    "date_commande": "2024-01-16T07:37:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

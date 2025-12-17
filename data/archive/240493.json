@@ -1,0 +1,25 @@
+{
+    "order_id": 240493,
+    "client_id": 7752,
+    "produits": [
+        {
+            "produit_id": "P8983",
+            "nom": "Small Cotton Chair",
+            "quantite": 3,
+            "prix_unitaire": 341.21
+        },
+        {
+            "produit_id": "P4504",
+            "nom": "Fantastic Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 15.74
+        }
+    ],
+    "date_commande": "2023-06-30T22:15:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "697 Arleta",
+        "ville": "Ithaca"
+    }
+}

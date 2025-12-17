@@ -1,0 +1,25 @@
+{
+    "order_id": 416210,
+    "client_id": 9954,
+    "produits": [
+        {
+            "produit_id": "P3152",
+            "nom": "Unbranded Metal Pants",
+            "quantite": 1,
+            "prix_unitaire": 85.23
+        },
+        {
+            "produit_id": "P9267",
+            "nom": "Gorgeous Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 228.58
+        }
+    ],
+    "date_commande": "2023-11-19T01:33:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "220 Fitzgerald",
+        "ville": "Niles"
+    }
+}

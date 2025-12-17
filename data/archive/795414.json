@@ -1,0 +1,21 @@
+{
+    "order_id": 795414,
+    "client_id": 5666,
+    "produits": [
+        {
+            "produit_id": "P3870",
+            "nom": "Ergonomic Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 127.2
+        },
+        {
+            "produit_id": "P9749",
+            "nom": "Gently Used Fresh Hat",
+            "quantite": 2,
+            "prix_unitaire": 350.23
+        }
+    ],
+    "date_commande": "2024-04-11T07:06:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

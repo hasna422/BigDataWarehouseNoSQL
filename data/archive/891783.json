@@ -1,0 +1,21 @@
+{
+    "order_id": 891783,
+    "client_id": 3218,
+    "produits": [
+        {
+            "produit_id": "P3054",
+            "nom": "Fantastic Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 482.42
+        },
+        {
+            "produit_id": "P6561",
+            "nom": "Gorgeous Fresh Bacon",
+            "quantite": 3,
+            "prix_unitaire": 169.69
+        }
+    ],
+    "date_commande": "2023-08-19T05:29:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

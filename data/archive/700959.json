@@ -1,0 +1,15 @@
+{
+    "order_id": 700959,
+    "client_id": 2479,
+    "produits": [
+        {
+            "produit_id": "P2502",
+            "nom": "Used Plastic Chair",
+            "quantite": 4,
+            "prix_unitaire": 292.3
+        }
+    ],
+    "date_commande": "2025-01-24T09:09:24",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

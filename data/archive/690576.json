@@ -1,0 +1,25 @@
+{
+    "order_id": 690576,
+    "client_id": 8184,
+    "produits": [
+        {
+            "produit_id": "P2862",
+            "nom": "Tasty Plastic Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 390.16
+        },
+        {
+            "produit_id": "P5014",
+            "nom": "Small Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 57.34
+        }
+    ],
+    "date_commande": "2023-10-16T23:16:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1022 Southern Heights",
+        "ville": "Tampa"
+    }
+}

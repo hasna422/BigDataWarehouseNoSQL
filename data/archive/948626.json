@@ -1,0 +1,27 @@
+{
+    "order_id": 948626,
+    "client_id": 5256,
+    "produits": [
+        {
+            "produit_id": "P4215",
+            "nom": "Awesome Wooden Car",
+            "quantite": 5,
+            "prix_unitaire": 34.56
+        },
+        {
+            "produit_id": "P3451",
+            "nom": "Tasty Salad",
+            "quantite": 5,
+            "prix_unitaire": 389.31
+        },
+        {
+            "produit_id": "P2258",
+            "nom": "For repair Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 37.44
+        }
+    ],
+    "date_commande": "2025-05-01T23:16:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

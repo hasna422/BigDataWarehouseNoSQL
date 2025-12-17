@@ -1,0 +1,19 @@
+{
+    "order_id": 924628,
+    "client_id": 6626,
+    "produits": [
+        {
+            "produit_id": "P3290",
+            "nom": "Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 300.46
+        }
+    ],
+    "date_commande": "2024-09-22T14:46:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "564 Jefferson",
+        "ville": "Williamsport"
+    }
+}

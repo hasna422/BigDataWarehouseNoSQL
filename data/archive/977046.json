@@ -1,0 +1,19 @@
+{
+    "order_id": 977046,
+    "client_id": 7104,
+    "produits": [
+        {
+            "produit_id": "P0139",
+            "nom": "Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 414.09
+        }
+    ],
+    "date_commande": "2024-09-25T00:18:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "135 Manchester",
+        "ville": "Cicero"
+    }
+}

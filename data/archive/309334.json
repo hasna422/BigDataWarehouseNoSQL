@@ -1,0 +1,31 @@
+{
+    "order_id": 309334,
+    "client_id": 8353,
+    "produits": [
+        {
+            "produit_id": "P6550",
+            "nom": "New Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 241.34
+        },
+        {
+            "produit_id": "P0110",
+            "nom": "Ergonomic Granite Cheese",
+            "quantite": 3,
+            "prix_unitaire": 79.43
+        },
+        {
+            "produit_id": "P5587",
+            "nom": "Handcrafted Rubber Bacon",
+            "quantite": 4,
+            "prix_unitaire": 287.01
+        }
+    ],
+    "date_commande": "2023-10-26T00:48:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "241 Kearny",
+        "ville": "Wheaton"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 362267,
+    "client_id": 7850,
+    "produits": [
+        {
+            "produit_id": "P3345",
+            "nom": "Handcrafted Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 361.31
+        },
+        {
+            "produit_id": "P4532",
+            "nom": "Rustic Frozen Sausages",
+            "quantite": 3,
+            "prix_unitaire": 395.12
+        },
+        {
+            "produit_id": "P8765",
+            "nom": "Tasty Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 375.06
+        }
+    ],
+    "date_commande": "2025-01-07T01:45:53",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "281 Macedonia",
+        "ville": "Grapevine"
+    }
+}

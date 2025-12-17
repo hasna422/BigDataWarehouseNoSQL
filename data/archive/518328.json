@@ -1,0 +1,15 @@
+{
+    "order_id": 518328,
+    "client_id": 4832,
+    "produits": [
+        {
+            "produit_id": "P9697",
+            "nom": "Awesome Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 459.82
+        }
+    ],
+    "date_commande": "2025-04-10T16:56:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 859719,
+    "client_id": 6005,
+    "produits": [
+        {
+            "produit_id": "P3054",
+            "nom": "Plastic Fish",
+            "quantite": 3,
+            "prix_unitaire": 71.29
+        }
+    ],
+    "date_commande": "2024-08-01T10:58:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1323 Bellevue",
+        "ville": "Austin"
+    }
+}

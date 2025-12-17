@@ -1,0 +1,19 @@
+{
+    "order_id": 361727,
+    "client_id": 2248,
+    "produits": [
+        {
+            "produit_id": "P7699",
+            "nom": "Sleek Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 344.03
+        }
+    ],
+    "date_commande": "2024-11-30T18:48:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "64 Ramsell",
+        "ville": "Merced"
+    }
+}

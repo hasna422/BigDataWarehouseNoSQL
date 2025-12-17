@@ -1,0 +1,15 @@
+{
+    "order_id": 221747,
+    "client_id": 5474,
+    "produits": [
+        {
+            "produit_id": "P1486",
+            "nom": "Fantastic Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 149.23
+        }
+    ],
+    "date_commande": "2025-04-30T21:30:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

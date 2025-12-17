@@ -1,0 +1,21 @@
+{
+    "order_id": 554886,
+    "client_id": 8194,
+    "produits": [
+        {
+            "produit_id": "P8182",
+            "nom": "Gorgeous Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 181.05
+        },
+        {
+            "produit_id": "P6004",
+            "nom": "Tasty Cotton Chicken",
+            "quantite": 2,
+            "prix_unitaire": 288.55
+        }
+    ],
+    "date_commande": "2023-07-30T20:58:18",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

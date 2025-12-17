@@ -1,0 +1,25 @@
+{
+    "order_id": 738342,
+    "client_id": 7418,
+    "produits": [
+        {
+            "produit_id": "P4200",
+            "nom": "Practical Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 128.96
+        },
+        {
+            "produit_id": "P3384",
+            "nom": "Licensed Cotton Sausages",
+            "quantite": 4,
+            "prix_unitaire": 371.55
+        }
+    ],
+    "date_commande": "2024-07-24T01:10:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "891 Hudson",
+        "ville": "Hollywood"
+    }
+}

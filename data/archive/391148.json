@@ -1,0 +1,31 @@
+{
+    "order_id": 391148,
+    "client_id": 5098,
+    "produits": [
+        {
+            "produit_id": "P1839",
+            "nom": "Generic Frozen Bacon",
+            "quantite": 3,
+            "prix_unitaire": 409.36
+        },
+        {
+            "produit_id": "P2035",
+            "nom": "Handcrafted Soft Table",
+            "quantite": 4,
+            "prix_unitaire": 332.23
+        },
+        {
+            "produit_id": "P4475",
+            "nom": "Awesome Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 391.53
+        }
+    ],
+    "date_commande": "2023-11-12T05:02:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "174 Vara",
+        "ville": "Edina"
+    }
+}

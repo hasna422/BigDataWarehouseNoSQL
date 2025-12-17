@@ -1,0 +1,15 @@
+{
+    "order_id": 621365,
+    "client_id": 4882,
+    "produits": [
+        {
+            "produit_id": "P0938",
+            "nom": "Awesome Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 17.18
+        }
+    ],
+    "date_commande": "2025-01-23T21:15:43",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

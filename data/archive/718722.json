@@ -1,0 +1,19 @@
+{
+    "order_id": 718722,
+    "client_id": 5420,
+    "produits": [
+        {
+            "produit_id": "P0170",
+            "nom": "Used Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 125.86
+        }
+    ],
+    "date_commande": "2023-09-14T12:28:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "194 Treat",
+        "ville": "Birmingham"
+    }
+}

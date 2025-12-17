@@ -1,0 +1,21 @@
+{
+    "order_id": 307725,
+    "client_id": 6290,
+    "produits": [
+        {
+            "produit_id": "P7579",
+            "nom": "For repair Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 230.49
+        },
+        {
+            "produit_id": "P9633",
+            "nom": "Incredible Fresh Pants",
+            "quantite": 3,
+            "prix_unitaire": 366.72
+        }
+    ],
+    "date_commande": "2025-01-07T10:32:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

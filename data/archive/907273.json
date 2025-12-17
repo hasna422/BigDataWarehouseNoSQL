@@ -1,0 +1,19 @@
+{
+    "order_id": 907273,
+    "client_id": 8896,
+    "produits": [
+        {
+            "produit_id": "P8206",
+            "nom": "Generic Rubber Soap",
+            "quantite": 3,
+            "prix_unitaire": 110.45
+        }
+    ],
+    "date_commande": "2024-01-14T19:06:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1391 Yerba Buena",
+        "ville": "Sterling Heights"
+    }
+}

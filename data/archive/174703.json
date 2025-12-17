@@ -1,0 +1,25 @@
+{
+    "order_id": 174703,
+    "client_id": 6021,
+    "produits": [
+        {
+            "produit_id": "P2090",
+            "nom": "Small Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 360.46
+        },
+        {
+            "produit_id": "P5469",
+            "nom": "Intelligent Steel Chair",
+            "quantite": 1,
+            "prix_unitaire": 280.94
+        }
+    ],
+    "date_commande": "2024-12-28T23:30:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1031 Brook",
+        "ville": "Haltom City"
+    }
+}

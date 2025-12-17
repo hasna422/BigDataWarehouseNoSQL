@@ -1,0 +1,25 @@
+{
+    "order_id": 845822,
+    "client_id": 4342,
+    "produits": [
+        {
+            "produit_id": "P4228",
+            "nom": "Unbranded Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 13.21
+        },
+        {
+            "produit_id": "P1948",
+            "nom": "Incredible Steel Towels",
+            "quantite": 4,
+            "prix_unitaire": 58.08
+        }
+    ],
+    "date_commande": "2024-05-18T05:22:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "213 Gibb",
+        "ville": "Holly Springs"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 248392,
+    "client_id": 4731,
+    "produits": [
+        {
+            "produit_id": "P6878",
+            "nom": "Sleek Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 134.0
+        }
+    ],
+    "date_commande": "2023-10-13T14:44:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "417 Hattie",
+        "ville": "Van Buren"
+    }
+}

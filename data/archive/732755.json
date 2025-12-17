@@ -1,0 +1,15 @@
+{
+    "order_id": 732755,
+    "client_id": 5206,
+    "produits": [
+        {
+            "produit_id": "P5283",
+            "nom": "Ergonomic Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 412.33
+        }
+    ],
+    "date_commande": "2024-10-27T19:31:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

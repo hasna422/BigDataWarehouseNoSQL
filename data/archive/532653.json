@@ -1,0 +1,31 @@
+{
+    "order_id": 532653,
+    "client_id": 2303,
+    "produits": [
+        {
+            "produit_id": "P1114",
+            "nom": "Handmade Soft Tuna",
+            "quantite": 2,
+            "prix_unitaire": 423.38
+        },
+        {
+            "produit_id": "P9602",
+            "nom": "Licensed Steel Table",
+            "quantite": 2,
+            "prix_unitaire": 106.24
+        },
+        {
+            "produit_id": "P6810",
+            "nom": "Incredible Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 91.43
+        }
+    ],
+    "date_commande": "2024-11-15T17:38:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "142 Jerrold",
+        "ville": "Warren"
+    }
+}

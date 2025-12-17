@@ -1,0 +1,19 @@
+{
+    "order_id": 875328,
+    "client_id": 3931,
+    "produits": [
+        {
+            "produit_id": "P6617",
+            "nom": "Handmade Steel Soap",
+            "quantite": 4,
+            "prix_unitaire": 88.75
+        }
+    ],
+    "date_commande": "2023-08-20T01:35:17",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "210 Terry A Francois",
+        "ville": "Puyallup"
+    }
+}

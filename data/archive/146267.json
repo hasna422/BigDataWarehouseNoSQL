@@ -1,0 +1,25 @@
+{
+    "order_id": 146267,
+    "client_id": 4964,
+    "produits": [
+        {
+            "produit_id": "P2088",
+            "nom": "For repair Sausages",
+            "quantite": 4,
+            "prix_unitaire": 188.74
+        },
+        {
+            "produit_id": "P7859",
+            "nom": "Gently Used Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 242.15
+        }
+    ],
+    "date_commande": "2023-11-04T04:15:24",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "582 Cerritos",
+        "ville": "Allen"
+    }
+}

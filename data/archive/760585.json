@@ -1,0 +1,25 @@
+{
+    "order_id": 760585,
+    "client_id": 6743,
+    "produits": [
+        {
+            "produit_id": "P0999",
+            "nom": "Soft Ball",
+            "quantite": 2,
+            "prix_unitaire": 280.25
+        },
+        {
+            "produit_id": "P0752",
+            "nom": "Cotton Chair",
+            "quantite": 3,
+            "prix_unitaire": 189.7
+        }
+    ],
+    "date_commande": "2023-11-06T21:01:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "503 Hudson",
+        "ville": "Hays"
+    }
+}

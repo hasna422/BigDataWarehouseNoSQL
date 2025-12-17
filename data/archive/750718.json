@@ -1,0 +1,25 @@
+{
+    "order_id": 750718,
+    "client_id": 1223,
+    "produits": [
+        {
+            "produit_id": "P4291",
+            "nom": "Intelligent Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 221.52
+        },
+        {
+            "produit_id": "P9020",
+            "nom": "Handcrafted Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 152.78
+        }
+    ],
+    "date_commande": "2025-03-11T16:56:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "95 Palou",
+        "ville": "Wheat Ridge"
+    }
+}

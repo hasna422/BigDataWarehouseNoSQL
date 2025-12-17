@@ -1,0 +1,19 @@
+{
+    "order_id": 845139,
+    "client_id": 9543,
+    "produits": [
+        {
+            "produit_id": "P8423",
+            "nom": "Licensed Frozen Towels",
+            "quantite": 4,
+            "prix_unitaire": 192.03
+        }
+    ],
+    "date_commande": "2023-07-20T02:00:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "120 Fair Oaks",
+        "ville": "Chickasha"
+    }
+}

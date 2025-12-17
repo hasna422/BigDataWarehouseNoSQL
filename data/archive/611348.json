@@ -1,0 +1,27 @@
+{
+    "order_id": 611348,
+    "client_id": 5131,
+    "produits": [
+        {
+            "produit_id": "P5637",
+            "nom": "For repair Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 447.21
+        },
+        {
+            "produit_id": "P0522",
+            "nom": "Tasty Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 205.17
+        },
+        {
+            "produit_id": "P2308",
+            "nom": "Gorgeous Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 406.72
+        }
+    ],
+    "date_commande": "2024-07-07T21:36:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 827158,
+    "client_id": 5403,
+    "produits": [
+        {
+            "produit_id": "P3875",
+            "nom": "Fantastic Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 445.24
+        },
+        {
+            "produit_id": "P5596",
+            "nom": "Ergonomic Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 245.7
+        }
+    ],
+    "date_commande": "2023-06-12T16:10:36",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1258 Avoca",
+        "ville": "Lincoln Park"
+    }
+}

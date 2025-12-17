@@ -1,0 +1,19 @@
+{
+    "order_id": 309203,
+    "client_id": 9200,
+    "produits": [
+        {
+            "produit_id": "P1244",
+            "nom": "Practical Wooden Car",
+            "quantite": 5,
+            "prix_unitaire": 96.39
+        }
+    ],
+    "date_commande": "2025-04-16T09:54:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "263 Candlestick Cove",
+        "ville": "Bensenville"
+    }
+}

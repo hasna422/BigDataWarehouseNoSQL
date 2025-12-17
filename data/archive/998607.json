@@ -1,0 +1,31 @@
+{
+    "order_id": 998607,
+    "client_id": 1720,
+    "produits": [
+        {
+            "produit_id": "P2012",
+            "nom": "Handcrafted Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 33.48
+        },
+        {
+            "produit_id": "P5544",
+            "nom": "Practical Plastic Tuna",
+            "quantite": 3,
+            "prix_unitaire": 86.23
+        },
+        {
+            "produit_id": "P5192",
+            "nom": "Licensed Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 257.49
+        }
+    ],
+    "date_commande": "2023-08-24T20:12:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1365 Kenneth Rexroth",
+        "ville": "Rochester Hills"
+    }
+}

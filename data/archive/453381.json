@@ -1,0 +1,25 @@
+{
+    "order_id": 453381,
+    "client_id": 7081,
+    "produits": [
+        {
+            "produit_id": "P8083",
+            "nom": "Handmade Towels",
+            "quantite": 1,
+            "prix_unitaire": 247.22
+        },
+        {
+            "produit_id": "P8440",
+            "nom": "Intelligent Steel Pizza",
+            "quantite": 2,
+            "prix_unitaire": 355.25
+        }
+    ],
+    "date_commande": "2024-07-11T02:35:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "61 Quesada",
+        "ville": "Morristown"
+    }
+}

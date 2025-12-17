@@ -1,0 +1,19 @@
+{
+    "order_id": 370368,
+    "client_id": 4460,
+    "produits": [
+        {
+            "produit_id": "P5861",
+            "nom": "Generic Granite Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 413.18
+        }
+    ],
+    "date_commande": "2024-03-27T08:00:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "353 Gaiser",
+        "ville": "Abilene"
+    }
+}

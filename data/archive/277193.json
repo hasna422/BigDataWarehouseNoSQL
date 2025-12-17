@@ -1,0 +1,19 @@
+{
+    "order_id": 277193,
+    "client_id": 3801,
+    "produits": [
+        {
+            "produit_id": "P4408",
+            "nom": "Handcrafted Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 104.19
+        }
+    ],
+    "date_commande": "2024-02-23T13:06:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1269 Bocana",
+        "ville": "Bakersfield"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 993570,
+    "client_id": 3090,
+    "produits": [
+        {
+            "produit_id": "P0366",
+            "nom": "Used Concrete Shirt",
+            "quantite": 3,
+            "prix_unitaire": 245.03
+        }
+    ],
+    "date_commande": "2025-01-20T14:10:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "881 Linden",
+        "ville": "Brownsburg"
+    }
+}

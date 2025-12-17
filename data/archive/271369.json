@@ -1,0 +1,27 @@
+{
+    "order_id": 271369,
+    "client_id": 4082,
+    "produits": [
+        {
+            "produit_id": "P7236",
+            "nom": "Unbranded Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 163.97
+        },
+        {
+            "produit_id": "P5864",
+            "nom": "Awesome Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 378.28
+        },
+        {
+            "produit_id": "P6075",
+            "nom": "Gorgeous Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 288.4
+        }
+    ],
+    "date_commande": "2023-11-19T06:39:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

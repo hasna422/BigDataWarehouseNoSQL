@@ -1,0 +1,25 @@
+{
+    "order_id": 621363,
+    "client_id": 7417,
+    "produits": [
+        {
+            "produit_id": "P7125",
+            "nom": "Gently Used Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 181.88
+        },
+        {
+            "produit_id": "P8952",
+            "nom": "Used Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 237.65
+        }
+    ],
+    "date_commande": "2024-07-13T17:07:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "502 Polk",
+        "ville": "El Cajon"
+    }
+}

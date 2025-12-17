@@ -1,0 +1,25 @@
+{
+    "order_id": 866094,
+    "client_id": 7285,
+    "produits": [
+        {
+            "produit_id": "P4337",
+            "nom": "Intelligent Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 279.86
+        },
+        {
+            "produit_id": "P7531",
+            "nom": "Intelligent Bacon",
+            "quantite": 3,
+            "prix_unitaire": 183.66
+        }
+    ],
+    "date_commande": "2024-12-05T23:48:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "360 Bellair",
+        "ville": "Renton"
+    }
+}

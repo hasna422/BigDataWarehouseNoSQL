@@ -1,0 +1,25 @@
+{
+    "order_id": 444849,
+    "client_id": 1164,
+    "produits": [
+        {
+            "produit_id": "P5412",
+            "nom": "Handmade Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 44.94
+        },
+        {
+            "produit_id": "P2045",
+            "nom": "Handmade Chicken",
+            "quantite": 3,
+            "prix_unitaire": 9.37
+        }
+    ],
+    "date_commande": "2024-11-25T19:39:27",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "819 Campbell",
+        "ville": "Gilroy"
+    }
+}

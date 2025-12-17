@@ -1,0 +1,25 @@
+{
+    "order_id": 627503,
+    "client_id": 8726,
+    "produits": [
+        {
+            "produit_id": "P7229",
+            "nom": "Sleek Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 91.58
+        },
+        {
+            "produit_id": "P9068",
+            "nom": "Sleek Cotton Ball",
+            "quantite": 5,
+            "prix_unitaire": 141.79
+        }
+    ],
+    "date_commande": "2025-03-22T09:29:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "68 Miley",
+        "ville": "Anacortes"
+    }
+}

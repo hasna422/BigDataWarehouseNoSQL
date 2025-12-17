@@ -1,0 +1,25 @@
+{
+    "order_id": 658284,
+    "client_id": 4984,
+    "produits": [
+        {
+            "produit_id": "P1481",
+            "nom": "Incredible Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 382.97
+        },
+        {
+            "produit_id": "P0003",
+            "nom": "Rustic Frozen Mouse",
+            "quantite": 2,
+            "prix_unitaire": 443.82
+        }
+    ],
+    "date_commande": "2024-01-08T12:16:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "947 Blythdale",
+        "ville": "Sacramento"
+    }
+}

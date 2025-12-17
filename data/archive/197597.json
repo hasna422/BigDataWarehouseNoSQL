@@ -1,0 +1,27 @@
+{
+    "order_id": 197597,
+    "client_id": 4096,
+    "produits": [
+        {
+            "produit_id": "P8937",
+            "nom": "Fantastic Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 209.98
+        },
+        {
+            "produit_id": "P1903",
+            "nom": "Handcrafted Chips",
+            "quantite": 4,
+            "prix_unitaire": 156.76
+        },
+        {
+            "produit_id": "P0940",
+            "nom": "Fresh Sausages",
+            "quantite": 4,
+            "prix_unitaire": 115.47
+        }
+    ],
+    "date_commande": "2024-03-29T23:43:27",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

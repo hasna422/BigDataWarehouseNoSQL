@@ -1,0 +1,21 @@
+{
+    "order_id": 912073,
+    "client_id": 7648,
+    "produits": [
+        {
+            "produit_id": "P4978",
+            "nom": "Handmade Cotton Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 172.73
+        },
+        {
+            "produit_id": "P2425",
+            "nom": "Tasty Wooden Pants",
+            "quantite": 2,
+            "prix_unitaire": 81.56
+        }
+    ],
+    "date_commande": "2024-01-07T08:21:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

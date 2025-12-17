@@ -1,0 +1,31 @@
+{
+    "order_id": 734089,
+    "client_id": 4575,
+    "produits": [
+        {
+            "produit_id": "P7965",
+            "nom": "Gently Used Computer",
+            "quantite": 2,
+            "prix_unitaire": 340.9
+        },
+        {
+            "produit_id": "P3402",
+            "nom": "Incredible Chips",
+            "quantite": 5,
+            "prix_unitaire": 117.11
+        },
+        {
+            "produit_id": "P3849",
+            "nom": "Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 432.47
+        }
+    ],
+    "date_commande": "2023-08-29T20:21:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1036 Avenue C",
+        "ville": "East Peoria"
+    }
+}

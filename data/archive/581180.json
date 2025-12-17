@@ -1,0 +1,15 @@
+{
+    "order_id": 581180,
+    "client_id": 1007,
+    "produits": [
+        {
+            "produit_id": "P2740",
+            "nom": "Ergonomic Table",
+            "quantite": 1,
+            "prix_unitaire": 14.91
+        }
+    ],
+    "date_commande": "2023-11-08T22:01:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 469526,
+    "client_id": 9135,
+    "produits": [
+        {
+            "produit_id": "P6811",
+            "nom": "Licensed Cotton Computer",
+            "quantite": 2,
+            "prix_unitaire": 381.16
+        }
+    ],
+    "date_commande": "2024-12-26T23:19:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "499 Howard",
+        "ville": "Ankeny"
+    }
+}

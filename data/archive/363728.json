@@ -1,0 +1,19 @@
+{
+    "order_id": 363728,
+    "client_id": 2329,
+    "produits": [
+        {
+            "produit_id": "P9530",
+            "nom": "Small Metal Soap",
+            "quantite": 4,
+            "prix_unitaire": 121.2
+        }
+    ],
+    "date_commande": "2025-05-13T19:43:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1033 Thrift",
+        "ville": "Sulphur"
+    }
+}

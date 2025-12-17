@@ -1,0 +1,19 @@
+{
+    "order_id": 728357,
+    "client_id": 7749,
+    "produits": [
+        {
+            "produit_id": "P1187",
+            "nom": "Fantastic Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 184.85
+        }
+    ],
+    "date_commande": "2025-01-08T16:45:49",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "441 Cedro",
+        "ville": "San Antonio"
+    }
+}

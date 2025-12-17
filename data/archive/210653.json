@@ -1,0 +1,19 @@
+{
+    "order_id": 210653,
+    "client_id": 3830,
+    "produits": [
+        {
+            "produit_id": "P4899",
+            "nom": "Intelligent Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 413.77
+        }
+    ],
+    "date_commande": "2024-10-08T18:37:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1141 Wallace",
+        "ville": "White Bear Lake"
+    }
+}

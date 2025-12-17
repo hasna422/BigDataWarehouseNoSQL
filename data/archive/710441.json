@@ -1,0 +1,15 @@
+{
+    "order_id": 710441,
+    "client_id": 5767,
+    "produits": [
+        {
+            "produit_id": "P7625",
+            "nom": "Ergonomic Metal Sausages",
+            "quantite": 5,
+            "prix_unitaire": 483.11
+        }
+    ],
+    "date_commande": "2025-05-14T02:03:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

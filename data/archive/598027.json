@@ -1,0 +1,21 @@
+{
+    "order_id": 598027,
+    "client_id": 9333,
+    "produits": [
+        {
+            "produit_id": "P8300",
+            "nom": "Handcrafted Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 205.94
+        },
+        {
+            "produit_id": "P6043",
+            "nom": "Rustic Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 91.85
+        }
+    ],
+    "date_commande": "2024-07-01T22:01:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

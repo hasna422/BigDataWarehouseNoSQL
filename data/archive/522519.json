@@ -1,0 +1,15 @@
+{
+    "order_id": 522519,
+    "client_id": 7440,
+    "produits": [
+        {
+            "produit_id": "P6989",
+            "nom": "Licensed Soft Chips",
+            "quantite": 1,
+            "prix_unitaire": 167.19
+        }
+    ],
+    "date_commande": "2025-05-10T23:30:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

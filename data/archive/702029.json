@@ -1,0 +1,31 @@
+{
+    "order_id": 702029,
+    "client_id": 3814,
+    "produits": [
+        {
+            "produit_id": "P0853",
+            "nom": "For repair Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 77.83
+        },
+        {
+            "produit_id": "P1868",
+            "nom": "Generic Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 113.57
+        },
+        {
+            "produit_id": "P1930",
+            "nom": "Gorgeous Metal Soap",
+            "quantite": 2,
+            "prix_unitaire": 15.06
+        }
+    ],
+    "date_commande": "2025-01-10T18:00:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1223 San Antonio",
+        "ville": "Taunton"
+    }
+}

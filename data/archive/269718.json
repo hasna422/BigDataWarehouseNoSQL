@@ -1,0 +1,21 @@
+{
+    "order_id": 269718,
+    "client_id": 3798,
+    "produits": [
+        {
+            "produit_id": "P9337",
+            "nom": "Gently Used Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 347.75
+        },
+        {
+            "produit_id": "P6278",
+            "nom": "Generic Frozen Bike",
+            "quantite": 2,
+            "prix_unitaire": 109.77
+        }
+    ],
+    "date_commande": "2025-04-28T21:20:10",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

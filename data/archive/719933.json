@@ -1,0 +1,21 @@
+{
+    "order_id": 719933,
+    "client_id": 2626,
+    "produits": [
+        {
+            "produit_id": "P7036",
+            "nom": "Rustic Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 24.57
+        },
+        {
+            "produit_id": "P9209",
+            "nom": "Ergonomic Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 120.84
+        }
+    ],
+    "date_commande": "2024-08-01T09:47:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

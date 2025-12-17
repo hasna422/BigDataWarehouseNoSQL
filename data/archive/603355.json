@@ -1,0 +1,27 @@
+{
+    "order_id": 603355,
+    "client_id": 6166,
+    "produits": [
+        {
+            "produit_id": "P6972",
+            "nom": "Incredible Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 302.39
+        },
+        {
+            "produit_id": "P2487",
+            "nom": "Small Cotton Salad",
+            "quantite": 4,
+            "prix_unitaire": 89.51
+        },
+        {
+            "produit_id": "P6515",
+            "nom": "Intelligent Fresh Bike",
+            "quantite": 1,
+            "prix_unitaire": 262.19
+        }
+    ],
+    "date_commande": "2024-04-13T09:06:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

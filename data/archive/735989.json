@@ -1,0 +1,31 @@
+{
+    "order_id": 735989,
+    "client_id": 2225,
+    "produits": [
+        {
+            "produit_id": "P6322",
+            "nom": "Gently Used Steel Mouse",
+            "quantite": 1,
+            "prix_unitaire": 24.33
+        },
+        {
+            "produit_id": "P7361",
+            "nom": "Fantastic Sausages",
+            "quantite": 2,
+            "prix_unitaire": 302.53
+        },
+        {
+            "produit_id": "P0849",
+            "nom": "Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 271.29
+        }
+    ],
+    "date_commande": "2023-09-07T00:56:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "483 East Beach",
+        "ville": "Ormond Beach"
+    }
+}

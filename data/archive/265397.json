@@ -1,0 +1,19 @@
+{
+    "order_id": 265397,
+    "client_id": 8315,
+    "produits": [
+        {
+            "produit_id": "P3286",
+            "nom": "Gorgeous Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 37.72
+        }
+    ],
+    "date_commande": "2024-03-20T07:15:41",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "109 Dore",
+        "ville": "Manhattan Beach"
+    }
+}

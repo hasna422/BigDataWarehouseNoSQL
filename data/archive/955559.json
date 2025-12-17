@@ -1,0 +1,25 @@
+{
+    "order_id": 955559,
+    "client_id": 9051,
+    "produits": [
+        {
+            "produit_id": "P2888",
+            "nom": "Generic Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 342.53
+        },
+        {
+            "produit_id": "P2653",
+            "nom": "Ergonomic Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 89.09
+        }
+    ],
+    "date_commande": "2024-05-24T22:23:23",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "303 Varela",
+        "ville": "Hartford"
+    }
+}

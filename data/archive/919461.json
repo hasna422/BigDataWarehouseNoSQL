@@ -1,0 +1,31 @@
+{
+    "order_id": 919461,
+    "client_id": 3912,
+    "produits": [
+        {
+            "produit_id": "P8139",
+            "nom": "Refined Metal Chips",
+            "quantite": 5,
+            "prix_unitaire": 476.11
+        },
+        {
+            "produit_id": "P0567",
+            "nom": "Practical Concrete Towels",
+            "quantite": 4,
+            "prix_unitaire": 66.84
+        },
+        {
+            "produit_id": "P7365",
+            "nom": "Tasty Concrete Bike",
+            "quantite": 5,
+            "prix_unitaire": 249.74
+        }
+    ],
+    "date_commande": "2024-03-22T01:00:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1040 Bay Shore",
+        "ville": "Agawam"
+    }
+}

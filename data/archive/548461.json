@@ -1,0 +1,19 @@
+{
+    "order_id": 548461,
+    "client_id": 2566,
+    "produits": [
+        {
+            "produit_id": "P2155",
+            "nom": "Small Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 427.85
+        }
+    ],
+    "date_commande": "2024-12-11T05:41:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1224 Monument",
+        "ville": "Edinburg"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 369434,
+    "client_id": 4335,
+    "produits": [
+        {
+            "produit_id": "P9667",
+            "nom": "Awesome Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 16.19
+        },
+        {
+            "produit_id": "P8384",
+            "nom": "Ergonomic Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 84.48
+        }
+    ],
+    "date_commande": "2025-02-06T20:23:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "841 Los Palmos",
+        "ville": "Durham"
+    }
+}

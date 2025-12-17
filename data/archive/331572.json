@@ -1,0 +1,31 @@
+{
+    "order_id": 331572,
+    "client_id": 6966,
+    "produits": [
+        {
+            "produit_id": "P3024",
+            "nom": "Refined Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 495.93
+        },
+        {
+            "produit_id": "P4135",
+            "nom": "Refined Concrete Shoes",
+            "quantite": 4,
+            "prix_unitaire": 476.32
+        },
+        {
+            "produit_id": "P3848",
+            "nom": "Fantastic Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 273.78
+        }
+    ],
+    "date_commande": "2023-06-29T15:52:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "461 Peek",
+        "ville": "Boynton Beach"
+    }
+}

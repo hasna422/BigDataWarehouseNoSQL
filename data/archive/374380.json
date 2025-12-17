@@ -1,0 +1,19 @@
+{
+    "order_id": 374380,
+    "client_id": 5102,
+    "produits": [
+        {
+            "produit_id": "P2805",
+            "nom": "Practical Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 410.5
+        }
+    ],
+    "date_commande": "2024-06-11T18:00:49",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1396 Santa Monica",
+        "ville": "Eastlake"
+    }
+}

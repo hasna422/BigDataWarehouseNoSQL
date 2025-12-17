@@ -1,0 +1,25 @@
+{
+    "order_id": 243054,
+    "client_id": 6664,
+    "produits": [
+        {
+            "produit_id": "P1387",
+            "nom": "Incredible Cotton Chicken",
+            "quantite": 5,
+            "prix_unitaire": 334.67
+        },
+        {
+            "produit_id": "P8678",
+            "nom": "Fantastic Concrete Mouse",
+            "quantite": 5,
+            "prix_unitaire": 467.05
+        }
+    ],
+    "date_commande": "2025-01-07T10:00:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "81 Sears",
+        "ville": "Manteca"
+    }
+}

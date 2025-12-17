@@ -1,0 +1,31 @@
+{
+    "order_id": 222104,
+    "client_id": 2302,
+    "produits": [
+        {
+            "produit_id": "P8613",
+            "nom": "New Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 195.75
+        },
+        {
+            "produit_id": "P9581",
+            "nom": "Handcrafted Cheese",
+            "quantite": 5,
+            "prix_unitaire": 419.77
+        },
+        {
+            "produit_id": "P8398",
+            "nom": "Rustic Metal Pants",
+            "quantite": 1,
+            "prix_unitaire": 238.35
+        }
+    ],
+    "date_commande": "2024-02-20T03:21:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "292 Schofield",
+        "ville": "Wooster"
+    }
+}

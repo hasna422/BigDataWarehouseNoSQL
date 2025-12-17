@@ -1,0 +1,19 @@
+{
+    "order_id": 303170,
+    "client_id": 5519,
+    "produits": [
+        {
+            "produit_id": "P3113",
+            "nom": "Intelligent Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 306.04
+        }
+    ],
+    "date_commande": "2024-01-15T14:45:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "92 Ross",
+        "ville": "Crystal"
+    }
+}

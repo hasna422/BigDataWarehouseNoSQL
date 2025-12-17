@@ -1,0 +1,31 @@
+{
+    "order_id": 630272,
+    "client_id": 7852,
+    "produits": [
+        {
+            "produit_id": "P4604",
+            "nom": "Wooden Towels",
+            "quantite": 3,
+            "prix_unitaire": 201.43
+        },
+        {
+            "produit_id": "P4561",
+            "nom": "Fantastic Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 383.16
+        },
+        {
+            "produit_id": "P5614",
+            "nom": "Unbranded Soft Chicken",
+            "quantite": 5,
+            "prix_unitaire": 407.01
+        }
+    ],
+    "date_commande": "2024-02-16T18:19:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "951 Timothy Pflueger",
+        "ville": "Bridgeton"
+    }
+}

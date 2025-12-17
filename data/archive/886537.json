@@ -1,0 +1,31 @@
+{
+    "order_id": 886537,
+    "client_id": 4424,
+    "produits": [
+        {
+            "produit_id": "P1121",
+            "nom": "Intelligent Granite Salad",
+            "quantite": 5,
+            "prix_unitaire": 278.18
+        },
+        {
+            "produit_id": "P0894",
+            "nom": "Gently Used Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 333.34
+        },
+        {
+            "produit_id": "P4977",
+            "nom": "Frozen Fish",
+            "quantite": 2,
+            "prix_unitaire": 283.84
+        }
+    ],
+    "date_commande": "2023-12-21T21:38:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "895 Grote",
+        "ville": "Dyersburg"
+    }
+}

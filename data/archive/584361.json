@@ -1,0 +1,25 @@
+{
+    "order_id": 584361,
+    "client_id": 8534,
+    "produits": [
+        {
+            "produit_id": "P0700",
+            "nom": "Licensed Fish",
+            "quantite": 5,
+            "prix_unitaire": 374.31
+        },
+        {
+            "produit_id": "P5074",
+            "nom": "Intelligent Granite Pizza",
+            "quantite": 5,
+            "prix_unitaire": 287.18
+        }
+    ],
+    "date_commande": "2024-03-17T09:13:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1203 Oakhurst",
+        "ville": "Rolling Meadows"
+    }
+}

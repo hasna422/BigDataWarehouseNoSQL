@@ -1,0 +1,19 @@
+{
+    "order_id": 570361,
+    "client_id": 3468,
+    "produits": [
+        {
+            "produit_id": "P2748",
+            "nom": "Intelligent Cotton Mouse",
+            "quantite": 1,
+            "prix_unitaire": 419.69
+        }
+    ],
+    "date_commande": "2024-12-27T02:14:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "778 Kern",
+        "ville": "St. Cloud"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 711590,
+    "client_id": 1428,
+    "produits": [
+        {
+            "produit_id": "P0282",
+            "nom": "Gorgeous Granite Hat",
+            "quantite": 4,
+            "prix_unitaire": 413.04
+        }
+    ],
+    "date_commande": "2025-02-16T04:50:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "875 Drummond",
+        "ville": "Laredo"
+    }
+}

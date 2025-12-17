@@ -1,0 +1,25 @@
+{
+    "order_id": 540383,
+    "client_id": 7955,
+    "produits": [
+        {
+            "produit_id": "P1782",
+            "nom": "Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 13.35
+        },
+        {
+            "produit_id": "P6548",
+            "nom": "Rubber Car",
+            "quantite": 3,
+            "prix_unitaire": 159.9
+        }
+    ],
+    "date_commande": "2024-11-27T20:44:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1058 Gilroy",
+        "ville": "Orange"
+    }
+}

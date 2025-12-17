@@ -1,0 +1,19 @@
+{
+    "order_id": 939408,
+    "client_id": 7410,
+    "produits": [
+        {
+            "produit_id": "P6578",
+            "nom": "Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 493.22
+        }
+    ],
+    "date_commande": "2025-02-11T20:26:00",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "238 Sherman",
+        "ville": "La Mirada"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 346692,
+    "client_id": 7127,
+    "produits": [
+        {
+            "produit_id": "P9630",
+            "nom": "Handmade Gloves",
+            "quantite": 5,
+            "prix_unitaire": 365.75
+        }
+    ],
+    "date_commande": "2024-06-24T10:24:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "903 Cloud",
+        "ville": "Palmetto Bay"
+    }
+}

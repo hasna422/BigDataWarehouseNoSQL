@@ -1,0 +1,31 @@
+{
+    "order_id": 516840,
+    "client_id": 6365,
+    "produits": [
+        {
+            "produit_id": "P7929",
+            "nom": "Rustic Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 128.57
+        },
+        {
+            "produit_id": "P7394",
+            "nom": "New Soft Sausages",
+            "quantite": 1,
+            "prix_unitaire": 341.93
+        },
+        {
+            "produit_id": "P7091",
+            "nom": "Handmade Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 54.35
+        }
+    ],
+    "date_commande": "2025-01-18T10:13:56",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "689 Lick",
+        "ville": "Easton"
+    }
+}

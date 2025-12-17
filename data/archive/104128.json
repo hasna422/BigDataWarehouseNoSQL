@@ -1,0 +1,31 @@
+{
+    "order_id": 104128,
+    "client_id": 8141,
+    "produits": [
+        {
+            "produit_id": "P6712",
+            "nom": "Frozen Shoes",
+            "quantite": 2,
+            "prix_unitaire": 54.9
+        },
+        {
+            "produit_id": "P8985",
+            "nom": "Small Concrete Computer",
+            "quantite": 3,
+            "prix_unitaire": 379.36
+        },
+        {
+            "produit_id": "P2189",
+            "nom": "Unbranded Bacon",
+            "quantite": 5,
+            "prix_unitaire": 334.86
+        }
+    ],
+    "date_commande": "2025-02-01T01:51:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1052 Kaplan",
+        "ville": "Linden"
+    }
+}

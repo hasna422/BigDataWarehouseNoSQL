@@ -1,0 +1,25 @@
+{
+    "order_id": 801629,
+    "client_id": 3543,
+    "produits": [
+        {
+            "produit_id": "P2561",
+            "nom": "Licensed Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 407.44
+        },
+        {
+            "produit_id": "P2088",
+            "nom": "Used Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 466.52
+        }
+    ],
+    "date_commande": "2025-05-26T06:29:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1030 Lois",
+        "ville": "Henderson"
+    }
+}

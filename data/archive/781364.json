@@ -1,0 +1,19 @@
+{
+    "order_id": 781364,
+    "client_id": 8172,
+    "produits": [
+        {
+            "produit_id": "P1991",
+            "nom": "Gently Used Steel Chips",
+            "quantite": 3,
+            "prix_unitaire": 487.53
+        }
+    ],
+    "date_commande": "2023-09-29T09:27:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1133 Sequoia",
+        "ville": "Chesterfield"
+    }
+}

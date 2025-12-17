@@ -1,0 +1,25 @@
+{
+    "order_id": 241612,
+    "client_id": 6250,
+    "produits": [
+        {
+            "produit_id": "P2758",
+            "nom": "Refined Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 73.79
+        },
+        {
+            "produit_id": "P2940",
+            "nom": "Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 107.31
+        }
+    ],
+    "date_commande": "2024-03-12T18:13:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "474 Northern",
+        "ville": "Rocky River"
+    }
+}

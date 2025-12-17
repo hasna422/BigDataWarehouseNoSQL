@@ -1,0 +1,19 @@
+{
+    "order_id": 571541,
+    "client_id": 4503,
+    "produits": [
+        {
+            "produit_id": "P9197",
+            "nom": "For repair Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 207.33
+        }
+    ],
+    "date_commande": "2025-01-05T03:03:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1394 Napier",
+        "ville": "Park Ridge"
+    }
+}

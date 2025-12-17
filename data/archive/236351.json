@@ -1,0 +1,25 @@
+{
+    "order_id": 236351,
+    "client_id": 9341,
+    "produits": [
+        {
+            "produit_id": "P0070",
+            "nom": "For repair Granite Towels",
+            "quantite": 3,
+            "prix_unitaire": 229.83
+        },
+        {
+            "produit_id": "P5961",
+            "nom": "Gorgeous Sausages",
+            "quantite": 1,
+            "prix_unitaire": 485.03
+        }
+    ],
+    "date_commande": "2024-11-10T08:48:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "724 Lunado",
+        "ville": "Ennis"
+    }
+}

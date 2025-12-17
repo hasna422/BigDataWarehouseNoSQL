@@ -1,0 +1,25 @@
+{
+    "order_id": 183578,
+    "client_id": 2274,
+    "produits": [
+        {
+            "produit_id": "P6118",
+            "nom": "Intelligent Concrete Pizza",
+            "quantite": 4,
+            "prix_unitaire": 90.68
+        },
+        {
+            "produit_id": "P1215",
+            "nom": "Unbranded Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 32.09
+        }
+    ],
+    "date_commande": "2023-11-11T17:04:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "145 Vulcan",
+        "ville": "Toledo"
+    }
+}

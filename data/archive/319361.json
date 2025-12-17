@@ -1,0 +1,27 @@
+{
+    "order_id": 319361,
+    "client_id": 7446,
+    "produits": [
+        {
+            "produit_id": "P4005",
+            "nom": "Gorgeous Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 29.85
+        },
+        {
+            "produit_id": "P2040",
+            "nom": "Fantastic Soft Sausages",
+            "quantite": 4,
+            "prix_unitaire": 103.71
+        },
+        {
+            "produit_id": "P7069",
+            "nom": "Fantastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 416.92
+        }
+    ],
+    "date_commande": "2024-09-23T18:08:02",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

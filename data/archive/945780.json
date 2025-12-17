@@ -1,0 +1,25 @@
+{
+    "order_id": 945780,
+    "client_id": 2184,
+    "produits": [
+        {
+            "produit_id": "P9966",
+            "nom": "Unbranded Metal Chips",
+            "quantite": 1,
+            "prix_unitaire": 39.72
+        },
+        {
+            "produit_id": "P7541",
+            "nom": "Small Shirt",
+            "quantite": 5,
+            "prix_unitaire": 119.86
+        }
+    ],
+    "date_commande": "2023-09-07T05:03:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1082 Grove",
+        "ville": "Scranton"
+    }
+}

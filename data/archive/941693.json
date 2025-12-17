@@ -1,0 +1,25 @@
+{
+    "order_id": 941693,
+    "client_id": 9188,
+    "produits": [
+        {
+            "produit_id": "P6800",
+            "nom": "Unbranded Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 319.39
+        },
+        {
+            "produit_id": "P7534",
+            "nom": "Unbranded Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 288.05
+        }
+    ],
+    "date_commande": "2024-02-11T14:53:02",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "943 Golding",
+        "ville": "Williamsport"
+    }
+}

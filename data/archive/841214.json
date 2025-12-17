@@ -1,0 +1,21 @@
+{
+    "order_id": 841214,
+    "client_id": 9447,
+    "produits": [
+        {
+            "produit_id": "P0165",
+            "nom": "Granite Soap",
+            "quantite": 3,
+            "prix_unitaire": 333.82
+        },
+        {
+            "produit_id": "P5811",
+            "nom": "Gorgeous Shirt",
+            "quantite": 3,
+            "prix_unitaire": 414.58
+        }
+    ],
+    "date_commande": "2024-11-27T02:39:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 232220,
+    "client_id": 1386,
+    "produits": [
+        {
+            "produit_id": "P7239",
+            "nom": "Unbranded Table",
+            "quantite": 2,
+            "prix_unitaire": 495.07
+        },
+        {
+            "produit_id": "P9752",
+            "nom": "Handmade Car",
+            "quantite": 5,
+            "prix_unitaire": 209.43
+        }
+    ],
+    "date_commande": "2024-10-06T02:51:57",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

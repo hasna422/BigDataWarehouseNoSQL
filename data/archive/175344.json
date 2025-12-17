@@ -1,0 +1,31 @@
+{
+    "order_id": 175344,
+    "client_id": 1591,
+    "produits": [
+        {
+            "produit_id": "P3686",
+            "nom": "Gorgeous Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 332.05
+        },
+        {
+            "produit_id": "P2087",
+            "nom": "Practical Plastic Chair",
+            "quantite": 2,
+            "prix_unitaire": 70.57
+        },
+        {
+            "produit_id": "P4406",
+            "nom": "Small Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 60.87
+        }
+    ],
+    "date_commande": "2024-02-02T01:52:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "621 Miller",
+        "ville": "Paso Robles"
+    }
+}

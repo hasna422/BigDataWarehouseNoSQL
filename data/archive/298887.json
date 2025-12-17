@@ -1,0 +1,25 @@
+{
+    "order_id": 298887,
+    "client_id": 2093,
+    "produits": [
+        {
+            "produit_id": "P8078",
+            "nom": "Licensed Plastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 316.09
+        },
+        {
+            "produit_id": "P3412",
+            "nom": "Gorgeous Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 495.77
+        }
+    ],
+    "date_commande": "2024-01-29T08:27:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "752 Pope",
+        "ville": "Santa Rosa"
+    }
+}

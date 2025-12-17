@@ -1,0 +1,15 @@
+{
+    "order_id": 210772,
+    "client_id": 1904,
+    "produits": [
+        {
+            "produit_id": "P4372",
+            "nom": "Intelligent Gloves",
+            "quantite": 3,
+            "prix_unitaire": 145.43
+        }
+    ],
+    "date_commande": "2024-12-24T14:46:04",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

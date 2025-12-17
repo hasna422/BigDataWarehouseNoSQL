@@ -1,0 +1,25 @@
+{
+    "order_id": 773882,
+    "client_id": 4456,
+    "produits": [
+        {
+            "produit_id": "P9572",
+            "nom": "Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 73.94
+        },
+        {
+            "produit_id": "P0696",
+            "nom": "Gorgeous Bike",
+            "quantite": 2,
+            "prix_unitaire": 496.8
+        }
+    ],
+    "date_commande": "2024-08-03T04:01:47",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "183 Sycamore",
+        "ville": "Forest Lake"
+    }
+}

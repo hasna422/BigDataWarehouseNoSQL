@@ -1,0 +1,15 @@
+{
+    "order_id": 907656,
+    "client_id": 2050,
+    "produits": [
+        {
+            "produit_id": "P6099",
+            "nom": "Awesome Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 203.16
+        }
+    ],
+    "date_commande": "2024-11-13T00:12:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

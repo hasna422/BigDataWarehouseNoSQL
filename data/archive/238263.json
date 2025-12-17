@@ -1,0 +1,19 @@
+{
+    "order_id": 238263,
+    "client_id": 6025,
+    "produits": [
+        {
+            "produit_id": "P2144",
+            "nom": "Refined Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 272.3
+        }
+    ],
+    "date_commande": "2025-04-05T07:04:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1373 Julian",
+        "ville": "Clearwater"
+    }
+}

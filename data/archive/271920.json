@@ -1,0 +1,25 @@
+{
+    "order_id": 271920,
+    "client_id": 9777,
+    "produits": [
+        {
+            "produit_id": "P3930",
+            "nom": "Handmade Soft Bacon",
+            "quantite": 3,
+            "prix_unitaire": 318.24
+        },
+        {
+            "produit_id": "P0835",
+            "nom": "Sleek Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 28.04
+        }
+    ],
+    "date_commande": "2023-11-23T01:34:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "247 Wilde",
+        "ville": "Corinth"
+    }
+}

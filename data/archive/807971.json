@@ -1,0 +1,19 @@
+{
+    "order_id": 807971,
+    "client_id": 4364,
+    "produits": [
+        {
+            "produit_id": "P7990",
+            "nom": "Intelligent Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 11.28
+        }
+    ],
+    "date_commande": "2024-04-12T17:17:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "830 Marietta",
+        "ville": "Denver"
+    }
+}

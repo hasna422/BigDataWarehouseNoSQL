@@ -1,0 +1,25 @@
+{
+    "order_id": 771507,
+    "client_id": 4233,
+    "produits": [
+        {
+            "produit_id": "P4756",
+            "nom": "Unbranded Granite Computer",
+            "quantite": 4,
+            "prix_unitaire": 296.82
+        },
+        {
+            "produit_id": "P8638",
+            "nom": "Intelligent Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 43.2
+        }
+    ],
+    "date_commande": "2023-08-21T00:34:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "196 Ralston",
+        "ville": "Chickasha"
+    }
+}

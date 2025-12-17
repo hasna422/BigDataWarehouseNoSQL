@@ -1,0 +1,31 @@
+{
+    "order_id": 403495,
+    "client_id": 8655,
+    "produits": [
+        {
+            "produit_id": "P9907",
+            "nom": "Granite Pants",
+            "quantite": 5,
+            "prix_unitaire": 469.37
+        },
+        {
+            "produit_id": "P0174",
+            "nom": "Fantastic Table",
+            "quantite": 5,
+            "prix_unitaire": 265.94
+        },
+        {
+            "produit_id": "P1976",
+            "nom": "Generic Soft Gloves",
+            "quantite": 1,
+            "prix_unitaire": 351.62
+        }
+    ],
+    "date_commande": "2025-01-29T12:04:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1001 Nido",
+        "ville": "El Cajon"
+    }
+}

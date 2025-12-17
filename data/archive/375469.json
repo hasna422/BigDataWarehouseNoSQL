@@ -1,0 +1,25 @@
+{
+    "order_id": 375469,
+    "client_id": 1206,
+    "produits": [
+        {
+            "produit_id": "P5134",
+            "nom": "Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 378.61
+        },
+        {
+            "produit_id": "P7503",
+            "nom": "Used Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 40.35
+        }
+    ],
+    "date_commande": "2023-09-05T03:31:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "884 Fountain",
+        "ville": "Easton"
+    }
+}

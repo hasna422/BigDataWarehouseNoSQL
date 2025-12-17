@@ -1,0 +1,25 @@
+{
+    "order_id": 361830,
+    "client_id": 5941,
+    "produits": [
+        {
+            "produit_id": "P8053",
+            "nom": "For repair Car",
+            "quantite": 3,
+            "prix_unitaire": 92.39
+        },
+        {
+            "produit_id": "P3315",
+            "nom": "Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 43.16
+        }
+    ],
+    "date_commande": "2024-05-23T19:56:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "852 Carrie",
+        "ville": "Tamarac"
+    }
+}

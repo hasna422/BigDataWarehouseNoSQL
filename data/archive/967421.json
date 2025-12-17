@@ -1,0 +1,25 @@
+{
+    "order_id": 967421,
+    "client_id": 5553,
+    "produits": [
+        {
+            "produit_id": "P0781",
+            "nom": "For repair Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 377.63
+        },
+        {
+            "produit_id": "P7203",
+            "nom": "Generic Rubber Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 185.45
+        }
+    ],
+    "date_commande": "2024-07-27T13:17:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "850 Signal",
+        "ville": "Elmhurst"
+    }
+}

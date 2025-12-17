@@ -1,0 +1,31 @@
+{
+    "order_id": 107155,
+    "client_id": 7677,
+    "produits": [
+        {
+            "produit_id": "P8033",
+            "nom": "Handmade Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 185.57
+        },
+        {
+            "produit_id": "P5237",
+            "nom": "Incredible Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 304.24
+        },
+        {
+            "produit_id": "P5999",
+            "nom": "Practical Concrete Sausages",
+            "quantite": 2,
+            "prix_unitaire": 322.99
+        }
+    ],
+    "date_commande": "2024-11-13T02:37:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "329 Thomas",
+        "ville": "Placentia"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 741865,
+    "client_id": 3996,
+    "produits": [
+        {
+            "produit_id": "P3094",
+            "nom": "Rustic Steel Car",
+            "quantite": 1,
+            "prix_unitaire": 384.0
+        },
+        {
+            "produit_id": "P1092",
+            "nom": "Sleek Plastic Shirt",
+            "quantite": 3,
+            "prix_unitaire": 398.93
+        },
+        {
+            "produit_id": "P1300",
+            "nom": "Practical Frozen Pizza",
+            "quantite": 3,
+            "prix_unitaire": 163.88
+        }
+    ],
+    "date_commande": "2024-01-04T01:23:11",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "37 May",
+        "ville": "Troy"
+    }
+}

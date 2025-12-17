@@ -1,0 +1,27 @@
+{
+    "order_id": 741345,
+    "client_id": 4229,
+    "produits": [
+        {
+            "produit_id": "P8947",
+            "nom": "Tasty Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 252.65
+        },
+        {
+            "produit_id": "P3234",
+            "nom": "For repair Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 184.38
+        },
+        {
+            "produit_id": "P0666",
+            "nom": "Rustic Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 18.71
+        }
+    ],
+    "date_commande": "2024-05-15T11:57:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

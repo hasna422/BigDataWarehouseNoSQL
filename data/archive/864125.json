@@ -1,0 +1,21 @@
+{
+    "order_id": 864125,
+    "client_id": 2697,
+    "produits": [
+        {
+            "produit_id": "P7485",
+            "nom": "Gently Used Soft Soap",
+            "quantite": 2,
+            "prix_unitaire": 406.56
+        },
+        {
+            "produit_id": "P5781",
+            "nom": "New Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 468.66
+        }
+    ],
+    "date_commande": "2025-05-13T06:16:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 473930,
+    "client_id": 2773,
+    "produits": [
+        {
+            "produit_id": "P1248",
+            "nom": "Licensed Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 367.11
+        },
+        {
+            "produit_id": "P6678",
+            "nom": "Intelligent Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 286.31
+        },
+        {
+            "produit_id": "P3557",
+            "nom": "Incredible Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 10.49
+        }
+    ],
+    "date_commande": "2023-06-15T01:12:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 868221,
+    "client_id": 5306,
+    "produits": [
+        {
+            "produit_id": "P8515",
+            "nom": "Fresh Bike",
+            "quantite": 3,
+            "prix_unitaire": 5.41
+        }
+    ],
+    "date_commande": "2024-11-18T17:53:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1356 Deems",
+        "ville": "Barberton"
+    }
+}

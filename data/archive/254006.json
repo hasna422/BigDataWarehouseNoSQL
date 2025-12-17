@@ -1,0 +1,25 @@
+{
+    "order_id": 254006,
+    "client_id": 7600,
+    "produits": [
+        {
+            "produit_id": "P0443",
+            "nom": "Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 366.12
+        },
+        {
+            "produit_id": "P0565",
+            "nom": "Ergonomic Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 230.29
+        }
+    ],
+    "date_commande": "2024-09-07T10:25:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "564 Dudley",
+        "ville": "Westlake"
+    }
+}

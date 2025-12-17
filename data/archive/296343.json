@@ -1,0 +1,15 @@
+{
+    "order_id": 296343,
+    "client_id": 4687,
+    "produits": [
+        {
+            "produit_id": "P9907",
+            "nom": "Handcrafted Wooden Shirt",
+            "quantite": 4,
+            "prix_unitaire": 499.93
+        }
+    ],
+    "date_commande": "2024-04-25T16:39:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

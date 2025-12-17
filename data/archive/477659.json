@@ -1,0 +1,25 @@
+{
+    "order_id": 477659,
+    "client_id": 9828,
+    "produits": [
+        {
+            "produit_id": "P3319",
+            "nom": "Wooden Mouse",
+            "quantite": 3,
+            "prix_unitaire": 154.39
+        },
+        {
+            "produit_id": "P2508",
+            "nom": "Handmade Soft Chips",
+            "quantite": 3,
+            "prix_unitaire": 209.39
+        }
+    ],
+    "date_commande": "2024-01-11T18:32:01",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1047 Entrada",
+        "ville": "Rome"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 212656,
+    "client_id": 7749,
+    "produits": [
+        {
+            "produit_id": "P7392",
+            "nom": "Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 405.81
+        },
+        {
+            "produit_id": "P2302",
+            "nom": "Small Chips",
+            "quantite": 4,
+            "prix_unitaire": 368.5
+        }
+    ],
+    "date_commande": "2024-07-15T22:52:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "826 Washburn",
+        "ville": "Lubbock"
+    }
+}

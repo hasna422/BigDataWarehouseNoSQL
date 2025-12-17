@@ -1,0 +1,19 @@
+{
+    "order_id": 815633,
+    "client_id": 9746,
+    "produits": [
+        {
+            "produit_id": "P2563",
+            "nom": "Ergonomic Rubber Bacon",
+            "quantite": 4,
+            "prix_unitaire": 364.83
+        }
+    ],
+    "date_commande": "2023-10-26T07:49:57",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1352 Kensington",
+        "ville": "Killeen"
+    }
+}

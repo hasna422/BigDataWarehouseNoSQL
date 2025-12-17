@@ -1,0 +1,19 @@
+{
+    "order_id": 571187,
+    "client_id": 6810,
+    "produits": [
+        {
+            "produit_id": "P0029",
+            "nom": "Refined Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 454.31
+        }
+    ],
+    "date_commande": "2024-12-15T04:55:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1032 Central",
+        "ville": "Citrus Heights"
+    }
+}

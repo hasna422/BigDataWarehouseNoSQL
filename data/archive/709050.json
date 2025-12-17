@@ -1,0 +1,19 @@
+{
+    "order_id": 709050,
+    "client_id": 8052,
+    "produits": [
+        {
+            "produit_id": "P7810",
+            "nom": "Gently Used Steel Mouse",
+            "quantite": 4,
+            "prix_unitaire": 396.2
+        }
+    ],
+    "date_commande": "2024-07-07T03:02:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "588 Morse",
+        "ville": "Evansville"
+    }
+}

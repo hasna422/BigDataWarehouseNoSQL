@@ -1,0 +1,25 @@
+{
+    "order_id": 173594,
+    "client_id": 2179,
+    "produits": [
+        {
+            "produit_id": "P0829",
+            "nom": "Intelligent Car",
+            "quantite": 4,
+            "prix_unitaire": 413.24
+        },
+        {
+            "produit_id": "P9990",
+            "nom": "Gently Used Steel Salad",
+            "quantite": 3,
+            "prix_unitaire": 53.66
+        }
+    ],
+    "date_commande": "2024-10-06T07:36:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "965 Hegal",
+        "ville": "Moses Lake"
+    }
+}

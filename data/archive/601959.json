@@ -1,0 +1,19 @@
+{
+    "order_id": 601959,
+    "client_id": 2334,
+    "produits": [
+        {
+            "produit_id": "P1824",
+            "nom": "Practical Plastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 223.87
+        }
+    ],
+    "date_commande": "2024-01-11T18:06:51",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "940 John Maher",
+        "ville": "Carol Stream"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 475733,
+    "client_id": 8444,
+    "produits": [
+        {
+            "produit_id": "P8600",
+            "nom": "Tasty Granite Salad",
+            "quantite": 4,
+            "prix_unitaire": 328.57
+        }
+    ],
+    "date_commande": "2023-07-20T21:03:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "379 Ecker",
+        "ville": "Newburyport"
+    }
+}

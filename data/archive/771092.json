@@ -1,0 +1,31 @@
+{
+    "order_id": 771092,
+    "client_id": 4279,
+    "produits": [
+        {
+            "produit_id": "P8651",
+            "nom": "Incredible Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 50.7
+        },
+        {
+            "produit_id": "P0506",
+            "nom": "Intelligent Wooden Towels",
+            "quantite": 2,
+            "prix_unitaire": 368.71
+        },
+        {
+            "produit_id": "P6468",
+            "nom": "Sleek Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 135.06
+        }
+    ],
+    "date_commande": "2024-09-27T01:48:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1186 Old Decatur",
+        "ville": "Maricopa"
+    }
+}

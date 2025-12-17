@@ -1,0 +1,19 @@
+{
+    "order_id": 283100,
+    "client_id": 2543,
+    "produits": [
+        {
+            "produit_id": "P6095",
+            "nom": "Generic Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 339.9
+        }
+    ],
+    "date_commande": "2024-08-12T20:39:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "224 Burlwood",
+        "ville": "Melrose"
+    }
+}

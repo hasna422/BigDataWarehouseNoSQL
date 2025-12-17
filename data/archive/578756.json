@@ -1,0 +1,31 @@
+{
+    "order_id": 578756,
+    "client_id": 7207,
+    "produits": [
+        {
+            "produit_id": "P8432",
+            "nom": "Gently Used Metal Pizza",
+            "quantite": 2,
+            "prix_unitaire": 272.31
+        },
+        {
+            "produit_id": "P1317",
+            "nom": "Awesome Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 173.4
+        },
+        {
+            "produit_id": "P6737",
+            "nom": "Fantastic Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 401.62
+        }
+    ],
+    "date_commande": "2024-09-14T19:52:51",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1125 Schofield",
+        "ville": "Paragould"
+    }
+}

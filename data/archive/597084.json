@@ -1,0 +1,25 @@
+{
+    "order_id": 597084,
+    "client_id": 2213,
+    "produits": [
+        {
+            "produit_id": "P3302",
+            "nom": "Gorgeous Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 265.35
+        },
+        {
+            "produit_id": "P6822",
+            "nom": "Concrete Car",
+            "quantite": 1,
+            "prix_unitaire": 200.76
+        }
+    ],
+    "date_commande": "2025-03-29T06:59:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1196 Towerside",
+        "ville": "Morganton"
+    }
+}

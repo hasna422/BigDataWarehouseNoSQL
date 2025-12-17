@@ -1,0 +1,19 @@
+{
+    "order_id": 346650,
+    "client_id": 3690,
+    "produits": [
+        {
+            "produit_id": "P2051",
+            "nom": "Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 251.33
+        }
+    ],
+    "date_commande": "2023-08-14T02:04:47",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "962 View",
+        "ville": "Keizer"
+    }
+}

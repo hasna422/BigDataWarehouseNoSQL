@@ -1,0 +1,31 @@
+{
+    "order_id": 129010,
+    "client_id": 5641,
+    "produits": [
+        {
+            "produit_id": "P2002",
+            "nom": "Used Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 342.52
+        },
+        {
+            "produit_id": "P7725",
+            "nom": "Handcrafted Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 195.84
+        },
+        {
+            "produit_id": "P9471",
+            "nom": "Unbranded Frozen Table",
+            "quantite": 3,
+            "prix_unitaire": 354.53
+        }
+    ],
+    "date_commande": "2024-11-03T01:48:40",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "529 Petrarch",
+        "ville": "Rowlett"
+    }
+}

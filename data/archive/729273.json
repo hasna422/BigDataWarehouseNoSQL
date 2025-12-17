@@ -1,0 +1,19 @@
+{
+    "order_id": 729273,
+    "client_id": 7456,
+    "produits": [
+        {
+            "produit_id": "P7890",
+            "nom": "Small Steel Bike",
+            "quantite": 2,
+            "prix_unitaire": 401.39
+        }
+    ],
+    "date_commande": "2023-07-04T05:46:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "102 Mount",
+        "ville": "Hazleton"
+    }
+}

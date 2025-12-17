@@ -1,0 +1,19 @@
+{
+    "order_id": 412637,
+    "client_id": 5759,
+    "produits": [
+        {
+            "produit_id": "P7477",
+            "nom": "New Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 470.39
+        }
+    ],
+    "date_commande": "2024-01-01T20:33:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "450 Rossi",
+        "ville": "Maple Grove"
+    }
+}

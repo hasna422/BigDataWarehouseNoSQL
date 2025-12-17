@@ -1,0 +1,31 @@
+{
+    "order_id": 563823,
+    "client_id": 2630,
+    "produits": [
+        {
+            "produit_id": "P7849",
+            "nom": "Ergonomic Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 78.35
+        },
+        {
+            "produit_id": "P6876",
+            "nom": "Licensed Frozen Salad",
+            "quantite": 3,
+            "prix_unitaire": 471.56
+        },
+        {
+            "produit_id": "P7730",
+            "nom": "Handcrafted Granite Towels",
+            "quantite": 1,
+            "prix_unitaire": 361.04
+        }
+    ],
+    "date_commande": "2024-07-21T05:56:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1049 Ortega",
+        "ville": "Miami Beach"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 585401,
+    "client_id": 8226,
+    "produits": [
+        {
+            "produit_id": "P8281",
+            "nom": "New Soft Chicken",
+            "quantite": 3,
+            "prix_unitaire": 273.27
+        },
+        {
+            "produit_id": "P7073",
+            "nom": "Practical Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 58.83
+        },
+        {
+            "produit_id": "P1327",
+            "nom": "Gently Used Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 155.42
+        }
+    ],
+    "date_commande": "2024-04-17T00:00:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

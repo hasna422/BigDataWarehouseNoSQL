@@ -1,0 +1,27 @@
+{
+    "order_id": 280641,
+    "client_id": 4071,
+    "produits": [
+        {
+            "produit_id": "P7911",
+            "nom": "Handmade Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 99.54
+        },
+        {
+            "produit_id": "P3917",
+            "nom": "Handcrafted Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 259.63
+        },
+        {
+            "produit_id": "P6570",
+            "nom": "Handcrafted Concrete Fish",
+            "quantite": 5,
+            "prix_unitaire": 273.55
+        }
+    ],
+    "date_commande": "2024-09-17T22:35:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

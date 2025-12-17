@@ -1,0 +1,15 @@
+{
+    "order_id": 547320,
+    "client_id": 7466,
+    "produits": [
+        {
+            "produit_id": "P7361",
+            "nom": "Awesome Wooden Sausages",
+            "quantite": 3,
+            "prix_unitaire": 80.91
+        }
+    ],
+    "date_commande": "2024-05-10T05:31:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

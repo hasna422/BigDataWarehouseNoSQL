@@ -1,0 +1,21 @@
+{
+    "order_id": 365165,
+    "client_id": 8075,
+    "produits": [
+        {
+            "produit_id": "P2943",
+            "nom": "New Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 185.49
+        },
+        {
+            "produit_id": "P8257",
+            "nom": "Used Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 357.32
+        }
+    ],
+    "date_commande": "2025-03-28T19:14:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 948495,
+    "client_id": 3233,
+    "produits": [
+        {
+            "produit_id": "P9518",
+            "nom": "For repair Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 399.38
+        },
+        {
+            "produit_id": "P0618",
+            "nom": "Handcrafted Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 242.57
+        }
+    ],
+    "date_commande": "2025-02-24T07:12:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "559 De Montfort",
+        "ville": "Grand Rapids"
+    }
+}

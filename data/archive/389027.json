@@ -1,0 +1,31 @@
+{
+    "order_id": 389027,
+    "client_id": 3573,
+    "produits": [
+        {
+            "produit_id": "P0333",
+            "nom": "Rustic Metal Soap",
+            "quantite": 3,
+            "prix_unitaire": 458.62
+        },
+        {
+            "produit_id": "P8507",
+            "nom": "Gorgeous Fresh Sausages",
+            "quantite": 4,
+            "prix_unitaire": 454.11
+        },
+        {
+            "produit_id": "P6640",
+            "nom": "Used Chips",
+            "quantite": 4,
+            "prix_unitaire": 445.4
+        }
+    ],
+    "date_commande": "2025-02-19T05:49:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "398 Coral",
+        "ville": "Valdosta"
+    }
+}

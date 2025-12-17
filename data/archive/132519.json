@@ -1,0 +1,19 @@
+{
+    "order_id": 132519,
+    "client_id": 7598,
+    "produits": [
+        {
+            "produit_id": "P0471",
+            "nom": "Generic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 405.29
+        }
+    ],
+    "date_commande": "2024-05-25T04:37:16",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "35 Legion",
+        "ville": "Anacortes"
+    }
+}

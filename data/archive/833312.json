@@ -1,0 +1,15 @@
+{
+    "order_id": 833312,
+    "client_id": 1616,
+    "produits": [
+        {
+            "produit_id": "P1222",
+            "nom": "Small Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 16.25
+        }
+    ],
+    "date_commande": "2024-09-06T04:27:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

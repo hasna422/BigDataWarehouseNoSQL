@@ -1,0 +1,27 @@
+{
+    "order_id": 680482,
+    "client_id": 5792,
+    "produits": [
+        {
+            "produit_id": "P2488",
+            "nom": "Incredible Rubber Fish",
+            "quantite": 5,
+            "prix_unitaire": 132.05
+        },
+        {
+            "produit_id": "P8157",
+            "nom": "New Concrete Fish",
+            "quantite": 1,
+            "prix_unitaire": 291.51
+        },
+        {
+            "produit_id": "P1297",
+            "nom": "Gently Used Rubber Sausages",
+            "quantite": 1,
+            "prix_unitaire": 283.54
+        }
+    ],
+    "date_commande": "2023-12-05T00:09:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

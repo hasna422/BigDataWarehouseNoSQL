@@ -1,0 +1,31 @@
+{
+    "order_id": 585518,
+    "client_id": 9635,
+    "produits": [
+        {
+            "produit_id": "P0114",
+            "nom": "New Mouse",
+            "quantite": 4,
+            "prix_unitaire": 332.41
+        },
+        {
+            "produit_id": "P6812",
+            "nom": "Fresh Towels",
+            "quantite": 3,
+            "prix_unitaire": 334.75
+        },
+        {
+            "produit_id": "P1482",
+            "nom": "For repair Plastic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 357.97
+        }
+    ],
+    "date_commande": "2025-02-08T13:01:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "952 Avenue B",
+        "ville": "Tukwila"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 343885,
+    "client_id": 8774,
+    "produits": [
+        {
+            "produit_id": "P3653",
+            "nom": "Unbranded Granite Towels",
+            "quantite": 3,
+            "prix_unitaire": 246.75
+        },
+        {
+            "produit_id": "P4985",
+            "nom": "Gorgeous Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 305.14
+        }
+    ],
+    "date_commande": "2024-02-14T08:58:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "630 Third",
+        "ville": "Watauga"
+    }
+}

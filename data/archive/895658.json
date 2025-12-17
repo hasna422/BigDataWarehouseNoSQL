@@ -1,0 +1,25 @@
+{
+    "order_id": 895658,
+    "client_id": 9818,
+    "produits": [
+        {
+            "produit_id": "P1876",
+            "nom": "New Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 213.94
+        },
+        {
+            "produit_id": "P0885",
+            "nom": "Handcrafted Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 65.16
+        }
+    ],
+    "date_commande": "2025-03-25T05:46:13",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1269 Helen",
+        "ville": "Valparaiso"
+    }
+}

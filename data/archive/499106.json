@@ -1,0 +1,27 @@
+{
+    "order_id": 499106,
+    "client_id": 8619,
+    "produits": [
+        {
+            "produit_id": "P5802",
+            "nom": "Used Metal Mouse",
+            "quantite": 4,
+            "prix_unitaire": 248.22
+        },
+        {
+            "produit_id": "P7406",
+            "nom": "Generic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 379.4
+        },
+        {
+            "produit_id": "P8927",
+            "nom": "Incredible Cotton Gloves",
+            "quantite": 1,
+            "prix_unitaire": 209.29
+        }
+    ],
+    "date_commande": "2024-01-24T04:49:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

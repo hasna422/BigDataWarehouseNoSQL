@@ -1,0 +1,25 @@
+{
+    "order_id": 468649,
+    "client_id": 9346,
+    "produits": [
+        {
+            "produit_id": "P0819",
+            "nom": "Used Cotton Shirt",
+            "quantite": 3,
+            "prix_unitaire": 182.07
+        },
+        {
+            "produit_id": "P2089",
+            "nom": "Gorgeous Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 433.34
+        }
+    ],
+    "date_commande": "2023-12-06T14:00:54",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "804 Saddleback",
+        "ville": "Duncan"
+    }
+}

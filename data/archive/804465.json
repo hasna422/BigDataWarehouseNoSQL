@@ -1,0 +1,19 @@
+{
+    "order_id": 804465,
+    "client_id": 1358,
+    "produits": [
+        {
+            "produit_id": "P5915",
+            "nom": "Gently Used Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 310.24
+        }
+    ],
+    "date_commande": "2024-08-29T04:14:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1150 Thor",
+        "ville": "Wentzville"
+    }
+}

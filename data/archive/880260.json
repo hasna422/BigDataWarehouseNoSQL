@@ -1,0 +1,27 @@
+{
+    "order_id": 880260,
+    "client_id": 7548,
+    "produits": [
+        {
+            "produit_id": "P6115",
+            "nom": "Small Rubber Shoes",
+            "quantite": 4,
+            "prix_unitaire": 10.56
+        },
+        {
+            "produit_id": "P6147",
+            "nom": "Awesome Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 140.24
+        },
+        {
+            "produit_id": "P9577",
+            "nom": "Small Gloves",
+            "quantite": 3,
+            "prix_unitaire": 265.55
+        }
+    ],
+    "date_commande": "2023-09-09T14:42:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

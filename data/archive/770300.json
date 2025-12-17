@@ -1,0 +1,31 @@
+{
+    "order_id": 770300,
+    "client_id": 1091,
+    "produits": [
+        {
+            "produit_id": "P4344",
+            "nom": "Generic Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 336.73
+        },
+        {
+            "produit_id": "P1874",
+            "nom": "For repair Granite Soap",
+            "quantite": 5,
+            "prix_unitaire": 419.64
+        },
+        {
+            "produit_id": "P2214",
+            "nom": "Intelligent Rubber Table",
+            "quantite": 2,
+            "prix_unitaire": 98.99
+        }
+    ],
+    "date_commande": "2023-11-28T12:40:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1022 Euclid",
+        "ville": "Slidell"
+    }
+}

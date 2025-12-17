@@ -1,0 +1,19 @@
+{
+    "order_id": 905470,
+    "client_id": 7467,
+    "produits": [
+        {
+            "produit_id": "P6735",
+            "nom": "Licensed Frozen Shirt",
+            "quantite": 3,
+            "prix_unitaire": 391.77
+        }
+    ],
+    "date_commande": "2023-11-01T20:22:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1068 London",
+        "ville": "Elko"
+    }
+}

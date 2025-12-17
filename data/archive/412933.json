@@ -1,0 +1,19 @@
+{
+    "order_id": 412933,
+    "client_id": 4530,
+    "produits": [
+        {
+            "produit_id": "P4393",
+            "nom": "Fantastic Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 252.4
+        }
+    ],
+    "date_commande": "2024-10-26T16:52:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "563 Racine",
+        "ville": "Centennial"
+    }
+}

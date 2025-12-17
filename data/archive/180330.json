@@ -1,0 +1,25 @@
+{
+    "order_id": 180330,
+    "client_id": 5471,
+    "produits": [
+        {
+            "produit_id": "P0168",
+            "nom": "Gently Used Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 298.86
+        },
+        {
+            "produit_id": "P7083",
+            "nom": "Gently Used Wooden Chicken",
+            "quantite": 4,
+            "prix_unitaire": 335.5
+        }
+    ],
+    "date_commande": "2023-06-26T13:29:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "161 Chancery",
+        "ville": "Sun Prairie"
+    }
+}

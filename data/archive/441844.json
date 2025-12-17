@@ -1,0 +1,31 @@
+{
+    "order_id": 441844,
+    "client_id": 3968,
+    "produits": [
+        {
+            "produit_id": "P0888",
+            "nom": "For repair Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 487.48
+        },
+        {
+            "produit_id": "P8094",
+            "nom": "Cotton Computer",
+            "quantite": 1,
+            "prix_unitaire": 5.2
+        },
+        {
+            "produit_id": "P3875",
+            "nom": "Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 284.01
+        }
+    ],
+    "date_commande": "2024-01-03T20:55:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "848 Costa",
+        "ville": "Mundelein"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 619343,
+    "client_id": 2271,
+    "produits": [
+        {
+            "produit_id": "P8292",
+            "nom": "Intelligent Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 367.68
+        },
+        {
+            "produit_id": "P5351",
+            "nom": "Generic Towels",
+            "quantite": 3,
+            "prix_unitaire": 128.9
+        }
+    ],
+    "date_commande": "2024-03-05T00:33:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 412884,
+    "client_id": 9854,
+    "produits": [
+        {
+            "produit_id": "P7937",
+            "nom": "Unbranded Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 359.9
+        }
+    ],
+    "date_commande": "2024-08-06T11:53:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "129 Casitas",
+        "ville": "Vero Beach"
+    }
+}

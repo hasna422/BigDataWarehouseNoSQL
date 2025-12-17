@@ -1,0 +1,25 @@
+{
+    "order_id": 614601,
+    "client_id": 5274,
+    "produits": [
+        {
+            "produit_id": "P8269",
+            "nom": "For repair Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 431.28
+        },
+        {
+            "produit_id": "P2693",
+            "nom": "Practical Concrete Bike",
+            "quantite": 4,
+            "prix_unitaire": 73.81
+        }
+    ],
+    "date_commande": "2024-02-26T03:37:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "849 Peter Yorke",
+        "ville": "Glassboro"
+    }
+}

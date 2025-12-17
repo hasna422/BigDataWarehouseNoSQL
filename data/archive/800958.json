@@ -1,0 +1,15 @@
+{
+    "order_id": 800958,
+    "client_id": 7807,
+    "produits": [
+        {
+            "produit_id": "P1060",
+            "nom": "For repair Rubber Pizza",
+            "quantite": 2,
+            "prix_unitaire": 139.45
+        }
+    ],
+    "date_commande": "2024-09-05T02:58:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

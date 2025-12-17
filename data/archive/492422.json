@@ -1,0 +1,15 @@
+{
+    "order_id": 492422,
+    "client_id": 6259,
+    "produits": [
+        {
+            "produit_id": "P8559",
+            "nom": "Gorgeous Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 46.79
+        }
+    ],
+    "date_commande": "2025-05-20T19:45:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 638975,
+    "client_id": 9670,
+    "produits": [
+        {
+            "produit_id": "P7310",
+            "nom": "Refined Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 275.19
+        },
+        {
+            "produit_id": "P5651",
+            "nom": "Handcrafted Soap",
+            "quantite": 1,
+            "prix_unitaire": 479.4
+        },
+        {
+            "produit_id": "P3007",
+            "nom": "Rustic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 317.33
+        }
+    ],
+    "date_commande": "2024-06-01T00:56:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "959 Fulton",
+        "ville": "Harlingen"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 399784,
+    "client_id": 8116,
+    "produits": [
+        {
+            "produit_id": "P3969",
+            "nom": "Wooden Gloves",
+            "quantite": 1,
+            "prix_unitaire": 436.98
+        }
+    ],
+    "date_commande": "2025-01-08T10:46:34",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "428 Public",
+        "ville": "Bozeman"
+    }
+}

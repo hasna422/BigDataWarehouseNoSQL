@@ -1,0 +1,25 @@
+{
+    "order_id": 576221,
+    "client_id": 3080,
+    "produits": [
+        {
+            "produit_id": "P6240",
+            "nom": "Gently Used Frozen Computer",
+            "quantite": 4,
+            "prix_unitaire": 26.16
+        },
+        {
+            "produit_id": "P0404",
+            "nom": "Gently Used Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 394.37
+        }
+    ],
+    "date_commande": "2024-01-11T12:45:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "461 Pino",
+        "ville": "New Port Richey"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 441528,
+    "client_id": 3828,
+    "produits": [
+        {
+            "produit_id": "P3995",
+            "nom": "Awesome Wooden Car",
+            "quantite": 5,
+            "prix_unitaire": 120.62
+        },
+        {
+            "produit_id": "P6699",
+            "nom": "Unbranded Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 455.63
+        }
+    ],
+    "date_commande": "2024-03-06T16:46:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "198 Keyes",
+        "ville": "Shelbyville"
+    }
+}

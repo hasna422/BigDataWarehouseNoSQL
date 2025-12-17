@@ -1,0 +1,31 @@
+{
+    "order_id": 203124,
+    "client_id": 3797,
+    "produits": [
+        {
+            "produit_id": "P4927",
+            "nom": "New Wooden Table",
+            "quantite": 1,
+            "prix_unitaire": 164.71
+        },
+        {
+            "produit_id": "P2346",
+            "nom": "Licensed Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 181.2
+        },
+        {
+            "produit_id": "P0832",
+            "nom": "Practical Rubber Tuna",
+            "quantite": 2,
+            "prix_unitaire": 5.34
+        }
+    ],
+    "date_commande": "2023-09-14T13:22:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "64 Brush",
+        "ville": "Park Ridge"
+    }
+}

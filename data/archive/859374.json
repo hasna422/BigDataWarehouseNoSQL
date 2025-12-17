@@ -1,0 +1,19 @@
+{
+    "order_id": 859374,
+    "client_id": 3686,
+    "produits": [
+        {
+            "produit_id": "P0013",
+            "nom": "Gently Used Rubber Sausages",
+            "quantite": 3,
+            "prix_unitaire": 71.79
+        }
+    ],
+    "date_commande": "2023-07-03T05:45:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "857 Starview",
+        "ville": "Claremont"
+    }
+}

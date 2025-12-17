@@ -1,0 +1,15 @@
+{
+    "order_id": 954236,
+    "client_id": 3106,
+    "produits": [
+        {
+            "produit_id": "P2554",
+            "nom": "Fresh Chair",
+            "quantite": 2,
+            "prix_unitaire": 84.46
+        }
+    ],
+    "date_commande": "2024-02-02T16:24:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

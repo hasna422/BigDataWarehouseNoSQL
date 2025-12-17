@@ -1,0 +1,31 @@
+{
+    "order_id": 357294,
+    "client_id": 5299,
+    "produits": [
+        {
+            "produit_id": "P3825",
+            "nom": "Intelligent Concrete Car",
+            "quantite": 2,
+            "prix_unitaire": 77.18
+        },
+        {
+            "produit_id": "P4278",
+            "nom": "Handmade Fresh Soap",
+            "quantite": 2,
+            "prix_unitaire": 81.81
+        },
+        {
+            "produit_id": "P1309",
+            "nom": "Fantastic Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 228.65
+        }
+    ],
+    "date_commande": "2024-11-25T11:25:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1400 San Gabriel",
+        "ville": "Akron"
+    }
+}

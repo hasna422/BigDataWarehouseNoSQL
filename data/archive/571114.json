@@ -1,0 +1,31 @@
+{
+    "order_id": 571114,
+    "client_id": 5876,
+    "produits": [
+        {
+            "produit_id": "P5766",
+            "nom": "Refined Concrete Chicken",
+            "quantite": 3,
+            "prix_unitaire": 407.66
+        },
+        {
+            "produit_id": "P2947",
+            "nom": "Sleek Concrete Soap",
+            "quantite": 5,
+            "prix_unitaire": 274.04
+        },
+        {
+            "produit_id": "P9404",
+            "nom": "Intelligent Cotton Pizza",
+            "quantite": 2,
+            "prix_unitaire": 493.35
+        }
+    ],
+    "date_commande": "2024-05-23T20:39:28",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "700 Gaven",
+        "ville": "Northglenn"
+    }
+}

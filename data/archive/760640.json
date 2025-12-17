@@ -1,0 +1,31 @@
+{
+    "order_id": 760640,
+    "client_id": 7209,
+    "produits": [
+        {
+            "produit_id": "P5833",
+            "nom": "Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 261.59
+        },
+        {
+            "produit_id": "P7229",
+            "nom": "Practical Bike",
+            "quantite": 5,
+            "prix_unitaire": 269.18
+        },
+        {
+            "produit_id": "P3349",
+            "nom": "Steel Bacon",
+            "quantite": 3,
+            "prix_unitaire": 431.86
+        }
+    ],
+    "date_commande": "2025-04-26T13:34:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1350 Holly Park",
+        "ville": "Port Chester"
+    }
+}

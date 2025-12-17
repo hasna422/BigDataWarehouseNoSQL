@@ -1,0 +1,19 @@
+{
+    "order_id": 594522,
+    "client_id": 9299,
+    "produits": [
+        {
+            "produit_id": "P3171",
+            "nom": "Handmade Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 284.71
+        }
+    ],
+    "date_commande": "2023-09-11T11:06:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "954 Wanda",
+        "ville": "East Peoria"
+    }
+}

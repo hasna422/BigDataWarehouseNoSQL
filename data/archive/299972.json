@@ -1,0 +1,19 @@
+{
+    "order_id": 299972,
+    "client_id": 3246,
+    "produits": [
+        {
+            "produit_id": "P5817",
+            "nom": "Ergonomic Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 347.49
+        }
+    ],
+    "date_commande": "2024-10-12T06:02:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "17 Rincon",
+        "ville": "Spring Hill"
+    }
+}

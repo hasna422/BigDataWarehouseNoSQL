@@ -1,0 +1,31 @@
+{
+    "order_id": 249747,
+    "client_id": 9278,
+    "produits": [
+        {
+            "produit_id": "P5097",
+            "nom": "Fantastic Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 303.49
+        },
+        {
+            "produit_id": "P2168",
+            "nom": "Practical Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 275.59
+        },
+        {
+            "produit_id": "P8656",
+            "nom": "Incredible Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 333.36
+        }
+    ],
+    "date_commande": "2024-01-15T08:30:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "3 Auto",
+        "ville": "Shawnee"
+    }
+}

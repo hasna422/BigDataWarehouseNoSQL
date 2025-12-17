@@ -1,0 +1,25 @@
+{
+    "order_id": 422041,
+    "client_id": 9743,
+    "produits": [
+        {
+            "produit_id": "P6571",
+            "nom": "Refined Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 319.96
+        },
+        {
+            "produit_id": "P7217",
+            "nom": "Handcrafted Rubber Chair",
+            "quantite": 4,
+            "prix_unitaire": 218.78
+        }
+    ],
+    "date_commande": "2024-05-15T07:29:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "985 Deming",
+        "ville": "Detroit"
+    }
+}

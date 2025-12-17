@@ -1,0 +1,21 @@
+{
+    "order_id": 622928,
+    "client_id": 7330,
+    "produits": [
+        {
+            "produit_id": "P3551",
+            "nom": "Gently Used Frozen Soap",
+            "quantite": 4,
+            "prix_unitaire": 393.6
+        },
+        {
+            "produit_id": "P8812",
+            "nom": "Gorgeous Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 484.09
+        }
+    ],
+    "date_commande": "2025-05-11T02:20:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

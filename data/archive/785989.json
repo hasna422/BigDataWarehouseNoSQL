@@ -1,0 +1,31 @@
+{
+    "order_id": 785989,
+    "client_id": 8246,
+    "produits": [
+        {
+            "produit_id": "P6502",
+            "nom": "Gorgeous Frozen Hat",
+            "quantite": 4,
+            "prix_unitaire": 302.71
+        },
+        {
+            "produit_id": "P9746",
+            "nom": "Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 172.78
+        },
+        {
+            "produit_id": "P2962",
+            "nom": "Refined Soft Computer",
+            "quantite": 4,
+            "prix_unitaire": 397.55
+        }
+    ],
+    "date_commande": "2025-02-02T08:46:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1390 Louisburg",
+        "ville": "Scarsdale"
+    }
+}

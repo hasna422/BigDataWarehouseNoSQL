@@ -1,0 +1,19 @@
+{
+    "order_id": 744730,
+    "client_id": 3923,
+    "produits": [
+        {
+            "produit_id": "P1542",
+            "nom": "Refined Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 384.43
+        }
+    ],
+    "date_commande": "2023-12-18T08:14:17",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "304 Crags",
+        "ville": "Lufkin"
+    }
+}

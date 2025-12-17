@@ -1,0 +1,21 @@
+{
+    "order_id": 426379,
+    "client_id": 6319,
+    "produits": [
+        {
+            "produit_id": "P9168",
+            "nom": "New Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 120.51
+        },
+        {
+            "produit_id": "P8492",
+            "nom": "Handcrafted Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 162.56
+        }
+    ],
+    "date_commande": "2024-07-06T23:46:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

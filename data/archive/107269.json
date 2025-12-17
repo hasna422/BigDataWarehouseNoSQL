@@ -1,0 +1,15 @@
+{
+    "order_id": 107269,
+    "client_id": 1842,
+    "produits": [
+        {
+            "produit_id": "P0671",
+            "nom": "Intelligent Rubber Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 349.27
+        }
+    ],
+    "date_commande": "2025-01-05T19:56:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

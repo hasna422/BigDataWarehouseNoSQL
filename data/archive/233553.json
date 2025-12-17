@@ -1,0 +1,15 @@
+{
+    "order_id": 233553,
+    "client_id": 4990,
+    "produits": [
+        {
+            "produit_id": "P0001",
+            "nom": "Refined Bacon",
+            "quantite": 4,
+            "prix_unitaire": 290.9
+        }
+    ],
+    "date_commande": "2024-03-11T02:36:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

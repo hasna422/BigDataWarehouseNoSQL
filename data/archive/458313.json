@@ -1,0 +1,27 @@
+{
+    "order_id": 458313,
+    "client_id": 8396,
+    "produits": [
+        {
+            "produit_id": "P6474",
+            "nom": "Sleek Frozen Chicken",
+            "quantite": 4,
+            "prix_unitaire": 468.68
+        },
+        {
+            "produit_id": "P9361",
+            "nom": "Practical Granite Pizza",
+            "quantite": 1,
+            "prix_unitaire": 278.57
+        },
+        {
+            "produit_id": "P3337",
+            "nom": "Sleek Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 204.58
+        }
+    ],
+    "date_commande": "2023-07-31T06:01:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

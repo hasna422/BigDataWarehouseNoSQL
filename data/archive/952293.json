@@ -1,0 +1,27 @@
+{
+    "order_id": 952293,
+    "client_id": 5764,
+    "produits": [
+        {
+            "produit_id": "P4779",
+            "nom": "Refined Rubber Ball",
+            "quantite": 2,
+            "prix_unitaire": 392.85
+        },
+        {
+            "produit_id": "P8926",
+            "nom": "Gorgeous Concrete Table",
+            "quantite": 5,
+            "prix_unitaire": 430.51
+        },
+        {
+            "produit_id": "P9179",
+            "nom": "Generic Metal Gloves",
+            "quantite": 5,
+            "prix_unitaire": 126.81
+        }
+    ],
+    "date_commande": "2024-08-11T03:52:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

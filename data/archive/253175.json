@@ -1,0 +1,19 @@
+{
+    "order_id": 253175,
+    "client_id": 6453,
+    "produits": [
+        {
+            "produit_id": "P5229",
+            "nom": "Gently Used Concrete Hat",
+            "quantite": 3,
+            "prix_unitaire": 56.89
+        }
+    ],
+    "date_commande": "2024-06-07T07:51:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1157 Hidalgo",
+        "ville": "Chickasha"
+    }
+}

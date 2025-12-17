@@ -1,0 +1,19 @@
+{
+    "order_id": 562902,
+    "client_id": 1782,
+    "produits": [
+        {
+            "produit_id": "P6498",
+            "nom": "Handmade Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 353.94
+        }
+    ],
+    "date_commande": "2023-08-06T15:37:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1089 Corbin",
+        "ville": "Logansport"
+    }
+}

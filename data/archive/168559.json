@@ -1,0 +1,19 @@
+{
+    "order_id": 168559,
+    "client_id": 6273,
+    "produits": [
+        {
+            "produit_id": "P2017",
+            "nom": "Ergonomic Chair",
+            "quantite": 5,
+            "prix_unitaire": 268.66
+        }
+    ],
+    "date_commande": "2024-10-03T15:12:19",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1195 Saint Louis",
+        "ville": "Bellingham"
+    }
+}

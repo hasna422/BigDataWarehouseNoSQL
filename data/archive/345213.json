@@ -1,0 +1,15 @@
+{
+    "order_id": 345213,
+    "client_id": 3172,
+    "produits": [
+        {
+            "produit_id": "P8488",
+            "nom": "Practical Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 441.1
+        }
+    ],
+    "date_commande": "2024-05-30T18:54:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

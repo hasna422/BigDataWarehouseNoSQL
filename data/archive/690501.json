@@ -1,0 +1,27 @@
+{
+    "order_id": 690501,
+    "client_id": 3400,
+    "produits": [
+        {
+            "produit_id": "P7111",
+            "nom": "Unbranded Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 239.96
+        },
+        {
+            "produit_id": "P6830",
+            "nom": "Generic Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 342.84
+        },
+        {
+            "produit_id": "P6915",
+            "nom": "Awesome Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 473.59
+        }
+    ],
+    "date_commande": "2023-07-04T06:22:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 136590,
+    "client_id": 8315,
+    "produits": [
+        {
+            "produit_id": "P4136",
+            "nom": "Unbranded Fresh Hat",
+            "quantite": 3,
+            "prix_unitaire": 108.74
+        },
+        {
+            "produit_id": "P8189",
+            "nom": "Gently Used Cotton Chips",
+            "quantite": 5,
+            "prix_unitaire": 316.72
+        },
+        {
+            "produit_id": "P3183",
+            "nom": "Gently Used Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 455.18
+        }
+    ],
+    "date_commande": "2025-05-20T19:00:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1098 Davis",
+        "ville": "Mount Juliet"
+    }
+}

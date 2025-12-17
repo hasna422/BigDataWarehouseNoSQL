@@ -1,0 +1,25 @@
+{
+    "order_id": 528487,
+    "client_id": 6900,
+    "produits": [
+        {
+            "produit_id": "P1345",
+            "nom": "Ergonomic Soft Shoes",
+            "quantite": 4,
+            "prix_unitaire": 230.96
+        },
+        {
+            "produit_id": "P1085",
+            "nom": "Sleek Granite Bacon",
+            "quantite": 4,
+            "prix_unitaire": 209.11
+        }
+    ],
+    "date_commande": "2023-06-24T06:01:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "260 Bernice Rodgers",
+        "ville": "North Lauderdale"
+    }
+}

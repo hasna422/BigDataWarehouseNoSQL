@@ -1,0 +1,15 @@
+{
+    "order_id": 772927,
+    "client_id": 8132,
+    "produits": [
+        {
+            "produit_id": "P5823",
+            "nom": "Awesome Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 436.48
+        }
+    ],
+    "date_commande": "2025-03-14T11:20:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

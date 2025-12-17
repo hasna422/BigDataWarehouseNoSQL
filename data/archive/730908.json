@@ -1,0 +1,21 @@
+{
+    "order_id": 730908,
+    "client_id": 9639,
+    "produits": [
+        {
+            "produit_id": "P0284",
+            "nom": "Gently Used Concrete Gloves",
+            "quantite": 3,
+            "prix_unitaire": 480.71
+        },
+        {
+            "produit_id": "P5477",
+            "nom": "Handcrafted Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 404.98
+        }
+    ],
+    "date_commande": "2024-02-29T18:17:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

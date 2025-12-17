@@ -1,0 +1,31 @@
+{
+    "order_id": 873150,
+    "client_id": 2365,
+    "produits": [
+        {
+            "produit_id": "P6093",
+            "nom": "Sleek Bike",
+            "quantite": 3,
+            "prix_unitaire": 475.4
+        },
+        {
+            "produit_id": "P5365",
+            "nom": "Rustic Concrete Mouse",
+            "quantite": 3,
+            "prix_unitaire": 333.08
+        },
+        {
+            "produit_id": "P6576",
+            "nom": "Awesome Metal Pants",
+            "quantite": 4,
+            "prix_unitaire": 261.92
+        }
+    ],
+    "date_commande": "2024-03-04T03:08:49",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1230 Battery Blaney",
+        "ville": "Alice"
+    }
+}

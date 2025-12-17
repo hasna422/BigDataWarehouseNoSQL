@@ -1,0 +1,31 @@
+{
+    "order_id": 263173,
+    "client_id": 4650,
+    "produits": [
+        {
+            "produit_id": "P6280",
+            "nom": "Intelligent Granite Towels",
+            "quantite": 4,
+            "prix_unitaire": 9.07
+        },
+        {
+            "produit_id": "P3141",
+            "nom": "Unbranded Soft Computer",
+            "quantite": 1,
+            "prix_unitaire": 291.6
+        },
+        {
+            "produit_id": "P2734",
+            "nom": "Unbranded Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 412.66
+        }
+    ],
+    "date_commande": "2023-06-04T18:20:58",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "617 Weatherly",
+        "ville": "Addison"
+    }
+}

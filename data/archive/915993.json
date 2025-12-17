@@ -1,0 +1,19 @@
+{
+    "order_id": 915993,
+    "client_id": 7606,
+    "produits": [
+        {
+            "produit_id": "P5961",
+            "nom": "For repair Plastic Bike",
+            "quantite": 2,
+            "prix_unitaire": 129.42
+        }
+    ],
+    "date_commande": "2023-09-30T21:34:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "490 West Halleck",
+        "ville": "Macon"
+    }
+}

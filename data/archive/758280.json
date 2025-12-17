@@ -1,0 +1,25 @@
+{
+    "order_id": 758280,
+    "client_id": 1303,
+    "produits": [
+        {
+            "produit_id": "P0949",
+            "nom": "Fresh Chips",
+            "quantite": 3,
+            "prix_unitaire": 291.94
+        },
+        {
+            "produit_id": "P6361",
+            "nom": "Handcrafted Shirt",
+            "quantite": 2,
+            "prix_unitaire": 160.17
+        }
+    ],
+    "date_commande": "2024-08-05T00:23:45",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "719 Fenton",
+        "ville": "Seguin"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 584572,
+    "client_id": 4622,
+    "produits": [
+        {
+            "produit_id": "P3131",
+            "nom": "Intelligent Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 294.14
+        }
+    ],
+    "date_commande": "2023-06-30T16:36:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

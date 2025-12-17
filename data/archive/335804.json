@@ -1,0 +1,31 @@
+{
+    "order_id": 335804,
+    "client_id": 1671,
+    "produits": [
+        {
+            "produit_id": "P6579",
+            "nom": "Gently Used Shoes",
+            "quantite": 5,
+            "prix_unitaire": 224.74
+        },
+        {
+            "produit_id": "P1404",
+            "nom": "Licensed Ball",
+            "quantite": 1,
+            "prix_unitaire": 97.04
+        },
+        {
+            "produit_id": "P9639",
+            "nom": "Incredible Towels",
+            "quantite": 1,
+            "prix_unitaire": 409.22
+        }
+    ],
+    "date_commande": "2024-09-03T05:43:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "506 Sheridan",
+        "ville": "Rahway"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 484517,
+    "client_id": 9067,
+    "produits": [
+        {
+            "produit_id": "P5201",
+            "nom": "Gently Used Sausages",
+            "quantite": 5,
+            "prix_unitaire": 347.26
+        }
+    ],
+    "date_commande": "2024-02-16T16:25:53",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

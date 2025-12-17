@@ -1,0 +1,31 @@
+{
+    "order_id": 947075,
+    "client_id": 3929,
+    "produits": [
+        {
+            "produit_id": "P0041",
+            "nom": "New Wooden Salad",
+            "quantite": 3,
+            "prix_unitaire": 335.69
+        },
+        {
+            "produit_id": "P4043",
+            "nom": "Licensed Table",
+            "quantite": 2,
+            "prix_unitaire": 107.32
+        },
+        {
+            "produit_id": "P6550",
+            "nom": "Sleek Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 226.85
+        }
+    ],
+    "date_commande": "2024-01-09T20:18:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1203 Emma",
+        "ville": "El Monte"
+    }
+}

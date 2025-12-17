@@ -1,0 +1,19 @@
+{
+    "order_id": 875110,
+    "client_id": 2288,
+    "produits": [
+        {
+            "produit_id": "P4695",
+            "nom": "Gently Used Fresh Shirt",
+            "quantite": 4,
+            "prix_unitaire": 235.77
+        }
+    ],
+    "date_commande": "2023-11-23T01:16:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "224 Ames",
+        "ville": "Santa Ana"
+    }
+}

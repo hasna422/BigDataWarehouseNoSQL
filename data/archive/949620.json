@@ -1,0 +1,21 @@
+{
+    "order_id": 949620,
+    "client_id": 9737,
+    "produits": [
+        {
+            "produit_id": "P5539",
+            "nom": "Refined Granite Cheese",
+            "quantite": 1,
+            "prix_unitaire": 249.18
+        },
+        {
+            "produit_id": "P3450",
+            "nom": "Licensed Gloves",
+            "quantite": 3,
+            "prix_unitaire": 433.34
+        }
+    ],
+    "date_commande": "2024-10-29T19:24:59",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 588902,
+    "client_id": 7263,
+    "produits": [
+        {
+            "produit_id": "P8792",
+            "nom": "Handmade Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 164.11
+        },
+        {
+            "produit_id": "P7985",
+            "nom": "Rustic Ball",
+            "quantite": 5,
+            "prix_unitaire": 5.41
+        },
+        {
+            "produit_id": "P6573",
+            "nom": "Small Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 379.79
+        }
+    ],
+    "date_commande": "2025-04-23T23:29:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "652 Thorne",
+        "ville": "Renton"
+    }
+}

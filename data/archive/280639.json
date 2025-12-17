@@ -1,0 +1,21 @@
+{
+    "order_id": 280639,
+    "client_id": 2203,
+    "produits": [
+        {
+            "produit_id": "P7287",
+            "nom": "Small Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 270.08
+        },
+        {
+            "produit_id": "P6110",
+            "nom": "Fantastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 222.33
+        }
+    ],
+    "date_commande": "2024-06-28T06:30:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

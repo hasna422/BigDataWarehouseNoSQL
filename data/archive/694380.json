@@ -1,0 +1,27 @@
+{
+    "order_id": 694380,
+    "client_id": 3696,
+    "produits": [
+        {
+            "produit_id": "P6751",
+            "nom": "Used Soft Sausages",
+            "quantite": 1,
+            "prix_unitaire": 171.86
+        },
+        {
+            "produit_id": "P7013",
+            "nom": "Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 86.78
+        },
+        {
+            "produit_id": "P4684",
+            "nom": "Practical Hat",
+            "quantite": 1,
+            "prix_unitaire": 109.16
+        }
+    ],
+    "date_commande": "2023-12-16T20:45:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

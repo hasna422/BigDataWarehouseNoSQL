@@ -1,0 +1,15 @@
+{
+    "order_id": 381002,
+    "client_id": 1340,
+    "produits": [
+        {
+            "produit_id": "P4126",
+            "nom": "Handcrafted Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 13.86
+        }
+    ],
+    "date_commande": "2024-11-03T18:54:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

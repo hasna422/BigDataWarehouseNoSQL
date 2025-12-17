@@ -1,0 +1,31 @@
+{
+    "order_id": 808949,
+    "client_id": 5452,
+    "produits": [
+        {
+            "produit_id": "P7323",
+            "nom": "Sleek Mouse",
+            "quantite": 4,
+            "prix_unitaire": 414.42
+        },
+        {
+            "produit_id": "P8800",
+            "nom": "Gently Used Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 217.34
+        },
+        {
+            "produit_id": "P4811",
+            "nom": "Generic Shirt",
+            "quantite": 3,
+            "prix_unitaire": 201.12
+        }
+    ],
+    "date_commande": "2024-06-28T13:02:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "580 Valley",
+        "ville": "Mukilteo"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 718568,
+    "client_id": 9144,
+    "produits": [
+        {
+            "produit_id": "P5473",
+            "nom": "Fantastic Rubber Shirt",
+            "quantite": 3,
+            "prix_unitaire": 358.96
+        },
+        {
+            "produit_id": "P8461",
+            "nom": "Refined Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 208.92
+        },
+        {
+            "produit_id": "P9054",
+            "nom": "For repair Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 483.93
+        }
+    ],
+    "date_commande": "2025-03-23T12:20:38",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1018 Balceta",
+        "ville": "Ogden"
+    }
+}

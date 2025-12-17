@@ -1,0 +1,31 @@
+{
+    "order_id": 427617,
+    "client_id": 1366,
+    "produits": [
+        {
+            "produit_id": "P5320",
+            "nom": "Used Plastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 74.37
+        },
+        {
+            "produit_id": "P5749",
+            "nom": "For repair Soft Hat",
+            "quantite": 4,
+            "prix_unitaire": 131.19
+        },
+        {
+            "produit_id": "P9227",
+            "nom": "Gorgeous Concrete Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 296.51
+        }
+    ],
+    "date_commande": "2023-07-01T01:21:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1259 Arleta",
+        "ville": "Cary"
+    }
+}

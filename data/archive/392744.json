@@ -1,0 +1,21 @@
+{
+    "order_id": 392744,
+    "client_id": 4700,
+    "produits": [
+        {
+            "produit_id": "P9672",
+            "nom": "Awesome Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 215.75
+        },
+        {
+            "produit_id": "P8875",
+            "nom": "Unbranded Towels",
+            "quantite": 2,
+            "prix_unitaire": 410.73
+        }
+    ],
+    "date_commande": "2024-04-05T05:21:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

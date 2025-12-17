@@ -1,0 +1,31 @@
+{
+    "order_id": 477167,
+    "client_id": 5357,
+    "produits": [
+        {
+            "produit_id": "P4990",
+            "nom": "Intelligent Metal Chicken",
+            "quantite": 3,
+            "prix_unitaire": 22.21
+        },
+        {
+            "produit_id": "P2967",
+            "nom": "Practical Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 451.21
+        },
+        {
+            "produit_id": "P5690",
+            "nom": "For repair Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 453.83
+        }
+    ],
+    "date_commande": "2024-09-25T09:59:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "323 Cloud",
+        "ville": "Liberal"
+    }
+}

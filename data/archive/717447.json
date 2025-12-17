@@ -1,0 +1,31 @@
+{
+    "order_id": 717447,
+    "client_id": 4991,
+    "produits": [
+        {
+            "produit_id": "P6159",
+            "nom": "Fantastic Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 175.08
+        },
+        {
+            "produit_id": "P4744",
+            "nom": "Intelligent Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 338.83
+        },
+        {
+            "produit_id": "P5920",
+            "nom": "Practical Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 228.91
+        }
+    ],
+    "date_commande": "2025-01-01T01:59:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "125 Sharp",
+        "ville": "Panama City"
+    }
+}

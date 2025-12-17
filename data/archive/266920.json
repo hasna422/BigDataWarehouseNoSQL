@@ -1,0 +1,31 @@
+{
+    "order_id": 266920,
+    "client_id": 3343,
+    "produits": [
+        {
+            "produit_id": "P3143",
+            "nom": "Intelligent Car",
+            "quantite": 2,
+            "prix_unitaire": 220.68
+        },
+        {
+            "produit_id": "P2158",
+            "nom": "Intelligent Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 437.97
+        },
+        {
+            "produit_id": "P0154",
+            "nom": "For repair Rubber Ball",
+            "quantite": 5,
+            "prix_unitaire": 382.81
+        }
+    ],
+    "date_commande": "2024-02-23T16:47:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "89 Oak Hills",
+        "ville": "New Bedford"
+    }
+}

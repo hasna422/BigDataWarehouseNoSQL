@@ -1,0 +1,21 @@
+{
+    "order_id": 653706,
+    "client_id": 6535,
+    "produits": [
+        {
+            "produit_id": "P1820",
+            "nom": "Small Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 319.6
+        },
+        {
+            "produit_id": "P6709",
+            "nom": "Ergonomic Steel Table",
+            "quantite": 4,
+            "prix_unitaire": 470.36
+        }
+    ],
+    "date_commande": "2023-10-04T22:30:01",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

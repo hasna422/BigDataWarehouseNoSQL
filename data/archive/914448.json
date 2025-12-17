@@ -1,0 +1,31 @@
+{
+    "order_id": 914448,
+    "client_id": 3930,
+    "produits": [
+        {
+            "produit_id": "P2229",
+            "nom": "New Rubber Tuna",
+            "quantite": 4,
+            "prix_unitaire": 169.47
+        },
+        {
+            "produit_id": "P1040",
+            "nom": "Gorgeous Wooden Bike",
+            "quantite": 1,
+            "prix_unitaire": 86.16
+        },
+        {
+            "produit_id": "P3327",
+            "nom": "Small Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 383.02
+        }
+    ],
+    "date_commande": "2024-04-14T23:17:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "871 Glen",
+        "ville": "Nashville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 700860,
+    "client_id": 7412,
+    "produits": [
+        {
+            "produit_id": "P1256",
+            "nom": "Tasty Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 206.56
+        },
+        {
+            "produit_id": "P5257",
+            "nom": "Used Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 480.04
+        }
+    ],
+    "date_commande": "2024-02-03T03:41:58",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "838 Byxbee",
+        "ville": "Muskegon"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 619151,
+    "client_id": 8777,
+    "produits": [
+        {
+            "produit_id": "P6624",
+            "nom": "Gorgeous Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 194.63
+        },
+        {
+            "produit_id": "P9541",
+            "nom": "Generic Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 478.1
+        },
+        {
+            "produit_id": "P2657",
+            "nom": "Refined Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 321.01
+        }
+    ],
+    "date_commande": "2024-10-03T01:33:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

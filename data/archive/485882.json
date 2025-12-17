@@ -1,0 +1,25 @@
+{
+    "order_id": 485882,
+    "client_id": 5906,
+    "produits": [
+        {
+            "produit_id": "P6926",
+            "nom": "Rustic Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 378.53
+        },
+        {
+            "produit_id": "P7346",
+            "nom": "Plastic Computer",
+            "quantite": 3,
+            "prix_unitaire": 143.95
+        }
+    ],
+    "date_commande": "2023-09-01T20:49:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "949 San Gabriel",
+        "ville": "Sugar Hill"
+    }
+}

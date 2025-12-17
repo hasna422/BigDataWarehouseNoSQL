@@ -1,0 +1,27 @@
+{
+    "order_id": 303020,
+    "client_id": 3212,
+    "produits": [
+        {
+            "produit_id": "P1001",
+            "nom": "Fantastic Granite Bike",
+            "quantite": 3,
+            "prix_unitaire": 277.07
+        },
+        {
+            "produit_id": "P5232",
+            "nom": "Gorgeous Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 11.45
+        },
+        {
+            "produit_id": "P4962",
+            "nom": "Awesome Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 150.65
+        }
+    ],
+    "date_commande": "2024-04-14T16:53:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

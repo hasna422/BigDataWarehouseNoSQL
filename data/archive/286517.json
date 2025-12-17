@@ -1,0 +1,19 @@
+{
+    "order_id": 286517,
+    "client_id": 1272,
+    "produits": [
+        {
+            "produit_id": "P9181",
+            "nom": "Rustic Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 247.06
+        }
+    ],
+    "date_commande": "2024-06-08T11:27:57",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1283 Parnassus",
+        "ville": "Monrovia"
+    }
+}

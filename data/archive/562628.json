@@ -1,0 +1,15 @@
+{
+    "order_id": 562628,
+    "client_id": 7528,
+    "produits": [
+        {
+            "produit_id": "P7163",
+            "nom": "Computer",
+            "quantite": 2,
+            "prix_unitaire": 177.09
+        }
+    ],
+    "date_commande": "2024-11-26T07:55:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 680902,
+    "client_id": 4652,
+    "produits": [
+        {
+            "produit_id": "P8131",
+            "nom": "Intelligent Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 423.16
+        },
+        {
+            "produit_id": "P9631",
+            "nom": "Incredible Plastic Hat",
+            "quantite": 1,
+            "prix_unitaire": 148.87
+        },
+        {
+            "produit_id": "P8312",
+            "nom": "Practical Rubber Towels",
+            "quantite": 1,
+            "prix_unitaire": 51.37
+        }
+    ],
+    "date_commande": "2025-02-10T00:09:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 742994,
+    "client_id": 5954,
+    "produits": [
+        {
+            "produit_id": "P1734",
+            "nom": "Unbranded Wooden Computer",
+            "quantite": 3,
+            "prix_unitaire": 445.15
+        },
+        {
+            "produit_id": "P4315",
+            "nom": "Intelligent Concrete Chips",
+            "quantite": 2,
+            "prix_unitaire": 381.32
+        }
+    ],
+    "date_commande": "2023-06-26T09:47:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "143 Burlwood",
+        "ville": "Aberdeen"
+    }
+}

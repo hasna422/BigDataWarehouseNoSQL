@@ -1,0 +1,25 @@
+{
+    "order_id": 305995,
+    "client_id": 7069,
+    "produits": [
+        {
+            "produit_id": "P4173",
+            "nom": "Licensed Concrete Gloves",
+            "quantite": 4,
+            "prix_unitaire": 491.94
+        },
+        {
+            "produit_id": "P0474",
+            "nom": "Incredible Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 179.24
+        }
+    ],
+    "date_commande": "2023-08-17T04:34:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "359 Harney",
+        "ville": "Asbury Park"
+    }
+}

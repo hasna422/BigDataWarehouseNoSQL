@@ -1,0 +1,27 @@
+{
+    "order_id": 188685,
+    "client_id": 8959,
+    "produits": [
+        {
+            "produit_id": "P5746",
+            "nom": "Ergonomic Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 497.3
+        },
+        {
+            "produit_id": "P1592",
+            "nom": "Licensed Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 18.4
+        },
+        {
+            "produit_id": "P5101",
+            "nom": "Generic Wooden Computer",
+            "quantite": 3,
+            "prix_unitaire": 334.84
+        }
+    ],
+    "date_commande": "2024-11-19T12:38:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

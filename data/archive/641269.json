@@ -1,0 +1,19 @@
+{
+    "order_id": 641269,
+    "client_id": 5088,
+    "produits": [
+        {
+            "produit_id": "P1435",
+            "nom": "Awesome Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 392.93
+        }
+    ],
+    "date_commande": "2024-05-21T15:55:36",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "524 Gerard",
+        "ville": "Boston"
+    }
+}

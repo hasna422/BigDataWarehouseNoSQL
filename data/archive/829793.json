@@ -1,0 +1,21 @@
+{
+    "order_id": 829793,
+    "client_id": 8493,
+    "produits": [
+        {
+            "produit_id": "P9825",
+            "nom": "Metal Car",
+            "quantite": 5,
+            "prix_unitaire": 95.58
+        },
+        {
+            "produit_id": "P2264",
+            "nom": "Fantastic Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 44.18
+        }
+    ],
+    "date_commande": "2024-02-19T23:02:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

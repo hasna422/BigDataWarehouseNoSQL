@@ -1,0 +1,19 @@
+{
+    "order_id": 408808,
+    "client_id": 1803,
+    "produits": [
+        {
+            "produit_id": "P3136",
+            "nom": "Refined Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 171.48
+        }
+    ],
+    "date_commande": "2024-06-14T02:31:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "751 Ohlone",
+        "ville": "Franklin"
+    }
+}

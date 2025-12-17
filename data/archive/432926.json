@@ -1,0 +1,27 @@
+{
+    "order_id": 432926,
+    "client_id": 5009,
+    "produits": [
+        {
+            "produit_id": "P0193",
+            "nom": "Ergonomic Metal Car",
+            "quantite": 1,
+            "prix_unitaire": 159.82
+        },
+        {
+            "produit_id": "P7441",
+            "nom": "Unbranded Plastic Car",
+            "quantite": 3,
+            "prix_unitaire": 353.0
+        },
+        {
+            "produit_id": "P3503",
+            "nom": "Incredible Tuna",
+            "quantite": 3,
+            "prix_unitaire": 453.9
+        }
+    ],
+    "date_commande": "2024-09-30T06:59:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

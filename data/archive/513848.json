@@ -1,0 +1,19 @@
+{
+    "order_id": 513848,
+    "client_id": 6093,
+    "produits": [
+        {
+            "produit_id": "P3656",
+            "nom": "Small Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 489.11
+        }
+    ],
+    "date_commande": "2024-03-21T21:29:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "749 Northern",
+        "ville": "Sapulpa"
+    }
+}

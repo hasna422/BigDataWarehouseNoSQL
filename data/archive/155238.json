@@ -1,0 +1,19 @@
+{
+    "order_id": 155238,
+    "client_id": 8889,
+    "produits": [
+        {
+            "produit_id": "P4055",
+            "nom": "Gorgeous Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 25.96
+        }
+    ],
+    "date_commande": "2025-05-10T17:33:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "603 San Andreas",
+        "ville": "McKeesport"
+    }
+}

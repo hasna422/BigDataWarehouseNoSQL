@@ -1,0 +1,19 @@
+{
+    "order_id": 270282,
+    "client_id": 5484,
+    "produits": [
+        {
+            "produit_id": "P5552",
+            "nom": "Fantastic Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 187.54
+        }
+    ],
+    "date_commande": "2024-01-14T15:58:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "430 Danton",
+        "ville": "Gulfport"
+    }
+}

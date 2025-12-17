@@ -1,0 +1,15 @@
+{
+    "order_id": 776072,
+    "client_id": 7314,
+    "produits": [
+        {
+            "produit_id": "P3567",
+            "nom": "Gorgeous Rubber Shirt",
+            "quantite": 4,
+            "prix_unitaire": 267.8
+        }
+    ],
+    "date_commande": "2024-06-23T11:54:17",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

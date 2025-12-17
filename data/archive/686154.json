@@ -1,0 +1,19 @@
+{
+    "order_id": 686154,
+    "client_id": 8688,
+    "produits": [
+        {
+            "produit_id": "P2888",
+            "nom": "Refined Granite Ball",
+            "quantite": 1,
+            "prix_unitaire": 409.23
+        }
+    ],
+    "date_commande": "2024-01-17T01:37:41",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "92 Harkness",
+        "ville": "New Orleans"
+    }
+}

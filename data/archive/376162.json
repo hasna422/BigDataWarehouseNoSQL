@@ -1,0 +1,19 @@
+{
+    "order_id": 376162,
+    "client_id": 5408,
+    "produits": [
+        {
+            "produit_id": "P2408",
+            "nom": "Licensed Chicken",
+            "quantite": 2,
+            "prix_unitaire": 340.2
+        }
+    ],
+    "date_commande": "2024-02-02T03:01:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "772 East Fort Miley",
+        "ville": "Montebello"
+    }
+}

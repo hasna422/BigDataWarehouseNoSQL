@@ -1,0 +1,19 @@
+{
+    "order_id": 534829,
+    "client_id": 8478,
+    "produits": [
+        {
+            "produit_id": "P5322",
+            "nom": "Licensed Metal Computer",
+            "quantite": 2,
+            "prix_unitaire": 386.46
+        }
+    ],
+    "date_commande": "2023-09-16T22:59:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "864 Evelyn",
+        "ville": "Lynn"
+    }
+}

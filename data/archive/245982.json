@@ -1,0 +1,25 @@
+{
+    "order_id": 245982,
+    "client_id": 5610,
+    "produits": [
+        {
+            "produit_id": "P4322",
+            "nom": "New Cotton Salad",
+            "quantite": 1,
+            "prix_unitaire": 221.57
+        },
+        {
+            "produit_id": "P5006",
+            "nom": "Sleek Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 57.07
+        }
+    ],
+    "date_commande": "2024-08-03T20:08:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "359 Santa Fe",
+        "ville": "Sumter"
+    }
+}

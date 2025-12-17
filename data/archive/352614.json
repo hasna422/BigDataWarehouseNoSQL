@@ -1,0 +1,19 @@
+{
+    "order_id": 352614,
+    "client_id": 5090,
+    "produits": [
+        {
+            "produit_id": "P7301",
+            "nom": "New Fresh Chips",
+            "quantite": 3,
+            "prix_unitaire": 363.79
+        }
+    ],
+    "date_commande": "2023-07-15T09:35:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "907 Oloran",
+        "ville": "Fontana"
+    }
+}

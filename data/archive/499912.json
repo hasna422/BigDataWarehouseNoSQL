@@ -1,0 +1,21 @@
+{
+    "order_id": 499912,
+    "client_id": 9367,
+    "produits": [
+        {
+            "produit_id": "P9451",
+            "nom": "Sleek Bike",
+            "quantite": 3,
+            "prix_unitaire": 225.12
+        },
+        {
+            "produit_id": "P3225",
+            "nom": "Intelligent Plastic Mouse",
+            "quantite": 4,
+            "prix_unitaire": 155.83
+        }
+    ],
+    "date_commande": "2024-10-18T19:33:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

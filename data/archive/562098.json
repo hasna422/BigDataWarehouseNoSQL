@@ -1,0 +1,21 @@
+{
+    "order_id": 562098,
+    "client_id": 9126,
+    "produits": [
+        {
+            "produit_id": "P8690",
+            "nom": "Incredible Metal Cheese",
+            "quantite": 1,
+            "prix_unitaire": 39.31
+        },
+        {
+            "produit_id": "P4954",
+            "nom": "Handmade Steel Salad",
+            "quantite": 3,
+            "prix_unitaire": 248.91
+        }
+    ],
+    "date_commande": "2025-01-03T16:37:16",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

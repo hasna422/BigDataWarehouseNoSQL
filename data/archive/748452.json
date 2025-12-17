@@ -1,0 +1,27 @@
+{
+    "order_id": 748452,
+    "client_id": 7026,
+    "produits": [
+        {
+            "produit_id": "P9878",
+            "nom": "New Rubber Salad",
+            "quantite": 4,
+            "prix_unitaire": 409.95
+        },
+        {
+            "produit_id": "P3832",
+            "nom": "Small Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 335.0
+        },
+        {
+            "produit_id": "P6190",
+            "nom": "Small Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 406.73
+        }
+    ],
+    "date_commande": "2025-05-21T17:01:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

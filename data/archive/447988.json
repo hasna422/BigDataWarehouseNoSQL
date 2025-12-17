@@ -1,0 +1,19 @@
+{
+    "order_id": 447988,
+    "client_id": 5514,
+    "produits": [
+        {
+            "produit_id": "P1754",
+            "nom": "Handmade Cotton Salad",
+            "quantite": 4,
+            "prix_unitaire": 171.9
+        }
+    ],
+    "date_commande": "2023-12-28T00:43:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "253 Campus",
+        "ville": "Royal Oak"
+    }
+}

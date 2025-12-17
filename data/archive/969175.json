@@ -1,0 +1,31 @@
+{
+    "order_id": 969175,
+    "client_id": 2654,
+    "produits": [
+        {
+            "produit_id": "P4953",
+            "nom": "Intelligent Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 458.2
+        },
+        {
+            "produit_id": "P2502",
+            "nom": "Incredible Granite Salad",
+            "quantite": 3,
+            "prix_unitaire": 475.52
+        },
+        {
+            "produit_id": "P3240",
+            "nom": "Small Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 420.7
+        }
+    ],
+    "date_commande": "2024-11-04T08:37:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "965 Quartz",
+        "ville": "Elmwood Park"
+    }
+}

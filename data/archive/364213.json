@@ -1,0 +1,19 @@
+{
+    "order_id": 364213,
+    "client_id": 4526,
+    "produits": [
+        {
+            "produit_id": "P2291",
+            "nom": "Incredible Granite Cheese",
+            "quantite": 1,
+            "prix_unitaire": 291.69
+        }
+    ],
+    "date_commande": "2025-05-04T04:08:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "825 Cutler",
+        "ville": "Blue Island"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 886241,
+    "client_id": 7083,
+    "produits": [
+        {
+            "produit_id": "P8636",
+            "nom": "Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 492.53
+        }
+    ],
+    "date_commande": "2023-11-06T11:57:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "607 Russ",
+        "ville": "Federal Way"
+    }
+}

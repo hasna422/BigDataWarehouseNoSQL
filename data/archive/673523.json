@@ -1,0 +1,31 @@
+{
+    "order_id": 673523,
+    "client_id": 5239,
+    "produits": [
+        {
+            "produit_id": "P1504",
+            "nom": "Intelligent Metal Towels",
+            "quantite": 3,
+            "prix_unitaire": 477.37
+        },
+        {
+            "produit_id": "P8843",
+            "nom": "Small Granite Pants",
+            "quantite": 1,
+            "prix_unitaire": 121.28
+        },
+        {
+            "produit_id": "P7169",
+            "nom": "Gorgeous Fresh Soap",
+            "quantite": 3,
+            "prix_unitaire": 344.26
+        }
+    ],
+    "date_commande": "2023-05-29T17:21:41",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "248 May",
+        "ville": "Webster Groves"
+    }
+}

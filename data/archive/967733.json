@@ -1,0 +1,21 @@
+{
+    "order_id": 967733,
+    "client_id": 7900,
+    "produits": [
+        {
+            "produit_id": "P0698",
+            "nom": "Licensed Metal Bike",
+            "quantite": 3,
+            "prix_unitaire": 351.01
+        },
+        {
+            "produit_id": "P5633",
+            "nom": "Licensed Fresh Table",
+            "quantite": 1,
+            "prix_unitaire": 427.03
+        }
+    ],
+    "date_commande": "2024-06-16T11:10:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 184130,
+    "client_id": 5524,
+    "produits": [
+        {
+            "produit_id": "P3217",
+            "nom": "Licensed Car",
+            "quantite": 4,
+            "prix_unitaire": 27.15
+        }
+    ],
+    "date_commande": "2024-08-07T17:33:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1200 Wyton",
+        "ville": "Lawrenceville"
+    }
+}

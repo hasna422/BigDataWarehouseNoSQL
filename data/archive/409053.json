@@ -1,0 +1,31 @@
+{
+    "order_id": 409053,
+    "client_id": 5734,
+    "produits": [
+        {
+            "produit_id": "P6831",
+            "nom": "Refined Pizza",
+            "quantite": 5,
+            "prix_unitaire": 289.9
+        },
+        {
+            "produit_id": "P1929",
+            "nom": "Used Concrete Ball",
+            "quantite": 5,
+            "prix_unitaire": 173.82
+        },
+        {
+            "produit_id": "P1302",
+            "nom": "Sleek Granite Fish",
+            "quantite": 1,
+            "prix_unitaire": 382.4
+        }
+    ],
+    "date_commande": "2025-05-18T12:11:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "716 Winfield",
+        "ville": "Frederick"
+    }
+}

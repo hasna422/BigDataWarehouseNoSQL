@@ -1,0 +1,15 @@
+{
+    "order_id": 397475,
+    "client_id": 2519,
+    "produits": [
+        {
+            "produit_id": "P0593",
+            "nom": "Handmade Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 172.72
+        }
+    ],
+    "date_commande": "2023-09-22T14:32:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

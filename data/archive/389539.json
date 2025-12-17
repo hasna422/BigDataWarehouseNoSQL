@@ -1,0 +1,15 @@
+{
+    "order_id": 389539,
+    "client_id": 2690,
+    "produits": [
+        {
+            "produit_id": "P0690",
+            "nom": "Tasty Pants",
+            "quantite": 2,
+            "prix_unitaire": 376.29
+        }
+    ],
+    "date_commande": "2024-08-15T21:22:33",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

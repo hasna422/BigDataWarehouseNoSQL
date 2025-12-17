@@ -1,0 +1,25 @@
+{
+    "order_id": 952056,
+    "client_id": 9720,
+    "produits": [
+        {
+            "produit_id": "P9647",
+            "nom": "Gorgeous Metal Sausages",
+            "quantite": 2,
+            "prix_unitaire": 206.62
+        },
+        {
+            "produit_id": "P5956",
+            "nom": "For repair Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 331.23
+        }
+    ],
+    "date_commande": "2024-11-05T05:44:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1180 Candlestick Cove",
+        "ville": "Painesville"
+    }
+}

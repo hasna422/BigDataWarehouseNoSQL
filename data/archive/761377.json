@@ -1,0 +1,19 @@
+{
+    "order_id": 761377,
+    "client_id": 5106,
+    "produits": [
+        {
+            "produit_id": "P6319",
+            "nom": "Incredible Metal Pants",
+            "quantite": 4,
+            "prix_unitaire": 225.16
+        }
+    ],
+    "date_commande": "2023-07-22T08:13:17",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1104 Ash",
+        "ville": "Murfreesboro"
+    }
+}

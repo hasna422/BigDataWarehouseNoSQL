@@ -1,0 +1,21 @@
+{
+    "order_id": 699973,
+    "client_id": 6501,
+    "produits": [
+        {
+            "produit_id": "P6587",
+            "nom": "Incredible Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 382.19
+        },
+        {
+            "produit_id": "P7110",
+            "nom": "Practical Frozen Computer",
+            "quantite": 5,
+            "prix_unitaire": 323.58
+        }
+    ],
+    "date_commande": "2024-09-18T15:27:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

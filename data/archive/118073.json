@@ -1,0 +1,25 @@
+{
+    "order_id": 118073,
+    "client_id": 7523,
+    "produits": [
+        {
+            "produit_id": "P8249",
+            "nom": "Licensed Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 275.37
+        },
+        {
+            "produit_id": "P1138",
+            "nom": "Generic Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 107.21
+        }
+    ],
+    "date_commande": "2024-08-28T19:20:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "442 Wanda",
+        "ville": "Meriden"
+    }
+}

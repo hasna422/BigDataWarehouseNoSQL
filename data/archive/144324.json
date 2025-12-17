@@ -1,0 +1,21 @@
+{
+    "order_id": 144324,
+    "client_id": 6151,
+    "produits": [
+        {
+            "produit_id": "P1648",
+            "nom": "Granite Chips",
+            "quantite": 3,
+            "prix_unitaire": 183.21
+        },
+        {
+            "produit_id": "P5109",
+            "nom": "Soft Hat",
+            "quantite": 2,
+            "prix_unitaire": 341.71
+        }
+    ],
+    "date_commande": "2024-06-21T06:30:29",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

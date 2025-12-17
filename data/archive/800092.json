@@ -1,0 +1,19 @@
+{
+    "order_id": 800092,
+    "client_id": 3890,
+    "produits": [
+        {
+            "produit_id": "P0527",
+            "nom": "Handmade Metal Soap",
+            "quantite": 5,
+            "prix_unitaire": 91.58
+        }
+    ],
+    "date_commande": "2023-12-03T09:12:56",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "920 Bacon",
+        "ville": "Petersburg"
+    }
+}

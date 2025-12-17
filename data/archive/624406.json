@@ -1,0 +1,25 @@
+{
+    "order_id": 624406,
+    "client_id": 5394,
+    "produits": [
+        {
+            "produit_id": "P1269",
+            "nom": "Gently Used Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 339.77
+        },
+        {
+            "produit_id": "P2015",
+            "nom": "Rustic Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 307.74
+        }
+    ],
+    "date_commande": "2024-03-20T17:45:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "107 Oakhurst",
+        "ville": "Cutler Bay"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 471502,
+    "client_id": 8137,
+    "produits": [
+        {
+            "produit_id": "P4279",
+            "nom": "Intelligent Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 121.01
+        },
+        {
+            "produit_id": "P2198",
+            "nom": "New Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 394.63
+        }
+    ],
+    "date_commande": "2023-06-16T13:19:20",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

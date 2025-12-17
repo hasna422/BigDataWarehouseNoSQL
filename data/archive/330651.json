@@ -1,0 +1,25 @@
+{
+    "order_id": 330651,
+    "client_id": 6382,
+    "produits": [
+        {
+            "produit_id": "P1641",
+            "nom": "Practical Plastic Table",
+            "quantite": 4,
+            "prix_unitaire": 201.57
+        },
+        {
+            "produit_id": "P2507",
+            "nom": "Practical Wooden Bike",
+            "quantite": 4,
+            "prix_unitaire": 284.68
+        }
+    ],
+    "date_commande": "2024-09-13T16:50:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "449 West Halleck",
+        "ville": "Cambridge"
+    }
+}

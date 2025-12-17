@@ -1,0 +1,19 @@
+{
+    "order_id": 794416,
+    "client_id": 2931,
+    "produits": [
+        {
+            "produit_id": "P8383",
+            "nom": "Fantastic Fresh Sausages",
+            "quantite": 3,
+            "prix_unitaire": 398.06
+        }
+    ],
+    "date_commande": "2025-01-20T19:45:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "938 Juan Bautista",
+        "ville": "Bourbonnais"
+    }
+}

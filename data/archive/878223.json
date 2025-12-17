@@ -1,0 +1,31 @@
+{
+    "order_id": 878223,
+    "client_id": 9072,
+    "produits": [
+        {
+            "produit_id": "P3226",
+            "nom": "Gently Used Mouse",
+            "quantite": 1,
+            "prix_unitaire": 129.13
+        },
+        {
+            "produit_id": "P0300",
+            "nom": "Unbranded Fresh Shirt",
+            "quantite": 3,
+            "prix_unitaire": 129.35
+        },
+        {
+            "produit_id": "P5155",
+            "nom": "Rustic Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 432.55
+        }
+    ],
+    "date_commande": "2024-07-14T20:11:03",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "543 Northgate",
+        "ville": "San Luis"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 317808,
+    "client_id": 3496,
+    "produits": [
+        {
+            "produit_id": "P5729",
+            "nom": "Sleek Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 217.46
+        },
+        {
+            "produit_id": "P3652",
+            "nom": "Gently Used Rubber Soap",
+            "quantite": 3,
+            "prix_unitaire": 129.47
+        },
+        {
+            "produit_id": "P0967",
+            "nom": "Gorgeous Steel Bacon",
+            "quantite": 3,
+            "prix_unitaire": 164.65
+        }
+    ],
+    "date_commande": "2024-01-17T11:14:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "922 Rossi",
+        "ville": "Fort Worth"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 749289,
+    "client_id": 5476,
+    "produits": [
+        {
+            "produit_id": "P7512",
+            "nom": "Small Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 94.01
+        },
+        {
+            "produit_id": "P5814",
+            "nom": "Refined Soft Salad",
+            "quantite": 2,
+            "prix_unitaire": 357.24
+        }
+    ],
+    "date_commande": "2025-04-29T23:46:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1186 Anglo",
+        "ville": "Westlake"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 763931,
+    "client_id": 7711,
+    "produits": [
+        {
+            "produit_id": "P3789",
+            "nom": "Handmade Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 72.61
+        },
+        {
+            "produit_id": "P7453",
+            "nom": "Tasty Fresh Mouse",
+            "quantite": 2,
+            "prix_unitaire": 426.36
+        }
+    ],
+    "date_commande": "2025-05-07T12:49:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "382 Willard",
+        "ville": "Deerfield Beach"
+    }
+}

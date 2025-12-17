@@ -1,0 +1,27 @@
+{
+    "order_id": 470164,
+    "client_id": 1591,
+    "produits": [
+        {
+            "produit_id": "P7333",
+            "nom": "Unbranded Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 131.92
+        },
+        {
+            "produit_id": "P1988",
+            "nom": "Gorgeous Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 21.26
+        },
+        {
+            "produit_id": "P9260",
+            "nom": "Generic Steel Pizza",
+            "quantite": 5,
+            "prix_unitaire": 212.83
+        }
+    ],
+    "date_commande": "2024-12-19T21:09:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

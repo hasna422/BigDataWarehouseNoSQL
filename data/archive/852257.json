@@ -1,0 +1,21 @@
+{
+    "order_id": 852257,
+    "client_id": 7459,
+    "produits": [
+        {
+            "produit_id": "P0064",
+            "nom": "Small Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 86.99
+        },
+        {
+            "produit_id": "P4963",
+            "nom": "Gently Used Frozen Chicken",
+            "quantite": 4,
+            "prix_unitaire": 229.4
+        }
+    ],
+    "date_commande": "2023-12-08T20:10:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

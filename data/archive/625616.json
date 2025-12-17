@@ -1,0 +1,19 @@
+{
+    "order_id": 625616,
+    "client_id": 9759,
+    "produits": [
+        {
+            "produit_id": "P2450",
+            "nom": "New Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 296.1
+        }
+    ],
+    "date_commande": "2024-06-13T22:02:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "338 Dow",
+        "ville": "Santa Fe"
+    }
+}

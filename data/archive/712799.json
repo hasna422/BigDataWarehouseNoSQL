@@ -1,0 +1,25 @@
+{
+    "order_id": 712799,
+    "client_id": 5885,
+    "produits": [
+        {
+            "produit_id": "P5326",
+            "nom": "Tasty Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 8.33
+        },
+        {
+            "produit_id": "P9364",
+            "nom": "Unbranded Wooden Bacon",
+            "quantite": 3,
+            "prix_unitaire": 491.73
+        }
+    ],
+    "date_commande": "2024-05-02T21:36:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "200 Pershing",
+        "ville": "Bixby"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 750419,
+    "client_id": 2426,
+    "produits": [
+        {
+            "produit_id": "P1149",
+            "nom": "Handmade Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 88.8
+        }
+    ],
+    "date_commande": "2024-12-07T03:18:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1013 Oliver",
+        "ville": "National City"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 514674,
+    "client_id": 9094,
+    "produits": [
+        {
+            "produit_id": "P4377",
+            "nom": "Incredible Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 318.39
+        },
+        {
+            "produit_id": "P9290",
+            "nom": "Small Fresh Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 98.31
+        },
+        {
+            "produit_id": "P0332",
+            "nom": "Gently Used Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 482.69
+        }
+    ],
+    "date_commande": "2024-12-22T09:57:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "278 Ord",
+        "ville": "Carrboro"
+    }
+}

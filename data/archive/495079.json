@@ -1,0 +1,25 @@
+{
+    "order_id": 495079,
+    "client_id": 5190,
+    "produits": [
+        {
+            "produit_id": "P9659",
+            "nom": "Handmade Granite Bike",
+            "quantite": 4,
+            "prix_unitaire": 320.87
+        },
+        {
+            "produit_id": "P5763",
+            "nom": "Cotton Hat",
+            "quantite": 1,
+            "prix_unitaire": 443.26
+        }
+    ],
+    "date_commande": "2023-08-12T12:34:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "228 Ralston",
+        "ville": "Cincinnati"
+    }
+}

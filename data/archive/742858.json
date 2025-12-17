@@ -1,0 +1,25 @@
+{
+    "order_id": 742858,
+    "client_id": 8386,
+    "produits": [
+        {
+            "produit_id": "P3788",
+            "nom": "Handcrafted Frozen Sausages",
+            "quantite": 2,
+            "prix_unitaire": 299.59
+        },
+        {
+            "produit_id": "P5854",
+            "nom": "Ergonomic Granite Gloves",
+            "quantite": 1,
+            "prix_unitaire": 271.64
+        }
+    ],
+    "date_commande": "2024-09-05T07:08:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "419 Alta Mar",
+        "ville": "San Bruno"
+    }
+}

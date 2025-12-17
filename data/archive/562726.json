@@ -1,0 +1,21 @@
+{
+    "order_id": 562726,
+    "client_id": 8245,
+    "produits": [
+        {
+            "produit_id": "P9505",
+            "nom": "Fantastic Fresh Chair",
+            "quantite": 4,
+            "prix_unitaire": 34.91
+        },
+        {
+            "produit_id": "P0430",
+            "nom": "New Frozen Gloves",
+            "quantite": 2,
+            "prix_unitaire": 184.18
+        }
+    ],
+    "date_commande": "2024-08-31T15:49:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

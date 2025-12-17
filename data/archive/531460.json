@@ -1,0 +1,25 @@
+{
+    "order_id": 531460,
+    "client_id": 8370,
+    "produits": [
+        {
+            "produit_id": "P5818",
+            "nom": "Rustic Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 217.02
+        },
+        {
+            "produit_id": "P7888",
+            "nom": "Practical Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 96.79
+        }
+    ],
+    "date_commande": "2023-11-12T18:59:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "323 Brewster",
+        "ville": "Yuba City"
+    }
+}

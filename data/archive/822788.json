@@ -1,0 +1,25 @@
+{
+    "order_id": 822788,
+    "client_id": 8790,
+    "produits": [
+        {
+            "produit_id": "P8587",
+            "nom": "Small Mouse",
+            "quantite": 3,
+            "prix_unitaire": 461.21
+        },
+        {
+            "produit_id": "P4390",
+            "nom": "Sleek Rubber Sausages",
+            "quantite": 5,
+            "prix_unitaire": 142.9
+        }
+    ],
+    "date_commande": "2023-10-29T11:27:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "295 Cole",
+        "ville": "McHenry"
+    }
+}

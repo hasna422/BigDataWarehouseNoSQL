@@ -1,0 +1,25 @@
+{
+    "order_id": 246917,
+    "client_id": 8157,
+    "produits": [
+        {
+            "produit_id": "P9665",
+            "nom": "Unbranded Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 421.1
+        },
+        {
+            "produit_id": "P6223",
+            "nom": "Fantastic Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 27.68
+        }
+    ],
+    "date_commande": "2025-04-06T08:27:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "625 Dirk Dirksen",
+        "ville": "Joliet"
+    }
+}

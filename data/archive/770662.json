@@ -1,0 +1,21 @@
+{
+    "order_id": 770662,
+    "client_id": 9859,
+    "produits": [
+        {
+            "produit_id": "P9298",
+            "nom": "Practical Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 185.46
+        },
+        {
+            "produit_id": "P6051",
+            "nom": "Licensed Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 436.33
+        }
+    ],
+    "date_commande": "2023-10-21T18:37:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

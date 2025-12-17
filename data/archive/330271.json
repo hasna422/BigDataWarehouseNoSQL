@@ -1,0 +1,19 @@
+{
+    "order_id": 330271,
+    "client_id": 2766,
+    "produits": [
+        {
+            "produit_id": "P2669",
+            "nom": "Sleek Pants",
+            "quantite": 5,
+            "prix_unitaire": 85.27
+        }
+    ],
+    "date_commande": "2024-05-22T02:04:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1068 Collingwood",
+        "ville": "Sylvania"
+    }
+}

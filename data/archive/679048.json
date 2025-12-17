@@ -1,0 +1,25 @@
+{
+    "order_id": 679048,
+    "client_id": 9379,
+    "produits": [
+        {
+            "produit_id": "P6052",
+            "nom": "For repair Salad",
+            "quantite": 1,
+            "prix_unitaire": 238.35
+        },
+        {
+            "produit_id": "P6613",
+            "nom": "Sleek Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 327.38
+        }
+    ],
+    "date_commande": "2024-10-20T08:07:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1185 Galindo",
+        "ville": "Ceres"
+    }
+}

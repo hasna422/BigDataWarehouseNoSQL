@@ -1,0 +1,19 @@
+{
+    "order_id": 595478,
+    "client_id": 9312,
+    "produits": [
+        {
+            "produit_id": "P2440",
+            "nom": "Sausages",
+            "quantite": 2,
+            "prix_unitaire": 161.91
+        }
+    ],
+    "date_commande": "2025-02-20T23:45:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1046 Keyes",
+        "ville": "Covina"
+    }
+}

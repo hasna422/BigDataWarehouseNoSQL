@@ -1,0 +1,21 @@
+{
+    "order_id": 623382,
+    "client_id": 8761,
+    "produits": [
+        {
+            "produit_id": "P0069",
+            "nom": "Rustic Metal Table",
+            "quantite": 2,
+            "prix_unitaire": 86.25
+        },
+        {
+            "produit_id": "P6824",
+            "nom": "Intelligent Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 237.94
+        }
+    ],
+    "date_commande": "2024-05-23T21:15:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

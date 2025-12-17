@@ -1,0 +1,19 @@
+{
+    "order_id": 127320,
+    "client_id": 5899,
+    "produits": [
+        {
+            "produit_id": "P4653",
+            "nom": "Practical Steel Pizza",
+            "quantite": 2,
+            "prix_unitaire": 58.16
+        }
+    ],
+    "date_commande": "2025-03-05T19:43:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "921 Verna",
+        "ville": "Wyoming"
+    }
+}

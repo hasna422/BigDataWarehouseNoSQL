@@ -1,0 +1,25 @@
+{
+    "order_id": 645023,
+    "client_id": 6792,
+    "produits": [
+        {
+            "produit_id": "P8069",
+            "nom": "Tasty Concrete Towels",
+            "quantite": 2,
+            "prix_unitaire": 426.07
+        },
+        {
+            "produit_id": "P8233",
+            "nom": "Handmade Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 14.21
+        }
+    ],
+    "date_commande": "2023-08-13T21:40:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "201 Miguel",
+        "ville": "Mineral Wells"
+    }
+}

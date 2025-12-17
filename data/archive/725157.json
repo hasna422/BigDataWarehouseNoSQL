@@ -1,0 +1,27 @@
+{
+    "order_id": 725157,
+    "client_id": 6590,
+    "produits": [
+        {
+            "produit_id": "P4667",
+            "nom": "Gently Used Computer",
+            "quantite": 5,
+            "prix_unitaire": 182.81
+        },
+        {
+            "produit_id": "P8731",
+            "nom": "Refined Wooden Chair",
+            "quantite": 2,
+            "prix_unitaire": 51.82
+        },
+        {
+            "produit_id": "P0454",
+            "nom": "Gorgeous Fish",
+            "quantite": 5,
+            "prix_unitaire": 148.62
+        }
+    ],
+    "date_commande": "2023-06-14T11:57:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

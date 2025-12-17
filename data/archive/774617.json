@@ -1,0 +1,25 @@
+{
+    "order_id": 774617,
+    "client_id": 4369,
+    "produits": [
+        {
+            "produit_id": "P4631",
+            "nom": "Used Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 225.16
+        },
+        {
+            "produit_id": "P6129",
+            "nom": "Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 132.25
+        }
+    ],
+    "date_commande": "2024-10-21T14:58:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "754 Eucalyptus",
+        "ville": "Daly City"
+    }
+}

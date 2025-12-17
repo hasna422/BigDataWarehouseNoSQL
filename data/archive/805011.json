@@ -1,0 +1,25 @@
+{
+    "order_id": 805011,
+    "client_id": 8903,
+    "produits": [
+        {
+            "produit_id": "P8814",
+            "nom": "Practical Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 418.76
+        },
+        {
+            "produit_id": "P6105",
+            "nom": "Pants",
+            "quantite": 3,
+            "prix_unitaire": 168.91
+        }
+    ],
+    "date_commande": "2024-01-22T16:14:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1064 De Wolf",
+        "ville": "Rochester Hills"
+    }
+}

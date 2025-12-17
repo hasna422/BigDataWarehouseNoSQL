@@ -1,0 +1,25 @@
+{
+    "order_id": 903296,
+    "client_id": 7536,
+    "produits": [
+        {
+            "produit_id": "P5306",
+            "nom": "Used Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 200.75
+        },
+        {
+            "produit_id": "P5966",
+            "nom": "New Metal Pizza",
+            "quantite": 3,
+            "prix_unitaire": 232.77
+        }
+    ],
+    "date_commande": "2024-12-19T14:00:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "980 Badger",
+        "ville": "Hinesville"
+    }
+}

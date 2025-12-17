@@ -1,0 +1,21 @@
+{
+    "order_id": 908512,
+    "client_id": 6571,
+    "produits": [
+        {
+            "produit_id": "P4592",
+            "nom": "Handcrafted Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 444.66
+        },
+        {
+            "produit_id": "P8266",
+            "nom": "Fantastic Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 202.02
+        }
+    ],
+    "date_commande": "2025-05-08T18:37:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 581149,
+    "client_id": 1759,
+    "produits": [
+        {
+            "produit_id": "P4896",
+            "nom": "New Pants",
+            "quantite": 2,
+            "prix_unitaire": 468.6
+        },
+        {
+            "produit_id": "P3131",
+            "nom": "Generic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 496.01
+        },
+        {
+            "produit_id": "P7493",
+            "nom": "New Rubber Chicken",
+            "quantite": 4,
+            "prix_unitaire": 363.16
+        }
+    ],
+    "date_commande": "2025-04-23T12:35:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1129 Lincoln",
+        "ville": "Ottawa"
+    }
+}

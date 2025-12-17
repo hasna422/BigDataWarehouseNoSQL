@@ -1,0 +1,31 @@
+{
+    "order_id": 857345,
+    "client_id": 3062,
+    "produits": [
+        {
+            "produit_id": "P9584",
+            "nom": "Plastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 497.24
+        },
+        {
+            "produit_id": "P9451",
+            "nom": "Handmade Metal Bacon",
+            "quantite": 5,
+            "prix_unitaire": 137.51
+        },
+        {
+            "produit_id": "P1539",
+            "nom": "Tasty Soft Gloves",
+            "quantite": 3,
+            "prix_unitaire": 322.01
+        }
+    ],
+    "date_commande": "2024-07-13T10:49:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "333 Iowa",
+        "ville": "Modesto"
+    }
+}

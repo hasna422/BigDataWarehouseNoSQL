@@ -1,0 +1,25 @@
+{
+    "order_id": 756890,
+    "client_id": 6502,
+    "produits": [
+        {
+            "produit_id": "P5345",
+            "nom": "Licensed Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 160.09
+        },
+        {
+            "produit_id": "P6597",
+            "nom": "Gently Used Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 226.32
+        }
+    ],
+    "date_commande": "2023-07-03T18:53:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "256 Colusa",
+        "ville": "Central Point"
+    }
+}

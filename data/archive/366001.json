@@ -1,0 +1,31 @@
+{
+    "order_id": 366001,
+    "client_id": 2091,
+    "produits": [
+        {
+            "produit_id": "P1738",
+            "nom": "Sleek Granite Bacon",
+            "quantite": 1,
+            "prix_unitaire": 116.08
+        },
+        {
+            "produit_id": "P1203",
+            "nom": "For repair Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 491.5
+        },
+        {
+            "produit_id": "P4764",
+            "nom": "Awesome Metal Pants",
+            "quantite": 2,
+            "prix_unitaire": 31.42
+        }
+    ],
+    "date_commande": "2024-11-19T13:56:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "239 Hattie",
+        "ville": "Pampa"
+    }
+}

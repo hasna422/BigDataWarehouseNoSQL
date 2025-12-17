@@ -1,0 +1,19 @@
+{
+    "order_id": 268133,
+    "client_id": 1287,
+    "produits": [
+        {
+            "produit_id": "P3245",
+            "nom": "Gorgeous Mouse",
+            "quantite": 5,
+            "prix_unitaire": 136.38
+        }
+    ],
+    "date_commande": "2024-09-19T12:40:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "237 Capp",
+        "ville": "Gilbert"
+    }
+}

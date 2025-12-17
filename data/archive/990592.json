@@ -1,0 +1,21 @@
+{
+    "order_id": 990592,
+    "client_id": 6839,
+    "produits": [
+        {
+            "produit_id": "P9062",
+            "nom": "Handcrafted Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 94.28
+        },
+        {
+            "produit_id": "P3954",
+            "nom": "Tasty Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 340.48
+        }
+    ],
+    "date_commande": "2025-04-22T14:01:50",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

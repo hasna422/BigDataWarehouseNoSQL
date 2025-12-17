@@ -1,0 +1,25 @@
+{
+    "order_id": 867646,
+    "client_id": 8475,
+    "produits": [
+        {
+            "produit_id": "P8384",
+            "nom": "Handcrafted Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 336.73
+        },
+        {
+            "produit_id": "P3468",
+            "nom": "Refined Cotton Ball",
+            "quantite": 5,
+            "prix_unitaire": 35.06
+        }
+    ],
+    "date_commande": "2024-12-29T18:16:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "695 Sargent",
+        "ville": "Schaumburg"
+    }
+}

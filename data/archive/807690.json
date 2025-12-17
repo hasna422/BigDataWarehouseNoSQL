@@ -1,0 +1,27 @@
+{
+    "order_id": 807690,
+    "client_id": 2107,
+    "produits": [
+        {
+            "produit_id": "P7352",
+            "nom": "Cotton Cheese",
+            "quantite": 1,
+            "prix_unitaire": 71.24
+        },
+        {
+            "produit_id": "P6254",
+            "nom": "Gorgeous Frozen Sausages",
+            "quantite": 2,
+            "prix_unitaire": 442.66
+        },
+        {
+            "produit_id": "P9729",
+            "nom": "Rustic Granite Fish",
+            "quantite": 4,
+            "prix_unitaire": 359.66
+        }
+    ],
+    "date_commande": "2024-02-26T04:50:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

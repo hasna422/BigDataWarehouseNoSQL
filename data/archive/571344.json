@@ -1,0 +1,19 @@
+{
+    "order_id": 571344,
+    "client_id": 5283,
+    "produits": [
+        {
+            "produit_id": "P8718",
+            "nom": "Used Metal Car",
+            "quantite": 1,
+            "prix_unitaire": 6.71
+        }
+    ],
+    "date_commande": "2025-03-22T15:13:06",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "182 Eucalyptus",
+        "ville": "Linden"
+    }
+}

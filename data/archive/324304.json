@@ -1,0 +1,25 @@
+{
+    "order_id": 324304,
+    "client_id": 7882,
+    "produits": [
+        {
+            "produit_id": "P0718",
+            "nom": "Plastic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 347.87
+        },
+        {
+            "produit_id": "P1270",
+            "nom": "Intelligent Fish",
+            "quantite": 5,
+            "prix_unitaire": 75.51
+        }
+    ],
+    "date_commande": "2023-10-03T23:05:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1134 Murray",
+        "ville": "Sapulpa"
+    }
+}

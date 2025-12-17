@@ -1,0 +1,21 @@
+{
+    "order_id": 755230,
+    "client_id": 1457,
+    "produits": [
+        {
+            "produit_id": "P0233",
+            "nom": "Handcrafted Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 243.38
+        },
+        {
+            "produit_id": "P9852",
+            "nom": "Ergonomic Plastic Towels",
+            "quantite": 3,
+            "prix_unitaire": 286.48
+        }
+    ],
+    "date_commande": "2024-07-20T02:23:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

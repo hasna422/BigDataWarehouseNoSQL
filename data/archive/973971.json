@@ -1,0 +1,19 @@
+{
+    "order_id": 973971,
+    "client_id": 4859,
+    "produits": [
+        {
+            "produit_id": "P2607",
+            "nom": "Used Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 341.83
+        }
+    ],
+    "date_commande": "2024-06-22T00:28:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "755 Mccarthy",
+        "ville": "Sand Springs"
+    }
+}

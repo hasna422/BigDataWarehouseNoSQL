@@ -1,0 +1,25 @@
+{
+    "order_id": 790263,
+    "client_id": 7833,
+    "produits": [
+        {
+            "produit_id": "P8896",
+            "nom": "Used Frozen Computer",
+            "quantite": 5,
+            "prix_unitaire": 20.72
+        },
+        {
+            "produit_id": "P4657",
+            "nom": "Refined Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 407.68
+        }
+    ],
+    "date_commande": "2023-07-17T00:07:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "954 The Embarcadero",
+        "ville": "Owensboro"
+    }
+}

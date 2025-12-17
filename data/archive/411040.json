@@ -1,0 +1,21 @@
+{
+    "order_id": 411040,
+    "client_id": 1434,
+    "produits": [
+        {
+            "produit_id": "P4992",
+            "nom": "Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 372.78
+        },
+        {
+            "produit_id": "P3588",
+            "nom": "For repair Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 242.58
+        }
+    ],
+    "date_commande": "2023-10-18T15:10:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

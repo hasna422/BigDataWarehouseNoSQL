@@ -1,0 +1,31 @@
+{
+    "order_id": 187188,
+    "client_id": 5667,
+    "produits": [
+        {
+            "produit_id": "P1031",
+            "nom": "For repair Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 52.54
+        },
+        {
+            "produit_id": "P0149",
+            "nom": "Gorgeous Granite Chicken",
+            "quantite": 4,
+            "prix_unitaire": 208.66
+        },
+        {
+            "produit_id": "P1417",
+            "nom": "Incredible Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 256.84
+        }
+    ],
+    "date_commande": "2024-04-14T00:07:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1292 Sandpiper Cove",
+        "ville": "Ventura"
+    }
+}

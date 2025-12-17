@@ -1,0 +1,19 @@
+{
+    "order_id": 528874,
+    "client_id": 9714,
+    "produits": [
+        {
+            "produit_id": "P3622",
+            "nom": "Metal Computer",
+            "quantite": 5,
+            "prix_unitaire": 426.37
+        }
+    ],
+    "date_commande": "2024-10-08T08:57:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "798 Caledonia",
+        "ville": "Layton"
+    }
+}

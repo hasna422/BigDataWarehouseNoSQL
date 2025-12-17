@@ -1,0 +1,31 @@
+{
+    "order_id": 901007,
+    "client_id": 4608,
+    "produits": [
+        {
+            "produit_id": "P6657",
+            "nom": "Licensed Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 498.19
+        },
+        {
+            "produit_id": "P2476",
+            "nom": "Practical Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 104.26
+        },
+        {
+            "produit_id": "P6904",
+            "nom": "Ergonomic Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 196.55
+        }
+    ],
+    "date_commande": "2023-06-24T11:09:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "794 Ellert",
+        "ville": "Loves Park"
+    }
+}

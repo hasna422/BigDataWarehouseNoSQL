@@ -1,0 +1,31 @@
+{
+    "order_id": 150372,
+    "client_id": 3194,
+    "produits": [
+        {
+            "produit_id": "P8621",
+            "nom": "Gorgeous Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 406.09
+        },
+        {
+            "produit_id": "P9220",
+            "nom": "Used Soft Chair",
+            "quantite": 3,
+            "prix_unitaire": 74.6
+        },
+        {
+            "produit_id": "P3197",
+            "nom": "For repair Steel Car",
+            "quantite": 1,
+            "prix_unitaire": 329.09
+        }
+    ],
+    "date_commande": "2024-02-04T12:34:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "909 Rodgers",
+        "ville": "Mustang"
+    }
+}

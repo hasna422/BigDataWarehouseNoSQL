@@ -1,0 +1,19 @@
+{
+    "order_id": 248671,
+    "client_id": 6578,
+    "produits": [
+        {
+            "produit_id": "P1897",
+            "nom": "Handcrafted Concrete Gloves",
+            "quantite": 2,
+            "prix_unitaire": 25.29
+        }
+    ],
+    "date_commande": "2023-07-28T02:59:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "151 Buckingham",
+        "ville": "Westlake"
+    }
+}

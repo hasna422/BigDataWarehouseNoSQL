@@ -1,0 +1,25 @@
+{
+    "order_id": 410665,
+    "client_id": 2640,
+    "produits": [
+        {
+            "produit_id": "P4106",
+            "nom": "Practical Wooden Shoes",
+            "quantite": 1,
+            "prix_unitaire": 453.35
+        },
+        {
+            "produit_id": "P6463",
+            "nom": "Fantastic Cotton Shoes",
+            "quantite": 5,
+            "prix_unitaire": 30.08
+        }
+    ],
+    "date_commande": "2023-10-08T20:45:15",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "478 Winthrop",
+        "ville": "Hercules"
+    }
+}

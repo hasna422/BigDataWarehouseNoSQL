@@ -1,0 +1,19 @@
+{
+    "order_id": 414342,
+    "client_id": 8765,
+    "produits": [
+        {
+            "produit_id": "P4460",
+            "nom": "Awesome Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 380.66
+        }
+    ],
+    "date_commande": "2024-08-28T13:03:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1323 Havenside",
+        "ville": "Carteret"
+    }
+}

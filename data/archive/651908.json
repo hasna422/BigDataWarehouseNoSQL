@@ -1,0 +1,31 @@
+{
+    "order_id": 651908,
+    "client_id": 6407,
+    "produits": [
+        {
+            "produit_id": "P4741",
+            "nom": "Unbranded Granite Soap",
+            "quantite": 5,
+            "prix_unitaire": 483.07
+        },
+        {
+            "produit_id": "P9933",
+            "nom": "For repair Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 297.16
+        },
+        {
+            "produit_id": "P2666",
+            "nom": "Awesome Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 128.96
+        }
+    ],
+    "date_commande": "2023-07-13T22:11:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1089 Pollock",
+        "ville": "Mundelein"
+    }
+}

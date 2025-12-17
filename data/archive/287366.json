@@ -1,0 +1,19 @@
+{
+    "order_id": 287366,
+    "client_id": 3463,
+    "produits": [
+        {
+            "produit_id": "P1251",
+            "nom": "Gorgeous Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 18.3
+        }
+    ],
+    "date_commande": "2024-07-23T01:03:48",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "225 Upper Service",
+        "ville": "Lynwood"
+    }
+}

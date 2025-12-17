@@ -1,0 +1,31 @@
+{
+    "order_id": 698743,
+    "client_id": 2583,
+    "produits": [
+        {
+            "produit_id": "P5958",
+            "nom": "For repair Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 186.02
+        },
+        {
+            "produit_id": "P5916",
+            "nom": "Unbranded Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 429.4
+        },
+        {
+            "produit_id": "P6659",
+            "nom": "Small Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 382.53
+        }
+    ],
+    "date_commande": "2023-12-01T18:04:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "90 Emil",
+        "ville": "Vineland"
+    }
+}

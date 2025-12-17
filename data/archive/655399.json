@@ -1,0 +1,19 @@
+{
+    "order_id": 655399,
+    "client_id": 1721,
+    "produits": [
+        {
+            "produit_id": "P6485",
+            "nom": "Sleek Steel Chicken",
+            "quantite": 2,
+            "prix_unitaire": 10.12
+        }
+    ],
+    "date_commande": "2024-10-04T19:11:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "32 Hoffman",
+        "ville": "McHenry"
+    }
+}

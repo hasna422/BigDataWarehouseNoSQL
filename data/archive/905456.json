@@ -1,0 +1,19 @@
+{
+    "order_id": 905456,
+    "client_id": 3068,
+    "produits": [
+        {
+            "produit_id": "P0693",
+            "nom": "Unbranded Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 217.85
+        }
+    ],
+    "date_commande": "2024-03-01T07:46:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "294 Stevenson",
+        "ville": "Southfield"
+    }
+}

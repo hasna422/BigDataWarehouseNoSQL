@@ -1,0 +1,15 @@
+{
+    "order_id": 378106,
+    "client_id": 2657,
+    "produits": [
+        {
+            "produit_id": "P4159",
+            "nom": "Handmade Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 328.16
+        }
+    ],
+    "date_commande": "2023-07-29T01:17:37",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

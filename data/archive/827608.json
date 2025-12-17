@@ -1,0 +1,31 @@
+{
+    "order_id": 827608,
+    "client_id": 5643,
+    "produits": [
+        {
+            "produit_id": "P9922",
+            "nom": "Refined Plastic Hat",
+            "quantite": 2,
+            "prix_unitaire": 414.65
+        },
+        {
+            "produit_id": "P0886",
+            "nom": "Generic Mouse",
+            "quantite": 1,
+            "prix_unitaire": 284.14
+        },
+        {
+            "produit_id": "P4649",
+            "nom": "Licensed Gloves",
+            "quantite": 4,
+            "prix_unitaire": 230.34
+        }
+    ],
+    "date_commande": "2024-11-14T13:08:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1267 Robinhood",
+        "ville": "Grapevine"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 115255,
+    "client_id": 2384,
+    "produits": [
+        {
+            "produit_id": "P2223",
+            "nom": "Incredible Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 377.25
+        },
+        {
+            "produit_id": "P3332",
+            "nom": "Used Steel Chips",
+            "quantite": 1,
+            "prix_unitaire": 234.01
+        },
+        {
+            "produit_id": "P1835",
+            "nom": "Cotton Ball",
+            "quantite": 4,
+            "prix_unitaire": 61.48
+        }
+    ],
+    "date_commande": "2024-08-02T10:23:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

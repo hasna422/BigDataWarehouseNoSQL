@@ -1,0 +1,19 @@
+{
+    "order_id": 948962,
+    "client_id": 8729,
+    "produits": [
+        {
+            "produit_id": "P9139",
+            "nom": "Sleek Fresh Pants",
+            "quantite": 5,
+            "prix_unitaire": 77.23
+        }
+    ],
+    "date_commande": "2023-09-14T10:56:33",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "667 Ringold",
+        "ville": "Tullahoma"
+    }
+}

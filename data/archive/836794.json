@@ -1,0 +1,19 @@
+{
+    "order_id": 836794,
+    "client_id": 7444,
+    "produits": [
+        {
+            "produit_id": "P3890",
+            "nom": "Incredible Chips",
+            "quantite": 1,
+            "prix_unitaire": 120.71
+        }
+    ],
+    "date_commande": "2024-04-13T02:28:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1275 Emmett",
+        "ville": "Augusta"
+    }
+}

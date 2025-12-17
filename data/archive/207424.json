@@ -1,0 +1,19 @@
+{
+    "order_id": 207424,
+    "client_id": 1372,
+    "produits": [
+        {
+            "produit_id": "P4934",
+            "nom": "Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 471.46
+        }
+    ],
+    "date_commande": "2024-03-13T07:03:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "313 San Rafael",
+        "ville": "Hoover"
+    }
+}

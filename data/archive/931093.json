@@ -1,0 +1,31 @@
+{
+    "order_id": 931093,
+    "client_id": 6775,
+    "produits": [
+        {
+            "produit_id": "P4986",
+            "nom": "Handcrafted Salad",
+            "quantite": 2,
+            "prix_unitaire": 160.15
+        },
+        {
+            "produit_id": "P4807",
+            "nom": "For repair Fish",
+            "quantite": 3,
+            "prix_unitaire": 288.31
+        },
+        {
+            "produit_id": "P9168",
+            "nom": "Rubber Bacon",
+            "quantite": 2,
+            "prix_unitaire": 66.84
+        }
+    ],
+    "date_commande": "2023-07-07T08:56:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "844 Dickinson",
+        "ville": "Mason"
+    }
+}

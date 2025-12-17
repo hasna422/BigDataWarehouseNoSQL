@@ -1,0 +1,31 @@
+{
+    "order_id": 700333,
+    "client_id": 3107,
+    "produits": [
+        {
+            "produit_id": "P8058",
+            "nom": "Fantastic Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 196.13
+        },
+        {
+            "produit_id": "P9965",
+            "nom": "Handcrafted Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 379.52
+        },
+        {
+            "produit_id": "P0581",
+            "nom": "Unbranded Wooden Ball",
+            "quantite": 3,
+            "prix_unitaire": 385.13
+        }
+    ],
+    "date_commande": "2023-11-18T20:46:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "325 France",
+        "ville": "San Leandro"
+    }
+}

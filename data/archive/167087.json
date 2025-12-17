@@ -1,0 +1,25 @@
+{
+    "order_id": 167087,
+    "client_id": 2517,
+    "produits": [
+        {
+            "produit_id": "P4730",
+            "nom": "Awesome Fresh Towels",
+            "quantite": 2,
+            "prix_unitaire": 172.18
+        },
+        {
+            "produit_id": "P5633",
+            "nom": "Rustic Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 428.81
+        }
+    ],
+    "date_commande": "2024-01-18T02:19:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1239 Mallorca",
+        "ville": "Hallandale Beach"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 584785,
+    "client_id": 9818,
+    "produits": [
+        {
+            "produit_id": "P7791",
+            "nom": "Practical Concrete Bacon",
+            "quantite": 4,
+            "prix_unitaire": 78.16
+        },
+        {
+            "produit_id": "P1850",
+            "nom": "Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 68.13
+        },
+        {
+            "produit_id": "P4253",
+            "nom": "Rustic Steel Chicken",
+            "quantite": 5,
+            "prix_unitaire": 94.96
+        }
+    ],
+    "date_commande": "2024-05-13T14:34:48",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1394 Granada",
+        "ville": "Brooklyn Center"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 292404,
+    "client_id": 5731,
+    "produits": [
+        {
+            "produit_id": "P9654",
+            "nom": "Incredible Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 37.39
+        }
+    ],
+    "date_commande": "2023-06-29T20:25:16",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1390 Barry",
+        "ville": "Saratoga Springs"
+    }
+}

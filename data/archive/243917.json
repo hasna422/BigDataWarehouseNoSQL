@@ -1,0 +1,21 @@
+{
+    "order_id": 243917,
+    "client_id": 2292,
+    "produits": [
+        {
+            "produit_id": "P7886",
+            "nom": "Handcrafted Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 214.99
+        },
+        {
+            "produit_id": "P7145",
+            "nom": "Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 159.55
+        }
+    ],
+    "date_commande": "2025-01-20T16:26:34",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

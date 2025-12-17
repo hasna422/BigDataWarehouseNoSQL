@@ -1,0 +1,19 @@
+{
+    "order_id": 252292,
+    "client_id": 5138,
+    "produits": [
+        {
+            "produit_id": "P6377",
+            "nom": "Sleek Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 280.01
+        }
+    ],
+    "date_commande": "2023-12-31T07:15:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "387 Belles",
+        "ville": "Decatur"
+    }
+}

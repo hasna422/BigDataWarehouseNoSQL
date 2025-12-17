@@ -1,0 +1,27 @@
+{
+    "order_id": 647637,
+    "client_id": 3099,
+    "produits": [
+        {
+            "produit_id": "P6856",
+            "nom": "Tasty Frozen Pants",
+            "quantite": 4,
+            "prix_unitaire": 264.41
+        },
+        {
+            "produit_id": "P1610",
+            "nom": "Ergonomic Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 66.18
+        },
+        {
+            "produit_id": "P5125",
+            "nom": "Licensed Rubber Gloves",
+            "quantite": 2,
+            "prix_unitaire": 84.35
+        }
+    ],
+    "date_commande": "2025-04-17T03:57:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

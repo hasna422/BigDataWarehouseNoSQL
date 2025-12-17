@@ -1,0 +1,31 @@
+{
+    "order_id": 590233,
+    "client_id": 5857,
+    "produits": [
+        {
+            "produit_id": "P0110",
+            "nom": "Ergonomic Rubber Salad",
+            "quantite": 3,
+            "prix_unitaire": 265.78
+        },
+        {
+            "produit_id": "P7137",
+            "nom": "Incredible Plastic Chair",
+            "quantite": 4,
+            "prix_unitaire": 169.19
+        },
+        {
+            "produit_id": "P6438",
+            "nom": "Incredible Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 390.25
+        }
+    ],
+    "date_commande": "2025-04-30T22:24:40",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "303 Ingalls",
+        "ville": "Elyria"
+    }
+}

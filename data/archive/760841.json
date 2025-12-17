@@ -1,0 +1,19 @@
+{
+    "order_id": 760841,
+    "client_id": 7029,
+    "produits": [
+        {
+            "produit_id": "P9410",
+            "nom": "Generic Cotton Soap",
+            "quantite": 3,
+            "prix_unitaire": 165.71
+        }
+    ],
+    "date_commande": "2023-07-10T03:33:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "355 Edgemont",
+        "ville": "Englewood"
+    }
+}

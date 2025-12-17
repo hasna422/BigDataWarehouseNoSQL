@@ -1,0 +1,25 @@
+{
+    "order_id": 716435,
+    "client_id": 1755,
+    "produits": [
+        {
+            "produit_id": "P3462",
+            "nom": "Small Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 378.7
+        },
+        {
+            "produit_id": "P0830",
+            "nom": "Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 222.26
+        }
+    ],
+    "date_commande": "2024-09-08T22:21:02",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "716 Steuben",
+        "ville": "Eagan"
+    }
+}

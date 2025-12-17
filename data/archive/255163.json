@@ -1,0 +1,27 @@
+{
+    "order_id": 255163,
+    "client_id": 6482,
+    "produits": [
+        {
+            "produit_id": "P5866",
+            "nom": "Gorgeous Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 230.8
+        },
+        {
+            "produit_id": "P1527",
+            "nom": "Gently Used Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 469.26
+        },
+        {
+            "produit_id": "P3007",
+            "nom": "Small Shoes",
+            "quantite": 2,
+            "prix_unitaire": 440.82
+        }
+    ],
+    "date_commande": "2024-08-05T05:52:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

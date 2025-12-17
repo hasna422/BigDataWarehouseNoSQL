@@ -1,0 +1,15 @@
+{
+    "order_id": 650978,
+    "client_id": 2039,
+    "produits": [
+        {
+            "produit_id": "P3553",
+            "nom": "Tasty Fresh Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 491.91
+        }
+    ],
+    "date_commande": "2025-01-02T06:16:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

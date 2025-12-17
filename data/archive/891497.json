@@ -1,0 +1,25 @@
+{
+    "order_id": 891497,
+    "client_id": 5323,
+    "produits": [
+        {
+            "produit_id": "P1322",
+            "nom": "Awesome Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 36.05
+        },
+        {
+            "produit_id": "P9445",
+            "nom": "Intelligent Cotton Bacon",
+            "quantite": 1,
+            "prix_unitaire": 473.55
+        }
+    ],
+    "date_commande": "2024-09-07T13:27:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1312 Soule",
+        "ville": "Oregon"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 373463,
+    "client_id": 9429,
+    "produits": [
+        {
+            "produit_id": "P3012",
+            "nom": "New Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 307.25
+        },
+        {
+            "produit_id": "P0663",
+            "nom": "Sleek Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 377.39
+        },
+        {
+            "produit_id": "P3762",
+            "nom": "Tasty Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 350.36
+        }
+    ],
+    "date_commande": "2023-06-07T02:41:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "101 Cleo Rand",
+        "ville": "Athens"
+    }
+}

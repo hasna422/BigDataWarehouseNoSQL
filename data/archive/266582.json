@@ -1,0 +1,19 @@
+{
+    "order_id": 266582,
+    "client_id": 8183,
+    "produits": [
+        {
+            "produit_id": "P1472",
+            "nom": "Incredible Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 97.8
+        }
+    ],
+    "date_commande": "2024-08-19T09:19:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "610 Fielding",
+        "ville": "Lumberton"
+    }
+}

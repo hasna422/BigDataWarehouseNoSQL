@@ -1,0 +1,21 @@
+{
+    "order_id": 364747,
+    "client_id": 7532,
+    "produits": [
+        {
+            "produit_id": "P5396",
+            "nom": "Sleek Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 269.83
+        },
+        {
+            "produit_id": "P5857",
+            "nom": "Practical Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 77.05
+        }
+    ],
+    "date_commande": "2024-04-29T06:46:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

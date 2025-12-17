@@ -1,0 +1,15 @@
+{
+    "order_id": 130427,
+    "client_id": 7656,
+    "produits": [
+        {
+            "produit_id": "P2858",
+            "nom": "Licensed Wooden Sausages",
+            "quantite": 3,
+            "prix_unitaire": 218.97
+        }
+    ],
+    "date_commande": "2025-03-03T18:47:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

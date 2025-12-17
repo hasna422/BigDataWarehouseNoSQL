@@ -1,0 +1,19 @@
+{
+    "order_id": 245802,
+    "client_id": 4092,
+    "produits": [
+        {
+            "produit_id": "P9144",
+            "nom": "Awesome Chips",
+            "quantite": 2,
+            "prix_unitaire": 38.29
+        }
+    ],
+    "date_commande": "2023-08-10T00:01:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "884 Peabody",
+        "ville": "Norman"
+    }
+}

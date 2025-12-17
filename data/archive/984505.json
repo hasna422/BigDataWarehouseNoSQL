@@ -1,0 +1,25 @@
+{
+    "order_id": 984505,
+    "client_id": 1862,
+    "produits": [
+        {
+            "produit_id": "P9462",
+            "nom": "Rustic Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 323.75
+        },
+        {
+            "produit_id": "P7186",
+            "nom": "Handmade Wooden Shirt",
+            "quantite": 5,
+            "prix_unitaire": 167.23
+        }
+    ],
+    "date_commande": "2025-05-17T12:45:40",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "344 Langdon",
+        "ville": "Terre Haute"
+    }
+}

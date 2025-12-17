@@ -1,0 +1,25 @@
+{
+    "order_id": 961088,
+    "client_id": 2065,
+    "produits": [
+        {
+            "produit_id": "P3968",
+            "nom": "Practical Wooden Shirt",
+            "quantite": 1,
+            "prix_unitaire": 122.14
+        },
+        {
+            "produit_id": "P6151",
+            "nom": "Fantastic Granite Pizza",
+            "quantite": 1,
+            "prix_unitaire": 481.3
+        }
+    ],
+    "date_commande": "2023-08-17T07:17:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "925 Hawthorne",
+        "ville": "College Park"
+    }
+}

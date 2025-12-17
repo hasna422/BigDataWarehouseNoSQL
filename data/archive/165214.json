@@ -1,0 +1,19 @@
+{
+    "order_id": 165214,
+    "client_id": 9806,
+    "produits": [
+        {
+            "produit_id": "P0271",
+            "nom": "Intelligent Fish",
+            "quantite": 5,
+            "prix_unitaire": 248.18
+        }
+    ],
+    "date_commande": "2024-11-17T06:57:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1203 Plaza",
+        "ville": "Trussville"
+    }
+}

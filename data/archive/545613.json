@@ -1,0 +1,25 @@
+{
+    "order_id": 545613,
+    "client_id": 2118,
+    "produits": [
+        {
+            "produit_id": "P9774",
+            "nom": "Small Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 217.23
+        },
+        {
+            "produit_id": "P7584",
+            "nom": "Licensed Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 140.03
+        }
+    ],
+    "date_commande": "2025-05-15T04:23:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1256 Bradford",
+        "ville": "Redondo Beach"
+    }
+}

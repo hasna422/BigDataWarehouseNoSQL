@@ -1,0 +1,25 @@
+{
+    "order_id": 591926,
+    "client_id": 3388,
+    "produits": [
+        {
+            "produit_id": "P5880",
+            "nom": "Used Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 436.16
+        },
+        {
+            "produit_id": "P5631",
+            "nom": "Intelligent Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 182.87
+        }
+    ],
+    "date_commande": "2024-07-07T15:34:22",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "716 Standish",
+        "ville": "Seymour"
+    }
+}

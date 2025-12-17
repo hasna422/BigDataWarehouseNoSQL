@@ -1,0 +1,21 @@
+{
+    "order_id": 554452,
+    "client_id": 1568,
+    "produits": [
+        {
+            "produit_id": "P8099",
+            "nom": "Sleek Soft Hat",
+            "quantite": 4,
+            "prix_unitaire": 105.53
+        },
+        {
+            "produit_id": "P6913",
+            "nom": "Small Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 49.85
+        }
+    ],
+    "date_commande": "2023-06-21T12:34:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 760217,
+    "client_id": 3321,
+    "produits": [
+        {
+            "produit_id": "P1620",
+            "nom": "Small Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 420.22
+        }
+    ],
+    "date_commande": "2024-10-04T07:28:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1262 Crissy Field",
+        "ville": "Sterling Heights"
+    }
+}

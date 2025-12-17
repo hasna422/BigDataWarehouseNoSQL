@@ -1,0 +1,19 @@
+{
+    "order_id": 346180,
+    "client_id": 3328,
+    "produits": [
+        {
+            "produit_id": "P8031",
+            "nom": "Awesome Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 425.9
+        }
+    ],
+    "date_commande": "2023-12-10T04:09:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "394 Henry Adams",
+        "ville": "Mineola"
+    }
+}

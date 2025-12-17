@@ -1,0 +1,21 @@
+{
+    "order_id": 222752,
+    "client_id": 8269,
+    "produits": [
+        {
+            "produit_id": "P1534",
+            "nom": "Gently Used Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 401.7
+        },
+        {
+            "produit_id": "P9392",
+            "nom": "Gorgeous Rubber Soap",
+            "quantite": 1,
+            "prix_unitaire": 389.74
+        }
+    ],
+    "date_commande": "2025-05-14T06:47:27",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

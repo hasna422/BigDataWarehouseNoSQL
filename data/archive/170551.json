@@ -1,0 +1,27 @@
+{
+    "order_id": 170551,
+    "client_id": 7441,
+    "produits": [
+        {
+            "produit_id": "P8470",
+            "nom": "Fantastic Fresh Shoes",
+            "quantite": 1,
+            "prix_unitaire": 271.23
+        },
+        {
+            "produit_id": "P3456",
+            "nom": "Handmade Shirt",
+            "quantite": 2,
+            "prix_unitaire": 366.6
+        },
+        {
+            "produit_id": "P5462",
+            "nom": "Generic Tuna",
+            "quantite": 4,
+            "prix_unitaire": 204.02
+        }
+    ],
+    "date_commande": "2024-10-06T08:34:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 556503,
+    "client_id": 3194,
+    "produits": [
+        {
+            "produit_id": "P7368",
+            "nom": "Incredible Metal Shirt",
+            "quantite": 1,
+            "prix_unitaire": 161.88
+        }
+    ],
+    "date_commande": "2024-06-19T06:07:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "881 Halleck",
+        "ville": "Elkhart"
+    }
+}

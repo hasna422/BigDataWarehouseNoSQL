@@ -1,0 +1,25 @@
+{
+    "order_id": 227661,
+    "client_id": 4690,
+    "produits": [
+        {
+            "produit_id": "P5631",
+            "nom": "Generic Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 85.04
+        },
+        {
+            "produit_id": "P5032",
+            "nom": "Intelligent Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 378.14
+        }
+    ],
+    "date_commande": "2023-09-26T22:27:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1324 Helena",
+        "ville": "Melrose Park"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 683635,
+    "client_id": 7126,
+    "produits": [
+        {
+            "produit_id": "P1415",
+            "nom": "Sleek Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 92.39
+        },
+        {
+            "produit_id": "P6908",
+            "nom": "Awesome Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 308.38
+        }
+    ],
+    "date_commande": "2024-06-22T12:55:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

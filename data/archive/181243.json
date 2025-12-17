@@ -1,0 +1,27 @@
+{
+    "order_id": 181243,
+    "client_id": 8807,
+    "produits": [
+        {
+            "produit_id": "P0131",
+            "nom": "Awesome Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 154.46
+        },
+        {
+            "produit_id": "P5076",
+            "nom": "Used Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 129.12
+        },
+        {
+            "produit_id": "P6529",
+            "nom": "Awesome Fresh Soap",
+            "quantite": 1,
+            "prix_unitaire": 231.0
+        }
+    ],
+    "date_commande": "2024-12-19T11:49:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

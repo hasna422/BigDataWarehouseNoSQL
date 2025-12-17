@@ -1,0 +1,25 @@
+{
+    "order_id": 257153,
+    "client_id": 3661,
+    "produits": [
+        {
+            "produit_id": "P1243",
+            "nom": "Licensed Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 205.13
+        },
+        {
+            "produit_id": "P7123",
+            "nom": "For repair Soft Car",
+            "quantite": 2,
+            "prix_unitaire": 319.24
+        }
+    ],
+    "date_commande": "2023-11-24T19:35:22",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "987 Pagoda",
+        "ville": "Oak Forest"
+    }
+}

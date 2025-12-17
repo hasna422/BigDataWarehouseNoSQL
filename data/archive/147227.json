@@ -1,0 +1,21 @@
+{
+    "order_id": 147227,
+    "client_id": 5993,
+    "produits": [
+        {
+            "produit_id": "P1546",
+            "nom": "Unbranded Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 173.91
+        },
+        {
+            "produit_id": "P8872",
+            "nom": "Handcrafted Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 377.69
+        }
+    ],
+    "date_commande": "2024-10-16T21:19:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

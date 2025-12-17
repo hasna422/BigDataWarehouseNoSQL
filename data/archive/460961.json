@@ -1,0 +1,31 @@
+{
+    "order_id": 460961,
+    "client_id": 7175,
+    "produits": [
+        {
+            "produit_id": "P6055",
+            "nom": "Awesome Granite Bike",
+            "quantite": 2,
+            "prix_unitaire": 12.89
+        },
+        {
+            "produit_id": "P5757",
+            "nom": "Refined Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 6.57
+        },
+        {
+            "produit_id": "P1416",
+            "nom": "Handcrafted Wooden Cheese",
+            "quantite": 3,
+            "prix_unitaire": 343.71
+        }
+    ],
+    "date_commande": "2024-07-27T02:38:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "26 Pearl",
+        "ville": "Eagle Pass"
+    }
+}

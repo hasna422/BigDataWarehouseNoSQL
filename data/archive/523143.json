@@ -1,0 +1,21 @@
+{
+    "order_id": 523143,
+    "client_id": 6595,
+    "produits": [
+        {
+            "produit_id": "P8115",
+            "nom": "Unbranded Fresh Bike",
+            "quantite": 1,
+            "prix_unitaire": 86.71
+        },
+        {
+            "produit_id": "P2242",
+            "nom": "New Rubber Cheese",
+            "quantite": 5,
+            "prix_unitaire": 358.81
+        }
+    ],
+    "date_commande": "2024-07-07T09:56:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

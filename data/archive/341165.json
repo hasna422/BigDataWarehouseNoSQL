@@ -1,0 +1,19 @@
+{
+    "order_id": 341165,
+    "client_id": 4420,
+    "produits": [
+        {
+            "produit_id": "P8732",
+            "nom": "Licensed Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 230.09
+        }
+    ],
+    "date_commande": "2024-06-23T14:05:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1306 Hester",
+        "ville": "North Charleston"
+    }
+}

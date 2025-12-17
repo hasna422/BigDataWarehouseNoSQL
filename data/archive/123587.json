@@ -1,0 +1,19 @@
+{
+    "order_id": 123587,
+    "client_id": 2056,
+    "produits": [
+        {
+            "produit_id": "P5344",
+            "nom": "Bacon",
+            "quantite": 1,
+            "prix_unitaire": 462.03
+        }
+    ],
+    "date_commande": "2025-02-25T18:33:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "338 Pulaski",
+        "ville": "Zion"
+    }
+}

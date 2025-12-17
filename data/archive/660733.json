@@ -1,0 +1,19 @@
+{
+    "order_id": 660733,
+    "client_id": 1855,
+    "produits": [
+        {
+            "produit_id": "P0957",
+            "nom": "For repair Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 121.49
+        }
+    ],
+    "date_commande": "2024-04-08T07:19:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "348 Perego",
+        "ville": "Santa Clara"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 113363,
+    "client_id": 8831,
+    "produits": [
+        {
+            "produit_id": "P5031",
+            "nom": "Handmade Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 95.59
+        },
+        {
+            "produit_id": "P6003",
+            "nom": "Gorgeous Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 455.46
+        },
+        {
+            "produit_id": "P0373",
+            "nom": "Incredible Wooden Bacon",
+            "quantite": 1,
+            "prix_unitaire": 306.41
+        }
+    ],
+    "date_commande": "2023-07-07T13:51:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1135 Hernandez",
+        "ville": "Rockwall"
+    }
+}

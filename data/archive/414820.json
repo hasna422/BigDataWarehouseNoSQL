@@ -1,0 +1,27 @@
+{
+    "order_id": 414820,
+    "client_id": 4637,
+    "produits": [
+        {
+            "produit_id": "P1216",
+            "nom": "Bike",
+            "quantite": 4,
+            "prix_unitaire": 367.02
+        },
+        {
+            "produit_id": "P4566",
+            "nom": "Gorgeous Salad",
+            "quantite": 4,
+            "prix_unitaire": 164.08
+        },
+        {
+            "produit_id": "P6901",
+            "nom": "Ergonomic Cotton Towels",
+            "quantite": 1,
+            "prix_unitaire": 168.2
+        }
+    ],
+    "date_commande": "2025-01-04T07:13:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

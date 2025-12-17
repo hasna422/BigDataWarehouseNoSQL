@@ -1,0 +1,25 @@
+{
+    "order_id": 747446,
+    "client_id": 5086,
+    "produits": [
+        {
+            "produit_id": "P0150",
+            "nom": "Small Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 114.04
+        },
+        {
+            "produit_id": "P4237",
+            "nom": "Used Cotton Towels",
+            "quantite": 1,
+            "prix_unitaire": 350.84
+        }
+    ],
+    "date_commande": "2023-09-28T00:38:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "91 Brooklyn",
+        "ville": "Urbandale"
+    }
+}

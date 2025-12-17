@@ -1,0 +1,15 @@
+{
+    "order_id": 858504,
+    "client_id": 4146,
+    "produits": [
+        {
+            "produit_id": "P2862",
+            "nom": "Fantastic Wooden Towels",
+            "quantite": 5,
+            "prix_unitaire": 70.57
+        }
+    ],
+    "date_commande": "2024-10-22T04:01:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

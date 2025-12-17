@@ -1,0 +1,19 @@
+{
+    "order_id": 763501,
+    "client_id": 4216,
+    "produits": [
+        {
+            "produit_id": "P3162",
+            "nom": "Practical Salad",
+            "quantite": 2,
+            "prix_unitaire": 53.55
+        }
+    ],
+    "date_commande": "2024-08-05T03:50:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "769 Ivy",
+        "ville": "Rancho Palos Verdes"
+    }
+}

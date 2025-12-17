@@ -1,0 +1,25 @@
+{
+    "order_id": 171545,
+    "client_id": 6209,
+    "produits": [
+        {
+            "produit_id": "P7110",
+            "nom": "Gorgeous Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 439.87
+        },
+        {
+            "produit_id": "P8790",
+            "nom": "Handcrafted Plastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 311.18
+        }
+    ],
+    "date_commande": "2025-01-28T12:33:31",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1238 Pizarro",
+        "ville": "Paso Robles"
+    }
+}

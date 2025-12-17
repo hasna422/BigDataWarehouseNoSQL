@@ -1,0 +1,27 @@
+{
+    "order_id": 959038,
+    "client_id": 1981,
+    "produits": [
+        {
+            "produit_id": "P0685",
+            "nom": "Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 352.25
+        },
+        {
+            "produit_id": "P3630",
+            "nom": "Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 233.94
+        },
+        {
+            "produit_id": "P2005",
+            "nom": "New Soap",
+            "quantite": 3,
+            "prix_unitaire": 363.52
+        }
+    ],
+    "date_commande": "2024-12-28T06:41:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

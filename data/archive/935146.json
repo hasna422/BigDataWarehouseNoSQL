@@ -1,0 +1,27 @@
+{
+    "order_id": 935146,
+    "client_id": 8439,
+    "produits": [
+        {
+            "produit_id": "P0795",
+            "nom": "New Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 393.15
+        },
+        {
+            "produit_id": "P9157",
+            "nom": "Gorgeous Chips",
+            "quantite": 3,
+            "prix_unitaire": 87.63
+        },
+        {
+            "produit_id": "P5669",
+            "nom": "Awesome Fish",
+            "quantite": 2,
+            "prix_unitaire": 48.09
+        }
+    ],
+    "date_commande": "2023-10-29T23:18:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

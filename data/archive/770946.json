@@ -1,0 +1,19 @@
+{
+    "order_id": 770946,
+    "client_id": 9337,
+    "produits": [
+        {
+            "produit_id": "P9899",
+            "nom": "Ergonomic Metal Mouse",
+            "quantite": 4,
+            "prix_unitaire": 42.93
+        }
+    ],
+    "date_commande": "2024-06-02T22:41:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "619 Bessie",
+        "ville": "Mission Viejo"
+    }
+}

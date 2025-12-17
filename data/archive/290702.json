@@ -1,0 +1,31 @@
+{
+    "order_id": 290702,
+    "client_id": 2052,
+    "produits": [
+        {
+            "produit_id": "P0071",
+            "nom": "Practical Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 48.03
+        },
+        {
+            "produit_id": "P8098",
+            "nom": "Sleek Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 465.87
+        },
+        {
+            "produit_id": "P9427",
+            "nom": "Handmade Concrete Pants",
+            "quantite": 3,
+            "prix_unitaire": 16.81
+        }
+    ],
+    "date_commande": "2025-03-03T06:24:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "588 Beckett",
+        "ville": "Pekin"
+    }
+}

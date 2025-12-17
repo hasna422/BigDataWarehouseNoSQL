@@ -1,0 +1,25 @@
+{
+    "order_id": 646470,
+    "client_id": 1502,
+    "produits": [
+        {
+            "produit_id": "P5435",
+            "nom": "New Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 315.87
+        },
+        {
+            "produit_id": "P3132",
+            "nom": "Gently Used Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 166.52
+        }
+    ],
+    "date_commande": "2024-10-21T12:36:28",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "964 Bowman",
+        "ville": "El Reno"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 777337,
+    "client_id": 8687,
+    "produits": [
+        {
+            "produit_id": "P0611",
+            "nom": "Handcrafted Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 101.53
+        },
+        {
+            "produit_id": "P8670",
+            "nom": "New Rubber Soap",
+            "quantite": 5,
+            "prix_unitaire": 235.31
+        },
+        {
+            "produit_id": "P8660",
+            "nom": "Licensed Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 353.06
+        }
+    ],
+    "date_commande": "2024-07-29T02:29:50",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

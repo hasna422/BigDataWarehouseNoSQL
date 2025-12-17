@@ -1,0 +1,27 @@
+{
+    "order_id": 924130,
+    "client_id": 1352,
+    "produits": [
+        {
+            "produit_id": "P4472",
+            "nom": "Steel Shirt",
+            "quantite": 5,
+            "prix_unitaire": 489.18
+        },
+        {
+            "produit_id": "P7362",
+            "nom": "Rustic Soft Towels",
+            "quantite": 3,
+            "prix_unitaire": 53.03
+        },
+        {
+            "produit_id": "P8807",
+            "nom": "Rustic Metal Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 376.48
+        }
+    ],
+    "date_commande": "2025-01-25T06:52:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 399727,
+    "client_id": 3413,
+    "produits": [
+        {
+            "produit_id": "P3194",
+            "nom": "New Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 117.05
+        },
+        {
+            "produit_id": "P5169",
+            "nom": "Fantastic Granite Car",
+            "quantite": 3,
+            "prix_unitaire": 374.02
+        }
+    ],
+    "date_commande": "2025-01-12T05:53:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "438 Avoca",
+        "ville": "Santa Paula"
+    }
+}

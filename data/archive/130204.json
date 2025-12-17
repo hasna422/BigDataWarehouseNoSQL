@@ -1,0 +1,31 @@
+{
+    "order_id": 130204,
+    "client_id": 5900,
+    "produits": [
+        {
+            "produit_id": "P2963",
+            "nom": "Handcrafted Fresh Mouse",
+            "quantite": 3,
+            "prix_unitaire": 285.35
+        },
+        {
+            "produit_id": "P5944",
+            "nom": "Sleek Fresh Computer",
+            "quantite": 3,
+            "prix_unitaire": 206.13
+        },
+        {
+            "produit_id": "P2995",
+            "nom": "New Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 152.1
+        }
+    ],
+    "date_commande": "2024-11-28T16:47:58",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "549 Lynch",
+        "ville": "Anacortes"
+    }
+}

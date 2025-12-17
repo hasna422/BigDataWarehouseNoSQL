@@ -1,0 +1,15 @@
+{
+    "order_id": 314705,
+    "client_id": 7549,
+    "produits": [
+        {
+            "produit_id": "P7796",
+            "nom": "Gently Used Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 359.31
+        }
+    ],
+    "date_commande": "2024-08-01T22:52:55",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 171396,
+    "client_id": 6353,
+    "produits": [
+        {
+            "produit_id": "P1229",
+            "nom": "Intelligent Plastic Car",
+            "quantite": 1,
+            "prix_unitaire": 370.85
+        },
+        {
+            "produit_id": "P5602",
+            "nom": "Gorgeous Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 290.6
+        }
+    ],
+    "date_commande": "2023-08-17T14:23:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "178 Hubbell",
+        "ville": "Mineola"
+    }
+}

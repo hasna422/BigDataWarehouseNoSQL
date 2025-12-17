@@ -1,0 +1,27 @@
+{
+    "order_id": 950499,
+    "client_id": 9646,
+    "produits": [
+        {
+            "produit_id": "P8931",
+            "nom": "Practical Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 405.51
+        },
+        {
+            "produit_id": "P0850",
+            "nom": "Awesome Wooden Bacon",
+            "quantite": 2,
+            "prix_unitaire": 121.97
+        },
+        {
+            "produit_id": "P3371",
+            "nom": "Practical Soft Gloves",
+            "quantite": 3,
+            "prix_unitaire": 496.72
+        }
+    ],
+    "date_commande": "2024-06-07T05:45:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

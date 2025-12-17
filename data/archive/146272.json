@@ -1,0 +1,31 @@
+{
+    "order_id": 146272,
+    "client_id": 6657,
+    "produits": [
+        {
+            "produit_id": "P2045",
+            "nom": "Licensed Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 283.28
+        },
+        {
+            "produit_id": "P9205",
+            "nom": "Fantastic Cotton Shirt",
+            "quantite": 2,
+            "prix_unitaire": 99.8
+        },
+        {
+            "produit_id": "P4483",
+            "nom": "Gently Used Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 376.51
+        }
+    ],
+    "date_commande": "2024-08-19T19:19:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "565 Alta Vista",
+        "ville": "Walker"
+    }
+}

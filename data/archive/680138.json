@@ -1,0 +1,27 @@
+{
+    "order_id": 680138,
+    "client_id": 7721,
+    "produits": [
+        {
+            "produit_id": "P5061",
+            "nom": "Fantastic Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 114.06
+        },
+        {
+            "produit_id": "P3320",
+            "nom": "Incredible Granite Fish",
+            "quantite": 4,
+            "prix_unitaire": 464.15
+        },
+        {
+            "produit_id": "P3427",
+            "nom": "Handmade Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 335.69
+        }
+    ],
+    "date_commande": "2025-03-16T20:09:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

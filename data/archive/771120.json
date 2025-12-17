@@ -1,0 +1,31 @@
+{
+    "order_id": 771120,
+    "client_id": 2894,
+    "produits": [
+        {
+            "produit_id": "P6992",
+            "nom": "Gently Used Shirt",
+            "quantite": 3,
+            "prix_unitaire": 96.92
+        },
+        {
+            "produit_id": "P4906",
+            "nom": "Fantastic Steel Hat",
+            "quantite": 3,
+            "prix_unitaire": 423.96
+        },
+        {
+            "produit_id": "P0302",
+            "nom": "Fantastic Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 446.35
+        }
+    ],
+    "date_commande": "2023-07-26T15:31:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "126 De Forest",
+        "ville": "Key West"
+    }
+}

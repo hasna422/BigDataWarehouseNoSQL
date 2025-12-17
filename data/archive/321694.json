@@ -1,0 +1,27 @@
+{
+    "order_id": 321694,
+    "client_id": 3005,
+    "produits": [
+        {
+            "produit_id": "P5973",
+            "nom": "Intelligent Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 158.83
+        },
+        {
+            "produit_id": "P4652",
+            "nom": "Ergonomic Plastic Sausages",
+            "quantite": 4,
+            "prix_unitaire": 334.16
+        },
+        {
+            "produit_id": "P3281",
+            "nom": "Refined Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 434.85
+        }
+    ],
+    "date_commande": "2024-04-13T20:22:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

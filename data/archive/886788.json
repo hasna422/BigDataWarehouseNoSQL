@@ -1,0 +1,15 @@
+{
+    "order_id": 886788,
+    "client_id": 6855,
+    "produits": [
+        {
+            "produit_id": "P6595",
+            "nom": "Gorgeous Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 265.96
+        }
+    ],
+    "date_commande": "2023-09-22T14:58:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

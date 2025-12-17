@@ -1,0 +1,27 @@
+{
+    "order_id": 658193,
+    "client_id": 6412,
+    "produits": [
+        {
+            "produit_id": "P3048",
+            "nom": "Licensed Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 30.76
+        },
+        {
+            "produit_id": "P7364",
+            "nom": "Sleek Cotton Table",
+            "quantite": 4,
+            "prix_unitaire": 431.65
+        },
+        {
+            "produit_id": "P6192",
+            "nom": "Awesome Fresh Pants",
+            "quantite": 2,
+            "prix_unitaire": 366.48
+        }
+    ],
+    "date_commande": "2024-06-14T12:19:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

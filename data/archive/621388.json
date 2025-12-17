@@ -1,0 +1,25 @@
+{
+    "order_id": 621388,
+    "client_id": 2276,
+    "produits": [
+        {
+            "produit_id": "P1042",
+            "nom": "Unbranded Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 435.83
+        },
+        {
+            "produit_id": "P7434",
+            "nom": "Licensed Metal Cheese",
+            "quantite": 4,
+            "prix_unitaire": 413.16
+        }
+    ],
+    "date_commande": "2024-08-24T00:21:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "272 Sparta",
+        "ville": "Bentonville"
+    }
+}

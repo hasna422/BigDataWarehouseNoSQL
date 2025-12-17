@@ -1,0 +1,19 @@
+{
+    "order_id": 854271,
+    "client_id": 9915,
+    "produits": [
+        {
+            "produit_id": "P4092",
+            "nom": "Small Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 145.84
+        }
+    ],
+    "date_commande": "2025-02-25T00:35:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "257 Old Harford",
+        "ville": "Lynn"
+    }
+}

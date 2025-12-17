@@ -1,0 +1,21 @@
+{
+    "order_id": 409318,
+    "client_id": 4593,
+    "produits": [
+        {
+            "produit_id": "P2272",
+            "nom": "Unbranded Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 405.37
+        },
+        {
+            "produit_id": "P9247",
+            "nom": "Unbranded Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 16.62
+        }
+    ],
+    "date_commande": "2023-06-29T15:49:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

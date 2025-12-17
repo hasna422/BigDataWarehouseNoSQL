@@ -1,0 +1,31 @@
+{
+    "order_id": 521686,
+    "client_id": 5235,
+    "produits": [
+        {
+            "produit_id": "P3456",
+            "nom": "Awesome Frozen Towels",
+            "quantite": 4,
+            "prix_unitaire": 481.2
+        },
+        {
+            "produit_id": "P2125",
+            "nom": "Small Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 307.05
+        },
+        {
+            "produit_id": "P3320",
+            "nom": "Rustic Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 200.94
+        }
+    ],
+    "date_commande": "2025-05-13T16:49:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "140 Bishop",
+        "ville": "Peoria"
+    }
+}

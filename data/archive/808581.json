@@ -1,0 +1,19 @@
+{
+    "order_id": 808581,
+    "client_id": 4039,
+    "produits": [
+        {
+            "produit_id": "P2260",
+            "nom": "Intelligent Plastic Towels",
+            "quantite": 2,
+            "prix_unitaire": 337.77
+        }
+    ],
+    "date_commande": "2024-07-22T06:48:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1285 Nahua",
+        "ville": "Cicero"
+    }
+}

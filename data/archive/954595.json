@@ -1,0 +1,21 @@
+{
+    "order_id": 954595,
+    "client_id": 1413,
+    "produits": [
+        {
+            "produit_id": "P9356",
+            "nom": "New Frozen Soap",
+            "quantite": 4,
+            "prix_unitaire": 215.8
+        },
+        {
+            "produit_id": "P8030",
+            "nom": "Handmade Soft Towels",
+            "quantite": 2,
+            "prix_unitaire": 398.78
+        }
+    ],
+    "date_commande": "2024-06-30T08:24:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

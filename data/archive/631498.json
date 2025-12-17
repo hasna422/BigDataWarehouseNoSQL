@@ -1,0 +1,31 @@
+{
+    "order_id": 631498,
+    "client_id": 7383,
+    "produits": [
+        {
+            "produit_id": "P1476",
+            "nom": "Incredible Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 390.36
+        },
+        {
+            "produit_id": "P8539",
+            "nom": "Incredible Fresh Bike",
+            "quantite": 5,
+            "prix_unitaire": 225.82
+        },
+        {
+            "produit_id": "P8999",
+            "nom": "Intelligent Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 453.66
+        }
+    ],
+    "date_commande": "2024-08-10T00:15:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1252 Healy",
+        "ville": "McAllen"
+    }
+}

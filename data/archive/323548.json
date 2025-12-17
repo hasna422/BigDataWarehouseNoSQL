@@ -1,0 +1,31 @@
+{
+    "order_id": 323548,
+    "client_id": 5225,
+    "produits": [
+        {
+            "produit_id": "P6640",
+            "nom": "Rustic Fresh Soap",
+            "quantite": 1,
+            "prix_unitaire": 120.79
+        },
+        {
+            "produit_id": "P9813",
+            "nom": "Gorgeous Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 106.48
+        },
+        {
+            "produit_id": "P1547",
+            "nom": "Licensed Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 253.62
+        }
+    ],
+    "date_commande": "2024-09-03T17:37:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "889 Gilroy",
+        "ville": "Enid"
+    }
+}

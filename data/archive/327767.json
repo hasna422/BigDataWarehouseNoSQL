@@ -1,0 +1,25 @@
+{
+    "order_id": 327767,
+    "client_id": 4306,
+    "produits": [
+        {
+            "produit_id": "P5653",
+            "nom": "Fantastic Metal Bacon",
+            "quantite": 4,
+            "prix_unitaire": 215.22
+        },
+        {
+            "produit_id": "P7056",
+            "nom": "Incredible Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 482.89
+        }
+    ],
+    "date_commande": "2024-06-20T19:33:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1126 Dolores",
+        "ville": "Lindenhurst"
+    }
+}

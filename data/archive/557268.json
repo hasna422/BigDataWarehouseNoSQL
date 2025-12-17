@@ -1,0 +1,27 @@
+{
+    "order_id": 557268,
+    "client_id": 7843,
+    "produits": [
+        {
+            "produit_id": "P5280",
+            "nom": "Used Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 289.5
+        },
+        {
+            "produit_id": "P1639",
+            "nom": "Ergonomic Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 161.4
+        },
+        {
+            "produit_id": "P4758",
+            "nom": "Small Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 180.96
+        }
+    ],
+    "date_commande": "2024-11-01T16:21:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 800681,
+    "client_id": 2835,
+    "produits": [
+        {
+            "produit_id": "P9024",
+            "nom": "Used Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 107.94
+        },
+        {
+            "produit_id": "P6312",
+            "nom": "Used Cotton Shoes",
+            "quantite": 3,
+            "prix_unitaire": 89.01
+        }
+    ],
+    "date_commande": "2025-03-09T05:21:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

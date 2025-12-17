@@ -1,0 +1,25 @@
+{
+    "order_id": 470623,
+    "client_id": 1785,
+    "produits": [
+        {
+            "produit_id": "P4021",
+            "nom": "Gorgeous Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 369.27
+        },
+        {
+            "produit_id": "P2891",
+            "nom": "Licensed Concrete Bacon",
+            "quantite": 3,
+            "prix_unitaire": 59.82
+        }
+    ],
+    "date_commande": "2025-03-01T01:19:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1101 Cameo",
+        "ville": "Brownsburg"
+    }
+}

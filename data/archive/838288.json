@@ -1,0 +1,15 @@
+{
+    "order_id": 838288,
+    "client_id": 2882,
+    "produits": [
+        {
+            "produit_id": "P8201",
+            "nom": "Small Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 9.27
+        }
+    ],
+    "date_commande": "2023-12-11T13:15:43",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

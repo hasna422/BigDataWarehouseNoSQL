@@ -1,0 +1,19 @@
+{
+    "order_id": 691440,
+    "client_id": 8079,
+    "produits": [
+        {
+            "produit_id": "P8999",
+            "nom": "Small Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 496.18
+        }
+    ],
+    "date_commande": "2024-06-04T00:43:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "509 Geneva",
+        "ville": "Burlington"
+    }
+}

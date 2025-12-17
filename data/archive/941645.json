@@ -1,0 +1,19 @@
+{
+    "order_id": 941645,
+    "client_id": 1080,
+    "produits": [
+        {
+            "produit_id": "P0519",
+            "nom": "Tasty Wooden Table",
+            "quantite": 2,
+            "prix_unitaire": 128.45
+        }
+    ],
+    "date_commande": "2024-10-05T17:18:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1009 Mary",
+        "ville": "Shoreline"
+    }
+}

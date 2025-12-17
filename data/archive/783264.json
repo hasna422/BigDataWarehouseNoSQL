@@ -1,0 +1,31 @@
+{
+    "order_id": 783264,
+    "client_id": 6102,
+    "produits": [
+        {
+            "produit_id": "P1767",
+            "nom": "Generic Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 193.52
+        },
+        {
+            "produit_id": "P8955",
+            "nom": "Refined Cotton Chicken",
+            "quantite": 3,
+            "prix_unitaire": 226.61
+        },
+        {
+            "produit_id": "P7358",
+            "nom": "Generic Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 38.21
+        }
+    ],
+    "date_commande": "2024-09-09T22:14:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "662 Andover",
+        "ville": "Glendora"
+    }
+}

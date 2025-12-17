@@ -1,0 +1,15 @@
+{
+    "order_id": 190002,
+    "client_id": 4425,
+    "produits": [
+        {
+            "produit_id": "P6481",
+            "nom": "Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 437.77
+        }
+    ],
+    "date_commande": "2024-08-25T21:46:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

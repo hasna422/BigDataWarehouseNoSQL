@@ -1,0 +1,19 @@
+{
+    "order_id": 107326,
+    "client_id": 7161,
+    "produits": [
+        {
+            "produit_id": "P5834",
+            "nom": "Gorgeous Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 202.93
+        }
+    ],
+    "date_commande": "2024-02-19T19:49:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1340 Raleigh",
+        "ville": "Englewood"
+    }
+}

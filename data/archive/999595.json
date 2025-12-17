@@ -1,0 +1,21 @@
+{
+    "order_id": 999595,
+    "client_id": 9694,
+    "produits": [
+        {
+            "produit_id": "P5935",
+            "nom": "Incredible Concrete Chicken",
+            "quantite": 2,
+            "prix_unitaire": 176.08
+        },
+        {
+            "produit_id": "P7624",
+            "nom": "Tasty Concrete Tuna",
+            "quantite": 2,
+            "prix_unitaire": 200.44
+        }
+    ],
+    "date_commande": "2024-12-08T23:06:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

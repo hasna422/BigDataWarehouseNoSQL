@@ -1,0 +1,31 @@
+{
+    "order_id": 691002,
+    "client_id": 7928,
+    "produits": [
+        {
+            "produit_id": "P9801",
+            "nom": "Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 477.94
+        },
+        {
+            "produit_id": "P2152",
+            "nom": "Used Bacon",
+            "quantite": 1,
+            "prix_unitaire": 397.29
+        },
+        {
+            "produit_id": "P7042",
+            "nom": "Gently Used Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 351.53
+        }
+    ],
+    "date_commande": "2024-10-09T11:49:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1251 Water",
+        "ville": "Bensenville"
+    }
+}

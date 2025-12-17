@@ -1,0 +1,31 @@
+{
+    "order_id": 799655,
+    "client_id": 5956,
+    "produits": [
+        {
+            "produit_id": "P4044",
+            "nom": "Cotton Bacon",
+            "quantite": 2,
+            "prix_unitaire": 279.88
+        },
+        {
+            "produit_id": "P8307",
+            "nom": "Gently Used Soap",
+            "quantite": 1,
+            "prix_unitaire": 61.7
+        },
+        {
+            "produit_id": "P0525",
+            "nom": "Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 491.57
+        }
+    ],
+    "date_commande": "2024-03-29T19:15:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "915 La Grande",
+        "ville": "Apex"
+    }
+}

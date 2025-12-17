@@ -1,0 +1,15 @@
+{
+    "order_id": 167624,
+    "client_id": 7817,
+    "produits": [
+        {
+            "produit_id": "P2392",
+            "nom": "Gorgeous Concrete Car",
+            "quantite": 1,
+            "prix_unitaire": 434.08
+        }
+    ],
+    "date_commande": "2025-03-07T12:53:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

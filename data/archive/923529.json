@@ -1,0 +1,19 @@
+{
+    "order_id": 923529,
+    "client_id": 7703,
+    "produits": [
+        {
+            "produit_id": "P7704",
+            "nom": "Generic Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 390.49
+        }
+    ],
+    "date_commande": "2024-06-15T04:03:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "216 Indiana",
+        "ville": "Dinuba"
+    }
+}

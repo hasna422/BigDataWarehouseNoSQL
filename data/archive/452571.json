@@ -1,0 +1,19 @@
+{
+    "order_id": 452571,
+    "client_id": 5231,
+    "produits": [
+        {
+            "produit_id": "P5932",
+            "nom": "Awesome Sausages",
+            "quantite": 1,
+            "prix_unitaire": 327.79
+        }
+    ],
+    "date_commande": "2024-02-18T11:05:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1176 Stern Grove",
+        "ville": "Washington"
+    }
+}

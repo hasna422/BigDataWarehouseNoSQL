@@ -1,0 +1,19 @@
+{
+    "order_id": 370091,
+    "client_id": 7689,
+    "produits": [
+        {
+            "produit_id": "P1873",
+            "nom": "Incredible Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 408.69
+        }
+    ],
+    "date_commande": "2025-03-02T15:40:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "809 Hidalgo",
+        "ville": "Encinitas"
+    }
+}

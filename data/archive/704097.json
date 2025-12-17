@@ -1,0 +1,19 @@
+{
+    "order_id": 704097,
+    "client_id": 2186,
+    "produits": [
+        {
+            "produit_id": "P8673",
+            "nom": "Generic Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 415.68
+        }
+    ],
+    "date_commande": "2024-10-29T07:10:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1367 Atoll",
+        "ville": "Oregon City"
+    }
+}

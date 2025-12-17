@@ -1,0 +1,21 @@
+{
+    "order_id": 928378,
+    "client_id": 5892,
+    "produits": [
+        {
+            "produit_id": "P0679",
+            "nom": "Used Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 335.71
+        },
+        {
+            "produit_id": "P4795",
+            "nom": "Handcrafted Cotton Soap",
+            "quantite": 1,
+            "prix_unitaire": 243.89
+        }
+    ],
+    "date_commande": "2024-08-29T19:07:36",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

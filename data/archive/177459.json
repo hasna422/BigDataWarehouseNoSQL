@@ -1,0 +1,15 @@
+{
+    "order_id": 177459,
+    "client_id": 5440,
+    "produits": [
+        {
+            "produit_id": "P7645",
+            "nom": "Handcrafted Wooden Chicken",
+            "quantite": 3,
+            "prix_unitaire": 388.62
+        }
+    ],
+    "date_commande": "2023-12-25T02:58:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

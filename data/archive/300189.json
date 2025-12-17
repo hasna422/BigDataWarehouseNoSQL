@@ -1,0 +1,21 @@
+{
+    "order_id": 300189,
+    "client_id": 9873,
+    "produits": [
+        {
+            "produit_id": "P8114",
+            "nom": "Generic Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 62.57
+        },
+        {
+            "produit_id": "P8908",
+            "nom": "Used Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 228.37
+        }
+    ],
+    "date_commande": "2023-11-14T01:24:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

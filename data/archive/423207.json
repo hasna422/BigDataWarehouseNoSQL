@@ -1,0 +1,15 @@
+{
+    "order_id": 423207,
+    "client_id": 1100,
+    "produits": [
+        {
+            "produit_id": "P4063",
+            "nom": "Rustic Concrete Gloves",
+            "quantite": 3,
+            "prix_unitaire": 259.83
+        }
+    ],
+    "date_commande": "2024-05-15T12:37:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

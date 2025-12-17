@@ -1,0 +1,27 @@
+{
+    "order_id": 199193,
+    "client_id": 4936,
+    "produits": [
+        {
+            "produit_id": "P6472",
+            "nom": "Ergonomic Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 306.1
+        },
+        {
+            "produit_id": "P5358",
+            "nom": "Licensed Metal Gloves",
+            "quantite": 4,
+            "prix_unitaire": 234.51
+        },
+        {
+            "produit_id": "P3279",
+            "nom": "Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 163.72
+        }
+    ],
+    "date_commande": "2024-09-14T17:03:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

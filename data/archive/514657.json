@@ -1,0 +1,27 @@
+{
+    "order_id": 514657,
+    "client_id": 5739,
+    "produits": [
+        {
+            "produit_id": "P4807",
+            "nom": "Refined Table",
+            "quantite": 2,
+            "prix_unitaire": 284.97
+        },
+        {
+            "produit_id": "P4552",
+            "nom": "For repair Pizza",
+            "quantite": 5,
+            "prix_unitaire": 165.35
+        },
+        {
+            "produit_id": "P3724",
+            "nom": "Gently Used Cotton Shirt",
+            "quantite": 3,
+            "prix_unitaire": 167.95
+        }
+    ],
+    "date_commande": "2023-09-11T02:23:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 689426,
+    "client_id": 6573,
+    "produits": [
+        {
+            "produit_id": "P6594",
+            "nom": "Sleek Wooden Bike",
+            "quantite": 5,
+            "prix_unitaire": 191.89
+        }
+    ],
+    "date_commande": "2025-05-25T11:04:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

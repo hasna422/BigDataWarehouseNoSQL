@@ -1,0 +1,15 @@
+{
+    "order_id": 440726,
+    "client_id": 6750,
+    "produits": [
+        {
+            "produit_id": "P2177",
+            "nom": "Generic Frozen Table",
+            "quantite": 1,
+            "prix_unitaire": 228.67
+        }
+    ],
+    "date_commande": "2023-08-04T15:15:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

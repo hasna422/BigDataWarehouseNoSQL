@@ -1,0 +1,15 @@
+{
+    "order_id": 923514,
+    "client_id": 7506,
+    "produits": [
+        {
+            "produit_id": "P1123",
+            "nom": "Sleek Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 253.98
+        }
+    ],
+    "date_commande": "2024-02-18T06:23:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 162814,
+    "client_id": 2907,
+    "produits": [
+        {
+            "produit_id": "P1153",
+            "nom": "Unbranded Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 489.46
+        }
+    ],
+    "date_commande": "2024-07-26T00:22:41",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1210 Music Concourse Access",
+        "ville": "Leesburg"
+    }
+}

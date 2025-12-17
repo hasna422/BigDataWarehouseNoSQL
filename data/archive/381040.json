@@ -1,0 +1,19 @@
+{
+    "order_id": 381040,
+    "client_id": 5477,
+    "produits": [
+        {
+            "produit_id": "P3841",
+            "nom": "Handcrafted Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 105.15
+        }
+    ],
+    "date_commande": "2024-12-07T14:49:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "739 Sloat",
+        "ville": "Eagle Pass"
+    }
+}

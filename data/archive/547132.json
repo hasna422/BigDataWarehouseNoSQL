@@ -1,0 +1,31 @@
+{
+    "order_id": 547132,
+    "client_id": 9184,
+    "produits": [
+        {
+            "produit_id": "P6126",
+            "nom": "Tuna",
+            "quantite": 3,
+            "prix_unitaire": 412.3
+        },
+        {
+            "produit_id": "P2260",
+            "nom": "Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 274.27
+        },
+        {
+            "produit_id": "P9110",
+            "nom": "Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 244.52
+        }
+    ],
+    "date_commande": "2024-01-22T05:42:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1087 Auto",
+        "ville": "Boulder"
+    }
+}

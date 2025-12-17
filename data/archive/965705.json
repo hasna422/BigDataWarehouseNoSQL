@@ -1,0 +1,21 @@
+{
+    "order_id": 965705,
+    "client_id": 3944,
+    "produits": [
+        {
+            "produit_id": "P0261",
+            "nom": "Sleek Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 185.28
+        },
+        {
+            "produit_id": "P4794",
+            "nom": "Sleek Fresh Chicken",
+            "quantite": 5,
+            "prix_unitaire": 129.8
+        }
+    ],
+    "date_commande": "2025-02-22T05:29:17",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

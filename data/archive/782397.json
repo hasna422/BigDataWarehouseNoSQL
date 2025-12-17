@@ -1,0 +1,19 @@
+{
+    "order_id": 782397,
+    "client_id": 8152,
+    "produits": [
+        {
+            "produit_id": "P5854",
+            "nom": "Gently Used Cotton Sausages",
+            "quantite": 5,
+            "prix_unitaire": 16.58
+        }
+    ],
+    "date_commande": "2024-12-28T19:24:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "91 Lomita",
+        "ville": "Farmington"
+    }
+}

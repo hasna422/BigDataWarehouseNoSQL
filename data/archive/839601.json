@@ -1,0 +1,27 @@
+{
+    "order_id": 839601,
+    "client_id": 1287,
+    "produits": [
+        {
+            "produit_id": "P6603",
+            "nom": "Rustic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 253.71
+        },
+        {
+            "produit_id": "P9098",
+            "nom": "New Frozen Tuna",
+            "quantite": 4,
+            "prix_unitaire": 180.27
+        },
+        {
+            "produit_id": "P1373",
+            "nom": "Incredible Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 103.3
+        }
+    ],
+    "date_commande": "2023-07-02T19:31:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

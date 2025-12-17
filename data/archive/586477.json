@@ -1,0 +1,25 @@
+{
+    "order_id": 586477,
+    "client_id": 6518,
+    "produits": [
+        {
+            "produit_id": "P6295",
+            "nom": "Fantastic Rubber Soap",
+            "quantite": 3,
+            "prix_unitaire": 471.69
+        },
+        {
+            "produit_id": "P2912",
+            "nom": "Licensed Frozen Bike",
+            "quantite": 2,
+            "prix_unitaire": 11.96
+        }
+    ],
+    "date_commande": "2023-10-05T05:50:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "819 Thorne",
+        "ville": "Clarksdale"
+    }
+}

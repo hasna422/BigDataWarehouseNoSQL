@@ -1,0 +1,21 @@
+{
+    "order_id": 471729,
+    "client_id": 3053,
+    "produits": [
+        {
+            "produit_id": "P6261",
+            "nom": "Unbranded Hat",
+            "quantite": 2,
+            "prix_unitaire": 255.14
+        },
+        {
+            "produit_id": "P3246",
+            "nom": "Handmade Sausages",
+            "quantite": 1,
+            "prix_unitaire": 278.34
+        }
+    ],
+    "date_commande": "2025-01-13T02:48:40",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

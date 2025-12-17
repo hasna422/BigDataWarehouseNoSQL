@@ -1,0 +1,19 @@
+{
+    "order_id": 162399,
+    "client_id": 8618,
+    "produits": [
+        {
+            "produit_id": "P6154",
+            "nom": "Small Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 455.6
+        }
+    ],
+    "date_commande": "2024-12-31T06:40:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1356 Yorba",
+        "ville": "Lynbrook"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 827673,
+    "client_id": 7775,
+    "produits": [
+        {
+            "produit_id": "P3743",
+            "nom": "Tasty Plastic Cheese",
+            "quantite": 5,
+            "prix_unitaire": 298.17
+        }
+    ],
+    "date_commande": "2024-09-14T16:59:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1361 Maiden",
+        "ville": "Bethany"
+    }
+}

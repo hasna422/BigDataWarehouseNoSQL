@@ -1,0 +1,25 @@
+{
+    "order_id": 190975,
+    "client_id": 4981,
+    "produits": [
+        {
+            "produit_id": "P8093",
+            "nom": "Ergonomic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 377.01
+        },
+        {
+            "produit_id": "P1806",
+            "nom": "Generic Pants",
+            "quantite": 1,
+            "prix_unitaire": 466.51
+        }
+    ],
+    "date_commande": "2023-09-20T01:13:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1384 Glen",
+        "ville": "Davie"
+    }
+}

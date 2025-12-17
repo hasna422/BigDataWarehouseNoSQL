@@ -1,0 +1,25 @@
+{
+    "order_id": 390934,
+    "client_id": 6251,
+    "produits": [
+        {
+            "produit_id": "P6526",
+            "nom": "Used Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 411.26
+        },
+        {
+            "produit_id": "P3861",
+            "nom": "Gently Used Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 443.96
+        }
+    ],
+    "date_commande": "2024-10-06T15:59:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "672 Davenport",
+        "ville": "Tulsa"
+    }
+}

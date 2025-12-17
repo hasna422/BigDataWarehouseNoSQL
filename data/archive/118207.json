@@ -1,0 +1,19 @@
+{
+    "order_id": 118207,
+    "client_id": 7311,
+    "produits": [
+        {
+            "produit_id": "P8654",
+            "nom": "Licensed Wooden Chicken",
+            "quantite": 5,
+            "prix_unitaire": 458.24
+        }
+    ],
+    "date_commande": "2024-09-29T10:11:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1213 Mirabel",
+        "ville": "Mill Creek"
+    }
+}

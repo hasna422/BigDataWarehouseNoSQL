@@ -1,0 +1,15 @@
+{
+    "order_id": 827007,
+    "client_id": 1925,
+    "produits": [
+        {
+            "produit_id": "P1426",
+            "nom": "Practical Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 354.27
+        }
+    ],
+    "date_commande": "2023-09-20T04:37:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

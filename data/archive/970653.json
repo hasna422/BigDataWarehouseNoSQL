@@ -1,0 +1,19 @@
+{
+    "order_id": 970653,
+    "client_id": 3732,
+    "produits": [
+        {
+            "produit_id": "P2167",
+            "nom": "Handcrafted Frozen Mouse",
+            "quantite": 1,
+            "prix_unitaire": 315.01
+        }
+    ],
+    "date_commande": "2025-01-22T08:47:31",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1113 Conwell",
+        "ville": "Phenix City"
+    }
+}

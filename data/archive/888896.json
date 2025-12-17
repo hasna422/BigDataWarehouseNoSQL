@@ -1,0 +1,25 @@
+{
+    "order_id": 888896,
+    "client_id": 2123,
+    "produits": [
+        {
+            "produit_id": "P1068",
+            "nom": "Generic Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 92.69
+        },
+        {
+            "produit_id": "P3692",
+            "nom": "Generic Plastic Bike",
+            "quantite": 1,
+            "prix_unitaire": 343.63
+        }
+    ],
+    "date_commande": "2024-08-28T05:46:26",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "698 Bonita",
+        "ville": "Burnsville"
+    }
+}

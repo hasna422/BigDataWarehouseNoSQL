@@ -1,0 +1,25 @@
+{
+    "order_id": 871517,
+    "client_id": 8598,
+    "produits": [
+        {
+            "produit_id": "P8401",
+            "nom": "Tasty Metal Gloves",
+            "quantite": 3,
+            "prix_unitaire": 247.85
+        },
+        {
+            "produit_id": "P8881",
+            "nom": "Gently Used Steel Salad",
+            "quantite": 5,
+            "prix_unitaire": 463.75
+        }
+    ],
+    "date_commande": "2024-05-16T14:08:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "474 Harrington",
+        "ville": "Broomfield"
+    }
+}

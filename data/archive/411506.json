@@ -1,0 +1,21 @@
+{
+    "order_id": 411506,
+    "client_id": 6618,
+    "produits": [
+        {
+            "produit_id": "P7648",
+            "nom": "Fantastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 465.2
+        },
+        {
+            "produit_id": "P0242",
+            "nom": "Fantastic Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 141.97
+        }
+    ],
+    "date_commande": "2023-08-16T15:46:34",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

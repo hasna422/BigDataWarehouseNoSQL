@@ -1,0 +1,31 @@
+{
+    "order_id": 276279,
+    "client_id": 1382,
+    "produits": [
+        {
+            "produit_id": "P1320",
+            "nom": "Unbranded Wooden Computer",
+            "quantite": 5,
+            "prix_unitaire": 136.04
+        },
+        {
+            "produit_id": "P8377",
+            "nom": "Practical Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 50.36
+        },
+        {
+            "produit_id": "P3984",
+            "nom": "Generic Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 131.52
+        }
+    ],
+    "date_commande": "2025-04-10T21:37:32",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1033 Malden",
+        "ville": "Flint"
+    }
+}

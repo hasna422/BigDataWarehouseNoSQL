@@ -1,0 +1,31 @@
+{
+    "order_id": 479572,
+    "client_id": 1316,
+    "produits": [
+        {
+            "produit_id": "P8287",
+            "nom": "Rustic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 382.43
+        },
+        {
+            "produit_id": "P3126",
+            "nom": "Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 341.51
+        },
+        {
+            "produit_id": "P1667",
+            "nom": "Practical Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 441.05
+        }
+    ],
+    "date_commande": "2024-07-02T16:15:26",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1002 Brooks",
+        "ville": "Oregon City"
+    }
+}

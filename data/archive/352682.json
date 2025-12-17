@@ -1,0 +1,31 @@
+{
+    "order_id": 352682,
+    "client_id": 4091,
+    "produits": [
+        {
+            "produit_id": "P2497",
+            "nom": "Rubber Computer",
+            "quantite": 1,
+            "prix_unitaire": 484.91
+        },
+        {
+            "produit_id": "P3837",
+            "nom": "Gorgeous Frozen Pants",
+            "quantite": 1,
+            "prix_unitaire": 146.94
+        },
+        {
+            "produit_id": "P8907",
+            "nom": "Rustic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 479.02
+        }
+    ],
+    "date_commande": "2025-05-11T18:06:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "996 Entrada",
+        "ville": "Goodlettsville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 322181,
+    "client_id": 5335,
+    "produits": [
+        {
+            "produit_id": "P8207",
+            "nom": "Unbranded Metal Tuna",
+            "quantite": 3,
+            "prix_unitaire": 19.01
+        },
+        {
+            "produit_id": "P3745",
+            "nom": "Handcrafted Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 481.1
+        }
+    ],
+    "date_commande": "2023-12-18T15:47:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "876 Carr",
+        "ville": "Woburn"
+    }
+}

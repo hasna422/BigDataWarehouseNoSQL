@@ -1,0 +1,19 @@
+{
+    "order_id": 442489,
+    "client_id": 5734,
+    "produits": [
+        {
+            "produit_id": "P8030",
+            "nom": "New Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 495.79
+        }
+    ],
+    "date_commande": "2023-10-22T21:00:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1323 Nordhoff",
+        "ville": "Rome"
+    }
+}

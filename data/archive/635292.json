@@ -1,0 +1,19 @@
+{
+    "order_id": 635292,
+    "client_id": 3185,
+    "produits": [
+        {
+            "produit_id": "P5806",
+            "nom": "Fantastic Steel Bacon",
+            "quantite": 1,
+            "prix_unitaire": 96.19
+        }
+    ],
+    "date_commande": "2023-12-25T03:54:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1195 Prescott",
+        "ville": "Dodge City"
+    }
+}

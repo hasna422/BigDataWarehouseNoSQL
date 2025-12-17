@@ -1,0 +1,19 @@
+{
+    "order_id": 147405,
+    "client_id": 7068,
+    "produits": [
+        {
+            "produit_id": "P1223",
+            "nom": "New Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 455.07
+        }
+    ],
+    "date_commande": "2024-07-10T22:59:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "392 Cortland",
+        "ville": "Spartanburg"
+    }
+}

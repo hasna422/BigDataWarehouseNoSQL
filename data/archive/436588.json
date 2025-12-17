@@ -1,0 +1,31 @@
+{
+    "order_id": 436588,
+    "client_id": 2285,
+    "produits": [
+        {
+            "produit_id": "P1104",
+            "nom": "Refined Soap",
+            "quantite": 5,
+            "prix_unitaire": 437.91
+        },
+        {
+            "produit_id": "P5820",
+            "nom": "Gorgeous Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 256.33
+        },
+        {
+            "produit_id": "P9787",
+            "nom": "Handmade Steel Chips",
+            "quantite": 4,
+            "prix_unitaire": 450.44
+        }
+    ],
+    "date_commande": "2023-09-10T10:44:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1343 Sloan",
+        "ville": "Douglasville"
+    }
+}

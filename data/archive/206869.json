@@ -1,0 +1,21 @@
+{
+    "order_id": 206869,
+    "client_id": 6433,
+    "produits": [
+        {
+            "produit_id": "P9262",
+            "nom": "Licensed Hat",
+            "quantite": 5,
+            "prix_unitaire": 337.27
+        },
+        {
+            "produit_id": "P7980",
+            "nom": "Generic Concrete Shirt",
+            "quantite": 2,
+            "prix_unitaire": 154.09
+        }
+    ],
+    "date_commande": "2025-05-24T16:30:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

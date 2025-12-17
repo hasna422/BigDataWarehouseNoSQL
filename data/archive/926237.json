@@ -1,0 +1,31 @@
+{
+    "order_id": 926237,
+    "client_id": 8505,
+    "produits": [
+        {
+            "produit_id": "P6270",
+            "nom": "New Cotton Ball",
+            "quantite": 5,
+            "prix_unitaire": 300.73
+        },
+        {
+            "produit_id": "P5036",
+            "nom": "Licensed Concrete Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 483.37
+        },
+        {
+            "produit_id": "P2295",
+            "nom": "Awesome Plastic Ball",
+            "quantite": 3,
+            "prix_unitaire": 258.84
+        }
+    ],
+    "date_commande": "2024-08-20T02:46:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "32 Merrill",
+        "ville": "Newnan"
+    }
+}

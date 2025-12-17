@@ -1,0 +1,31 @@
+{
+    "order_id": 366766,
+    "client_id": 8283,
+    "produits": [
+        {
+            "produit_id": "P8665",
+            "nom": "Intelligent Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 144.55
+        },
+        {
+            "produit_id": "P4173",
+            "nom": "Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 8.72
+        },
+        {
+            "produit_id": "P9847",
+            "nom": "Tasty Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 135.07
+        }
+    ],
+    "date_commande": "2025-03-29T23:56:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "215 Mark",
+        "ville": "Pascagoula"
+    }
+}

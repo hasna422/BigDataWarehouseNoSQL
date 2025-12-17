@@ -1,0 +1,19 @@
+{
+    "order_id": 676973,
+    "client_id": 3542,
+    "produits": [
+        {
+            "produit_id": "P4485",
+            "nom": "Ergonomic Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 30.52
+        }
+    ],
+    "date_commande": "2024-09-15T14:11:54",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "86 Hartford",
+        "ville": "Johnson City"
+    }
+}

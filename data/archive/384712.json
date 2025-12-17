@@ -1,0 +1,27 @@
+{
+    "order_id": 384712,
+    "client_id": 5344,
+    "produits": [
+        {
+            "produit_id": "P6093",
+            "nom": "Gently Used Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 412.77
+        },
+        {
+            "produit_id": "P5023",
+            "nom": "Used Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 276.5
+        },
+        {
+            "produit_id": "P8954",
+            "nom": "Handcrafted Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 301.5
+        }
+    ],
+    "date_commande": "2025-04-24T12:44:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

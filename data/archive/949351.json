@@ -1,0 +1,31 @@
+{
+    "order_id": 949351,
+    "client_id": 7046,
+    "produits": [
+        {
+            "produit_id": "P9880",
+            "nom": "Incredible Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 73.48
+        },
+        {
+            "produit_id": "P0104",
+            "nom": "Ergonomic Granite Chair",
+            "quantite": 3,
+            "prix_unitaire": 146.6
+        },
+        {
+            "produit_id": "P7784",
+            "nom": "For repair Plastic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 349.95
+        }
+    ],
+    "date_commande": "2024-07-26T08:00:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "369 Terrace",
+        "ville": "Lino Lakes"
+    }
+}

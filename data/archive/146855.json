@@ -1,0 +1,21 @@
+{
+    "order_id": 146855,
+    "client_id": 3705,
+    "produits": [
+        {
+            "produit_id": "P1851",
+            "nom": "Unbranded Concrete Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 227.83
+        },
+        {
+            "produit_id": "P3556",
+            "nom": "Rustic Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 136.54
+        }
+    ],
+    "date_commande": "2024-02-16T16:13:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

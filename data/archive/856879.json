@@ -1,0 +1,25 @@
+{
+    "order_id": 856879,
+    "client_id": 5960,
+    "produits": [
+        {
+            "produit_id": "P0207",
+            "nom": "Ergonomic Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 405.32
+        },
+        {
+            "produit_id": "P0085",
+            "nom": "Licensed Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 5.96
+        }
+    ],
+    "date_commande": "2023-11-05T13:30:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1386 Lyell",
+        "ville": "Mayfield Heights"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 609568,
+    "client_id": 8384,
+    "produits": [
+        {
+            "produit_id": "P2723",
+            "nom": "Concrete Pants",
+            "quantite": 1,
+            "prix_unitaire": 464.81
+        }
+    ],
+    "date_commande": "2023-06-07T07:33:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

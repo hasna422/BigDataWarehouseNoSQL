@@ -1,0 +1,15 @@
+{
+    "order_id": 545160,
+    "client_id": 5021,
+    "produits": [
+        {
+            "produit_id": "P2287",
+            "nom": "Licensed Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 364.25
+        }
+    ],
+    "date_commande": "2024-05-27T11:20:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

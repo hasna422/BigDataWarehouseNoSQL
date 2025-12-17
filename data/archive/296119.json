@@ -1,0 +1,15 @@
+{
+    "order_id": 296119,
+    "client_id": 7574,
+    "produits": [
+        {
+            "produit_id": "P6682",
+            "nom": "Intelligent Table",
+            "quantite": 4,
+            "prix_unitaire": 112.92
+        }
+    ],
+    "date_commande": "2024-12-16T19:36:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

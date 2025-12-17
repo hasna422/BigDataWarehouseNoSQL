@@ -1,0 +1,27 @@
+{
+    "order_id": 159200,
+    "client_id": 4803,
+    "produits": [
+        {
+            "produit_id": "P5809",
+            "nom": "For repair Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 464.08
+        },
+        {
+            "produit_id": "P4182",
+            "nom": "Intelligent Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 356.61
+        },
+        {
+            "produit_id": "P2262",
+            "nom": "Refined Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 244.01
+        }
+    ],
+    "date_commande": "2024-06-24T01:26:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

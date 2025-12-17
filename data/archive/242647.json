@@ -1,0 +1,19 @@
+{
+    "order_id": 242647,
+    "client_id": 7477,
+    "produits": [
+        {
+            "produit_id": "P9977",
+            "nom": "Unbranded Fresh Salad",
+            "quantite": 4,
+            "prix_unitaire": 278.37
+        }
+    ],
+    "date_commande": "2025-01-14T10:09:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1281 Valley",
+        "ville": "Elmira"
+    }
+}

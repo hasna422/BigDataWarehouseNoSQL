@@ -1,0 +1,19 @@
+{
+    "order_id": 856532,
+    "client_id": 8147,
+    "produits": [
+        {
+            "produit_id": "P5053",
+            "nom": "Ergonomic Soft Mouse",
+            "quantite": 4,
+            "prix_unitaire": 64.01
+        }
+    ],
+    "date_commande": "2024-04-27T14:10:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "254 Keyes",
+        "ville": "Gaithersburg"
+    }
+}

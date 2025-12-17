@@ -1,0 +1,21 @@
+{
+    "order_id": 925087,
+    "client_id": 2769,
+    "produits": [
+        {
+            "produit_id": "P6542",
+            "nom": "Awesome Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 255.02
+        },
+        {
+            "produit_id": "P8502",
+            "nom": "Refined Rubber Towels",
+            "quantite": 4,
+            "prix_unitaire": 12.16
+        }
+    ],
+    "date_commande": "2024-05-24T10:35:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 180135,
+    "client_id": 1717,
+    "produits": [
+        {
+            "produit_id": "P3023",
+            "nom": "Practical Metal Chips",
+            "quantite": 1,
+            "prix_unitaire": 45.3
+        }
+    ],
+    "date_commande": "2024-12-04T07:45:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "188 Riverton",
+        "ville": "Waukesha"
+    }
+}

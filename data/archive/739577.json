@@ -1,0 +1,21 @@
+{
+    "order_id": 739577,
+    "client_id": 7399,
+    "produits": [
+        {
+            "produit_id": "P6886",
+            "nom": "Intelligent Granite Shirt",
+            "quantite": 3,
+            "prix_unitaire": 457.19
+        },
+        {
+            "produit_id": "P9734",
+            "nom": "Fantastic Plastic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 236.4
+        }
+    ],
+    "date_commande": "2024-10-27T16:00:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

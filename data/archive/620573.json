@@ -1,0 +1,25 @@
+{
+    "order_id": 620573,
+    "client_id": 6179,
+    "produits": [
+        {
+            "produit_id": "P9856",
+            "nom": "Incredible Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 222.93
+        },
+        {
+            "produit_id": "P9388",
+            "nom": "Generic Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 40.89
+        }
+    ],
+    "date_commande": "2024-11-08T14:39:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "374 Aladdin",
+        "ville": "Albertville"
+    }
+}

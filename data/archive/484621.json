@@ -1,0 +1,19 @@
+{
+    "order_id": 484621,
+    "client_id": 6218,
+    "produits": [
+        {
+            "produit_id": "P9213",
+            "nom": "Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 481.92
+        }
+    ],
+    "date_commande": "2024-08-08T02:02:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "400 Milton",
+        "ville": "La Puente"
+    }
+}

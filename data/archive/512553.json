@@ -1,0 +1,31 @@
+{
+    "order_id": 512553,
+    "client_id": 3295,
+    "produits": [
+        {
+            "produit_id": "P1954",
+            "nom": "Handcrafted Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 193.38
+        },
+        {
+            "produit_id": "P8553",
+            "nom": "Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 168.88
+        },
+        {
+            "produit_id": "P0161",
+            "nom": "Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 74.88
+        }
+    ],
+    "date_commande": "2023-08-23T03:24:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "814 Greenview",
+        "ville": "New Braunfels"
+    }
+}

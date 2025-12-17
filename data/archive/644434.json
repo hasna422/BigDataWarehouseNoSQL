@@ -1,0 +1,25 @@
+{
+    "order_id": 644434,
+    "client_id": 6998,
+    "produits": [
+        {
+            "produit_id": "P9447",
+            "nom": "Tasty Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 270.47
+        },
+        {
+            "produit_id": "P6577",
+            "nom": "Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 366.0
+        }
+    ],
+    "date_commande": "2024-07-17T09:32:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "858 Ardath",
+        "ville": "Canton"
+    }
+}

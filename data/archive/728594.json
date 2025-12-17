@@ -1,0 +1,19 @@
+{
+    "order_id": 728594,
+    "client_id": 8102,
+    "produits": [
+        {
+            "produit_id": "P5301",
+            "nom": "Fantastic Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 50.1
+        }
+    ],
+    "date_commande": "2024-07-01T18:07:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1059 Martinez",
+        "ville": "Omaha"
+    }
+}

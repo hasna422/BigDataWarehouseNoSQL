@@ -1,0 +1,19 @@
+{
+    "order_id": 280692,
+    "client_id": 6219,
+    "produits": [
+        {
+            "produit_id": "P5606",
+            "nom": "Handmade Concrete Car",
+            "quantite": 4,
+            "prix_unitaire": 468.78
+        }
+    ],
+    "date_commande": "2025-02-09T10:17:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1320 Rivera",
+        "ville": "Goose Creek"
+    }
+}

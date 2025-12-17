@@ -1,0 +1,27 @@
+{
+    "order_id": 987465,
+    "client_id": 7102,
+    "produits": [
+        {
+            "produit_id": "P2533",
+            "nom": "Used Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 468.08
+        },
+        {
+            "produit_id": "P8841",
+            "nom": "Unbranded Granite Ball",
+            "quantite": 4,
+            "prix_unitaire": 140.55
+        },
+        {
+            "produit_id": "P8821",
+            "nom": "Generic Granite Bacon",
+            "quantite": 2,
+            "prix_unitaire": 262.71
+        }
+    ],
+    "date_commande": "2024-05-28T07:27:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 446753,
+    "client_id": 6119,
+    "produits": [
+        {
+            "produit_id": "P0604",
+            "nom": "Refined Fresh Chair",
+            "quantite": 3,
+            "prix_unitaire": 446.92
+        },
+        {
+            "produit_id": "P3430",
+            "nom": "Intelligent Fresh Table",
+            "quantite": 3,
+            "prix_unitaire": 68.87
+        },
+        {
+            "produit_id": "P1657",
+            "nom": "Used Rubber Cheese",
+            "quantite": 1,
+            "prix_unitaire": 308.73
+        }
+    ],
+    "date_commande": "2024-11-19T23:59:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

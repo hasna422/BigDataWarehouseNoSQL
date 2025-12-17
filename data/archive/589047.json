@@ -1,0 +1,25 @@
+{
+    "order_id": 589047,
+    "client_id": 8532,
+    "produits": [
+        {
+            "produit_id": "P5288",
+            "nom": "Unbranded Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 114.68
+        },
+        {
+            "produit_id": "P9313",
+            "nom": "For repair Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 37.21
+        }
+    ],
+    "date_commande": "2025-01-12T09:18:56",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "254 Rankin",
+        "ville": "Champaign"
+    }
+}

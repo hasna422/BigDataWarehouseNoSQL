@@ -1,0 +1,31 @@
+{
+    "order_id": 274333,
+    "client_id": 7069,
+    "produits": [
+        {
+            "produit_id": "P4320",
+            "nom": "Intelligent Chicken",
+            "quantite": 5,
+            "prix_unitaire": 362.05
+        },
+        {
+            "produit_id": "P0246",
+            "nom": "Gently Used Steel Computer",
+            "quantite": 1,
+            "prix_unitaire": 374.97
+        },
+        {
+            "produit_id": "P8871",
+            "nom": "For repair Sausages",
+            "quantite": 1,
+            "prix_unitaire": 58.57
+        }
+    ],
+    "date_commande": "2024-11-20T00:11:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "17 Cayuga",
+        "ville": "Rancho Mirage"
+    }
+}

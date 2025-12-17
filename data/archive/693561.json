@@ -1,0 +1,25 @@
+{
+    "order_id": 693561,
+    "client_id": 1889,
+    "produits": [
+        {
+            "produit_id": "P5095",
+            "nom": "Practical Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 223.66
+        },
+        {
+            "produit_id": "P9828",
+            "nom": "Awesome Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 252.98
+        }
+    ],
+    "date_commande": "2025-04-17T23:25:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "468 Beachmont",
+        "ville": "Twin Falls"
+    }
+}

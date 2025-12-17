@@ -1,0 +1,31 @@
+{
+    "order_id": 261272,
+    "client_id": 5277,
+    "produits": [
+        {
+            "produit_id": "P9852",
+            "nom": "Generic Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 461.56
+        },
+        {
+            "produit_id": "P8627",
+            "nom": "Awesome Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 116.37
+        },
+        {
+            "produit_id": "P8167",
+            "nom": "Generic Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 382.55
+        }
+    ],
+    "date_commande": "2024-03-18T09:08:20",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "367 Inverness",
+        "ville": "Syracuse"
+    }
+}

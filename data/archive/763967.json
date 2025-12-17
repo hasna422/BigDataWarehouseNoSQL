@@ -1,0 +1,27 @@
+{
+    "order_id": 763967,
+    "client_id": 9480,
+    "produits": [
+        {
+            "produit_id": "P5883",
+            "nom": "Handmade Metal Chicken",
+            "quantite": 4,
+            "prix_unitaire": 55.64
+        },
+        {
+            "produit_id": "P1180",
+            "nom": "New Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 232.66
+        },
+        {
+            "produit_id": "P1016",
+            "nom": "Unbranded Frozen Pizza",
+            "quantite": 5,
+            "prix_unitaire": 442.46
+        }
+    ],
+    "date_commande": "2023-11-15T17:58:02",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

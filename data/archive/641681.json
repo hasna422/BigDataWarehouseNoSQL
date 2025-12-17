@@ -1,0 +1,25 @@
+{
+    "order_id": 641681,
+    "client_id": 3027,
+    "produits": [
+        {
+            "produit_id": "P0145",
+            "nom": "For repair Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 252.99
+        },
+        {
+            "produit_id": "P8137",
+            "nom": "Tasty Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 180.46
+        }
+    ],
+    "date_commande": "2025-03-30T00:26:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "555 Tillman",
+        "ville": "Altamonte Springs"
+    }
+}

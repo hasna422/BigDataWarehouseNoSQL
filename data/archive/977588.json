@@ -1,0 +1,15 @@
+{
+    "order_id": 977588,
+    "client_id": 5795,
+    "produits": [
+        {
+            "produit_id": "P8090",
+            "nom": "Licensed Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 243.43
+        }
+    ],
+    "date_commande": "2024-07-28T04:30:08",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

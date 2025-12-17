@@ -1,0 +1,19 @@
+{
+    "order_id": 914034,
+    "client_id": 8648,
+    "produits": [
+        {
+            "produit_id": "P9326",
+            "nom": "Rustic Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 488.18
+        }
+    ],
+    "date_commande": "2024-02-06T09:55:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1207 Dearborn",
+        "ville": "Ferguson"
+    }
+}

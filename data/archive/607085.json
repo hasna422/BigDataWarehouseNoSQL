@@ -1,0 +1,31 @@
+{
+    "order_id": 607085,
+    "client_id": 8154,
+    "produits": [
+        {
+            "produit_id": "P4735",
+            "nom": "Refined Frozen Table",
+            "quantite": 5,
+            "prix_unitaire": 415.05
+        },
+        {
+            "produit_id": "P6780",
+            "nom": "Unbranded Concrete Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 148.61
+        },
+        {
+            "produit_id": "P1488",
+            "nom": "Small Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 96.75
+        }
+    ],
+    "date_commande": "2024-10-26T10:56:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "290 Hillview",
+        "ville": "Stephenville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 532524,
+    "client_id": 3071,
+    "produits": [
+        {
+            "produit_id": "P4356",
+            "nom": "Used Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 46.13
+        },
+        {
+            "produit_id": "P9820",
+            "nom": "Intelligent Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 113.22
+        }
+    ],
+    "date_commande": "2025-05-20T19:13:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1301 Commercial",
+        "ville": "Tahlequah"
+    }
+}

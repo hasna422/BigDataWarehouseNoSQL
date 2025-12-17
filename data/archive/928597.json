@@ -1,0 +1,19 @@
+{
+    "order_id": 928597,
+    "client_id": 2837,
+    "produits": [
+        {
+            "produit_id": "P3319",
+            "nom": "Incredible Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 390.03
+        }
+    ],
+    "date_commande": "2025-02-23T21:48:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "82 Benton",
+        "ville": "Redondo Beach"
+    }
+}

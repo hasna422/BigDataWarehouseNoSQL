@@ -1,0 +1,15 @@
+{
+    "order_id": 294507,
+    "client_id": 3688,
+    "produits": [
+        {
+            "produit_id": "P5524",
+            "nom": "Rustic Wooden Computer",
+            "quantite": 4,
+            "prix_unitaire": 442.12
+        }
+    ],
+    "date_commande": "2023-06-11T02:38:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

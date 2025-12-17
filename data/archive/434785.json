@@ -1,0 +1,31 @@
+{
+    "order_id": 434785,
+    "client_id": 7383,
+    "produits": [
+        {
+            "produit_id": "P5291",
+            "nom": "For repair Metal Salad",
+            "quantite": 2,
+            "prix_unitaire": 95.76
+        },
+        {
+            "produit_id": "P7051",
+            "nom": "Intelligent Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 437.75
+        },
+        {
+            "produit_id": "P1946",
+            "nom": "Used Frozen Hat",
+            "quantite": 3,
+            "prix_unitaire": 182.05
+        }
+    ],
+    "date_commande": "2024-07-24T01:59:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "666 Jack Kerouac",
+        "ville": "Warner Robins"
+    }
+}

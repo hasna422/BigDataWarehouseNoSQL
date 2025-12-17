@@ -1,0 +1,27 @@
+{
+    "order_id": 744577,
+    "client_id": 4058,
+    "produits": [
+        {
+            "produit_id": "P2687",
+            "nom": "Rustic Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 137.47
+        },
+        {
+            "produit_id": "P4341",
+            "nom": "Handcrafted Bacon",
+            "quantite": 4,
+            "prix_unitaire": 252.96
+        },
+        {
+            "produit_id": "P3986",
+            "nom": "Fantastic Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 475.75
+        }
+    ],
+    "date_commande": "2024-03-31T21:42:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

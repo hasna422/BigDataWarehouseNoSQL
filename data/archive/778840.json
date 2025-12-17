@@ -1,0 +1,25 @@
+{
+    "order_id": 778840,
+    "client_id": 1747,
+    "produits": [
+        {
+            "produit_id": "P1996",
+            "nom": "Awesome Rubber Ball",
+            "quantite": 1,
+            "prix_unitaire": 76.62
+        },
+        {
+            "produit_id": "P1263",
+            "nom": "Tasty Gloves",
+            "quantite": 4,
+            "prix_unitaire": 464.56
+        }
+    ],
+    "date_commande": "2024-05-16T13:07:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "304 Ottawa",
+        "ville": "Hinsdale"
+    }
+}

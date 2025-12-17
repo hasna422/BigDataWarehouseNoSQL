@@ -1,0 +1,25 @@
+{
+    "order_id": 669876,
+    "client_id": 7407,
+    "produits": [
+        {
+            "produit_id": "P5779",
+            "nom": "Generic Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 207.82
+        },
+        {
+            "produit_id": "P0144",
+            "nom": "Generic Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 263.04
+        }
+    ],
+    "date_commande": "2025-01-22T10:53:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1056 Bertita",
+        "ville": "Lake Forest"
+    }
+}

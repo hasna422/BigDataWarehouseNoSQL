@@ -1,0 +1,21 @@
+{
+    "order_id": 959388,
+    "client_id": 1634,
+    "produits": [
+        {
+            "produit_id": "P7321",
+            "nom": "Gorgeous Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 419.32
+        },
+        {
+            "produit_id": "P5615",
+            "nom": "Gently Used Tuna",
+            "quantite": 2,
+            "prix_unitaire": 66.04
+        }
+    ],
+    "date_commande": "2024-04-22T17:11:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

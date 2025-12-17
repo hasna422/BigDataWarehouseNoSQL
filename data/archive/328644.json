@@ -1,0 +1,31 @@
+{
+    "order_id": 328644,
+    "client_id": 6405,
+    "produits": [
+        {
+            "produit_id": "P4003",
+            "nom": "For repair Plastic Table",
+            "quantite": 4,
+            "prix_unitaire": 37.83
+        },
+        {
+            "produit_id": "P6253",
+            "nom": "Intelligent Frozen Shirt",
+            "quantite": 3,
+            "prix_unitaire": 227.02
+        },
+        {
+            "produit_id": "P2083",
+            "nom": "Small Granite Pizza",
+            "quantite": 5,
+            "prix_unitaire": 9.49
+        }
+    ],
+    "date_commande": "2023-05-30T15:25:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1112 Woodhaven",
+        "ville": "Yorkville"
+    }
+}

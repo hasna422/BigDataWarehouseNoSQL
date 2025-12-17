@@ -1,0 +1,15 @@
+{
+    "order_id": 503952,
+    "client_id": 3529,
+    "produits": [
+        {
+            "produit_id": "P2018",
+            "nom": "Tasty Wooden Bacon",
+            "quantite": 1,
+            "prix_unitaire": 200.46
+        }
+    ],
+    "date_commande": "2025-04-24T11:48:28",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

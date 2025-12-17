@@ -1,0 +1,25 @@
+{
+    "order_id": 485903,
+    "client_id": 2942,
+    "produits": [
+        {
+            "produit_id": "P2097",
+            "nom": "Generic Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 106.61
+        },
+        {
+            "produit_id": "P7712",
+            "nom": "Tasty Bike",
+            "quantite": 2,
+            "prix_unitaire": 360.38
+        }
+    ],
+    "date_commande": "2024-04-03T09:53:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "279 Catherine",
+        "ville": "Orem"
+    }
+}

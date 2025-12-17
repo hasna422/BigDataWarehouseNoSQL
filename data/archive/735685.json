@@ -1,0 +1,19 @@
+{
+    "order_id": 735685,
+    "client_id": 1042,
+    "produits": [
+        {
+            "produit_id": "P6509",
+            "nom": "Gently Used Wooden Car",
+            "quantite": 3,
+            "prix_unitaire": 144.23
+        }
+    ],
+    "date_commande": "2025-04-13T23:37:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "715 Osceola",
+        "ville": "Blacksburg"
+    }
+}

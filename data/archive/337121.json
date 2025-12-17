@@ -1,0 +1,25 @@
+{
+    "order_id": 337121,
+    "client_id": 5850,
+    "produits": [
+        {
+            "produit_id": "P4340",
+            "nom": "Incredible Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 220.22
+        },
+        {
+            "produit_id": "P3756",
+            "nom": "Gorgeous Granite Salad",
+            "quantite": 2,
+            "prix_unitaire": 160.3
+        }
+    ],
+    "date_commande": "2024-04-08T09:22:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "96 Marietta",
+        "ville": "Del City"
+    }
+}

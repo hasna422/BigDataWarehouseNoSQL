@@ -1,0 +1,31 @@
+{
+    "order_id": 675634,
+    "client_id": 3111,
+    "produits": [
+        {
+            "produit_id": "P3971",
+            "nom": "Small Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 220.37
+        },
+        {
+            "produit_id": "P4639",
+            "nom": "New Soft Ball",
+            "quantite": 1,
+            "prix_unitaire": 214.47
+        },
+        {
+            "produit_id": "P2901",
+            "nom": "Licensed Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 223.13
+        }
+    ],
+    "date_commande": "2024-09-02T07:06:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "701 Joy",
+        "ville": "Sherwood"
+    }
+}

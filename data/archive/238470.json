@@ -1,0 +1,19 @@
+{
+    "order_id": 238470,
+    "client_id": 2380,
+    "produits": [
+        {
+            "produit_id": "P2367",
+            "nom": "Intelligent Rubber Pants",
+            "quantite": 5,
+            "prix_unitaire": 214.57
+        }
+    ],
+    "date_commande": "2024-10-11T18:16:18",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "789 Annie",
+        "ville": "Carpentersville"
+    }
+}

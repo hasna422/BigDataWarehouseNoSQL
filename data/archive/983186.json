@@ -1,0 +1,15 @@
+{
+    "order_id": 983186,
+    "client_id": 8404,
+    "produits": [
+        {
+            "produit_id": "P6695",
+            "nom": "Tasty Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 493.54
+        }
+    ],
+    "date_commande": "2024-09-06T18:12:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

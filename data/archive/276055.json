@@ -1,0 +1,21 @@
+{
+    "order_id": 276055,
+    "client_id": 5497,
+    "produits": [
+        {
+            "produit_id": "P5222",
+            "nom": "Ergonomic Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 256.79
+        },
+        {
+            "produit_id": "P7603",
+            "nom": "For repair Cotton Table",
+            "quantite": 2,
+            "prix_unitaire": 357.4
+        }
+    ],
+    "date_commande": "2025-04-21T14:48:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

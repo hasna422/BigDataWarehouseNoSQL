@@ -1,0 +1,27 @@
+{
+    "order_id": 748255,
+    "client_id": 6460,
+    "produits": [
+        {
+            "produit_id": "P4964",
+            "nom": "Licensed Cotton Salad",
+            "quantite": 2,
+            "prix_unitaire": 373.36
+        },
+        {
+            "produit_id": "P1275",
+            "nom": "Awesome Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 112.7
+        },
+        {
+            "produit_id": "P3087",
+            "nom": "Sleek Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 412.09
+        }
+    ],
+    "date_commande": "2024-03-17T21:27:19",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

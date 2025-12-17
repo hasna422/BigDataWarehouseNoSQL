@@ -1,0 +1,25 @@
+{
+    "order_id": 235829,
+    "client_id": 2878,
+    "produits": [
+        {
+            "produit_id": "P6564",
+            "nom": "Fantastic Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 141.19
+        },
+        {
+            "produit_id": "P8782",
+            "nom": "Intelligent Granite Computer",
+            "quantite": 1,
+            "prix_unitaire": 433.9
+        }
+    ],
+    "date_commande": "2025-02-14T22:16:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "71 Harry",
+        "ville": "Berwyn"
+    }
+}

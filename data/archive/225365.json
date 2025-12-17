@@ -1,0 +1,31 @@
+{
+    "order_id": 225365,
+    "client_id": 8523,
+    "produits": [
+        {
+            "produit_id": "P4538",
+            "nom": "For repair Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 85.92
+        },
+        {
+            "produit_id": "P0885",
+            "nom": "For repair Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 462.66
+        },
+        {
+            "produit_id": "P8986",
+            "nom": "Licensed Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 248.38
+        }
+    ],
+    "date_commande": "2023-09-01T09:34:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "822 Garnett",
+        "ville": "Moraga"
+    }
+}

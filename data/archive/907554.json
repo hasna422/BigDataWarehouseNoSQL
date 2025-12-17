@@ -1,0 +1,15 @@
+{
+    "order_id": 907554,
+    "client_id": 2738,
+    "produits": [
+        {
+            "produit_id": "P0905",
+            "nom": "Small Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 106.58
+        }
+    ],
+    "date_commande": "2024-01-19T20:09:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

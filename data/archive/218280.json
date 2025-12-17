@@ -1,0 +1,15 @@
+{
+    "order_id": 218280,
+    "client_id": 1811,
+    "produits": [
+        {
+            "produit_id": "P5202",
+            "nom": "Awesome Steel Mouse",
+            "quantite": 3,
+            "prix_unitaire": 270.48
+        }
+    ],
+    "date_commande": "2024-07-26T05:34:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

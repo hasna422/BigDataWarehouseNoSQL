@@ -1,0 +1,15 @@
+{
+    "order_id": 460530,
+    "client_id": 5209,
+    "produits": [
+        {
+            "produit_id": "P7318",
+            "nom": "Fresh Table",
+            "quantite": 2,
+            "prix_unitaire": 260.79
+        }
+    ],
+    "date_commande": "2023-10-31T05:57:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

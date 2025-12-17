@@ -1,0 +1,19 @@
+{
+    "order_id": 204681,
+    "client_id": 7611,
+    "produits": [
+        {
+            "produit_id": "P8967",
+            "nom": "Small Cotton Pants",
+            "quantite": 2,
+            "prix_unitaire": 373.24
+        }
+    ],
+    "date_commande": "2023-07-07T02:56:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "649 Saint George",
+        "ville": "Spanish Fork"
+    }
+}

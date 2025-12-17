@@ -1,0 +1,15 @@
+{
+    "order_id": 283597,
+    "client_id": 6729,
+    "produits": [
+        {
+            "produit_id": "P6069",
+            "nom": "Tasty Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 227.79
+        }
+    ],
+    "date_commande": "2024-11-26T01:00:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

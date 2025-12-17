@@ -1,0 +1,19 @@
+{
+    "order_id": 510159,
+    "client_id": 1489,
+    "produits": [
+        {
+            "produit_id": "P9825",
+            "nom": "Fantastic Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 397.68
+        }
+    ],
+    "date_commande": "2024-08-15T04:47:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1294 Sumner",
+        "ville": "Universal City"
+    }
+}

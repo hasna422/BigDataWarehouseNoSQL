@@ -1,0 +1,31 @@
+{
+    "order_id": 124213,
+    "client_id": 8579,
+    "produits": [
+        {
+            "produit_id": "P8988",
+            "nom": "New Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 217.18
+        },
+        {
+            "produit_id": "P0134",
+            "nom": "Ergonomic Steel Bike",
+            "quantite": 2,
+            "prix_unitaire": 147.28
+        },
+        {
+            "produit_id": "P1801",
+            "nom": "Refined Hat",
+            "quantite": 5,
+            "prix_unitaire": 108.32
+        }
+    ],
+    "date_commande": "2023-11-03T22:31:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "21 Telegraph",
+        "ville": "St. Cloud"
+    }
+}

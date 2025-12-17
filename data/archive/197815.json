@@ -1,0 +1,25 @@
+{
+    "order_id": 197815,
+    "client_id": 3650,
+    "produits": [
+        {
+            "produit_id": "P3471",
+            "nom": "Sleek Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 399.52
+        },
+        {
+            "produit_id": "P6493",
+            "nom": "New Rubber Pants",
+            "quantite": 1,
+            "prix_unitaire": 132.21
+        }
+    ],
+    "date_commande": "2024-02-27T23:02:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "397 Elk",
+        "ville": "Danville"
+    }
+}

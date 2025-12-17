@@ -1,0 +1,15 @@
+{
+    "order_id": 135377,
+    "client_id": 9234,
+    "produits": [
+        {
+            "produit_id": "P4782",
+            "nom": "Used Concrete Computer",
+            "quantite": 3,
+            "prix_unitaire": 206.09
+        }
+    ],
+    "date_commande": "2024-02-18T05:00:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

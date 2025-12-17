@@ -1,0 +1,31 @@
+{
+    "order_id": 752062,
+    "client_id": 6727,
+    "produits": [
+        {
+            "produit_id": "P4022",
+            "nom": "Handcrafted Cheese",
+            "quantite": 4,
+            "prix_unitaire": 405.89
+        },
+        {
+            "produit_id": "P9892",
+            "nom": "Handmade Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 158.81
+        },
+        {
+            "produit_id": "P5754",
+            "nom": "Licensed Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 98.37
+        }
+    ],
+    "date_commande": "2025-04-06T10:58:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1312 Clay",
+        "ville": "Snellville"
+    }
+}

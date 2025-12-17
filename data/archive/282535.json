@@ -1,0 +1,25 @@
+{
+    "order_id": 282535,
+    "client_id": 8873,
+    "produits": [
+        {
+            "produit_id": "P9360",
+            "nom": "Fish",
+            "quantite": 2,
+            "prix_unitaire": 107.09
+        },
+        {
+            "produit_id": "P2016",
+            "nom": "Awesome Metal Shirt",
+            "quantite": 1,
+            "prix_unitaire": 469.24
+        }
+    ],
+    "date_commande": "2023-07-23T07:48:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "102 Livingston",
+        "ville": "Sidney"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 851474,
+    "client_id": 1925,
+    "produits": [
+        {
+            "produit_id": "P8917",
+            "nom": "Rustic Frozen Mouse",
+            "quantite": 2,
+            "prix_unitaire": 189.83
+        },
+        {
+            "produit_id": "P7069",
+            "nom": "Unbranded Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 26.35
+        },
+        {
+            "produit_id": "P5602",
+            "nom": "Tasty Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 432.86
+        }
+    ],
+    "date_commande": "2024-02-26T21:20:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "631 Worcester",
+        "ville": "Naperville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 650741,
+    "client_id": 5199,
+    "produits": [
+        {
+            "produit_id": "P1368",
+            "nom": "Handmade Hat",
+            "quantite": 2,
+            "prix_unitaire": 447.54
+        },
+        {
+            "produit_id": "P0866",
+            "nom": "For repair Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 108.35
+        }
+    ],
+    "date_commande": "2024-11-01T22:18:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "788 Norton",
+        "ville": "Corpus Christi"
+    }
+}

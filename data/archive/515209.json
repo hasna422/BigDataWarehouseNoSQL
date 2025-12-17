@@ -1,0 +1,25 @@
+{
+    "order_id": 515209,
+    "client_id": 7056,
+    "produits": [
+        {
+            "produit_id": "P9914",
+            "nom": "Concrete Sausages",
+            "quantite": 4,
+            "prix_unitaire": 489.3
+        },
+        {
+            "produit_id": "P8639",
+            "nom": "Rustic Metal Fish",
+            "quantite": 4,
+            "prix_unitaire": 130.06
+        }
+    ],
+    "date_commande": "2023-12-02T01:53:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1102 Tulane",
+        "ville": "Redondo Beach"
+    }
+}

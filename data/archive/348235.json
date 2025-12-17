@@ -1,0 +1,21 @@
+{
+    "order_id": 348235,
+    "client_id": 2399,
+    "produits": [
+        {
+            "produit_id": "P8264",
+            "nom": "Rustic Wooden Car",
+            "quantite": 3,
+            "prix_unitaire": 172.47
+        },
+        {
+            "produit_id": "P4014",
+            "nom": "Refined Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 233.4
+        }
+    ],
+    "date_commande": "2025-02-15T04:42:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

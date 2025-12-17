@@ -1,0 +1,15 @@
+{
+    "order_id": 900852,
+    "client_id": 1031,
+    "produits": [
+        {
+            "produit_id": "P2022",
+            "nom": "Gently Used Concrete Salad",
+            "quantite": 1,
+            "prix_unitaire": 319.66
+        }
+    ],
+    "date_commande": "2024-08-24T06:26:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

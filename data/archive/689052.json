@@ -1,0 +1,21 @@
+{
+    "order_id": 689052,
+    "client_id": 2995,
+    "produits": [
+        {
+            "produit_id": "P7435",
+            "nom": "Gently Used Plastic Computer",
+            "quantite": 3,
+            "prix_unitaire": 245.62
+        },
+        {
+            "produit_id": "P3495",
+            "nom": "Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 245.37
+        }
+    ],
+    "date_commande": "2025-04-01T12:49:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 184153,
+    "client_id": 2747,
+    "produits": [
+        {
+            "produit_id": "P1401",
+            "nom": "Tasty Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 146.64
+        }
+    ],
+    "date_commande": "2024-05-31T21:46:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "62 Ralston",
+        "ville": "Edina"
+    }
+}

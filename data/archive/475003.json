@@ -1,0 +1,19 @@
+{
+    "order_id": 475003,
+    "client_id": 4749,
+    "produits": [
+        {
+            "produit_id": "P0294",
+            "nom": "Generic Granite Bike",
+            "quantite": 5,
+            "prix_unitaire": 406.22
+        }
+    ],
+    "date_commande": "2024-03-27T01:52:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1295 Capen",
+        "ville": "Cambridge"
+    }
+}

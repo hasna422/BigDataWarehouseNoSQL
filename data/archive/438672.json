@@ -1,0 +1,27 @@
+{
+    "order_id": 438672,
+    "client_id": 3555,
+    "produits": [
+        {
+            "produit_id": "P2725",
+            "nom": "Licensed Soft Car",
+            "quantite": 3,
+            "prix_unitaire": 15.72
+        },
+        {
+            "produit_id": "P9017",
+            "nom": "Refined Frozen Tuna",
+            "quantite": 3,
+            "prix_unitaire": 419.81
+        },
+        {
+            "produit_id": "P1046",
+            "nom": "Generic Concrete Car",
+            "quantite": 2,
+            "prix_unitaire": 250.57
+        }
+    ],
+    "date_commande": "2023-11-25T16:28:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

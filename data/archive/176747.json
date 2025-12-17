@@ -1,0 +1,21 @@
+{
+    "order_id": 176747,
+    "client_id": 8545,
+    "produits": [
+        {
+            "produit_id": "P7878",
+            "nom": "For repair Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 300.2
+        },
+        {
+            "produit_id": "P2667",
+            "nom": "Rustic Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 210.52
+        }
+    ],
+    "date_commande": "2024-09-19T04:50:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

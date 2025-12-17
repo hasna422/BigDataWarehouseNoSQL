@@ -1,0 +1,25 @@
+{
+    "order_id": 851587,
+    "client_id": 7182,
+    "produits": [
+        {
+            "produit_id": "P7594",
+            "nom": "Incredible Shoes",
+            "quantite": 5,
+            "prix_unitaire": 254.36
+        },
+        {
+            "produit_id": "P7392",
+            "nom": "Rustic Chair",
+            "quantite": 5,
+            "prix_unitaire": 328.52
+        }
+    ],
+    "date_commande": "2024-12-05T16:03:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1113 Paraiso",
+        "ville": "Deerfield Beach"
+    }
+}

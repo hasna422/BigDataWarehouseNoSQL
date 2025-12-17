@@ -1,0 +1,15 @@
+{
+    "order_id": 894839,
+    "client_id": 6382,
+    "produits": [
+        {
+            "produit_id": "P2929",
+            "nom": "Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 430.29
+        }
+    ],
+    "date_commande": "2023-08-05T02:58:21",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

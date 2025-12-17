@@ -1,0 +1,31 @@
+{
+    "order_id": 607145,
+    "client_id": 4183,
+    "produits": [
+        {
+            "produit_id": "P9042",
+            "nom": "Fresh Pizza",
+            "quantite": 1,
+            "prix_unitaire": 63.25
+        },
+        {
+            "produit_id": "P3429",
+            "nom": "Plastic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 61.05
+        },
+        {
+            "produit_id": "P0484",
+            "nom": "Fresh Cheese",
+            "quantite": 5,
+            "prix_unitaire": 396.43
+        }
+    ],
+    "date_commande": "2023-06-05T19:25:34",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "924 Langton",
+        "ville": "Azusa"
+    }
+}

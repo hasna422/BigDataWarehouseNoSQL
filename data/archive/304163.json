@@ -1,0 +1,19 @@
+{
+    "order_id": 304163,
+    "client_id": 5890,
+    "produits": [
+        {
+            "produit_id": "P9716",
+            "nom": "Small Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 324.73
+        }
+    ],
+    "date_commande": "2024-01-18T21:41:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "383 Elliot",
+        "ville": "Manitowoc"
+    }
+}

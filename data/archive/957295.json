@@ -1,0 +1,19 @@
+{
+    "order_id": 957295,
+    "client_id": 8316,
+    "produits": [
+        {
+            "produit_id": "P0405",
+            "nom": "Tasty Cotton Towels",
+            "quantite": 3,
+            "prix_unitaire": 346.31
+        }
+    ],
+    "date_commande": "2025-03-11T06:22:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "420 Cornwall",
+        "ville": "Puyallup"
+    }
+}

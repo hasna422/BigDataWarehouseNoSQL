@@ -1,0 +1,19 @@
+{
+    "order_id": 430826,
+    "client_id": 7924,
+    "produits": [
+        {
+            "produit_id": "P0791",
+            "nom": "Gorgeous Gloves",
+            "quantite": 1,
+            "prix_unitaire": 344.94
+        }
+    ],
+    "date_commande": "2025-02-21T19:24:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "986 Restani",
+        "ville": "Leander"
+    }
+}

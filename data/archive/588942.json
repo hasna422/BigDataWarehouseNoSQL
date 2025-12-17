@@ -1,0 +1,31 @@
+{
+    "order_id": 588942,
+    "client_id": 5598,
+    "produits": [
+        {
+            "produit_id": "P5640",
+            "nom": "Ergonomic Soft Soap",
+            "quantite": 4,
+            "prix_unitaire": 33.61
+        },
+        {
+            "produit_id": "P1953",
+            "nom": "Awesome Chicken",
+            "quantite": 2,
+            "prix_unitaire": 297.48
+        },
+        {
+            "produit_id": "P5057",
+            "nom": "New Chicken",
+            "quantite": 1,
+            "prix_unitaire": 136.57
+        }
+    ],
+    "date_commande": "2024-04-12T01:25:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "944 Alma",
+        "ville": "Taylorsville"
+    }
+}

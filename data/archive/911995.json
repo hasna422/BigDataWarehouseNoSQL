@@ -1,0 +1,15 @@
+{
+    "order_id": 911995,
+    "client_id": 8223,
+    "produits": [
+        {
+            "produit_id": "P6962",
+            "nom": "Ergonomic Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 98.62
+        }
+    ],
+    "date_commande": "2025-05-01T03:51:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

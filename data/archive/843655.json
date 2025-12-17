@@ -1,0 +1,21 @@
+{
+    "order_id": 843655,
+    "client_id": 8590,
+    "produits": [
+        {
+            "produit_id": "P5262",
+            "nom": "Unbranded Steel Ball",
+            "quantite": 3,
+            "prix_unitaire": 326.08
+        },
+        {
+            "produit_id": "P7618",
+            "nom": "New Soft Hat",
+            "quantite": 3,
+            "prix_unitaire": 212.31
+        }
+    ],
+    "date_commande": "2024-04-15T01:39:03",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

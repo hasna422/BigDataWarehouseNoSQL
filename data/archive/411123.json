@@ -1,0 +1,19 @@
+{
+    "order_id": 411123,
+    "client_id": 8129,
+    "produits": [
+        {
+            "produit_id": "P6952",
+            "nom": "Fantastic Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 121.83
+        }
+    ],
+    "date_commande": "2024-03-12T00:03:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "251 Patten",
+        "ville": "Hartford"
+    }
+}

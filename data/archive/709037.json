@@ -1,0 +1,19 @@
+{
+    "order_id": 709037,
+    "client_id": 6052,
+    "produits": [
+        {
+            "produit_id": "P5449",
+            "nom": "Tasty Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 174.18
+        }
+    ],
+    "date_commande": "2025-04-10T20:03:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "369 Romain",
+        "ville": "Manteca"
+    }
+}

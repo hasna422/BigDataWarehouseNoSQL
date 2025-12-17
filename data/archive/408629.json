@@ -1,0 +1,19 @@
+{
+    "order_id": 408629,
+    "client_id": 8607,
+    "produits": [
+        {
+            "produit_id": "P1398",
+            "nom": "Used Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 415.2
+        }
+    ],
+    "date_commande": "2023-10-27T04:37:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1295 Powhattan",
+        "ville": "Laguna Hills"
+    }
+}

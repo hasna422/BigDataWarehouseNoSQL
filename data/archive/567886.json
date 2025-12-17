@@ -1,0 +1,25 @@
+{
+    "order_id": 567886,
+    "client_id": 1739,
+    "produits": [
+        {
+            "produit_id": "P9120",
+            "nom": "New Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 221.9
+        },
+        {
+            "produit_id": "P1260",
+            "nom": "Ergonomic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 350.29
+        }
+    ],
+    "date_commande": "2024-12-22T06:12:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "960 Frank Norris",
+        "ville": "Glen Ellyn"
+    }
+}

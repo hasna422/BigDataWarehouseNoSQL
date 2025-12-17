@@ -1,0 +1,31 @@
+{
+    "order_id": 541853,
+    "client_id": 6332,
+    "produits": [
+        {
+            "produit_id": "P6869",
+            "nom": "Licensed Rubber Shoes",
+            "quantite": 4,
+            "prix_unitaire": 64.4
+        },
+        {
+            "produit_id": "P9662",
+            "nom": "Handcrafted Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 99.26
+        },
+        {
+            "produit_id": "P5452",
+            "nom": "Awesome Rubber Bacon",
+            "quantite": 1,
+            "prix_unitaire": 226.28
+        }
+    ],
+    "date_commande": "2023-10-15T21:57:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "947 Edinburgh",
+        "ville": "Eureka"
+    }
+}

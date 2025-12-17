@@ -1,0 +1,31 @@
+{
+    "order_id": 245489,
+    "client_id": 5247,
+    "produits": [
+        {
+            "produit_id": "P8533",
+            "nom": "Sleek Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 422.58
+        },
+        {
+            "produit_id": "P8800",
+            "nom": "Refined Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 139.39
+        },
+        {
+            "produit_id": "P4664",
+            "nom": "Incredible Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 443.24
+        }
+    ],
+    "date_commande": "2025-04-02T21:26:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "206 Mercato",
+        "ville": "Goodlettsville"
+    }
+}

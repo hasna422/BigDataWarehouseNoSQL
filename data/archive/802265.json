@@ -1,0 +1,19 @@
+{
+    "order_id": 802265,
+    "client_id": 8176,
+    "produits": [
+        {
+            "produit_id": "P9141",
+            "nom": "Small Concrete Shirt",
+            "quantite": 2,
+            "prix_unitaire": 98.86
+        }
+    ],
+    "date_commande": "2024-09-05T20:57:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "281 Thornburg",
+        "ville": "Algonquin"
+    }
+}

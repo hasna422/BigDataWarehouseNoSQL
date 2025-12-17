@@ -1,0 +1,15 @@
+{
+    "order_id": 510299,
+    "client_id": 4907,
+    "produits": [
+        {
+            "produit_id": "P2978",
+            "nom": "Used Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 204.19
+        }
+    ],
+    "date_commande": "2025-04-17T04:53:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

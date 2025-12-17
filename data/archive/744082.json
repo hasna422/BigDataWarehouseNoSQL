@@ -1,0 +1,27 @@
+{
+    "order_id": 744082,
+    "client_id": 9764,
+    "produits": [
+        {
+            "produit_id": "P2813",
+            "nom": "Gently Used Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 429.07
+        },
+        {
+            "produit_id": "P3428",
+            "nom": "Rustic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 343.3
+        },
+        {
+            "produit_id": "P1328",
+            "nom": "Sleek Concrete Soap",
+            "quantite": 2,
+            "prix_unitaire": 277.14
+        }
+    ],
+    "date_commande": "2025-04-22T19:08:13",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

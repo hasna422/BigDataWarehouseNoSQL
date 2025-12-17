@@ -1,0 +1,19 @@
+{
+    "order_id": 647689,
+    "client_id": 8723,
+    "produits": [
+        {
+            "produit_id": "P8797",
+            "nom": "Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 169.8
+        }
+    ],
+    "date_commande": "2023-09-25T17:42:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "339 Lester",
+        "ville": "South Lake Tahoe"
+    }
+}

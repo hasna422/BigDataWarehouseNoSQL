@@ -1,0 +1,19 @@
+{
+    "order_id": 237993,
+    "client_id": 6006,
+    "produits": [
+        {
+            "produit_id": "P8217",
+            "nom": "For repair Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 412.18
+        }
+    ],
+    "date_commande": "2024-09-26T01:50:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "475 Brant",
+        "ville": "Renton"
+    }
+}

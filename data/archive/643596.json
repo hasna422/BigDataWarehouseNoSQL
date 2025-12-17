@@ -1,0 +1,31 @@
+{
+    "order_id": 643596,
+    "client_id": 4674,
+    "produits": [
+        {
+            "produit_id": "P6028",
+            "nom": "Handcrafted Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 253.75
+        },
+        {
+            "produit_id": "P6262",
+            "nom": "Rustic Plastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 13.34
+        },
+        {
+            "produit_id": "P5208",
+            "nom": "Incredible Metal Sausages",
+            "quantite": 5,
+            "prix_unitaire": 187.8
+        }
+    ],
+    "date_commande": "2024-12-05T09:51:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "625 Head",
+        "ville": "Jamestown"
+    }
+}

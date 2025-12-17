@@ -1,0 +1,31 @@
+{
+    "order_id": 815348,
+    "client_id": 6001,
+    "produits": [
+        {
+            "produit_id": "P6988",
+            "nom": "Refined Concrete Shirt",
+            "quantite": 2,
+            "prix_unitaire": 40.03
+        },
+        {
+            "produit_id": "P6285",
+            "nom": "Incredible Rubber Mouse",
+            "quantite": 2,
+            "prix_unitaire": 478.91
+        },
+        {
+            "produit_id": "P0841",
+            "nom": "Handcrafted Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 476.05
+        }
+    ],
+    "date_commande": "2024-07-04T02:56:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "933 Marvel",
+        "ville": "Twentynine Palms"
+    }
+}

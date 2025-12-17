@@ -1,0 +1,21 @@
+{
+    "order_id": 631060,
+    "client_id": 5784,
+    "produits": [
+        {
+            "produit_id": "P1478",
+            "nom": "Sleek Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 376.99
+        },
+        {
+            "produit_id": "P6883",
+            "nom": "Ergonomic Steel Tuna",
+            "quantite": 5,
+            "prix_unitaire": 399.53
+        }
+    ],
+    "date_commande": "2024-12-18T06:23:08",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

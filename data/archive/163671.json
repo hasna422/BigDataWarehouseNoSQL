@@ -1,0 +1,31 @@
+{
+    "order_id": 163671,
+    "client_id": 1244,
+    "produits": [
+        {
+            "produit_id": "P9247",
+            "nom": "Intelligent Table",
+            "quantite": 2,
+            "prix_unitaire": 289.41
+        },
+        {
+            "produit_id": "P8326",
+            "nom": "Plastic Ball",
+            "quantite": 1,
+            "prix_unitaire": 41.26
+        },
+        {
+            "produit_id": "P3468",
+            "nom": "Gorgeous Table",
+            "quantite": 4,
+            "prix_unitaire": 28.25
+        }
+    ],
+    "date_commande": "2025-01-29T22:55:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1278 Redondo",
+        "ville": "Roswell"
+    }
+}

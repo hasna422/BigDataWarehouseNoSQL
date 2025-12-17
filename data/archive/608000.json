@@ -1,0 +1,27 @@
+{
+    "order_id": 608000,
+    "client_id": 1048,
+    "produits": [
+        {
+            "produit_id": "P2709",
+            "nom": "Handmade Rubber Mouse",
+            "quantite": 2,
+            "prix_unitaire": 448.66
+        },
+        {
+            "produit_id": "P2003",
+            "nom": "Intelligent Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 196.05
+        },
+        {
+            "produit_id": "P8820",
+            "nom": "Gently Used Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 182.52
+        }
+    ],
+    "date_commande": "2024-10-14T04:16:31",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 372251,
+    "client_id": 5333,
+    "produits": [
+        {
+            "produit_id": "P7161",
+            "nom": "Refined Metal Hat",
+            "quantite": 1,
+            "prix_unitaire": 494.95
+        },
+        {
+            "produit_id": "P5777",
+            "nom": "Ergonomic Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 421.25
+        }
+    ],
+    "date_commande": "2024-05-29T03:46:02",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

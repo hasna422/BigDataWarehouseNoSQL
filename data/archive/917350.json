@@ -1,0 +1,15 @@
+{
+    "order_id": 917350,
+    "client_id": 5001,
+    "produits": [
+        {
+            "produit_id": "P4546",
+            "nom": "Handcrafted Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 363.59
+        }
+    ],
+    "date_commande": "2023-11-19T19:00:22",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

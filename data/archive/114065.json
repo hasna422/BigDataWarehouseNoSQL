@@ -1,0 +1,19 @@
+{
+    "order_id": 114065,
+    "client_id": 1585,
+    "produits": [
+        {
+            "produit_id": "P2638",
+            "nom": "Rustic Fresh Salad",
+            "quantite": 1,
+            "prix_unitaire": 382.8
+        }
+    ],
+    "date_commande": "2023-12-12T04:42:22",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "984 Frederick",
+        "ville": "Pittsburg"
+    }
+}

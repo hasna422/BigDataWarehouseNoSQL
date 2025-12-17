@@ -1,0 +1,19 @@
+{
+    "order_id": 679092,
+    "client_id": 1397,
+    "produits": [
+        {
+            "produit_id": "P1094",
+            "nom": "Intelligent Frozen Pants",
+            "quantite": 3,
+            "prix_unitaire": 167.48
+        }
+    ],
+    "date_commande": "2024-02-03T12:32:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1197 Westbrook",
+        "ville": "Los Altos"
+    }
+}

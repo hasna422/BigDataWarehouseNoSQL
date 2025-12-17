@@ -1,0 +1,31 @@
+{
+    "order_id": 805012,
+    "client_id": 6428,
+    "produits": [
+        {
+            "produit_id": "P7823",
+            "nom": "Gorgeous Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 313.64
+        },
+        {
+            "produit_id": "P7779",
+            "nom": "Concrete Cheese",
+            "quantite": 1,
+            "prix_unitaire": 148.44
+        },
+        {
+            "produit_id": "P6029",
+            "nom": "Granite Car",
+            "quantite": 5,
+            "prix_unitaire": 242.86
+        }
+    ],
+    "date_commande": "2024-01-03T23:03:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1002 Quane",
+        "ville": "Van Buren"
+    }
+}

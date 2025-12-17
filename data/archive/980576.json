@@ -1,0 +1,31 @@
+{
+    "order_id": 980576,
+    "client_id": 6783,
+    "produits": [
+        {
+            "produit_id": "P0124",
+            "nom": "Small Concrete Chips",
+            "quantite": 5,
+            "prix_unitaire": 456.87
+        },
+        {
+            "produit_id": "P1722",
+            "nom": "Used Concrete Gloves",
+            "quantite": 5,
+            "prix_unitaire": 186.24
+        },
+        {
+            "produit_id": "P0565",
+            "nom": "Practical Plastic Chair",
+            "quantite": 2,
+            "prix_unitaire": 244.95
+        }
+    ],
+    "date_commande": "2023-09-02T03:52:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "730 San Antonio",
+        "ville": "Munster"
+    }
+}

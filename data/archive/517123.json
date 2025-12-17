@@ -1,0 +1,25 @@
+{
+    "order_id": 517123,
+    "client_id": 9725,
+    "produits": [
+        {
+            "produit_id": "P7475",
+            "nom": "Generic Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 8.35
+        },
+        {
+            "produit_id": "P4162",
+            "nom": "Gorgeous Frozen Chips",
+            "quantite": 2,
+            "prix_unitaire": 171.16
+        }
+    ],
+    "date_commande": "2023-12-14T09:40:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "367 Middlefield",
+        "ville": "Dickinson"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 641026,
+    "client_id": 8838,
+    "produits": [
+        {
+            "produit_id": "P5477",
+            "nom": "For repair Soft Mouse",
+            "quantite": 1,
+            "prix_unitaire": 157.73
+        },
+        {
+            "produit_id": "P9465",
+            "nom": "Used Bike",
+            "quantite": 4,
+            "prix_unitaire": 162.23
+        }
+    ],
+    "date_commande": "2025-04-16T05:32:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1011 Craig",
+        "ville": "Temple City"
+    }
+}

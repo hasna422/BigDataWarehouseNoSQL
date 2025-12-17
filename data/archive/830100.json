@@ -1,0 +1,27 @@
+{
+    "order_id": 830100,
+    "client_id": 9121,
+    "produits": [
+        {
+            "produit_id": "P2866",
+            "nom": "New Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 94.32
+        },
+        {
+            "produit_id": "P2428",
+            "nom": "Rustic Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 410.25
+        },
+        {
+            "produit_id": "P0953",
+            "nom": "Small Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 231.27
+        }
+    ],
+    "date_commande": "2023-12-11T17:39:06",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

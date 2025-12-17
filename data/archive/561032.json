@@ -1,0 +1,15 @@
+{
+    "order_id": 561032,
+    "client_id": 9621,
+    "produits": [
+        {
+            "produit_id": "P7870",
+            "nom": "Gently Used Soft Chips",
+            "quantite": 2,
+            "prix_unitaire": 214.97
+        }
+    ],
+    "date_commande": "2024-03-24T03:06:14",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

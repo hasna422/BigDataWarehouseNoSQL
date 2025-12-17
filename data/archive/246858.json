@@ -1,0 +1,31 @@
+{
+    "order_id": 246858,
+    "client_id": 5466,
+    "produits": [
+        {
+            "produit_id": "P8311",
+            "nom": "Plastic Hat",
+            "quantite": 1,
+            "prix_unitaire": 247.28
+        },
+        {
+            "produit_id": "P2969",
+            "nom": "Practical Rubber Ball",
+            "quantite": 2,
+            "prix_unitaire": 391.93
+        },
+        {
+            "produit_id": "P1985",
+            "nom": "For repair Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 447.11
+        }
+    ],
+    "date_commande": "2023-12-12T13:46:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "689 Valley",
+        "ville": "Owatonna"
+    }
+}

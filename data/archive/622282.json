@@ -1,0 +1,21 @@
+{
+    "order_id": 622282,
+    "client_id": 7705,
+    "produits": [
+        {
+            "produit_id": "P0157",
+            "nom": "Incredible Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 382.51
+        },
+        {
+            "produit_id": "P9195",
+            "nom": "Awesome Car",
+            "quantite": 5,
+            "prix_unitaire": 159.94
+        }
+    ],
+    "date_commande": "2025-04-22T01:50:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

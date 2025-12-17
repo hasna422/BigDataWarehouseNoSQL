@@ -1,0 +1,25 @@
+{
+    "order_id": 502146,
+    "client_id": 2012,
+    "produits": [
+        {
+            "produit_id": "P1338",
+            "nom": "Intelligent Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 289.35
+        },
+        {
+            "produit_id": "P8331",
+            "nom": "Used Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 28.04
+        }
+    ],
+    "date_commande": "2025-05-13T10:48:38",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1394 Lucky",
+        "ville": "Gardena"
+    }
+}

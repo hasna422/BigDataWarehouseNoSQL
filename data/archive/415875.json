@@ -1,0 +1,27 @@
+{
+    "order_id": 415875,
+    "client_id": 7860,
+    "produits": [
+        {
+            "produit_id": "P0598",
+            "nom": "Handcrafted Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 244.01
+        },
+        {
+            "produit_id": "P4311",
+            "nom": "Sleek Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 322.48
+        },
+        {
+            "produit_id": "P6389",
+            "nom": "Intelligent Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 451.53
+        }
+    ],
+    "date_commande": "2024-01-10T02:43:46",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

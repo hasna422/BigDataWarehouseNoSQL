@@ -1,0 +1,15 @@
+{
+    "order_id": 410126,
+    "client_id": 9032,
+    "produits": [
+        {
+            "produit_id": "P9999",
+            "nom": "Sleek Concrete Chair",
+            "quantite": 1,
+            "prix_unitaire": 499.01
+        }
+    ],
+    "date_commande": "2023-09-04T05:38:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

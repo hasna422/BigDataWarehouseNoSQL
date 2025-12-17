@@ -1,0 +1,31 @@
+{
+    "order_id": 201281,
+    "client_id": 8495,
+    "produits": [
+        {
+            "produit_id": "P4379",
+            "nom": "Unbranded Rubber Shirt",
+            "quantite": 4,
+            "prix_unitaire": 337.22
+        },
+        {
+            "produit_id": "P3190",
+            "nom": "Rustic Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 282.32
+        },
+        {
+            "produit_id": "P5699",
+            "nom": "Practical Plastic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 478.71
+        }
+    ],
+    "date_commande": "2023-11-03T16:01:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "493 Panama",
+        "ville": "Chillicothe"
+    }
+}

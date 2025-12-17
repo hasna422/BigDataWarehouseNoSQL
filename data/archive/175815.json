@@ -1,0 +1,27 @@
+{
+    "order_id": 175815,
+    "client_id": 3831,
+    "produits": [
+        {
+            "produit_id": "P7265",
+            "nom": "Used Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 90.23
+        },
+        {
+            "produit_id": "P4140",
+            "nom": "Gorgeous Mouse",
+            "quantite": 2,
+            "prix_unitaire": 376.63
+        },
+        {
+            "produit_id": "P5474",
+            "nom": "Small Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 379.9
+        }
+    ],
+    "date_commande": "2024-04-14T22:34:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

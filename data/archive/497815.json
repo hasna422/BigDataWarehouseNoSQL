@@ -1,0 +1,25 @@
+{
+    "order_id": 497815,
+    "client_id": 2950,
+    "produits": [
+        {
+            "produit_id": "P2306",
+            "nom": "Small Cotton Ball",
+            "quantite": 3,
+            "prix_unitaire": 21.88
+        },
+        {
+            "produit_id": "P9051",
+            "nom": "Handcrafted Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 7.13
+        }
+    ],
+    "date_commande": "2025-03-24T21:09:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "454 Upper Service",
+        "ville": "Port Chester"
+    }
+}

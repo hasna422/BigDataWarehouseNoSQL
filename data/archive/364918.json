@@ -1,0 +1,25 @@
+{
+    "order_id": 364918,
+    "client_id": 4467,
+    "produits": [
+        {
+            "produit_id": "P9369",
+            "nom": "Fantastic Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 305.21
+        },
+        {
+            "produit_id": "P6585",
+            "nom": "Tasty Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 159.02
+        }
+    ],
+    "date_commande": "2023-06-30T04:39:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "42 Mercedes",
+        "ville": "Lynbrook"
+    }
+}

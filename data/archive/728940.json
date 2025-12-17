@@ -1,0 +1,25 @@
+{
+    "order_id": 728940,
+    "client_id": 5534,
+    "produits": [
+        {
+            "produit_id": "P4422",
+            "nom": "Refined Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 12.38
+        },
+        {
+            "produit_id": "P3765",
+            "nom": "Sleek Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 55.37
+        }
+    ],
+    "date_commande": "2023-10-20T05:12:56",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "243 Arago",
+        "ville": "Wilsonville"
+    }
+}

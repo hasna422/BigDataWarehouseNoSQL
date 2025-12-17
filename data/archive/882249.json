@@ -1,0 +1,19 @@
+{
+    "order_id": 882249,
+    "client_id": 8658,
+    "produits": [
+        {
+            "produit_id": "P2860",
+            "nom": "Ergonomic Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 375.35
+        }
+    ],
+    "date_commande": "2024-04-15T13:43:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "274 Elliot",
+        "ville": "White Bear Lake"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 890539,
+    "client_id": 9710,
+    "produits": [
+        {
+            "produit_id": "P8913",
+            "nom": "Incredible Concrete Gloves",
+            "quantite": 3,
+            "prix_unitaire": 322.31
+        },
+        {
+            "produit_id": "P1906",
+            "nom": "Small Rubber Ball",
+            "quantite": 5,
+            "prix_unitaire": 425.35
+        },
+        {
+            "produit_id": "P7092",
+            "nom": "Gently Used Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 494.32
+        }
+    ],
+    "date_commande": "2025-03-11T11:43:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1384 Reeves",
+        "ville": "Carteret"
+    }
+}

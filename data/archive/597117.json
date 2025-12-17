@@ -1,0 +1,19 @@
+{
+    "order_id": 597117,
+    "client_id": 3714,
+    "produits": [
+        {
+            "produit_id": "P4959",
+            "nom": "Used Tuna",
+            "quantite": 4,
+            "prix_unitaire": 437.4
+        }
+    ],
+    "date_commande": "2023-09-28T11:03:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "392 Excelsior",
+        "ville": "Raleigh"
+    }
+}

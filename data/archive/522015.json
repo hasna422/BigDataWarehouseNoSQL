@@ -1,0 +1,15 @@
+{
+    "order_id": 522015,
+    "client_id": 6048,
+    "produits": [
+        {
+            "produit_id": "P1343",
+            "nom": "Gorgeous Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 180.28
+        }
+    ],
+    "date_commande": "2024-12-17T17:37:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

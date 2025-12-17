@@ -1,0 +1,19 @@
+{
+    "order_id": 210311,
+    "client_id": 2508,
+    "produits": [
+        {
+            "produit_id": "P0747",
+            "nom": "For repair Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 286.08
+        }
+    ],
+    "date_commande": "2025-04-13T13:03:12",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1341 Short",
+        "ville": "Meridian"
+    }
+}

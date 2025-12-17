@@ -1,0 +1,25 @@
+{
+    "order_id": 493550,
+    "client_id": 1950,
+    "produits": [
+        {
+            "produit_id": "P6012",
+            "nom": "Refined Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 26.32
+        },
+        {
+            "produit_id": "P3884",
+            "nom": "Handmade Soft Car",
+            "quantite": 5,
+            "prix_unitaire": 154.55
+        }
+    ],
+    "date_commande": "2024-02-21T13:48:22",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1205 Trainor",
+        "ville": "Schenectady"
+    }
+}

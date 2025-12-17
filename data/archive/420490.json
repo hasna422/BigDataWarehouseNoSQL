@@ -1,0 +1,27 @@
+{
+    "order_id": 420490,
+    "client_id": 6992,
+    "produits": [
+        {
+            "produit_id": "P7863",
+            "nom": "Gorgeous Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 154.27
+        },
+        {
+            "produit_id": "P0537",
+            "nom": "Awesome Soft Mouse",
+            "quantite": 4,
+            "prix_unitaire": 320.37
+        },
+        {
+            "produit_id": "P4810",
+            "nom": "Incredible Steel Soap",
+            "quantite": 1,
+            "prix_unitaire": 54.51
+        }
+    ],
+    "date_commande": "2023-09-11T08:36:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

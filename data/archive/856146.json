@@ -1,0 +1,31 @@
+{
+    "order_id": 856146,
+    "client_id": 7058,
+    "produits": [
+        {
+            "produit_id": "P3978",
+            "nom": "Rustic Steel Salad",
+            "quantite": 1,
+            "prix_unitaire": 424.86
+        },
+        {
+            "produit_id": "P8859",
+            "nom": "Rustic Pizza",
+            "quantite": 3,
+            "prix_unitaire": 357.7
+        },
+        {
+            "produit_id": "P9464",
+            "nom": "Unbranded Soft Pizza",
+            "quantite": 1,
+            "prix_unitaire": 151.09
+        }
+    ],
+    "date_commande": "2024-04-09T06:49:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "515 Tamalpais",
+        "ville": "Cypress"
+    }
+}

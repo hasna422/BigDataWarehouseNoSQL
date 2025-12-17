@@ -1,0 +1,15 @@
+{
+    "order_id": 781601,
+    "client_id": 1215,
+    "produits": [
+        {
+            "produit_id": "P9251",
+            "nom": "Tasty Metal Mouse",
+            "quantite": 1,
+            "prix_unitaire": 181.33
+        }
+    ],
+    "date_commande": "2025-04-15T10:44:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

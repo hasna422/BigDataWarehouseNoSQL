@@ -1,0 +1,19 @@
+{
+    "order_id": 477802,
+    "client_id": 6513,
+    "produits": [
+        {
+            "produit_id": "P9031",
+            "nom": "New Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 225.42
+        }
+    ],
+    "date_commande": "2023-07-05T07:17:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "2 Card",
+        "ville": "Agawam"
+    }
+}

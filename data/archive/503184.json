@@ -1,0 +1,31 @@
+{
+    "order_id": 503184,
+    "client_id": 1324,
+    "produits": [
+        {
+            "produit_id": "P5955",
+            "nom": "Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 367.09
+        },
+        {
+            "produit_id": "P8567",
+            "nom": "Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 18.81
+        },
+        {
+            "produit_id": "P5638",
+            "nom": "Sleek Shirt",
+            "quantite": 5,
+            "prix_unitaire": 267.76
+        }
+    ],
+    "date_commande": "2025-03-05T01:44:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "778 Bowman",
+        "ville": "San Dimas"
+    }
+}

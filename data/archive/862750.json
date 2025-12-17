@@ -1,0 +1,19 @@
+{
+    "order_id": 862750,
+    "client_id": 8147,
+    "produits": [
+        {
+            "produit_id": "P7698",
+            "nom": "Ergonomic Concrete Chair",
+            "quantite": 3,
+            "prix_unitaire": 109.71
+        }
+    ],
+    "date_commande": "2024-07-16T13:19:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "586 Chain Of Lakes",
+        "ville": "Mountain Brook"
+    }
+}

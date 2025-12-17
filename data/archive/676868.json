@@ -1,0 +1,25 @@
+{
+    "order_id": 676868,
+    "client_id": 6192,
+    "produits": [
+        {
+            "produit_id": "P8258",
+            "nom": "New Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 8.66
+        },
+        {
+            "produit_id": "P0095",
+            "nom": "Handcrafted Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 42.39
+        }
+    ],
+    "date_commande": "2024-09-08T10:49:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1043 Alton",
+        "ville": "Durham"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 465689,
+    "client_id": 1660,
+    "produits": [
+        {
+            "produit_id": "P8361",
+            "nom": "Rustic Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 23.16
+        },
+        {
+            "produit_id": "P7760",
+            "nom": "Unbranded Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 164.42
+        }
+    ],
+    "date_commande": "2025-04-17T14:39:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "958 Galindo",
+        "ville": "Jacksonville"
+    }
+}

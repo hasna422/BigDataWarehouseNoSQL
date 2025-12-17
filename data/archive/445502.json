@@ -1,0 +1,19 @@
+{
+    "order_id": 445502,
+    "client_id": 6876,
+    "produits": [
+        {
+            "produit_id": "P5650",
+            "nom": "Generic Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 115.59
+        }
+    ],
+    "date_commande": "2024-05-12T02:52:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "485 Francis",
+        "ville": "St. George"
+    }
+}

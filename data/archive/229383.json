@@ -1,0 +1,15 @@
+{
+    "order_id": 229383,
+    "client_id": 9682,
+    "produits": [
+        {
+            "produit_id": "P3661",
+            "nom": "Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 15.4
+        }
+    ],
+    "date_commande": "2024-07-07T12:12:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

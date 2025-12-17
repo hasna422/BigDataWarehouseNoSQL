@@ -1,0 +1,25 @@
+{
+    "order_id": 755545,
+    "client_id": 8103,
+    "produits": [
+        {
+            "produit_id": "P4713",
+            "nom": "Frozen Hat",
+            "quantite": 5,
+            "prix_unitaire": 487.0
+        },
+        {
+            "produit_id": "P7250",
+            "nom": "Used Sausages",
+            "quantite": 3,
+            "prix_unitaire": 133.96
+        }
+    ],
+    "date_commande": "2024-09-08T11:03:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "44 Mccoppin",
+        "ville": "Sunnyvale"
+    }
+}

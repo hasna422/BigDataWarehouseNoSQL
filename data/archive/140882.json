@@ -1,0 +1,31 @@
+{
+    "order_id": 140882,
+    "client_id": 7190,
+    "produits": [
+        {
+            "produit_id": "P2258",
+            "nom": "Metal Towels",
+            "quantite": 4,
+            "prix_unitaire": 140.63
+        },
+        {
+            "produit_id": "P4770",
+            "nom": "Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 114.25
+        },
+        {
+            "produit_id": "P0276",
+            "nom": "Plastic Mouse",
+            "quantite": 4,
+            "prix_unitaire": 481.8
+        }
+    ],
+    "date_commande": "2024-08-22T15:12:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1065 Eighth",
+        "ville": "Santa Clara"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 635227,
+    "client_id": 3991,
+    "produits": [
+        {
+            "produit_id": "P1296",
+            "nom": "Ergonomic Granite Ball",
+            "quantite": 1,
+            "prix_unitaire": 371.13
+        },
+        {
+            "produit_id": "P2096",
+            "nom": "Handcrafted Frozen Cheese",
+            "quantite": 5,
+            "prix_unitaire": 135.91
+        }
+    ],
+    "date_commande": "2023-08-09T11:36:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

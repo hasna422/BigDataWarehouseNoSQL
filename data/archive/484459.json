@@ -1,0 +1,15 @@
+{
+    "order_id": 484459,
+    "client_id": 2442,
+    "produits": [
+        {
+            "produit_id": "P4598",
+            "nom": "Sleek Wooden Fish",
+            "quantite": 4,
+            "prix_unitaire": 64.12
+        }
+    ],
+    "date_commande": "2023-09-28T11:20:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

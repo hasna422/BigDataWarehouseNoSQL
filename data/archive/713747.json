@@ -1,0 +1,25 @@
+{
+    "order_id": 713747,
+    "client_id": 1507,
+    "produits": [
+        {
+            "produit_id": "P3169",
+            "nom": "Handmade Soft Pants",
+            "quantite": 1,
+            "prix_unitaire": 242.23
+        },
+        {
+            "produit_id": "P7894",
+            "nom": "Ergonomic Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 107.69
+        }
+    ],
+    "date_commande": "2024-07-12T17:01:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "149 Roosevelt",
+        "ville": "Apache Junction"
+    }
+}

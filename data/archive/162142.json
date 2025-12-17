@@ -1,0 +1,27 @@
+{
+    "order_id": 162142,
+    "client_id": 9687,
+    "produits": [
+        {
+            "produit_id": "P7799",
+            "nom": "Handmade Granite Chicken",
+            "quantite": 2,
+            "prix_unitaire": 35.6
+        },
+        {
+            "produit_id": "P8363",
+            "nom": "For repair Salad",
+            "quantite": 1,
+            "prix_unitaire": 169.11
+        },
+        {
+            "produit_id": "P6456",
+            "nom": "Handmade Computer",
+            "quantite": 3,
+            "prix_unitaire": 438.21
+        }
+    ],
+    "date_commande": "2024-04-05T05:22:20",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 993390,
+    "client_id": 2807,
+    "produits": [
+        {
+            "produit_id": "P8865",
+            "nom": "Licensed Soft Table",
+            "quantite": 3,
+            "prix_unitaire": 49.48
+        },
+        {
+            "produit_id": "P0323",
+            "nom": "Rustic Tuna",
+            "quantite": 4,
+            "prix_unitaire": 404.4
+        },
+        {
+            "produit_id": "P7565",
+            "nom": "Used Car",
+            "quantite": 3,
+            "prix_unitaire": 396.17
+        }
+    ],
+    "date_commande": "2025-01-02T11:55:37",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "126 Masonic",
+        "ville": "Rohnert Park"
+    }
+}

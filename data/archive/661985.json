@@ -1,0 +1,19 @@
+{
+    "order_id": 661985,
+    "client_id": 5488,
+    "produits": [
+        {
+            "produit_id": "P9970",
+            "nom": "Awesome Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 229.28
+        }
+    ],
+    "date_commande": "2023-11-23T03:36:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "222 Molimo",
+        "ville": "Vineland"
+    }
+}

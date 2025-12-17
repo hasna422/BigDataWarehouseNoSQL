@@ -1,0 +1,31 @@
+{
+    "order_id": 246883,
+    "client_id": 9444,
+    "produits": [
+        {
+            "produit_id": "P0609",
+            "nom": "Small Fresh Shoes",
+            "quantite": 1,
+            "prix_unitaire": 261.51
+        },
+        {
+            "produit_id": "P7098",
+            "nom": "Refined Rubber Chair",
+            "quantite": 1,
+            "prix_unitaire": 342.08
+        },
+        {
+            "produit_id": "P0201",
+            "nom": "Unbranded Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 323.33
+        }
+    ],
+    "date_commande": "2024-07-10T14:06:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1388 Mulford",
+        "ville": "La Mesa"
+    }
+}

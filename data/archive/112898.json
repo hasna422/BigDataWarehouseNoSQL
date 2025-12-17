@@ -1,0 +1,21 @@
+{
+    "order_id": 112898,
+    "client_id": 9735,
+    "produits": [
+        {
+            "produit_id": "P8935",
+            "nom": "Awesome Steel Shoes",
+            "quantite": 5,
+            "prix_unitaire": 25.88
+        },
+        {
+            "produit_id": "P8259",
+            "nom": "New Cotton Hat",
+            "quantite": 2,
+            "prix_unitaire": 219.25
+        }
+    ],
+    "date_commande": "2025-01-31T17:43:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 679154,
+    "client_id": 1379,
+    "produits": [
+        {
+            "produit_id": "P5786",
+            "nom": "Gorgeous Steel Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 23.94
+        },
+        {
+            "produit_id": "P3038",
+            "nom": "Generic Fresh Hat",
+            "quantite": 1,
+            "prix_unitaire": 101.93
+        }
+    ],
+    "date_commande": "2024-11-02T23:10:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "891 Bay View",
+        "ville": "Aiken"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 137149,
+    "client_id": 8938,
+    "produits": [
+        {
+            "produit_id": "P3259",
+            "nom": "Ergonomic Towels",
+            "quantite": 2,
+            "prix_unitaire": 46.21
+        }
+    ],
+    "date_commande": "2024-08-02T12:27:57",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "914 Shannon",
+        "ville": "Norristown"
+    }
+}

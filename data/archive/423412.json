@@ -1,0 +1,31 @@
+{
+    "order_id": 423412,
+    "client_id": 9567,
+    "produits": [
+        {
+            "produit_id": "P9500",
+            "nom": "Incredible Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 333.76
+        },
+        {
+            "produit_id": "P9991",
+            "nom": "Practical Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 171.12
+        },
+        {
+            "produit_id": "P4107",
+            "nom": "Rustic Fresh Cheese",
+            "quantite": 4,
+            "prix_unitaire": 29.8
+        }
+    ],
+    "date_commande": "2024-04-27T05:09:00",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1192 North",
+        "ville": "Revere"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 735780,
+    "client_id": 7665,
+    "produits": [
+        {
+            "produit_id": "P5474",
+            "nom": "Gorgeous Plastic Towels",
+            "quantite": 1,
+            "prix_unitaire": 478.54
+        },
+        {
+            "produit_id": "P4427",
+            "nom": "Awesome Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 482.56
+        }
+    ],
+    "date_commande": "2023-11-09T12:47:02",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "791 Eve",
+        "ville": "Gladstone"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 985387,
+    "client_id": 4444,
+    "produits": [
+        {
+            "produit_id": "P6136",
+            "nom": "Awesome Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 13.77
+        },
+        {
+            "produit_id": "P2227",
+            "nom": "Incredible Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 267.7
+        },
+        {
+            "produit_id": "P9618",
+            "nom": "Generic Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 457.62
+        }
+    ],
+    "date_commande": "2024-07-08T10:01:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1392 Reservoir",
+        "ville": "Muskego"
+    }
+}

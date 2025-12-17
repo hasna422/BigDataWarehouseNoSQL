@@ -1,0 +1,19 @@
+{
+    "order_id": 474512,
+    "client_id": 4697,
+    "produits": [
+        {
+            "produit_id": "P2054",
+            "nom": "Gorgeous Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 25.45
+        }
+    ],
+    "date_commande": "2024-01-15T04:58:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1068 Sea View",
+        "ville": "Sun Prairie"
+    }
+}

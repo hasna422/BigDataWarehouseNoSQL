@@ -1,0 +1,15 @@
+{
+    "order_id": 152251,
+    "client_id": 6605,
+    "produits": [
+        {
+            "produit_id": "P0063",
+            "nom": "Intelligent Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 329.32
+        }
+    ],
+    "date_commande": "2024-11-25T01:05:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

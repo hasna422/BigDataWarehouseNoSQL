@@ -1,0 +1,19 @@
+{
+    "order_id": 844568,
+    "client_id": 1209,
+    "produits": [
+        {
+            "produit_id": "P7367",
+            "nom": "Tasty Hat",
+            "quantite": 2,
+            "prix_unitaire": 290.34
+        }
+    ],
+    "date_commande": "2024-04-07T02:03:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "548 Fargo",
+        "ville": "Missouri City"
+    }
+}

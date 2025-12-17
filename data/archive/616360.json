@@ -1,0 +1,25 @@
+{
+    "order_id": 616360,
+    "client_id": 9355,
+    "produits": [
+        {
+            "produit_id": "P3640",
+            "nom": "Handmade Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 492.67
+        },
+        {
+            "produit_id": "P1984",
+            "nom": "Fantastic Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 151.27
+        }
+    ],
+    "date_commande": "2025-04-02T08:52:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "21 Galindo",
+        "ville": "South Pasadena"
+    }
+}

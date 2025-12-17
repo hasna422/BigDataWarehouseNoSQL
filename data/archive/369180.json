@@ -1,0 +1,25 @@
+{
+    "order_id": 369180,
+    "client_id": 2807,
+    "produits": [
+        {
+            "produit_id": "P4099",
+            "nom": "Gorgeous Metal Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 254.99
+        },
+        {
+            "produit_id": "P7475",
+            "nom": "Gorgeous Frozen Computer",
+            "quantite": 4,
+            "prix_unitaire": 188.85
+        }
+    ],
+    "date_commande": "2023-10-25T12:17:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "75 Martha",
+        "ville": "Hialeah Gardens"
+    }
+}

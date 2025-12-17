@@ -1,0 +1,19 @@
+{
+    "order_id": 913140,
+    "client_id": 3260,
+    "produits": [
+        {
+            "produit_id": "P0593",
+            "nom": "Practical Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 19.91
+        }
+    ],
+    "date_commande": "2023-11-17T21:36:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "936 Reposa",
+        "ville": "Coppell"
+    }
+}

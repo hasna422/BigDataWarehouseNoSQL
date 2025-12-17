@@ -1,0 +1,31 @@
+{
+    "order_id": 430416,
+    "client_id": 2401,
+    "produits": [
+        {
+            "produit_id": "P8218",
+            "nom": "Tasty Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 493.42
+        },
+        {
+            "produit_id": "P3883",
+            "nom": "Handmade Soft Mouse",
+            "quantite": 1,
+            "prix_unitaire": 428.84
+        },
+        {
+            "produit_id": "P9013",
+            "nom": "Sleek Soft Pizza",
+            "quantite": 4,
+            "prix_unitaire": 241.17
+        }
+    ],
+    "date_commande": "2024-11-19T12:00:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1282 Turner",
+        "ville": "Mineola"
+    }
+}

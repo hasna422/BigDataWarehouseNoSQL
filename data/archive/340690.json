@@ -1,0 +1,15 @@
+{
+    "order_id": 340690,
+    "client_id": 1253,
+    "produits": [
+        {
+            "produit_id": "P8914",
+            "nom": "Used Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 269.06
+        }
+    ],
+    "date_commande": "2024-07-02T09:20:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

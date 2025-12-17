@@ -1,0 +1,21 @@
+{
+    "order_id": 440884,
+    "client_id": 8402,
+    "produits": [
+        {
+            "produit_id": "P9723",
+            "nom": "Small Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 293.64
+        },
+        {
+            "produit_id": "P6770",
+            "nom": "Gorgeous Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 61.41
+        }
+    ],
+    "date_commande": "2023-12-25T05:23:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

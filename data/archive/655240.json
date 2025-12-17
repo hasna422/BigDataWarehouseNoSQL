@@ -1,0 +1,25 @@
+{
+    "order_id": 655240,
+    "client_id": 7222,
+    "produits": [
+        {
+            "produit_id": "P2936",
+            "nom": "Tasty Salad",
+            "quantite": 2,
+            "prix_unitaire": 304.22
+        },
+        {
+            "produit_id": "P8381",
+            "nom": "Tasty Shirt",
+            "quantite": 4,
+            "prix_unitaire": 309.14
+        }
+    ],
+    "date_commande": "2024-01-13T10:41:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "239 Megan",
+        "ville": "Clarksville"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 138259,
+    "client_id": 4244,
+    "produits": [
+        {
+            "produit_id": "P0102",
+            "nom": "Handmade Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 452.65
+        },
+        {
+            "produit_id": "P5654",
+            "nom": "Awesome Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 178.95
+        }
+    ],
+    "date_commande": "2024-02-19T08:53:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

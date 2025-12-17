@@ -1,0 +1,31 @@
+{
+    "order_id": 703085,
+    "client_id": 8554,
+    "produits": [
+        {
+            "produit_id": "P1378",
+            "nom": "Gorgeous Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 58.14
+        },
+        {
+            "produit_id": "P5531",
+            "nom": "Small Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 224.45
+        },
+        {
+            "produit_id": "P9924",
+            "nom": "New Frozen Shoes",
+            "quantite": 1,
+            "prix_unitaire": 315.31
+        }
+    ],
+    "date_commande": "2024-11-01T02:47:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "716 Quintara",
+        "ville": "South Burlington"
+    }
+}

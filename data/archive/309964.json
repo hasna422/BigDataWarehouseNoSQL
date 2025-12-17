@@ -1,0 +1,31 @@
+{
+    "order_id": 309964,
+    "client_id": 3035,
+    "produits": [
+        {
+            "produit_id": "P3068",
+            "nom": "Gently Used Cotton Fish",
+            "quantite": 4,
+            "prix_unitaire": 375.53
+        },
+        {
+            "produit_id": "P3993",
+            "nom": "Tasty Wooden Pants",
+            "quantite": 3,
+            "prix_unitaire": 210.27
+        },
+        {
+            "produit_id": "P3434",
+            "nom": "Rustic Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 101.79
+        }
+    ],
+    "date_commande": "2024-05-17T21:14:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "333 Rae",
+        "ville": "Duncanville"
+    }
+}

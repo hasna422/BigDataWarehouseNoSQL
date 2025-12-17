@@ -1,0 +1,31 @@
+{
+    "order_id": 251814,
+    "client_id": 1899,
+    "produits": [
+        {
+            "produit_id": "P7614",
+            "nom": "Gorgeous Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 495.45
+        },
+        {
+            "produit_id": "P7110",
+            "nom": "Generic Metal Towels",
+            "quantite": 4,
+            "prix_unitaire": 278.64
+        },
+        {
+            "produit_id": "P4351",
+            "nom": "Licensed Towels",
+            "quantite": 2,
+            "prix_unitaire": 287.88
+        }
+    ],
+    "date_commande": "2023-06-29T13:55:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "568 Allston",
+        "ville": "Gallup"
+    }
+}

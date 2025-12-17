@@ -1,0 +1,19 @@
+{
+    "order_id": 367041,
+    "client_id": 7697,
+    "produits": [
+        {
+            "produit_id": "P6170",
+            "nom": "Awesome Towels",
+            "quantite": 1,
+            "prix_unitaire": 431.88
+        }
+    ],
+    "date_commande": "2024-06-24T13:16:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "63 Cameo",
+        "ville": "Las Vegas"
+    }
+}

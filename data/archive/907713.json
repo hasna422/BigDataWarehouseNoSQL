@@ -1,0 +1,19 @@
+{
+    "order_id": 907713,
+    "client_id": 7623,
+    "produits": [
+        {
+            "produit_id": "P3264",
+            "nom": "Licensed Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 386.7
+        }
+    ],
+    "date_commande": "2024-04-13T15:29:43",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1279 Penny",
+        "ville": "Colton"
+    }
+}

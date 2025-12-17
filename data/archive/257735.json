@@ -1,0 +1,25 @@
+{
+    "order_id": 257735,
+    "client_id": 6480,
+    "produits": [
+        {
+            "produit_id": "P1189",
+            "nom": "Licensed Fresh Table",
+            "quantite": 4,
+            "prix_unitaire": 15.69
+        },
+        {
+            "produit_id": "P5866",
+            "nom": "New Metal Mouse",
+            "quantite": 1,
+            "prix_unitaire": 53.91
+        }
+    ],
+    "date_commande": "2023-10-13T03:22:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "347 Brant",
+        "ville": "Franklin"
+    }
+}

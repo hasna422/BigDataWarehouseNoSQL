@@ -1,0 +1,31 @@
+{
+    "order_id": 691593,
+    "client_id": 3404,
+    "produits": [
+        {
+            "produit_id": "P8439",
+            "nom": "Handmade Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 478.35
+        },
+        {
+            "produit_id": "P9121",
+            "nom": "Generic Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 488.04
+        },
+        {
+            "produit_id": "P9185",
+            "nom": "Gorgeous Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 467.88
+        }
+    ],
+    "date_commande": "2025-04-08T00:59:14",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "47 Cielito",
+        "ville": "Hilton Head Island"
+    }
+}

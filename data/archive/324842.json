@@ -1,0 +1,21 @@
+{
+    "order_id": 324842,
+    "client_id": 8034,
+    "produits": [
+        {
+            "produit_id": "P8967",
+            "nom": "Practical Granite Sausages",
+            "quantite": 2,
+            "prix_unitaire": 323.23
+        },
+        {
+            "produit_id": "P2251",
+            "nom": "Intelligent Soft Towels",
+            "quantite": 3,
+            "prix_unitaire": 495.19
+        }
+    ],
+    "date_commande": "2024-09-20T08:43:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

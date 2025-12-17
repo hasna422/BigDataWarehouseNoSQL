@@ -1,0 +1,19 @@
+{
+    "order_id": 398469,
+    "client_id": 6211,
+    "produits": [
+        {
+            "produit_id": "P2331",
+            "nom": "Used Fresh Towels",
+            "quantite": 4,
+            "prix_unitaire": 22.18
+        }
+    ],
+    "date_commande": "2023-11-28T05:47:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1126 Loomis",
+        "ville": "Mesa"
+    }
+}

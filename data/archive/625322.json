@@ -1,0 +1,15 @@
+{
+    "order_id": 625322,
+    "client_id": 1636,
+    "produits": [
+        {
+            "produit_id": "P0147",
+            "nom": "Used Frozen Shoes",
+            "quantite": 2,
+            "prix_unitaire": 127.19
+        }
+    ],
+    "date_commande": "2025-05-13T06:55:33",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

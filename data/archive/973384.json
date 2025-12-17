@@ -1,0 +1,15 @@
+{
+    "order_id": 973384,
+    "client_id": 4433,
+    "produits": [
+        {
+            "produit_id": "P8537",
+            "nom": "Rustic Rubber Bike",
+            "quantite": 4,
+            "prix_unitaire": 196.61
+        }
+    ],
+    "date_commande": "2025-01-08T19:25:44",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

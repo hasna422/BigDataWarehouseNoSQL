@@ -1,0 +1,25 @@
+{
+    "order_id": 624633,
+    "client_id": 6151,
+    "produits": [
+        {
+            "produit_id": "P7353",
+            "nom": "Practical Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 252.19
+        },
+        {
+            "produit_id": "P5650",
+            "nom": "Handcrafted Cotton Cheese",
+            "quantite": 3,
+            "prix_unitaire": 6.3
+        }
+    ],
+    "date_commande": "2023-08-17T19:46:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "705 Boynton",
+        "ville": "El Dorado"
+    }
+}

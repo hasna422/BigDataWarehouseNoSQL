@@ -1,0 +1,15 @@
+{
+    "order_id": 732793,
+    "client_id": 3851,
+    "produits": [
+        {
+            "produit_id": "P9593",
+            "nom": "Incredible Plastic Tuna",
+            "quantite": 3,
+            "prix_unitaire": 295.07
+        }
+    ],
+    "date_commande": "2023-11-30T13:42:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

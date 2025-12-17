@@ -1,0 +1,19 @@
+{
+    "order_id": 886766,
+    "client_id": 1044,
+    "produits": [
+        {
+            "produit_id": "P1332",
+            "nom": "Fresh Chicken",
+            "quantite": 4,
+            "prix_unitaire": 271.66
+        }
+    ],
+    "date_commande": "2023-10-28T11:46:17",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1201 Miguel",
+        "ville": "Laguna Niguel"
+    }
+}

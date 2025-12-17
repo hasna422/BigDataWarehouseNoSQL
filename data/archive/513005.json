@@ -1,0 +1,15 @@
+{
+    "order_id": 513005,
+    "client_id": 6769,
+    "produits": [
+        {
+            "produit_id": "P6369",
+            "nom": "Awesome Plastic Chair",
+            "quantite": 2,
+            "prix_unitaire": 371.42
+        }
+    ],
+    "date_commande": "2023-12-14T05:54:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

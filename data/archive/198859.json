@@ -1,0 +1,25 @@
+{
+    "order_id": 198859,
+    "client_id": 7647,
+    "produits": [
+        {
+            "produit_id": "P6020",
+            "nom": "Incredible Soft Computer",
+            "quantite": 5,
+            "prix_unitaire": 251.64
+        },
+        {
+            "produit_id": "P3458",
+            "nom": "Refined Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 286.65
+        }
+    ],
+    "date_commande": "2025-02-17T06:23:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "131 Hemway",
+        "ville": "Centennial"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 242276,
+    "client_id": 2895,
+    "produits": [
+        {
+            "produit_id": "P0810",
+            "nom": "Awesome Concrete Chair",
+            "quantite": 3,
+            "prix_unitaire": 391.4
+        },
+        {
+            "produit_id": "P0279",
+            "nom": "Rustic Pizza",
+            "quantite": 5,
+            "prix_unitaire": 81.57
+        },
+        {
+            "produit_id": "P9224",
+            "nom": "Small Concrete Hat",
+            "quantite": 3,
+            "prix_unitaire": 225.88
+        }
+    ],
+    "date_commande": "2024-08-18T12:20:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "680 Sweeny",
+        "ville": "Naples"
+    }
+}

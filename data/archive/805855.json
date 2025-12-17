@@ -1,0 +1,31 @@
+{
+    "order_id": 805855,
+    "client_id": 3122,
+    "produits": [
+        {
+            "produit_id": "P3310",
+            "nom": "Generic Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 185.34
+        },
+        {
+            "produit_id": "P6587",
+            "nom": "Concrete Car",
+            "quantite": 1,
+            "prix_unitaire": 444.23
+        },
+        {
+            "produit_id": "P5135",
+            "nom": "Awesome Rubber Ball",
+            "quantite": 3,
+            "prix_unitaire": 20.26
+        }
+    ],
+    "date_commande": "2024-09-05T16:40:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "526 Vallejo",
+        "ville": "Rancho Santa Margarita"
+    }
+}

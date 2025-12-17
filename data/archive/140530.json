@@ -1,0 +1,27 @@
+{
+    "order_id": 140530,
+    "client_id": 4761,
+    "produits": [
+        {
+            "produit_id": "P1501",
+            "nom": "Intelligent Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 457.67
+        },
+        {
+            "produit_id": "P6077",
+            "nom": "New Metal Shirt",
+            "quantite": 2,
+            "prix_unitaire": 384.39
+        },
+        {
+            "produit_id": "P9472",
+            "nom": "Gently Used Steel Shirt",
+            "quantite": 5,
+            "prix_unitaire": 86.76
+        }
+    ],
+    "date_commande": "2024-06-03T17:24:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

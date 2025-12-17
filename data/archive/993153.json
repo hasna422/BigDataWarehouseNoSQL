@@ -1,0 +1,31 @@
+{
+    "order_id": 993153,
+    "client_id": 9739,
+    "produits": [
+        {
+            "produit_id": "P0456",
+            "nom": "Awesome Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 306.91
+        },
+        {
+            "produit_id": "P9795",
+            "nom": "Handmade Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 88.96
+        },
+        {
+            "produit_id": "P3069",
+            "nom": "Intelligent Soft Soap",
+            "quantite": 4,
+            "prix_unitaire": 213.06
+        }
+    ],
+    "date_commande": "2023-08-17T07:32:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "133 Oakdale",
+        "ville": "Romeoville"
+    }
+}

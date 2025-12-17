@@ -1,0 +1,25 @@
+{
+    "order_id": 580891,
+    "client_id": 7628,
+    "produits": [
+        {
+            "produit_id": "P7690",
+            "nom": "Used Wooden Chicken",
+            "quantite": 4,
+            "prix_unitaire": 8.05
+        },
+        {
+            "produit_id": "P2923",
+            "nom": "Gently Used Plastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 485.45
+        }
+    ],
+    "date_commande": "2024-03-16T12:44:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "330 Dorcas",
+        "ville": "Saratoga Springs"
+    }
+}

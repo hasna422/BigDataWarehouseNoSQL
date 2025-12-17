@@ -1,0 +1,15 @@
+{
+    "order_id": 110838,
+    "client_id": 2867,
+    "produits": [
+        {
+            "produit_id": "P0761",
+            "nom": "Sleek Soft Cheese",
+            "quantite": 4,
+            "prix_unitaire": 47.96
+        }
+    ],
+    "date_commande": "2024-04-18T19:25:18",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

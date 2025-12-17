@@ -1,0 +1,19 @@
+{
+    "order_id": 198989,
+    "client_id": 7257,
+    "produits": [
+        {
+            "produit_id": "P7038",
+            "nom": "Incredible Cheese",
+            "quantite": 1,
+            "prix_unitaire": 418.31
+        }
+    ],
+    "date_commande": "2023-12-31T08:46:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "195 Knockash",
+        "ville": "North Little Rock"
+    }
+}

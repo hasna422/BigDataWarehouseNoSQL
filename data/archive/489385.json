@@ -1,0 +1,25 @@
+{
+    "order_id": 489385,
+    "client_id": 3098,
+    "produits": [
+        {
+            "produit_id": "P1033",
+            "nom": "For repair Soft Shoes",
+            "quantite": 4,
+            "prix_unitaire": 252.82
+        },
+        {
+            "produit_id": "P3348",
+            "nom": "Ergonomic Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 173.16
+        }
+    ],
+    "date_commande": "2023-11-27T00:58:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1286 Surrey",
+        "ville": "La Vista"
+    }
+}

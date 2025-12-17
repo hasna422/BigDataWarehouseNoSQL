@@ -1,0 +1,25 @@
+{
+    "order_id": 300119,
+    "client_id": 7062,
+    "produits": [
+        {
+            "produit_id": "P0156",
+            "nom": "Incredible Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 166.66
+        },
+        {
+            "produit_id": "P4720",
+            "nom": "Intelligent Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 215.13
+        }
+    ],
+    "date_commande": "2024-03-31T20:58:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1028 Homewood",
+        "ville": "Carlsbad"
+    }
+}

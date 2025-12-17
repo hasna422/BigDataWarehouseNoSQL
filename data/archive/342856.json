@@ -1,0 +1,19 @@
+{
+    "order_id": 342856,
+    "client_id": 1006,
+    "produits": [
+        {
+            "produit_id": "P8828",
+            "nom": "Generic Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 474.03
+        }
+    ],
+    "date_commande": "2024-06-28T11:14:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "123 Kalmanovitz",
+        "ville": "Stevens Point"
+    }
+}

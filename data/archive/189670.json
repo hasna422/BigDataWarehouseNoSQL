@@ -1,0 +1,15 @@
+{
+    "order_id": 189670,
+    "client_id": 2408,
+    "produits": [
+        {
+            "produit_id": "P9835",
+            "nom": "Licensed Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 92.02
+        }
+    ],
+    "date_commande": "2024-12-17T11:35:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

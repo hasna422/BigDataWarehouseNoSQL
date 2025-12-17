@@ -1,0 +1,27 @@
+{
+    "order_id": 180426,
+    "client_id": 9936,
+    "produits": [
+        {
+            "produit_id": "P9273",
+            "nom": "Gently Used Metal Hat",
+            "quantite": 5,
+            "prix_unitaire": 276.16
+        },
+        {
+            "produit_id": "P6965",
+            "nom": "Rustic Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 321.34
+        },
+        {
+            "produit_id": "P7129",
+            "nom": "Handcrafted Granite Bike",
+            "quantite": 4,
+            "prix_unitaire": 26.0
+        }
+    ],
+    "date_commande": "2023-06-20T02:06:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

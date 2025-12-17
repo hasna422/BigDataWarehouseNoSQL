@@ -1,0 +1,21 @@
+{
+    "order_id": 134449,
+    "client_id": 5509,
+    "produits": [
+        {
+            "produit_id": "P9886",
+            "nom": "Small Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 68.38
+        },
+        {
+            "produit_id": "P2249",
+            "nom": "Refined Concrete Chair",
+            "quantite": 1,
+            "prix_unitaire": 466.99
+        }
+    ],
+    "date_commande": "2023-12-23T09:21:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 388762,
+    "client_id": 4060,
+    "produits": [
+        {
+            "produit_id": "P7906",
+            "nom": "Handmade Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 339.2
+        }
+    ],
+    "date_commande": "2024-09-03T17:56:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "723 Abbey",
+        "ville": "Mineral Wells"
+    }
+}

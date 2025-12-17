@@ -1,0 +1,25 @@
+{
+    "order_id": 721024,
+    "client_id": 8940,
+    "produits": [
+        {
+            "produit_id": "P5082",
+            "nom": "Small Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 62.82
+        },
+        {
+            "produit_id": "P9578",
+            "nom": "Refined Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 413.12
+        }
+    ],
+    "date_commande": "2023-07-05T05:34:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1097 Downey",
+        "ville": "Gardner"
+    }
+}

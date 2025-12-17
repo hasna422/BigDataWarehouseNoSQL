@@ -1,0 +1,15 @@
+{
+    "order_id": 486134,
+    "client_id": 5366,
+    "produits": [
+        {
+            "produit_id": "P6976",
+            "nom": "Plastic Pizza",
+            "quantite": 3,
+            "prix_unitaire": 53.33
+        }
+    ],
+    "date_commande": "2024-05-23T13:12:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

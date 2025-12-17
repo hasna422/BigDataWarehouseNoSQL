@@ -1,0 +1,25 @@
+{
+    "order_id": 700768,
+    "client_id": 6205,
+    "produits": [
+        {
+            "produit_id": "P4331",
+            "nom": "Licensed Bike",
+            "quantite": 1,
+            "prix_unitaire": 432.51
+        },
+        {
+            "produit_id": "P7207",
+            "nom": "Handcrafted Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 129.3
+        }
+    ],
+    "date_commande": "2024-03-21T07:06:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "604 Terrace",
+        "ville": "Hollister"
+    }
+}

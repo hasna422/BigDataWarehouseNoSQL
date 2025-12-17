@@ -1,0 +1,31 @@
+{
+    "order_id": 914775,
+    "client_id": 5610,
+    "produits": [
+        {
+            "produit_id": "P2166",
+            "nom": "Concrete Gloves",
+            "quantite": 4,
+            "prix_unitaire": 429.9
+        },
+        {
+            "produit_id": "P4096",
+            "nom": "New Fresh Soap",
+            "quantite": 2,
+            "prix_unitaire": 194.53
+        },
+        {
+            "produit_id": "P2162",
+            "nom": "Awesome Salad",
+            "quantite": 1,
+            "prix_unitaire": 213.39
+        }
+    ],
+    "date_commande": "2023-05-30T19:18:23",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "990 Allison",
+        "ville": "Youngstown"
+    }
+}

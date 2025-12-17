@@ -1,0 +1,19 @@
+{
+    "order_id": 547947,
+    "client_id": 7044,
+    "produits": [
+        {
+            "produit_id": "P8493",
+            "nom": "Unbranded Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 404.33
+        }
+    ],
+    "date_commande": "2023-09-03T07:25:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "106 Zoe",
+        "ville": "Shively"
+    }
+}

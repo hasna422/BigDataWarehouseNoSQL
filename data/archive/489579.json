@@ -1,0 +1,21 @@
+{
+    "order_id": 489579,
+    "client_id": 6345,
+    "produits": [
+        {
+            "produit_id": "P4931",
+            "nom": "Ergonomic Concrete Salad",
+            "quantite": 5,
+            "prix_unitaire": 269.04
+        },
+        {
+            "produit_id": "P5496",
+            "nom": "Gorgeous Shoes",
+            "quantite": 2,
+            "prix_unitaire": 41.87
+        }
+    ],
+    "date_commande": "2023-09-19T15:38:46",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

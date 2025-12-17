@@ -1,0 +1,25 @@
+{
+    "order_id": 805758,
+    "client_id": 8855,
+    "produits": [
+        {
+            "produit_id": "P8357",
+            "nom": "Handmade Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 407.11
+        },
+        {
+            "produit_id": "P8133",
+            "nom": "Licensed Plastic Salad",
+            "quantite": 2,
+            "prix_unitaire": 103.44
+        }
+    ],
+    "date_commande": "2024-03-02T13:28:35",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1358 Collingwood",
+        "ville": "Memphis"
+    }
+}

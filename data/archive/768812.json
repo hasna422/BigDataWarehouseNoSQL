@@ -1,0 +1,25 @@
+{
+    "order_id": 768812,
+    "client_id": 9149,
+    "produits": [
+        {
+            "produit_id": "P2014",
+            "nom": "Handmade Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 252.61
+        },
+        {
+            "produit_id": "P6987",
+            "nom": "Small Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 382.38
+        }
+    ],
+    "date_commande": "2024-10-31T03:24:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "27 De Haro",
+        "ville": "Bell Gardens"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 684255,
+    "client_id": 6113,
+    "produits": [
+        {
+            "produit_id": "P3496",
+            "nom": "Intelligent Fresh Ball",
+            "quantite": 3,
+            "prix_unitaire": 140.12
+        }
+    ],
+    "date_commande": "2025-01-13T23:31:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "641 Bank",
+        "ville": "El Reno"
+    }
+}

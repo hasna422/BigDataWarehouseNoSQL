@@ -1,0 +1,25 @@
+{
+    "order_id": 794555,
+    "client_id": 4295,
+    "produits": [
+        {
+            "produit_id": "P3661",
+            "nom": "Gorgeous Mouse",
+            "quantite": 1,
+            "prix_unitaire": 199.85
+        },
+        {
+            "produit_id": "P9890",
+            "nom": "Fantastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 472.93
+        }
+    ],
+    "date_commande": "2024-02-05T18:52:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "666 Funston",
+        "ville": "Corpus Christi"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 218008,
+    "client_id": 3663,
+    "produits": [
+        {
+            "produit_id": "P0740",
+            "nom": "Refined Shirt",
+            "quantite": 1,
+            "prix_unitaire": 76.05
+        }
+    ],
+    "date_commande": "2024-06-26T22:42:40",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "739 Pfeiffer",
+        "ville": "Chicago"
+    }
+}

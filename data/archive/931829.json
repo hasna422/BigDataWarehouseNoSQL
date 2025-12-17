@@ -1,0 +1,25 @@
+{
+    "order_id": 931829,
+    "client_id": 3871,
+    "produits": [
+        {
+            "produit_id": "P9010",
+            "nom": "For repair Pants",
+            "quantite": 1,
+            "prix_unitaire": 426.6
+        },
+        {
+            "produit_id": "P9806",
+            "nom": "Incredible Frozen Bike",
+            "quantite": 2,
+            "prix_unitaire": 447.5
+        }
+    ],
+    "date_commande": "2023-11-11T15:14:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1377 Saddleback",
+        "ville": "Pontiac"
+    }
+}

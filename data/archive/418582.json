@@ -1,0 +1,31 @@
+{
+    "order_id": 418582,
+    "client_id": 5784,
+    "produits": [
+        {
+            "produit_id": "P2089",
+            "nom": "Handmade Soft Bike",
+            "quantite": 2,
+            "prix_unitaire": 138.86
+        },
+        {
+            "produit_id": "P5902",
+            "nom": "Licensed Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 214.53
+        },
+        {
+            "produit_id": "P1966",
+            "nom": "Generic Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 218.94
+        }
+    ],
+    "date_commande": "2023-06-06T05:32:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "258 Vassar",
+        "ville": "Manassas"
+    }
+}

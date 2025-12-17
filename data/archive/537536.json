@@ -1,0 +1,31 @@
+{
+    "order_id": 537536,
+    "client_id": 3895,
+    "produits": [
+        {
+            "produit_id": "P6407",
+            "nom": "Used Wooden Chips",
+            "quantite": 4,
+            "prix_unitaire": 273.62
+        },
+        {
+            "produit_id": "P8925",
+            "nom": "New Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 203.35
+        },
+        {
+            "produit_id": "P3442",
+            "nom": "Rustic Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 30.98
+        }
+    ],
+    "date_commande": "2024-12-16T05:05:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "785 Walbridge",
+        "ville": "Alice"
+    }
+}

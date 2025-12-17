@@ -1,0 +1,15 @@
+{
+    "order_id": 108120,
+    "client_id": 2886,
+    "produits": [
+        {
+            "produit_id": "P7254",
+            "nom": "Fantastic Frozen Table",
+            "quantite": 4,
+            "prix_unitaire": 259.83
+        }
+    ],
+    "date_commande": "2023-07-03T18:05:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

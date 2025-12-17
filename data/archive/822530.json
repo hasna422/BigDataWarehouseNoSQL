@@ -1,0 +1,31 @@
+{
+    "order_id": 822530,
+    "client_id": 2717,
+    "produits": [
+        {
+            "produit_id": "P1915",
+            "nom": "Refined Plastic Gloves",
+            "quantite": 3,
+            "prix_unitaire": 192.63
+        },
+        {
+            "produit_id": "P5316",
+            "nom": "Generic Steel Chair",
+            "quantite": 1,
+            "prix_unitaire": 134.47
+        },
+        {
+            "produit_id": "P3608",
+            "nom": "For repair Rubber Mouse",
+            "quantite": 1,
+            "prix_unitaire": 153.82
+        }
+    ],
+    "date_commande": "2024-06-26T22:27:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "665 Weldon",
+        "ville": "Dinuba"
+    }
+}

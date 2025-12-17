@@ -1,0 +1,19 @@
+{
+    "order_id": 444153,
+    "client_id": 6784,
+    "produits": [
+        {
+            "produit_id": "P5634",
+            "nom": "Generic Fresh Chair",
+            "quantite": 3,
+            "prix_unitaire": 417.75
+        }
+    ],
+    "date_commande": "2023-10-08T19:08:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "614 Sagamore",
+        "ville": "Somerville"
+    }
+}

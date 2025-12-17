@@ -1,0 +1,19 @@
+{
+    "order_id": 892486,
+    "client_id": 2771,
+    "produits": [
+        {
+            "produit_id": "P0898",
+            "nom": "Used Frozen Chips",
+            "quantite": 4,
+            "prix_unitaire": 281.23
+        }
+    ],
+    "date_commande": "2024-06-13T11:56:28",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1055 Brussels",
+        "ville": "Carrollton"
+    }
+}

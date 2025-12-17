@@ -1,0 +1,19 @@
+{
+    "order_id": 474674,
+    "client_id": 3421,
+    "produits": [
+        {
+            "produit_id": "P6189",
+            "nom": "Handcrafted Metal Mouse",
+            "quantite": 5,
+            "prix_unitaire": 251.95
+        }
+    ],
+    "date_commande": "2023-07-23T01:00:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "432 Naglee",
+        "ville": "Palatine"
+    }
+}

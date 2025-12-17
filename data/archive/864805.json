@@ -1,0 +1,31 @@
+{
+    "order_id": 864805,
+    "client_id": 7477,
+    "produits": [
+        {
+            "produit_id": "P4356",
+            "nom": "Practical Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 185.27
+        },
+        {
+            "produit_id": "P7210",
+            "nom": "Used Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 325.44
+        },
+        {
+            "produit_id": "P6088",
+            "nom": "Gently Used Steel Chicken",
+            "quantite": 3,
+            "prix_unitaire": 26.2
+        }
+    ],
+    "date_commande": "2024-10-28T09:41:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "139 Alemany",
+        "ville": "Mattoon"
+    }
+}

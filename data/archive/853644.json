@@ -1,0 +1,31 @@
+{
+    "order_id": 853644,
+    "client_id": 7532,
+    "produits": [
+        {
+            "produit_id": "P1029",
+            "nom": "Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 435.83
+        },
+        {
+            "produit_id": "P3235",
+            "nom": "Generic Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 416.99
+        },
+        {
+            "produit_id": "P1395",
+            "nom": "Refined Table",
+            "quantite": 4,
+            "prix_unitaire": 128.74
+        }
+    ],
+    "date_commande": "2025-05-14T00:47:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "769 Avenue M",
+        "ville": "El Paso"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 821460,
+    "client_id": 2091,
+    "produits": [
+        {
+            "produit_id": "P7268",
+            "nom": "Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 393.32
+        },
+        {
+            "produit_id": "P2834",
+            "nom": "Gently Used Fresh Bacon",
+            "quantite": 5,
+            "prix_unitaire": 451.48
+        }
+    ],
+    "date_commande": "2023-06-14T23:41:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1018 Las Villas",
+        "ville": "Hattiesburg"
+    }
+}

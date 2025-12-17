@@ -1,0 +1,27 @@
+{
+    "order_id": 206813,
+    "client_id": 2488,
+    "produits": [
+        {
+            "produit_id": "P8499",
+            "nom": "Used Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 131.81
+        },
+        {
+            "produit_id": "P0704",
+            "nom": "Incredible Cotton Table",
+            "quantite": 5,
+            "prix_unitaire": 206.9
+        },
+        {
+            "produit_id": "P0676",
+            "nom": "Handmade Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 226.65
+        }
+    ],
+    "date_commande": "2023-07-13T13:04:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

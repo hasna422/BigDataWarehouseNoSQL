@@ -1,0 +1,27 @@
+{
+    "order_id": 438113,
+    "client_id": 8450,
+    "produits": [
+        {
+            "produit_id": "P5069",
+            "nom": "Fantastic Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 349.01
+        },
+        {
+            "produit_id": "P8435",
+            "nom": "Incredible Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 206.35
+        },
+        {
+            "produit_id": "P9467",
+            "nom": "Intelligent Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 355.78
+        }
+    ],
+    "date_commande": "2024-03-21T11:15:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

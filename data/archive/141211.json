@@ -1,0 +1,21 @@
+{
+    "order_id": 141211,
+    "client_id": 4086,
+    "produits": [
+        {
+            "produit_id": "P5403",
+            "nom": "Used Soft Table",
+            "quantite": 5,
+            "prix_unitaire": 94.79
+        },
+        {
+            "produit_id": "P9732",
+            "nom": "Awesome Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 174.44
+        }
+    ],
+    "date_commande": "2023-09-14T10:16:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

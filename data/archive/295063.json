@@ -1,0 +1,27 @@
+{
+    "order_id": 295063,
+    "client_id": 7287,
+    "produits": [
+        {
+            "produit_id": "P3983",
+            "nom": "Practical Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 183.8
+        },
+        {
+            "produit_id": "P8788",
+            "nom": "New Plastic Chips",
+            "quantite": 4,
+            "prix_unitaire": 300.67
+        },
+        {
+            "produit_id": "P7847",
+            "nom": "Small Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 497.04
+        }
+    ],
+    "date_commande": "2024-01-10T12:31:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

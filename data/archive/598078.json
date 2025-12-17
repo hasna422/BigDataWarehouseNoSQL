@@ -1,0 +1,27 @@
+{
+    "order_id": 598078,
+    "client_id": 6756,
+    "produits": [
+        {
+            "produit_id": "P6803",
+            "nom": "Practical Wooden Cheese",
+            "quantite": 4,
+            "prix_unitaire": 36.41
+        },
+        {
+            "produit_id": "P9415",
+            "nom": "Tasty Plastic Table",
+            "quantite": 2,
+            "prix_unitaire": 458.25
+        },
+        {
+            "produit_id": "P9304",
+            "nom": "Small Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 182.81
+        }
+    ],
+    "date_commande": "2025-03-23T08:04:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

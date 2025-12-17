@@ -1,0 +1,25 @@
+{
+    "order_id": 990004,
+    "client_id": 8092,
+    "produits": [
+        {
+            "produit_id": "P7394",
+            "nom": "Handcrafted Wooden Mouse",
+            "quantite": 5,
+            "prix_unitaire": 123.03
+        },
+        {
+            "produit_id": "P4562",
+            "nom": "Unbranded Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 105.92
+        }
+    ],
+    "date_commande": "2024-05-24T08:16:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1077 Eastwood",
+        "ville": "Edinburg"
+    }
+}

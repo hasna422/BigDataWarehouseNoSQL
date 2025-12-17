@@ -1,0 +1,25 @@
+{
+    "order_id": 438541,
+    "client_id": 4492,
+    "produits": [
+        {
+            "produit_id": "P9119",
+            "nom": "Small Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 55.37
+        },
+        {
+            "produit_id": "P1682",
+            "nom": "Refined Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 177.47
+        }
+    ],
+    "date_commande": "2024-12-16T03:21:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "734 Morse",
+        "ville": "Fairfield"
+    }
+}

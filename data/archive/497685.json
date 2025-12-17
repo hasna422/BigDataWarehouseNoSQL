@@ -1,0 +1,19 @@
+{
+    "order_id": 497685,
+    "client_id": 7475,
+    "produits": [
+        {
+            "produit_id": "P3265",
+            "nom": "Sleek Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 395.42
+        }
+    ],
+    "date_commande": "2025-01-21T02:29:47",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "559 Richardson",
+        "ville": "Davie"
+    }
+}

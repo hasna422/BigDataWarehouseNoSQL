@@ -1,0 +1,19 @@
+{
+    "order_id": 725598,
+    "client_id": 3155,
+    "produits": [
+        {
+            "produit_id": "P9791",
+            "nom": "Awesome Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 62.06
+        }
+    ],
+    "date_commande": "2024-02-06T16:14:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "427 Nellie",
+        "ville": "Eagle Mountain"
+    }
+}

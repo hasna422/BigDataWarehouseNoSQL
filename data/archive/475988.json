@@ -1,0 +1,21 @@
+{
+    "order_id": 475988,
+    "client_id": 5494,
+    "produits": [
+        {
+            "produit_id": "P8065",
+            "nom": "Rubber Shirt",
+            "quantite": 4,
+            "prix_unitaire": 91.29
+        },
+        {
+            "produit_id": "P0858",
+            "nom": "Tasty Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 325.3
+        }
+    ],
+    "date_commande": "2024-07-18T17:03:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

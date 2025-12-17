@@ -1,0 +1,21 @@
+{
+    "order_id": 418566,
+    "client_id": 6973,
+    "produits": [
+        {
+            "produit_id": "P1949",
+            "nom": "Licensed Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 340.97
+        },
+        {
+            "produit_id": "P9000",
+            "nom": "Unbranded Concrete Cheese",
+            "quantite": 4,
+            "prix_unitaire": 8.96
+        }
+    ],
+    "date_commande": "2025-01-26T14:41:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

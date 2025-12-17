@@ -1,0 +1,19 @@
+{
+    "order_id": 517182,
+    "client_id": 6152,
+    "produits": [
+        {
+            "produit_id": "P6507",
+            "nom": "Table",
+            "quantite": 3,
+            "prix_unitaire": 247.56
+        }
+    ],
+    "date_commande": "2024-10-07T03:57:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1165 Lee",
+        "ville": "Blacksburg"
+    }
+}

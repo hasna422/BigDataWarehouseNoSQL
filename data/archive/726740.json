@@ -1,0 +1,25 @@
+{
+    "order_id": 726740,
+    "client_id": 8595,
+    "produits": [
+        {
+            "produit_id": "P4537",
+            "nom": "Rustic Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 430.27
+        },
+        {
+            "produit_id": "P8751",
+            "nom": "Practical Metal Tuna",
+            "quantite": 3,
+            "prix_unitaire": 388.73
+        }
+    ],
+    "date_commande": "2023-12-12T02:16:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1332 Treat",
+        "ville": "Glendora"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 724100,
+    "client_id": 5460,
+    "produits": [
+        {
+            "produit_id": "P2484",
+            "nom": "Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 355.66
+        },
+        {
+            "produit_id": "P8654",
+            "nom": "Fresh Tuna",
+            "quantite": 2,
+            "prix_unitaire": 379.08
+        }
+    ],
+    "date_commande": "2024-07-30T06:33:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "948 Spears",
+        "ville": "Elyria"
+    }
+}

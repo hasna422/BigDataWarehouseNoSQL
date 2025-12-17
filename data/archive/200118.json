@@ -1,0 +1,25 @@
+{
+    "order_id": 200118,
+    "client_id": 7720,
+    "produits": [
+        {
+            "produit_id": "P1617",
+            "nom": "Small Concrete Pizza",
+            "quantite": 2,
+            "prix_unitaire": 118.96
+        },
+        {
+            "produit_id": "P7260",
+            "nom": "Sleek Chicken",
+            "quantite": 2,
+            "prix_unitaire": 13.26
+        }
+    ],
+    "date_commande": "2024-09-11T13:17:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1400 Vicente",
+        "ville": "East Chicago"
+    }
+}

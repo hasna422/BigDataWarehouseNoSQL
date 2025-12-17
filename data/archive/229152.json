@@ -1,0 +1,15 @@
+{
+    "order_id": 229152,
+    "client_id": 3690,
+    "produits": [
+        {
+            "produit_id": "P9698",
+            "nom": "Used Soft Soap",
+            "quantite": 4,
+            "prix_unitaire": 42.23
+        }
+    ],
+    "date_commande": "2024-05-24T08:17:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

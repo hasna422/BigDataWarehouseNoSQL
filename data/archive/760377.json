@@ -1,0 +1,15 @@
+{
+    "order_id": 760377,
+    "client_id": 9748,
+    "produits": [
+        {
+            "produit_id": "P6298",
+            "nom": "Tasty Soft Towels",
+            "quantite": 1,
+            "prix_unitaire": 450.07
+        }
+    ],
+    "date_commande": "2023-12-29T01:03:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

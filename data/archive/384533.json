@@ -1,0 +1,25 @@
+{
+    "order_id": 384533,
+    "client_id": 9656,
+    "produits": [
+        {
+            "produit_id": "P7133",
+            "nom": "For repair Cotton Computer",
+            "quantite": 3,
+            "prix_unitaire": 150.84
+        },
+        {
+            "produit_id": "P2520",
+            "nom": "Generic Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 253.65
+        }
+    ],
+    "date_commande": "2024-05-27T02:39:39",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "51 Montalvo",
+        "ville": "Bozeman"
+    }
+}

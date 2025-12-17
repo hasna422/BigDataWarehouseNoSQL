@@ -1,0 +1,21 @@
+{
+    "order_id": 694509,
+    "client_id": 1049,
+    "produits": [
+        {
+            "produit_id": "P0796",
+            "nom": "Gorgeous Cotton Pizza",
+            "quantite": 5,
+            "prix_unitaire": 58.81
+        },
+        {
+            "produit_id": "P2606",
+            "nom": "Tasty Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 453.01
+        }
+    ],
+    "date_commande": "2023-11-16T09:01:57",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

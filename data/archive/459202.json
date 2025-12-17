@@ -1,0 +1,15 @@
+{
+    "order_id": 459202,
+    "client_id": 9098,
+    "produits": [
+        {
+            "produit_id": "P4039",
+            "nom": "Rubber Pants",
+            "quantite": 1,
+            "prix_unitaire": 166.89
+        }
+    ],
+    "date_commande": "2023-12-12T02:27:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

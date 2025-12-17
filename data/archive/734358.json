@@ -1,0 +1,27 @@
+{
+    "order_id": 734358,
+    "client_id": 6234,
+    "produits": [
+        {
+            "produit_id": "P1928",
+            "nom": "Generic Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 329.18
+        },
+        {
+            "produit_id": "P6230",
+            "nom": "Refined Frozen Ball",
+            "quantite": 4,
+            "prix_unitaire": 26.72
+        },
+        {
+            "produit_id": "P5353",
+            "nom": "Small Plastic Gloves",
+            "quantite": 3,
+            "prix_unitaire": 11.11
+        }
+    ],
+    "date_commande": "2023-12-13T13:58:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

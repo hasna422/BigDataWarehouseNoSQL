@@ -1,0 +1,25 @@
+{
+    "order_id": 723945,
+    "client_id": 5702,
+    "produits": [
+        {
+            "produit_id": "P2424",
+            "nom": "Gorgeous Granite Sausages",
+            "quantite": 1,
+            "prix_unitaire": 240.76
+        },
+        {
+            "produit_id": "P8861",
+            "nom": "Unbranded Concrete Ball",
+            "quantite": 5,
+            "prix_unitaire": 73.89
+        }
+    ],
+    "date_commande": "2024-03-04T14:57:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "3 Gilroy",
+        "ville": "Carrollton"
+    }
+}

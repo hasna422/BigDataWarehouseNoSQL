@@ -1,0 +1,19 @@
+{
+    "order_id": 548116,
+    "client_id": 9912,
+    "produits": [
+        {
+            "produit_id": "P5640",
+            "nom": "Rustic Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 148.72
+        }
+    ],
+    "date_commande": "2025-01-02T09:54:30",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "81 Grove",
+        "ville": "Mason City"
+    }
+}

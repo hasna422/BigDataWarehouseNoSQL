@@ -1,0 +1,15 @@
+{
+    "order_id": 464216,
+    "client_id": 7761,
+    "produits": [
+        {
+            "produit_id": "P3984",
+            "nom": "Awesome Fresh Fish",
+            "quantite": 3,
+            "prix_unitaire": 6.14
+        }
+    ],
+    "date_commande": "2024-08-31T19:44:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

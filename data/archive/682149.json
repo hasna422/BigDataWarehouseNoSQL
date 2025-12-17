@@ -1,0 +1,27 @@
+{
+    "order_id": 682149,
+    "client_id": 1146,
+    "produits": [
+        {
+            "produit_id": "P7394",
+            "nom": "Sleek Concrete Fish",
+            "quantite": 1,
+            "prix_unitaire": 96.47
+        },
+        {
+            "produit_id": "P5555",
+            "nom": "Sleek Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 230.73
+        },
+        {
+            "produit_id": "P3423",
+            "nom": "Incredible Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 22.93
+        }
+    ],
+    "date_commande": "2024-04-18T18:53:56",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

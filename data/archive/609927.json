@@ -1,0 +1,19 @@
+{
+    "order_id": 609927,
+    "client_id": 8746,
+    "produits": [
+        {
+            "produit_id": "P3631",
+            "nom": "Small Bike",
+            "quantite": 1,
+            "prix_unitaire": 85.5
+        }
+    ],
+    "date_commande": "2025-05-06T20:54:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1228 Brazil",
+        "ville": "El Monte"
+    }
+}

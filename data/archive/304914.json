@@ -1,0 +1,19 @@
+{
+    "order_id": 304914,
+    "client_id": 5341,
+    "produits": [
+        {
+            "produit_id": "P9567",
+            "nom": "Refined Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 188.68
+        }
+    ],
+    "date_commande": "2025-01-25T22:41:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "59 Bartlett",
+        "ville": "New Iberia"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 809710,
+    "client_id": 2469,
+    "produits": [
+        {
+            "produit_id": "P0689",
+            "nom": "Gorgeous Chicken",
+            "quantite": 1,
+            "prix_unitaire": 103.73
+        },
+        {
+            "produit_id": "P4839",
+            "nom": "Unbranded Cotton Pants",
+            "quantite": 5,
+            "prix_unitaire": 138.6
+        },
+        {
+            "produit_id": "P2583",
+            "nom": "Intelligent Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 36.27
+        }
+    ],
+    "date_commande": "2024-08-17T01:36:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "329 Bromley",
+        "ville": "Douglas"
+    }
+}

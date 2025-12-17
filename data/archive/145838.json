@@ -1,0 +1,19 @@
+{
+    "order_id": 145838,
+    "client_id": 2808,
+    "produits": [
+        {
+            "produit_id": "P3101",
+            "nom": "Generic Steel Car",
+            "quantite": 2,
+            "prix_unitaire": 107.87
+        }
+    ],
+    "date_commande": "2024-04-11T17:11:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "391 Mccarthy",
+        "ville": "Cartersville"
+    }
+}

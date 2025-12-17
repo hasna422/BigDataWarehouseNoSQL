@@ -1,0 +1,19 @@
+{
+    "order_id": 639292,
+    "client_id": 7109,
+    "produits": [
+        {
+            "produit_id": "P8507",
+            "nom": "New Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 146.87
+        }
+    ],
+    "date_commande": "2023-08-16T01:40:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "25 Arbol",
+        "ville": "Tullahoma"
+    }
+}

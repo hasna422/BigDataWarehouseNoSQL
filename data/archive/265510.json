@@ -1,0 +1,19 @@
+{
+    "order_id": 265510,
+    "client_id": 4865,
+    "produits": [
+        {
+            "produit_id": "P5396",
+            "nom": "Handcrafted Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 199.94
+        }
+    ],
+    "date_commande": "2023-12-30T21:05:12",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "831 Karen",
+        "ville": "Tracy"
+    }
+}

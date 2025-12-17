@@ -1,0 +1,15 @@
+{
+    "order_id": 359405,
+    "client_id": 7721,
+    "produits": [
+        {
+            "produit_id": "P4071",
+            "nom": "Sleek Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 353.15
+        }
+    ],
+    "date_commande": "2023-12-09T21:42:01",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

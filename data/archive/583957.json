@@ -1,0 +1,19 @@
+{
+    "order_id": 583957,
+    "client_id": 7933,
+    "produits": [
+        {
+            "produit_id": "P1342",
+            "nom": "Practical Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 79.2
+        }
+    ],
+    "date_commande": "2024-07-01T09:40:55",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "502 Claude",
+        "ville": "Wausau"
+    }
+}

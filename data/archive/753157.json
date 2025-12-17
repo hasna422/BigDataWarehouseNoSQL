@@ -1,0 +1,25 @@
+{
+    "order_id": 753157,
+    "client_id": 6017,
+    "produits": [
+        {
+            "produit_id": "P7639",
+            "nom": "New Plastic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 203.11
+        },
+        {
+            "produit_id": "P9633",
+            "nom": "Frozen Tuna",
+            "quantite": 1,
+            "prix_unitaire": 90.6
+        }
+    ],
+    "date_commande": "2024-06-07T19:28:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "177 Belmont",
+        "ville": "Greeley"
+    }
+}

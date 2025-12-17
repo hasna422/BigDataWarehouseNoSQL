@@ -1,0 +1,19 @@
+{
+    "order_id": 627204,
+    "client_id": 2048,
+    "produits": [
+        {
+            "produit_id": "P9621",
+            "nom": "Handcrafted Chips",
+            "quantite": 2,
+            "prix_unitaire": 392.41
+        }
+    ],
+    "date_commande": "2024-10-25T01:35:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "213 Oscar",
+        "ville": "Mooresville"
+    }
+}

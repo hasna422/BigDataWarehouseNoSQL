@@ -1,0 +1,31 @@
+{
+    "order_id": 951641,
+    "client_id": 8646,
+    "produits": [
+        {
+            "produit_id": "P2259",
+            "nom": "Fantastic Granite Sausages",
+            "quantite": 4,
+            "prix_unitaire": 363.89
+        },
+        {
+            "produit_id": "P7811",
+            "nom": "Gently Used Concrete Pizza",
+            "quantite": 4,
+            "prix_unitaire": 74.07
+        },
+        {
+            "produit_id": "P0705",
+            "nom": "Rustic Rubber Mouse",
+            "quantite": 3,
+            "prix_unitaire": 28.62
+        }
+    ],
+    "date_commande": "2024-09-29T04:23:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "210 Montalvo",
+        "ville": "Goldsboro"
+    }
+}

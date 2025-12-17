@@ -1,0 +1,31 @@
+{
+    "order_id": 630594,
+    "client_id": 8674,
+    "produits": [
+        {
+            "produit_id": "P1413",
+            "nom": "Unbranded Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 246.61
+        },
+        {
+            "produit_id": "P3463",
+            "nom": "Small Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 398.12
+        },
+        {
+            "produit_id": "P1579",
+            "nom": "Frozen Cheese",
+            "quantite": 2,
+            "prix_unitaire": 445.36
+        }
+    ],
+    "date_commande": "2024-03-15T03:54:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "257 El Mirasol",
+        "ville": "Pleasantville"
+    }
+}

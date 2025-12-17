@@ -1,0 +1,21 @@
+{
+    "order_id": 983114,
+    "client_id": 2044,
+    "produits": [
+        {
+            "produit_id": "P6732",
+            "nom": "Tasty Soft Computer",
+            "quantite": 2,
+            "prix_unitaire": 161.61
+        },
+        {
+            "produit_id": "P1814",
+            "nom": "Rustic Steel Salad",
+            "quantite": 1,
+            "prix_unitaire": 484.18
+        }
+    ],
+    "date_commande": "2025-02-18T23:37:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

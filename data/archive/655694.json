@@ -1,0 +1,21 @@
+{
+    "order_id": 655694,
+    "client_id": 8409,
+    "produits": [
+        {
+            "produit_id": "P4256",
+            "nom": "Handcrafted Fresh Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 333.98
+        },
+        {
+            "produit_id": "P4649",
+            "nom": "Licensed Chicken",
+            "quantite": 5,
+            "prix_unitaire": 408.28
+        }
+    ],
+    "date_commande": "2024-02-21T18:06:52",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

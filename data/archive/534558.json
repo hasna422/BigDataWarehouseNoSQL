@@ -1,0 +1,19 @@
+{
+    "order_id": 534558,
+    "client_id": 1359,
+    "produits": [
+        {
+            "produit_id": "P2868",
+            "nom": "Incredible Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 414.45
+        }
+    ],
+    "date_commande": "2024-08-29T21:01:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "476 Bernice Rodgers",
+        "ville": "Beverly Hills"
+    }
+}

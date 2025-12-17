@@ -1,0 +1,27 @@
+{
+    "order_id": 923609,
+    "client_id": 1749,
+    "produits": [
+        {
+            "produit_id": "P9332",
+            "nom": "Rustic Granite Salad",
+            "quantite": 3,
+            "prix_unitaire": 458.41
+        },
+        {
+            "produit_id": "P5892",
+            "nom": "Generic Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 51.22
+        },
+        {
+            "produit_id": "P5716",
+            "nom": "Handcrafted Fresh Table",
+            "quantite": 2,
+            "prix_unitaire": 434.47
+        }
+    ],
+    "date_commande": "2024-01-07T02:46:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

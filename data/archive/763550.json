@@ -1,0 +1,31 @@
+{
+    "order_id": 763550,
+    "client_id": 3130,
+    "produits": [
+        {
+            "produit_id": "P8255",
+            "nom": "Licensed Metal Bike",
+            "quantite": 5,
+            "prix_unitaire": 415.02
+        },
+        {
+            "produit_id": "P0805",
+            "nom": "Incredible Plastic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 455.16
+        },
+        {
+            "produit_id": "P5072",
+            "nom": "Awesome Granite Car",
+            "quantite": 1,
+            "prix_unitaire": 335.6
+        }
+    ],
+    "date_commande": "2023-06-07T09:15:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "691 Annie",
+        "ville": "Havelock"
+    }
+}

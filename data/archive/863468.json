@@ -1,0 +1,19 @@
+{
+    "order_id": 863468,
+    "client_id": 9014,
+    "produits": [
+        {
+            "produit_id": "P6095",
+            "nom": "Used Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 284.02
+        }
+    ],
+    "date_commande": "2025-04-03T22:41:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "165 Stoneybrook",
+        "ville": "Kennesaw"
+    }
+}

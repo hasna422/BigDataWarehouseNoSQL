@@ -1,0 +1,19 @@
+{
+    "order_id": 732285,
+    "client_id": 5558,
+    "produits": [
+        {
+            "produit_id": "P0117",
+            "nom": "Generic Table",
+            "quantite": 2,
+            "prix_unitaire": 222.34
+        }
+    ],
+    "date_commande": "2024-05-03T19:00:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "671 Onondaga",
+        "ville": "Gilbert"
+    }
+}

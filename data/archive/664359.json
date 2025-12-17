@@ -1,0 +1,31 @@
+{
+    "order_id": 664359,
+    "client_id": 6843,
+    "produits": [
+        {
+            "produit_id": "P1501",
+            "nom": "Awesome Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 85.17
+        },
+        {
+            "produit_id": "P6853",
+            "nom": "Gorgeous Plastic Salad",
+            "quantite": 1,
+            "prix_unitaire": 203.59
+        },
+        {
+            "produit_id": "P9231",
+            "nom": "Ergonomic Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 424.31
+        }
+    ],
+    "date_commande": "2024-06-14T14:44:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "225 Seville",
+        "ville": "Thomasville"
+    }
+}

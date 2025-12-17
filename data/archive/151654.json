@@ -1,0 +1,25 @@
+{
+    "order_id": 151654,
+    "client_id": 8543,
+    "produits": [
+        {
+            "produit_id": "P6234",
+            "nom": "Gorgeous Shoes",
+            "quantite": 3,
+            "prix_unitaire": 114.28
+        },
+        {
+            "produit_id": "P4868",
+            "nom": "Handmade Pants",
+            "quantite": 5,
+            "prix_unitaire": 71.96
+        }
+    ],
+    "date_commande": "2025-05-24T00:15:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1006 Guy",
+        "ville": "El Monte"
+    }
+}

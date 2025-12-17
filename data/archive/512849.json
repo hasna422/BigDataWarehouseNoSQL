@@ -1,0 +1,19 @@
+{
+    "order_id": 512849,
+    "client_id": 6016,
+    "produits": [
+        {
+            "produit_id": "P7184",
+            "nom": "Gorgeous Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 408.09
+        }
+    ],
+    "date_commande": "2023-06-22T12:50:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "833 Ogden",
+        "ville": "Pittsburgh"
+    }
+}

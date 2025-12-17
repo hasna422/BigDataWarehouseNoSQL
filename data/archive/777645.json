@@ -1,0 +1,25 @@
+{
+    "order_id": 777645,
+    "client_id": 1895,
+    "produits": [
+        {
+            "produit_id": "P9361",
+            "nom": "Tasty Frozen Salad",
+            "quantite": 1,
+            "prix_unitaire": 260.74
+        },
+        {
+            "produit_id": "P0767",
+            "nom": "Refined Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 17.51
+        }
+    ],
+    "date_commande": "2023-11-10T14:21:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1109 Vale",
+        "ville": "Grand Forks"
+    }
+}

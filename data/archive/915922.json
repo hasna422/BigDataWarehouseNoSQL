@@ -1,0 +1,15 @@
+{
+    "order_id": 915922,
+    "client_id": 5885,
+    "produits": [
+        {
+            "produit_id": "P0156",
+            "nom": "Rustic Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 452.11
+        }
+    ],
+    "date_commande": "2024-09-25T00:50:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

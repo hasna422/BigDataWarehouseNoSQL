@@ -1,0 +1,19 @@
+{
+    "order_id": 657284,
+    "client_id": 1888,
+    "produits": [
+        {
+            "produit_id": "P7673",
+            "nom": "Rustic Rubber Bike",
+            "quantite": 1,
+            "prix_unitaire": 162.47
+        }
+    ],
+    "date_commande": "2024-02-04T11:01:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "530 Fort Mason",
+        "ville": "Easley"
+    }
+}

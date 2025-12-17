@@ -1,0 +1,19 @@
+{
+    "order_id": 252266,
+    "client_id": 9270,
+    "produits": [
+        {
+            "produit_id": "P8419",
+            "nom": "Sleek Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 56.48
+        }
+    ],
+    "date_commande": "2025-04-09T08:28:23",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "565 El Camino Del Mar",
+        "ville": "Vernon Hills"
+    }
+}

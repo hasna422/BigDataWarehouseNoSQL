@@ -1,0 +1,31 @@
+{
+    "order_id": 698332,
+    "client_id": 3372,
+    "produits": [
+        {
+            "produit_id": "P6304",
+            "nom": "Handcrafted Frozen Car",
+            "quantite": 4,
+            "prix_unitaire": 394.11
+        },
+        {
+            "produit_id": "P2079",
+            "nom": "New Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 451.6
+        },
+        {
+            "produit_id": "P1394",
+            "nom": "Tasty Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 378.81
+        }
+    ],
+    "date_commande": "2025-02-18T07:30:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "895 Saint Germain",
+        "ville": "Flint"
+    }
+}

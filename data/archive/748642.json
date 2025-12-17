@@ -1,0 +1,31 @@
+{
+    "order_id": 748642,
+    "client_id": 9701,
+    "produits": [
+        {
+            "produit_id": "P7803",
+            "nom": "Used Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 206.45
+        },
+        {
+            "produit_id": "P2207",
+            "nom": "Gently Used Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 82.42
+        },
+        {
+            "produit_id": "P9069",
+            "nom": "Gorgeous Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 284.9
+        }
+    ],
+    "date_commande": "2023-07-20T20:37:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1357 Walkway",
+        "ville": "Pomona"
+    }
+}

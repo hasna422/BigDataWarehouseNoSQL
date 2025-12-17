@@ -1,0 +1,19 @@
+{
+    "order_id": 217650,
+    "client_id": 7787,
+    "produits": [
+        {
+            "produit_id": "P6194",
+            "nom": "Used Steel Chair",
+            "quantite": 3,
+            "prix_unitaire": 289.11
+        }
+    ],
+    "date_commande": "2025-02-04T20:17:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "885 Presidio",
+        "ville": "Pullman"
+    }
+}

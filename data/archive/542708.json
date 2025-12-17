@@ -1,0 +1,25 @@
+{
+    "order_id": 542708,
+    "client_id": 1231,
+    "produits": [
+        {
+            "produit_id": "P7130",
+            "nom": "Gorgeous Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 60.68
+        },
+        {
+            "produit_id": "P5259",
+            "nom": "Handcrafted Cotton Chicken",
+            "quantite": 3,
+            "prix_unitaire": 427.11
+        }
+    ],
+    "date_commande": "2023-11-29T18:16:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "329 Grattan",
+        "ville": "Warrensburg"
+    }
+}

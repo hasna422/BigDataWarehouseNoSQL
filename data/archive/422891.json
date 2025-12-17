@@ -1,0 +1,27 @@
+{
+    "order_id": 422891,
+    "client_id": 3326,
+    "produits": [
+        {
+            "produit_id": "P9610",
+            "nom": "Licensed Rubber Chicken",
+            "quantite": 4,
+            "prix_unitaire": 402.09
+        },
+        {
+            "produit_id": "P4996",
+            "nom": "Intelligent Steel Shirt",
+            "quantite": 3,
+            "prix_unitaire": 322.19
+        },
+        {
+            "produit_id": "P0643",
+            "nom": "Practical Computer",
+            "quantite": 3,
+            "prix_unitaire": 441.28
+        }
+    ],
+    "date_commande": "2024-03-06T20:52:21",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

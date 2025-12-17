@@ -1,0 +1,25 @@
+{
+    "order_id": 854805,
+    "client_id": 2058,
+    "produits": [
+        {
+            "produit_id": "P3943",
+            "nom": "Tasty Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 323.53
+        },
+        {
+            "produit_id": "P6232",
+            "nom": "Practical Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 220.02
+        }
+    ],
+    "date_commande": "2024-03-11T12:33:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "334 Tuscany",
+        "ville": "Abilene"
+    }
+}

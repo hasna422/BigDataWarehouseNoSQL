@@ -1,0 +1,31 @@
+{
+    "order_id": 359017,
+    "client_id": 1787,
+    "produits": [
+        {
+            "produit_id": "P6055",
+            "nom": "Awesome Towels",
+            "quantite": 3,
+            "prix_unitaire": 100.68
+        },
+        {
+            "produit_id": "P6224",
+            "nom": "Tasty Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 65.06
+        },
+        {
+            "produit_id": "P1033",
+            "nom": "Refined Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 162.3
+        }
+    ],
+    "date_commande": "2025-05-11T23:04:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "304 Nordhoff",
+        "ville": "Lynchburg"
+    }
+}

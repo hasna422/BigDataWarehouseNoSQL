@@ -1,0 +1,21 @@
+{
+    "order_id": 797090,
+    "client_id": 2120,
+    "produits": [
+        {
+            "produit_id": "P6999",
+            "nom": "Fantastic Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 236.97
+        },
+        {
+            "produit_id": "P3226",
+            "nom": "Fantastic Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 17.72
+        }
+    ],
+    "date_commande": "2024-05-18T20:09:41",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 689570,
+    "client_id": 2007,
+    "produits": [
+        {
+            "produit_id": "P2467",
+            "nom": "For repair Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 37.46
+        },
+        {
+            "produit_id": "P3382",
+            "nom": "Intelligent Wooden Chicken",
+            "quantite": 1,
+            "prix_unitaire": 387.07
+        },
+        {
+            "produit_id": "P3023",
+            "nom": "Sleek Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 127.27
+        }
+    ],
+    "date_commande": "2023-10-06T11:26:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

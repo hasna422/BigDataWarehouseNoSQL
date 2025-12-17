@@ -1,0 +1,15 @@
+{
+    "order_id": 262374,
+    "client_id": 6751,
+    "produits": [
+        {
+            "produit_id": "P3128",
+            "nom": "Used Soap",
+            "quantite": 2,
+            "prix_unitaire": 101.51
+        }
+    ],
+    "date_commande": "2024-09-22T11:10:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

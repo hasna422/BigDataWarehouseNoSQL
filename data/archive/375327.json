@@ -1,0 +1,25 @@
+{
+    "order_id": 375327,
+    "client_id": 9874,
+    "produits": [
+        {
+            "produit_id": "P5386",
+            "nom": "Sleek Plastic Cheese",
+            "quantite": 4,
+            "prix_unitaire": 83.08
+        },
+        {
+            "produit_id": "P9700",
+            "nom": "Awesome Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 346.41
+        }
+    ],
+    "date_commande": "2024-10-14T18:12:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "85 Sea View",
+        "ville": "Seal Beach"
+    }
+}

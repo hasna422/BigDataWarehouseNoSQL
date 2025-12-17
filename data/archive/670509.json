@@ -1,0 +1,27 @@
+{
+    "order_id": 670509,
+    "client_id": 7116,
+    "produits": [
+        {
+            "produit_id": "P6452",
+            "nom": "Sleek Metal Shirt",
+            "quantite": 2,
+            "prix_unitaire": 5.1
+        },
+        {
+            "produit_id": "P5047",
+            "nom": "Practical Chair",
+            "quantite": 2,
+            "prix_unitaire": 456.62
+        },
+        {
+            "produit_id": "P7267",
+            "nom": "Refined Fish",
+            "quantite": 4,
+            "prix_unitaire": 202.75
+        }
+    ],
+    "date_commande": "2023-11-30T07:30:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

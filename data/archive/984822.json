@@ -1,0 +1,19 @@
+{
+    "order_id": 984822,
+    "client_id": 9413,
+    "produits": [
+        {
+            "produit_id": "P5102",
+            "nom": "Concrete Gloves",
+            "quantite": 2,
+            "prix_unitaire": 14.2
+        }
+    ],
+    "date_commande": "2024-08-06T15:14:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "678 School",
+        "ville": "Winter Park"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 959828,
+    "client_id": 6309,
+    "produits": [
+        {
+            "produit_id": "P9441",
+            "nom": "Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 331.31
+        }
+    ],
+    "date_commande": "2024-02-14T03:49:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1291 Pacific",
+        "ville": "Oakland"
+    }
+}

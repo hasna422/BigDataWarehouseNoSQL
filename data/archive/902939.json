@@ -1,0 +1,19 @@
+{
+    "order_id": 902939,
+    "client_id": 1952,
+    "produits": [
+        {
+            "produit_id": "P0339",
+            "nom": "Sleek Frozen Sausages",
+            "quantite": 1,
+            "prix_unitaire": 298.01
+        }
+    ],
+    "date_commande": "2023-10-26T02:02:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "411 Avenue M",
+        "ville": "Chesapeake"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 694020,
+    "client_id": 2451,
+    "produits": [
+        {
+            "produit_id": "P8251",
+            "nom": "Tasty Pizza",
+            "quantite": 5,
+            "prix_unitaire": 307.58
+        }
+    ],
+    "date_commande": "2024-08-11T15:46:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "27 Potomac",
+        "ville": "Highland"
+    }
+}

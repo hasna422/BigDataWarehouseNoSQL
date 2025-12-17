@@ -1,0 +1,19 @@
+{
+    "order_id": 183138,
+    "client_id": 5583,
+    "produits": [
+        {
+            "produit_id": "P1814",
+            "nom": "Incredible Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 389.23
+        }
+    ],
+    "date_commande": "2024-05-16T03:03:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "149 Great",
+        "ville": "Roy"
+    }
+}

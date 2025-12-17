@@ -1,0 +1,31 @@
+{
+    "order_id": 567225,
+    "client_id": 7812,
+    "produits": [
+        {
+            "produit_id": "P1860",
+            "nom": "Unbranded Table",
+            "quantite": 2,
+            "prix_unitaire": 130.6
+        },
+        {
+            "produit_id": "P8832",
+            "nom": "Used Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 157.26
+        },
+        {
+            "produit_id": "P3651",
+            "nom": "Intelligent Mouse",
+            "quantite": 2,
+            "prix_unitaire": 482.01
+        }
+    ],
+    "date_commande": "2025-04-23T10:01:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "11 Seventh",
+        "ville": "Bossier City"
+    }
+}

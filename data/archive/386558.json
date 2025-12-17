@@ -1,0 +1,15 @@
+{
+    "order_id": 386558,
+    "client_id": 6761,
+    "produits": [
+        {
+            "produit_id": "P8393",
+            "nom": "Incredible Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 60.78
+        }
+    ],
+    "date_commande": "2023-07-25T02:15:46",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

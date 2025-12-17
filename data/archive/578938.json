@@ -1,0 +1,31 @@
+{
+    "order_id": 578938,
+    "client_id": 8128,
+    "produits": [
+        {
+            "produit_id": "P0269",
+            "nom": "New Plastic Chair",
+            "quantite": 1,
+            "prix_unitaire": 122.87
+        },
+        {
+            "produit_id": "P4585",
+            "nom": "Ergonomic Plastic Soap",
+            "quantite": 1,
+            "prix_unitaire": 294.45
+        },
+        {
+            "produit_id": "P6625",
+            "nom": "New Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 467.69
+        }
+    ],
+    "date_commande": "2023-07-23T10:22:14",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "858 Stigwood",
+        "ville": "St. Matthews"
+    }
+}

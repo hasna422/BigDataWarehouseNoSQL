@@ -1,0 +1,25 @@
+{
+    "order_id": 815499,
+    "client_id": 6903,
+    "produits": [
+        {
+            "produit_id": "P7511",
+            "nom": "Licensed Sausages",
+            "quantite": 5,
+            "prix_unitaire": 286.26
+        },
+        {
+            "produit_id": "P3067",
+            "nom": "Awesome Fresh Shirt",
+            "quantite": 1,
+            "prix_unitaire": 106.28
+        }
+    ],
+    "date_commande": "2024-08-03T10:51:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "43 Emerson",
+        "ville": "West Lafayette"
+    }
+}

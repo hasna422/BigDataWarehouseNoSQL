@@ -1,0 +1,31 @@
+{
+    "order_id": 390755,
+    "client_id": 1324,
+    "produits": [
+        {
+            "produit_id": "P3034",
+            "nom": "Licensed Steel Shirt",
+            "quantite": 4,
+            "prix_unitaire": 286.6
+        },
+        {
+            "produit_id": "P8841",
+            "nom": "Unbranded Metal Salad",
+            "quantite": 2,
+            "prix_unitaire": 306.6
+        },
+        {
+            "produit_id": "P7133",
+            "nom": "Unbranded Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 379.98
+        }
+    ],
+    "date_commande": "2024-11-28T02:03:40",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "306 Harrington",
+        "ville": "Cortland"
+    }
+}

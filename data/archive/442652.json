@@ -1,0 +1,25 @@
+{
+    "order_id": 442652,
+    "client_id": 8051,
+    "produits": [
+        {
+            "produit_id": "P7301",
+            "nom": "Practical Steel Salad",
+            "quantite": 2,
+            "prix_unitaire": 153.68
+        },
+        {
+            "produit_id": "P0418",
+            "nom": "Tasty Granite Shirt",
+            "quantite": 1,
+            "prix_unitaire": 36.47
+        }
+    ],
+    "date_commande": "2023-07-30T08:52:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "57 Varney",
+        "ville": "Lorain"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 151867,
+    "client_id": 1606,
+    "produits": [
+        {
+            "produit_id": "P3675",
+            "nom": "Rustic Soft Salad",
+            "quantite": 2,
+            "prix_unitaire": 478.96
+        },
+        {
+            "produit_id": "P7743",
+            "nom": "Licensed Bacon",
+            "quantite": 3,
+            "prix_unitaire": 128.68
+        },
+        {
+            "produit_id": "P5091",
+            "nom": "Practical Rubber Chair",
+            "quantite": 3,
+            "prix_unitaire": 185.11
+        }
+    ],
+    "date_commande": "2024-02-26T00:55:57",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1209 Austin",
+        "ville": "Bartow"
+    }
+}

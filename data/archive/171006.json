@@ -1,0 +1,21 @@
+{
+    "order_id": 171006,
+    "client_id": 9739,
+    "produits": [
+        {
+            "produit_id": "P9803",
+            "nom": "Licensed Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 37.87
+        },
+        {
+            "produit_id": "P4079",
+            "nom": "Rustic Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 162.43
+        }
+    ],
+    "date_commande": "2024-01-19T15:59:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

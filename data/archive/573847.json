@@ -1,0 +1,25 @@
+{
+    "order_id": 573847,
+    "client_id": 8467,
+    "produits": [
+        {
+            "produit_id": "P2135",
+            "nom": "Tasty Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 373.65
+        },
+        {
+            "produit_id": "P9434",
+            "nom": "Gorgeous Fresh Salad",
+            "quantite": 3,
+            "prix_unitaire": 374.65
+        }
+    ],
+    "date_commande": "2024-01-24T10:27:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "718 Porter",
+        "ville": "Alamogordo"
+    }
+}

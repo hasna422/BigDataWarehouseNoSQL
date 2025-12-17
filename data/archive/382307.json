@@ -1,0 +1,27 @@
+{
+    "order_id": 382307,
+    "client_id": 9719,
+    "produits": [
+        {
+            "produit_id": "P2806",
+            "nom": "Fresh Mouse",
+            "quantite": 3,
+            "prix_unitaire": 458.07
+        },
+        {
+            "produit_id": "P2453",
+            "nom": "Concrete Table",
+            "quantite": 5,
+            "prix_unitaire": 211.09
+        },
+        {
+            "produit_id": "P3617",
+            "nom": "Practical Salad",
+            "quantite": 3,
+            "prix_unitaire": 16.46
+        }
+    ],
+    "date_commande": "2024-01-07T11:27:11",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

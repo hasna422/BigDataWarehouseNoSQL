@@ -1,0 +1,15 @@
+{
+    "order_id": 324586,
+    "client_id": 2818,
+    "produits": [
+        {
+            "produit_id": "P4267",
+            "nom": "Ergonomic Rubber Shirt",
+            "quantite": 2,
+            "prix_unitaire": 489.39
+        }
+    ],
+    "date_commande": "2023-07-07T22:14:26",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

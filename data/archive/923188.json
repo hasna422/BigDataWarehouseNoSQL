@@ -1,0 +1,25 @@
+{
+    "order_id": 923188,
+    "client_id": 2690,
+    "produits": [
+        {
+            "produit_id": "P7742",
+            "nom": "Refined Wooden Sausages",
+            "quantite": 1,
+            "prix_unitaire": 444.35
+        },
+        {
+            "produit_id": "P4239",
+            "nom": "Refined Fish",
+            "quantite": 5,
+            "prix_unitaire": 491.5
+        }
+    ],
+    "date_commande": "2024-02-09T05:44:08",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "135 Santa Fe",
+        "ville": "Mount Juliet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 200645,
+    "client_id": 8066,
+    "produits": [
+        {
+            "produit_id": "P6565",
+            "nom": "Small Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 492.99
+        }
+    ],
+    "date_commande": "2023-06-29T16:24:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "781 Mizpah",
+        "ville": "Shelby"
+    }
+}

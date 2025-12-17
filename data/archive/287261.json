@@ -1,0 +1,19 @@
+{
+    "order_id": 287261,
+    "client_id": 3678,
+    "produits": [
+        {
+            "produit_id": "P5643",
+            "nom": "Handcrafted Cotton Bike",
+            "quantite": 3,
+            "prix_unitaire": 210.07
+        }
+    ],
+    "date_commande": "2023-10-08T05:28:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "45 Chinook",
+        "ville": "Owensboro"
+    }
+}

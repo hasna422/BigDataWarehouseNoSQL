@@ -1,0 +1,25 @@
+{
+    "order_id": 982212,
+    "client_id": 1532,
+    "produits": [
+        {
+            "produit_id": "P4978",
+            "nom": "Gently Used Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 478.87
+        },
+        {
+            "produit_id": "P9565",
+            "nom": "Rustic Table",
+            "quantite": 1,
+            "prix_unitaire": 246.98
+        }
+    ],
+    "date_commande": "2024-03-10T04:26:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1103 Green",
+        "ville": "Tukwila"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 464275,
+    "client_id": 5598,
+    "produits": [
+        {
+            "produit_id": "P8879",
+            "nom": "Wooden Chair",
+            "quantite": 3,
+            "prix_unitaire": 230.18
+        },
+        {
+            "produit_id": "P9039",
+            "nom": "Cotton Table",
+            "quantite": 1,
+            "prix_unitaire": 25.25
+        }
+    ],
+    "date_commande": "2024-09-23T02:10:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

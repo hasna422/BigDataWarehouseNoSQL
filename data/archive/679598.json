@@ -1,0 +1,31 @@
+{
+    "order_id": 679598,
+    "client_id": 6392,
+    "produits": [
+        {
+            "produit_id": "P5049",
+            "nom": "Rustic Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 384.99
+        },
+        {
+            "produit_id": "P5139",
+            "nom": "New Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 142.55
+        },
+        {
+            "produit_id": "P8945",
+            "nom": "New Fish",
+            "quantite": 2,
+            "prix_unitaire": 111.52
+        }
+    ],
+    "date_commande": "2023-10-21T00:01:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1044 Aptos",
+        "ville": "Maple Grove"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 749609,
+    "client_id": 9563,
+    "produits": [
+        {
+            "produit_id": "P2791",
+            "nom": "Handmade Computer",
+            "quantite": 2,
+            "prix_unitaire": 260.04
+        }
+    ],
+    "date_commande": "2024-03-07T10:48:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "219 South Gate",
+        "ville": "Hollywood"
+    }
+}

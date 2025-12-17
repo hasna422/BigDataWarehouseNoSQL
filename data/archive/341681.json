@@ -1,0 +1,19 @@
+{
+    "order_id": 341681,
+    "client_id": 9252,
+    "produits": [
+        {
+            "produit_id": "P0425",
+            "nom": "Unbranded Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 347.56
+        }
+    ],
+    "date_commande": "2023-12-25T15:51:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "505 Faith",
+        "ville": "Slidell"
+    }
+}

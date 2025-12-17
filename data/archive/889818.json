@@ -1,0 +1,31 @@
+{
+    "order_id": 889818,
+    "client_id": 8908,
+    "produits": [
+        {
+            "produit_id": "P0623",
+            "nom": "Unbranded Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 265.39
+        },
+        {
+            "produit_id": "P6302",
+            "nom": "Licensed Fresh Chips",
+            "quantite": 1,
+            "prix_unitaire": 82.66
+        },
+        {
+            "produit_id": "P0734",
+            "nom": "Generic Fresh Tuna",
+            "quantite": 5,
+            "prix_unitaire": 453.19
+        }
+    ],
+    "date_commande": "2024-10-21T13:35:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "574 Rondel",
+        "ville": "Lathrop"
+    }
+}

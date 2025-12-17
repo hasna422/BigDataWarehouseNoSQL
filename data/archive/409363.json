@@ -1,0 +1,19 @@
+{
+    "order_id": 409363,
+    "client_id": 7521,
+    "produits": [
+        {
+            "produit_id": "P4195",
+            "nom": "Refined Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 454.19
+        }
+    ],
+    "date_commande": "2024-01-08T16:04:29",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "573 Daggett",
+        "ville": "New Smyrna Beach"
+    }
+}

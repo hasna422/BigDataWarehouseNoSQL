@@ -1,0 +1,31 @@
+{
+    "order_id": 691653,
+    "client_id": 6436,
+    "produits": [
+        {
+            "produit_id": "P6185",
+            "nom": "Fantastic Soft Fish",
+            "quantite": 5,
+            "prix_unitaire": 52.42
+        },
+        {
+            "produit_id": "P5070",
+            "nom": "For repair Soft Chips",
+            "quantite": 2,
+            "prix_unitaire": 47.6
+        },
+        {
+            "produit_id": "P7467",
+            "nom": "Gorgeous Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 498.97
+        }
+    ],
+    "date_commande": "2023-11-09T11:55:58",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "13 Robert Kirk",
+        "ville": "Round Lake Beach"
+    }
+}

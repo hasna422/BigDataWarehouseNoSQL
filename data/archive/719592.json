@@ -1,0 +1,15 @@
+{
+    "order_id": 719592,
+    "client_id": 2820,
+    "produits": [
+        {
+            "produit_id": "P7834",
+            "nom": "Refined Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 55.16
+        }
+    ],
+    "date_commande": "2025-03-08T21:04:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

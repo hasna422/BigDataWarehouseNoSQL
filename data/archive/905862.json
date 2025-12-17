@@ -1,0 +1,19 @@
+{
+    "order_id": 905862,
+    "client_id": 3550,
+    "produits": [
+        {
+            "produit_id": "P2992",
+            "nom": "Gorgeous Fresh Bacon",
+            "quantite": 2,
+            "prix_unitaire": 262.54
+        }
+    ],
+    "date_commande": "2023-08-22T16:02:34",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "331 Pomona",
+        "ville": "Orem"
+    }
+}

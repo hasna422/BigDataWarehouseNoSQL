@@ -1,0 +1,31 @@
+{
+    "order_id": 693948,
+    "client_id": 6030,
+    "produits": [
+        {
+            "produit_id": "P3636",
+            "nom": "Handmade Fresh Mouse",
+            "quantite": 3,
+            "prix_unitaire": 405.7
+        },
+        {
+            "produit_id": "P9940",
+            "nom": "Generic Steel Bacon",
+            "quantite": 5,
+            "prix_unitaire": 318.8
+        },
+        {
+            "produit_id": "P2596",
+            "nom": "Small Metal Shirt",
+            "quantite": 3,
+            "prix_unitaire": 428.03
+        }
+    ],
+    "date_commande": "2024-01-04T08:00:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "662 Castenada",
+        "ville": "Pharr"
+    }
+}

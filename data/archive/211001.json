@@ -1,0 +1,19 @@
+{
+    "order_id": 211001,
+    "client_id": 3542,
+    "produits": [
+        {
+            "produit_id": "P5315",
+            "nom": "Fantastic Fresh Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 31.22
+        }
+    ],
+    "date_commande": "2025-01-12T12:46:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "451 August",
+        "ville": "Riviera Beach"
+    }
+}

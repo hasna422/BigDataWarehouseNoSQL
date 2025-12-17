@@ -1,0 +1,25 @@
+{
+    "order_id": 633557,
+    "client_id": 1056,
+    "produits": [
+        {
+            "produit_id": "P1638",
+            "nom": "Handmade Pizza",
+            "quantite": 1,
+            "prix_unitaire": 24.57
+        },
+        {
+            "produit_id": "P3141",
+            "nom": "Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 147.05
+        }
+    ],
+    "date_commande": "2024-02-06T20:51:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1311 Wallace",
+        "ville": "Sun Prairie"
+    }
+}

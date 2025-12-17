@@ -1,0 +1,25 @@
+{
+    "order_id": 383336,
+    "client_id": 7171,
+    "produits": [
+        {
+            "produit_id": "P2453",
+            "nom": "Licensed Chicken",
+            "quantite": 2,
+            "prix_unitaire": 440.91
+        },
+        {
+            "produit_id": "P0757",
+            "nom": "Intelligent Tuna",
+            "quantite": 1,
+            "prix_unitaire": 230.43
+        }
+    ],
+    "date_commande": "2024-08-15T18:55:30",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "725 Lafayette",
+        "ville": "Durango"
+    }
+}

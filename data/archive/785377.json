@@ -1,0 +1,15 @@
+{
+    "order_id": 785377,
+    "client_id": 7398,
+    "produits": [
+        {
+            "produit_id": "P8369",
+            "nom": "Gently Used Steel Shoes",
+            "quantite": 4,
+            "prix_unitaire": 401.5
+        }
+    ],
+    "date_commande": "2024-11-19T18:53:16",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

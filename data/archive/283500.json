@@ -1,0 +1,25 @@
+{
+    "order_id": 283500,
+    "client_id": 5166,
+    "produits": [
+        {
+            "produit_id": "P0878",
+            "nom": "Unbranded Fresh Towels",
+            "quantite": 2,
+            "prix_unitaire": 470.7
+        },
+        {
+            "produit_id": "P3539",
+            "nom": "Used Cheese",
+            "quantite": 4,
+            "prix_unitaire": 251.59
+        }
+    ],
+    "date_commande": "2024-07-19T21:33:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "4 Earl",
+        "ville": "Mooresville"
+    }
+}

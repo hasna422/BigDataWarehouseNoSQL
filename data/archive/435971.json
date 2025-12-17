@@ -1,0 +1,19 @@
+{
+    "order_id": 435971,
+    "client_id": 5585,
+    "produits": [
+        {
+            "produit_id": "P2801",
+            "nom": "Generic Cotton Towels",
+            "quantite": 4,
+            "prix_unitaire": 324.68
+        }
+    ],
+    "date_commande": "2024-05-23T12:08:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "18 Ewer",
+        "ville": "Urbana"
+    }
+}

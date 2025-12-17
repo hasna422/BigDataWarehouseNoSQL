@@ -1,0 +1,25 @@
+{
+    "order_id": 976423,
+    "client_id": 1722,
+    "produits": [
+        {
+            "produit_id": "P3634",
+            "nom": "Incredible Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 44.34
+        },
+        {
+            "produit_id": "P6517",
+            "nom": "Ergonomic Steel Hat",
+            "quantite": 2,
+            "prix_unitaire": 445.2
+        }
+    ],
+    "date_commande": "2025-05-11T00:58:16",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1070 Friendship",
+        "ville": "Tiffin"
+    }
+}

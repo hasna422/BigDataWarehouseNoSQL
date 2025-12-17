@@ -1,0 +1,19 @@
+{
+    "order_id": 653377,
+    "client_id": 1522,
+    "produits": [
+        {
+            "produit_id": "P9206",
+            "nom": "Practical Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 488.65
+        }
+    ],
+    "date_commande": "2024-04-09T01:24:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1304 Colusa",
+        "ville": "Moorpark"
+    }
+}

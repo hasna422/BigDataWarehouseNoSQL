@@ -1,0 +1,31 @@
+{
+    "order_id": 722092,
+    "client_id": 4887,
+    "produits": [
+        {
+            "produit_id": "P1650",
+            "nom": "Rustic Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 28.85
+        },
+        {
+            "produit_id": "P9732",
+            "nom": "Incredible Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 121.28
+        },
+        {
+            "produit_id": "P0970",
+            "nom": "Intelligent Cotton Computer",
+            "quantite": 1,
+            "prix_unitaire": 415.24
+        }
+    ],
+    "date_commande": "2024-01-14T14:19:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "907 Essex",
+        "ville": "Kentwood"
+    }
+}

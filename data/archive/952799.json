@@ -1,0 +1,19 @@
+{
+    "order_id": 952799,
+    "client_id": 9033,
+    "produits": [
+        {
+            "produit_id": "P3618",
+            "nom": "Refined Rubber Car",
+            "quantite": 2,
+            "prix_unitaire": 184.62
+        }
+    ],
+    "date_commande": "2024-04-22T16:49:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1182 Bergen",
+        "ville": "Yorba Linda"
+    }
+}

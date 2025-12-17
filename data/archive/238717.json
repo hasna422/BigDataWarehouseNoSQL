@@ -1,0 +1,15 @@
+{
+    "order_id": 238717,
+    "client_id": 1674,
+    "produits": [
+        {
+            "produit_id": "P3866",
+            "nom": "New Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 315.34
+        }
+    ],
+    "date_commande": "2024-02-08T11:29:46",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

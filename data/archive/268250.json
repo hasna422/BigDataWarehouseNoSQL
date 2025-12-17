@@ -1,0 +1,25 @@
+{
+    "order_id": 268250,
+    "client_id": 2872,
+    "produits": [
+        {
+            "produit_id": "P2781",
+            "nom": "Frozen Ball",
+            "quantite": 2,
+            "prix_unitaire": 281.09
+        },
+        {
+            "produit_id": "P9320",
+            "nom": "Wooden Pants",
+            "quantite": 1,
+            "prix_unitaire": 62.93
+        }
+    ],
+    "date_commande": "2024-07-30T08:38:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "628 Lurline",
+        "ville": "Naperville"
+    }
+}

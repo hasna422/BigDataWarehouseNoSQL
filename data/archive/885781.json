@@ -1,0 +1,25 @@
+{
+    "order_id": 885781,
+    "client_id": 4035,
+    "produits": [
+        {
+            "produit_id": "P8242",
+            "nom": "Used Granite Car",
+            "quantite": 2,
+            "prix_unitaire": 166.87
+        },
+        {
+            "produit_id": "P2402",
+            "nom": "Licensed Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 117.68
+        }
+    ],
+    "date_commande": "2025-04-05T19:23:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "432 Niantic",
+        "ville": "Miami Gardens"
+    }
+}

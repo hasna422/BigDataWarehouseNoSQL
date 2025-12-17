@@ -1,0 +1,19 @@
+{
+    "order_id": 242915,
+    "client_id": 6905,
+    "produits": [
+        {
+            "produit_id": "P9636",
+            "nom": "Gently Used Metal Pants",
+            "quantite": 3,
+            "prix_unitaire": 248.39
+        }
+    ],
+    "date_commande": "2025-02-19T18:29:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "63 Caselli",
+        "ville": "Texas City"
+    }
+}

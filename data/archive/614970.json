@@ -1,0 +1,19 @@
+{
+    "order_id": 614970,
+    "client_id": 8076,
+    "produits": [
+        {
+            "produit_id": "P3323",
+            "nom": "Small Car",
+            "quantite": 1,
+            "prix_unitaire": 273.17
+        }
+    ],
+    "date_commande": "2025-04-19T12:37:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "946 El Camino Del Mar",
+        "ville": "Ferguson"
+    }
+}

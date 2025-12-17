@@ -1,0 +1,25 @@
+{
+    "order_id": 140743,
+    "client_id": 2731,
+    "produits": [
+        {
+            "produit_id": "P0224",
+            "nom": "Steel Mouse",
+            "quantite": 5,
+            "prix_unitaire": 425.35
+        },
+        {
+            "produit_id": "P8994",
+            "nom": "Handmade Plastic Pants",
+            "quantite": 4,
+            "prix_unitaire": 465.52
+        }
+    ],
+    "date_commande": "2024-11-08T20:48:31",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "323 Mission Rock",
+        "ville": "Hobart"
+    }
+}

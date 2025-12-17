@@ -1,0 +1,19 @@
+{
+    "order_id": 526217,
+    "client_id": 5113,
+    "produits": [
+        {
+            "produit_id": "P8042",
+            "nom": "Rustic Plastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 85.45
+        }
+    ],
+    "date_commande": "2023-06-13T11:35:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "428 Martin Luther King Jr",
+        "ville": "Poway"
+    }
+}

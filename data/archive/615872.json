@@ -1,0 +1,21 @@
+{
+    "order_id": 615872,
+    "client_id": 3081,
+    "produits": [
+        {
+            "produit_id": "P2085",
+            "nom": "Gorgeous Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 350.91
+        },
+        {
+            "produit_id": "P3090",
+            "nom": "Fantastic Bacon",
+            "quantite": 1,
+            "prix_unitaire": 402.72
+        }
+    ],
+    "date_commande": "2025-03-22T13:32:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

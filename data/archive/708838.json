@@ -1,0 +1,31 @@
+{
+    "order_id": 708838,
+    "client_id": 2669,
+    "produits": [
+        {
+            "produit_id": "P1637",
+            "nom": "For repair Fresh Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 308.42
+        },
+        {
+            "produit_id": "P7804",
+            "nom": "Practical Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 240.82
+        },
+        {
+            "produit_id": "P0490",
+            "nom": "For repair Soft Table",
+            "quantite": 2,
+            "prix_unitaire": 390.5
+        }
+    ],
+    "date_commande": "2024-03-02T07:28:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "507 Union",
+        "ville": "San Benito"
+    }
+}

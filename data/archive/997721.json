@@ -1,0 +1,27 @@
+{
+    "order_id": 997721,
+    "client_id": 9445,
+    "produits": [
+        {
+            "produit_id": "P6191",
+            "nom": "Rustic Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 325.64
+        },
+        {
+            "produit_id": "P8669",
+            "nom": "Intelligent Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 362.75
+        },
+        {
+            "produit_id": "P5566",
+            "nom": "Unbranded Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 380.57
+        }
+    ],
+    "date_commande": "2024-04-04T17:15:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 930438,
+    "client_id": 2804,
+    "produits": [
+        {
+            "produit_id": "P2332",
+            "nom": "Sleek Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 322.43
+        }
+    ],
+    "date_commande": "2024-04-21T20:56:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "820 Golf Course",
+        "ville": "Indian Trail"
+    }
+}

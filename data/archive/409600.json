@@ -1,0 +1,15 @@
+{
+    "order_id": 409600,
+    "client_id": 5175,
+    "produits": [
+        {
+            "produit_id": "P6041",
+            "nom": "Tasty Frozen Chips",
+            "quantite": 2,
+            "prix_unitaire": 186.18
+        }
+    ],
+    "date_commande": "2024-04-23T01:10:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 178549,
+    "client_id": 8965,
+    "produits": [
+        {
+            "produit_id": "P9121",
+            "nom": "Fantastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 275.53
+        },
+        {
+            "produit_id": "P9650",
+            "nom": "Ergonomic Salad",
+            "quantite": 2,
+            "prix_unitaire": 34.16
+        },
+        {
+            "produit_id": "P6427",
+            "nom": "For repair Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 346.21
+        }
+    ],
+    "date_commande": "2023-12-31T22:43:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "412 Mccarthy",
+        "ville": "Naugatuck"
+    }
+}

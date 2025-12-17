@@ -1,0 +1,25 @@
+{
+    "order_id": 411516,
+    "client_id": 3469,
+    "produits": [
+        {
+            "produit_id": "P6176",
+            "nom": "Ergonomic Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 280.25
+        },
+        {
+            "produit_id": "P8960",
+            "nom": "Ergonomic Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 468.35
+        }
+    ],
+    "date_commande": "2024-06-01T12:28:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "381 Hamlin",
+        "ville": "Apple Valley"
+    }
+}

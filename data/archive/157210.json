@@ -1,0 +1,19 @@
+{
+    "order_id": 157210,
+    "client_id": 7280,
+    "produits": [
+        {
+            "produit_id": "P9633",
+            "nom": "For repair Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 36.51
+        }
+    ],
+    "date_commande": "2024-11-18T17:05:59",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1324 Avalon",
+        "ville": "Montrose"
+    }
+}

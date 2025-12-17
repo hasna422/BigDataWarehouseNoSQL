@@ -1,0 +1,31 @@
+{
+    "order_id": 124676,
+    "client_id": 3908,
+    "produits": [
+        {
+            "produit_id": "P8155",
+            "nom": "Unbranded Wooden Tuna",
+            "quantite": 3,
+            "prix_unitaire": 467.71
+        },
+        {
+            "produit_id": "P7181",
+            "nom": "Used Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 70.04
+        },
+        {
+            "produit_id": "P3797",
+            "nom": "Ergonomic Salad",
+            "quantite": 2,
+            "prix_unitaire": 396.26
+        }
+    ],
+    "date_commande": "2024-08-07T09:11:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "145 Whitney",
+        "ville": "Clarksdale"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 401844,
+    "client_id": 6225,
+    "produits": [
+        {
+            "produit_id": "P2399",
+            "nom": "Awesome Cotton Hat",
+            "quantite": 2,
+            "prix_unitaire": 310.71
+        },
+        {
+            "produit_id": "P2098",
+            "nom": "Generic Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 177.3
+        },
+        {
+            "produit_id": "P6622",
+            "nom": "New Metal Shoes",
+            "quantite": 5,
+            "prix_unitaire": 48.96
+        }
+    ],
+    "date_commande": "2024-12-25T08:19:05",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

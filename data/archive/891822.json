@@ -1,0 +1,31 @@
+{
+    "order_id": 891822,
+    "client_id": 9627,
+    "produits": [
+        {
+            "produit_id": "P6668",
+            "nom": "Gently Used Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 105.91
+        },
+        {
+            "produit_id": "P4614",
+            "nom": "Awesome Frozen Fish",
+            "quantite": 2,
+            "prix_unitaire": 81.79
+        },
+        {
+            "produit_id": "P4745",
+            "nom": "Unbranded Ball",
+            "quantite": 5,
+            "prix_unitaire": 204.09
+        }
+    ],
+    "date_commande": "2025-04-22T04:47:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "208 Jarboe",
+        "ville": "Yuba City"
+    }
+}

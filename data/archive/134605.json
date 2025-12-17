@@ -1,0 +1,21 @@
+{
+    "order_id": 134605,
+    "client_id": 9883,
+    "produits": [
+        {
+            "produit_id": "P7151",
+            "nom": "Gorgeous Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 335.26
+        },
+        {
+            "produit_id": "P9502",
+            "nom": "For repair Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 76.9
+        }
+    ],
+    "date_commande": "2025-04-07T20:03:11",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

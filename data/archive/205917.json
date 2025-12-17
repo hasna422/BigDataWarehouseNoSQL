@@ -1,0 +1,21 @@
+{
+    "order_id": 205917,
+    "client_id": 9971,
+    "produits": [
+        {
+            "produit_id": "P3667",
+            "nom": "Intelligent Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 230.65
+        },
+        {
+            "produit_id": "P2298",
+            "nom": "Used Plastic Pants",
+            "quantite": 3,
+            "prix_unitaire": 345.15
+        }
+    ],
+    "date_commande": "2025-04-24T11:47:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 364379,
+    "client_id": 6239,
+    "produits": [
+        {
+            "produit_id": "P0569",
+            "nom": "Rustic Concrete Gloves",
+            "quantite": 2,
+            "prix_unitaire": 108.87
+        },
+        {
+            "produit_id": "P1664",
+            "nom": "Handmade Plastic Car",
+            "quantite": 1,
+            "prix_unitaire": 192.03
+        }
+    ],
+    "date_commande": "2025-05-23T17:38:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "999 Ringold",
+        "ville": "Oregon City"
+    }
+}

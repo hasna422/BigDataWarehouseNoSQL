@@ -1,0 +1,15 @@
+{
+    "order_id": 294470,
+    "client_id": 6550,
+    "produits": [
+        {
+            "produit_id": "P3782",
+            "nom": "Ergonomic Mouse",
+            "quantite": 4,
+            "prix_unitaire": 353.02
+        }
+    ],
+    "date_commande": "2024-03-14T21:33:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

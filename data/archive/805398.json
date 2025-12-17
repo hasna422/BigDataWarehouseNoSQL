@@ -1,0 +1,19 @@
+{
+    "order_id": 805398,
+    "client_id": 6611,
+    "produits": [
+        {
+            "produit_id": "P5512",
+            "nom": "Refined Frozen Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 172.48
+        }
+    ],
+    "date_commande": "2023-06-04T07:53:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "221 Walker",
+        "ville": "Beaverton"
+    }
+}

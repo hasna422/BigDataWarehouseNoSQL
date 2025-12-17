@@ -1,0 +1,19 @@
+{
+    "order_id": 667223,
+    "client_id": 2982,
+    "produits": [
+        {
+            "produit_id": "P5580",
+            "nom": "Gorgeous Cotton Chips",
+            "quantite": 5,
+            "prix_unitaire": 8.93
+        }
+    ],
+    "date_commande": "2024-07-03T12:14:23",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "275 Martinez",
+        "ville": "Kennesaw"
+    }
+}

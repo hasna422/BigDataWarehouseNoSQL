@@ -1,0 +1,31 @@
+{
+    "order_id": 705274,
+    "client_id": 5585,
+    "produits": [
+        {
+            "produit_id": "P3552",
+            "nom": "Fantastic Fresh Tuna",
+            "quantite": 4,
+            "prix_unitaire": 476.76
+        },
+        {
+            "produit_id": "P3233",
+            "nom": "Practical Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 44.7
+        },
+        {
+            "produit_id": "P3140",
+            "nom": "Intelligent Granite Gloves",
+            "quantite": 5,
+            "prix_unitaire": 89.0
+        }
+    ],
+    "date_commande": "2024-08-23T13:38:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "317 Nautilus",
+        "ville": "Tarpon Springs"
+    }
+}

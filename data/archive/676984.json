@@ -1,0 +1,31 @@
+{
+    "order_id": 676984,
+    "client_id": 1482,
+    "produits": [
+        {
+            "produit_id": "P8000",
+            "nom": "Small Table",
+            "quantite": 2,
+            "prix_unitaire": 93.36
+        },
+        {
+            "produit_id": "P3919",
+            "nom": "Awesome Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 250.46
+        },
+        {
+            "produit_id": "P2974",
+            "nom": "Licensed Steel Chicken",
+            "quantite": 4,
+            "prix_unitaire": 293.09
+        }
+    ],
+    "date_commande": "2024-11-06T22:20:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "623 Arthur",
+        "ville": "Portsmouth"
+    }
+}

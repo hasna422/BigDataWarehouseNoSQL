@@ -1,0 +1,19 @@
+{
+    "order_id": 119974,
+    "client_id": 1448,
+    "produits": [
+        {
+            "produit_id": "P2815",
+            "nom": "Incredible Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 58.43
+        }
+    ],
+    "date_commande": "2024-05-02T20:03:36",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1259 West Portal",
+        "ville": "Shively"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 938347,
+    "client_id": 1077,
+    "produits": [
+        {
+            "produit_id": "P3846",
+            "nom": "Used Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 208.97
+        },
+        {
+            "produit_id": "P9835",
+            "nom": "For repair Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 140.11
+        }
+    ],
+    "date_commande": "2024-03-28T16:35:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "98 Saddleback",
+        "ville": "Wilson"
+    }
+}

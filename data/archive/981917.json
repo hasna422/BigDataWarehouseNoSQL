@@ -1,0 +1,25 @@
+{
+    "order_id": 981917,
+    "client_id": 3632,
+    "produits": [
+        {
+            "produit_id": "P6560",
+            "nom": "Unbranded Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 275.21
+        },
+        {
+            "produit_id": "P5055",
+            "nom": "Generic Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 135.24
+        }
+    ],
+    "date_commande": "2024-08-16T18:03:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "123 Williams",
+        "ville": "Novato"
+    }
+}

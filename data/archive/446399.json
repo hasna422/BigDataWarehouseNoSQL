@@ -1,0 +1,19 @@
+{
+    "order_id": 446399,
+    "client_id": 8104,
+    "produits": [
+        {
+            "produit_id": "P6702",
+            "nom": "Gorgeous Concrete Gloves",
+            "quantite": 3,
+            "prix_unitaire": 491.55
+        }
+    ],
+    "date_commande": "2024-06-25T15:45:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "783 Bessie",
+        "ville": "Coconut Creek"
+    }
+}

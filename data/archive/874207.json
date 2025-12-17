@@ -1,0 +1,27 @@
+{
+    "order_id": 874207,
+    "client_id": 3494,
+    "produits": [
+        {
+            "produit_id": "P1185",
+            "nom": "Gently Used Metal Table",
+            "quantite": 2,
+            "prix_unitaire": 439.56
+        },
+        {
+            "produit_id": "P8199",
+            "nom": "Sleek Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 128.27
+        },
+        {
+            "produit_id": "P5220",
+            "nom": "Small Frozen Pants",
+            "quantite": 4,
+            "prix_unitaire": 224.28
+        }
+    ],
+    "date_commande": "2025-01-15T00:49:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

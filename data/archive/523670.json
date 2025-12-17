@@ -1,0 +1,31 @@
+{
+    "order_id": 523670,
+    "client_id": 5804,
+    "produits": [
+        {
+            "produit_id": "P0943",
+            "nom": "Gorgeous Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 342.41
+        },
+        {
+            "produit_id": "P9836",
+            "nom": "New Concrete Shirt",
+            "quantite": 1,
+            "prix_unitaire": 348.1
+        },
+        {
+            "produit_id": "P9867",
+            "nom": "Fantastic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 341.68
+        }
+    ],
+    "date_commande": "2025-03-07T00:24:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "313 Seawell",
+        "ville": "Camarillo"
+    }
+}

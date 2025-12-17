@@ -1,0 +1,19 @@
+{
+    "order_id": 897152,
+    "client_id": 8970,
+    "produits": [
+        {
+            "produit_id": "P5006",
+            "nom": "Small Mouse",
+            "quantite": 1,
+            "prix_unitaire": 135.19
+        }
+    ],
+    "date_commande": "2024-02-27T18:06:19",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1344 Melba",
+        "ville": "Hollister"
+    }
+}

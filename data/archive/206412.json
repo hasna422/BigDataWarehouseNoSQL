@@ -1,0 +1,19 @@
+{
+    "order_id": 206412,
+    "client_id": 5540,
+    "produits": [
+        {
+            "produit_id": "P4771",
+            "nom": "Used Frozen Chicken",
+            "quantite": 1,
+            "prix_unitaire": 34.94
+        }
+    ],
+    "date_commande": "2025-01-24T06:17:40",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "322 Vicente",
+        "ville": "Richfield"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 160643,
+    "client_id": 3491,
+    "produits": [
+        {
+            "produit_id": "P0548",
+            "nom": "For repair Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 121.74
+        }
+    ],
+    "date_commande": "2025-05-18T07:22:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

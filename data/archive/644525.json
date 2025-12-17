@@ -1,0 +1,19 @@
+{
+    "order_id": 644525,
+    "client_id": 8349,
+    "produits": [
+        {
+            "produit_id": "P8817",
+            "nom": "For repair Granite Mouse",
+            "quantite": 2,
+            "prix_unitaire": 262.54
+        }
+    ],
+    "date_commande": "2023-12-16T17:33:57",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "233 Hillway",
+        "ville": "New Lenox"
+    }
+}

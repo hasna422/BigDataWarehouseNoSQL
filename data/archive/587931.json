@@ -1,0 +1,25 @@
+{
+    "order_id": 587931,
+    "client_id": 8992,
+    "produits": [
+        {
+            "produit_id": "P1500",
+            "nom": "Intelligent Steel Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 60.43
+        },
+        {
+            "produit_id": "P7637",
+            "nom": "Handmade Steel Car",
+            "quantite": 1,
+            "prix_unitaire": 177.84
+        }
+    ],
+    "date_commande": "2023-10-03T01:38:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "407 Gold Mine",
+        "ville": "Taylor"
+    }
+}

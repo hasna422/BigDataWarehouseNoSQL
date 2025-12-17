@@ -1,0 +1,19 @@
+{
+    "order_id": 261513,
+    "client_id": 9484,
+    "produits": [
+        {
+            "produit_id": "P4854",
+            "nom": "Gently Used Metal Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 205.67
+        }
+    ],
+    "date_commande": "2024-12-24T12:44:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1245 Las Villas",
+        "ville": "Wenatchee"
+    }
+}

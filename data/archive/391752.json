@@ -1,0 +1,21 @@
+{
+    "order_id": 391752,
+    "client_id": 6851,
+    "produits": [
+        {
+            "produit_id": "P3506",
+            "nom": "Gently Used Concrete Chair",
+            "quantite": 5,
+            "prix_unitaire": 72.76
+        },
+        {
+            "produit_id": "P6832",
+            "nom": "Gently Used Granite Fish",
+            "quantite": 5,
+            "prix_unitaire": 59.42
+        }
+    ],
+    "date_commande": "2023-06-17T22:24:55",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

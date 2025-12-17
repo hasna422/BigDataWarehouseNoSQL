@@ -1,0 +1,31 @@
+{
+    "order_id": 941686,
+    "client_id": 7391,
+    "produits": [
+        {
+            "produit_id": "P5942",
+            "nom": "Unbranded Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 477.19
+        },
+        {
+            "produit_id": "P9003",
+            "nom": "Rustic Cotton Chips",
+            "quantite": 3,
+            "prix_unitaire": 464.37
+        },
+        {
+            "produit_id": "P4574",
+            "nom": "Handmade Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 357.34
+        }
+    ],
+    "date_commande": "2024-08-01T03:55:05",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "312 Jewett",
+        "ville": "Little Rock"
+    }
+}

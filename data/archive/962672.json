@@ -1,0 +1,25 @@
+{
+    "order_id": 962672,
+    "client_id": 3794,
+    "produits": [
+        {
+            "produit_id": "P3223",
+            "nom": "Licensed Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 390.01
+        },
+        {
+            "produit_id": "P4676",
+            "nom": "Practical Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 163.98
+        }
+    ],
+    "date_commande": "2023-09-11T13:04:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1251 San Carlos",
+        "ville": "New Port Richey"
+    }
+}

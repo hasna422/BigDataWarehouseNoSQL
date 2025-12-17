@@ -1,0 +1,31 @@
+{
+    "order_id": 994117,
+    "client_id": 8256,
+    "produits": [
+        {
+            "produit_id": "P2942",
+            "nom": "Sleek Cheese",
+            "quantite": 3,
+            "prix_unitaire": 19.01
+        },
+        {
+            "produit_id": "P3556",
+            "nom": "Intelligent Computer",
+            "quantite": 2,
+            "prix_unitaire": 17.15
+        },
+        {
+            "produit_id": "P6944",
+            "nom": "Gorgeous Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 176.04
+        }
+    ],
+    "date_commande": "2023-12-04T08:38:37",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "594 Heather",
+        "ville": "Cartersville"
+    }
+}

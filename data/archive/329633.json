@@ -1,0 +1,21 @@
+{
+    "order_id": 329633,
+    "client_id": 5876,
+    "produits": [
+        {
+            "produit_id": "P0037",
+            "nom": "Intelligent Frozen Pants",
+            "quantite": 4,
+            "prix_unitaire": 448.0
+        },
+        {
+            "produit_id": "P6712",
+            "nom": "Intelligent Fresh Computer",
+            "quantite": 2,
+            "prix_unitaire": 48.85
+        }
+    ],
+    "date_commande": "2024-01-11T16:56:56",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

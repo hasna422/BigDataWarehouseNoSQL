@@ -1,0 +1,21 @@
+{
+    "order_id": 340757,
+    "client_id": 3416,
+    "produits": [
+        {
+            "produit_id": "P6231",
+            "nom": "Tasty Cheese",
+            "quantite": 5,
+            "prix_unitaire": 146.98
+        },
+        {
+            "produit_id": "P0573",
+            "nom": "Sleek Rubber Tuna",
+            "quantite": 4,
+            "prix_unitaire": 63.22
+        }
+    ],
+    "date_commande": "2024-08-06T09:30:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

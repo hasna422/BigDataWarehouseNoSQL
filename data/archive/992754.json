@@ -1,0 +1,25 @@
+{
+    "order_id": 992754,
+    "client_id": 7808,
+    "produits": [
+        {
+            "produit_id": "P7823",
+            "nom": "Handmade Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 217.37
+        },
+        {
+            "produit_id": "P7669",
+            "nom": "Awesome Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 119.35
+        }
+    ],
+    "date_commande": "2024-05-25T15:47:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "385 John",
+        "ville": "Orem"
+    }
+}

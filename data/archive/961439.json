@@ -1,0 +1,25 @@
+{
+    "order_id": 961439,
+    "client_id": 8039,
+    "produits": [
+        {
+            "produit_id": "P4442",
+            "nom": "Awesome Chair",
+            "quantite": 2,
+            "prix_unitaire": 84.45
+        },
+        {
+            "produit_id": "P0646",
+            "nom": "Handcrafted Fish",
+            "quantite": 5,
+            "prix_unitaire": 55.77
+        }
+    ],
+    "date_commande": "2024-12-11T06:30:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "628 Brady",
+        "ville": "Dubuque"
+    }
+}

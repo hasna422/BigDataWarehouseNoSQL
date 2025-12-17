@@ -1,0 +1,27 @@
+{
+    "order_id": 219234,
+    "client_id": 5845,
+    "produits": [
+        {
+            "produit_id": "P4295",
+            "nom": "Gorgeous Cotton Bike",
+            "quantite": 1,
+            "prix_unitaire": 182.45
+        },
+        {
+            "produit_id": "P8932",
+            "nom": "Practical Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 294.55
+        },
+        {
+            "produit_id": "P2716",
+            "nom": "Gorgeous Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 305.4
+        }
+    ],
+    "date_commande": "2024-11-06T01:01:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 454422,
+    "client_id": 5893,
+    "produits": [
+        {
+            "produit_id": "P0780",
+            "nom": "For repair Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 41.98
+        },
+        {
+            "produit_id": "P7396",
+            "nom": "Generic Wooden Chair",
+            "quantite": 5,
+            "prix_unitaire": 424.41
+        }
+    ],
+    "date_commande": "2023-10-23T11:07:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

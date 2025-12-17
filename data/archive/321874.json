@@ -1,0 +1,25 @@
+{
+    "order_id": 321874,
+    "client_id": 7789,
+    "produits": [
+        {
+            "produit_id": "P6372",
+            "nom": "Handmade Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 32.06
+        },
+        {
+            "produit_id": "P2514",
+            "nom": "Gently Used Granite Chair",
+            "quantite": 4,
+            "prix_unitaire": 215.61
+        }
+    ],
+    "date_commande": "2023-08-27T20:57:06",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "434 Corwin",
+        "ville": "Westminster"
+    }
+}

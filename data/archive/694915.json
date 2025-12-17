@@ -1,0 +1,19 @@
+{
+    "order_id": 694915,
+    "client_id": 7239,
+    "produits": [
+        {
+            "produit_id": "P1344",
+            "nom": "For repair Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 167.24
+        }
+    ],
+    "date_commande": "2025-02-18T12:57:55",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1054 Boylston",
+        "ville": "Bradenton"
+    }
+}

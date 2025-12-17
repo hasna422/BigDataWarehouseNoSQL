@@ -1,0 +1,25 @@
+{
+    "order_id": 667887,
+    "client_id": 8703,
+    "produits": [
+        {
+            "produit_id": "P5876",
+            "nom": "Practical Steel Car",
+            "quantite": 4,
+            "prix_unitaire": 363.86
+        },
+        {
+            "produit_id": "P6354",
+            "nom": "Used Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 176.82
+        }
+    ],
+    "date_commande": "2024-03-12T13:25:59",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "488 Homewood",
+        "ville": "La Vista"
+    }
+}

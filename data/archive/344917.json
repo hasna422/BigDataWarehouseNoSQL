@@ -1,0 +1,19 @@
+{
+    "order_id": 344917,
+    "client_id": 5527,
+    "produits": [
+        {
+            "produit_id": "P5581",
+            "nom": "Gorgeous Pants",
+            "quantite": 4,
+            "prix_unitaire": 198.6
+        }
+    ],
+    "date_commande": "2024-12-04T08:57:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "432 Hill Point",
+        "ville": "Fort Walton Beach"
+    }
+}

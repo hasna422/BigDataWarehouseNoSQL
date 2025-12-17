@@ -1,0 +1,25 @@
+{
+    "order_id": 865422,
+    "client_id": 1957,
+    "produits": [
+        {
+            "produit_id": "P6872",
+            "nom": "Sleek Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 27.24
+        },
+        {
+            "produit_id": "P4918",
+            "nom": "Practical Granite Chips",
+            "quantite": 4,
+            "prix_unitaire": 149.95
+        }
+    ],
+    "date_commande": "2024-10-01T17:32:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "483 Oriole",
+        "ville": "Royal Palm Beach"
+    }
+}

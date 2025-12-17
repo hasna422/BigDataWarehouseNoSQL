@@ -1,0 +1,31 @@
+{
+    "order_id": 871710,
+    "client_id": 4923,
+    "produits": [
+        {
+            "produit_id": "P8832",
+            "nom": "Incredible Concrete Table",
+            "quantite": 1,
+            "prix_unitaire": 124.93
+        },
+        {
+            "produit_id": "P6465",
+            "nom": "Practical Steel Bike",
+            "quantite": 2,
+            "prix_unitaire": 213.35
+        },
+        {
+            "produit_id": "P6429",
+            "nom": "Intelligent Fresh Shirt",
+            "quantite": 5,
+            "prix_unitaire": 363.16
+        }
+    ],
+    "date_commande": "2024-10-26T08:30:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "593 Santiago",
+        "ville": "Boulder"
+    }
+}

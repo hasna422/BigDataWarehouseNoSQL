@@ -1,0 +1,19 @@
+{
+    "order_id": 769796,
+    "client_id": 3239,
+    "produits": [
+        {
+            "produit_id": "P4170",
+            "nom": "Unbranded Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 29.89
+        }
+    ],
+    "date_commande": "2024-01-13T04:13:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "802 Hicks",
+        "ville": "Kirksville"
+    }
+}

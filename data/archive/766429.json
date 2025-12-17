@@ -1,0 +1,21 @@
+{
+    "order_id": 766429,
+    "client_id": 1082,
+    "produits": [
+        {
+            "produit_id": "P4058",
+            "nom": "Rustic Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 336.26
+        },
+        {
+            "produit_id": "P5595",
+            "nom": "Rustic Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 415.58
+        }
+    ],
+    "date_commande": "2024-06-23T10:58:43",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 787203,
+    "client_id": 7237,
+    "produits": [
+        {
+            "produit_id": "P8668",
+            "nom": "Fantastic Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 441.13
+        }
+    ],
+    "date_commande": "2025-03-21T06:05:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "699 Vesta",
+        "ville": "Dunedin"
+    }
+}

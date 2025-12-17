@@ -1,0 +1,19 @@
+{
+    "order_id": 953331,
+    "client_id": 1006,
+    "produits": [
+        {
+            "produit_id": "P8586",
+            "nom": "Rustic Steel Tuna",
+            "quantite": 2,
+            "prix_unitaire": 143.24
+        }
+    ],
+    "date_commande": "2024-05-03T10:00:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1204 Clayton",
+        "ville": "New Philadelphia"
+    }
+}

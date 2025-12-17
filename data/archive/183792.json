@@ -1,0 +1,27 @@
+{
+    "order_id": 183792,
+    "client_id": 1802,
+    "produits": [
+        {
+            "produit_id": "P7686",
+            "nom": "Ergonomic Fresh Table",
+            "quantite": 2,
+            "prix_unitaire": 335.11
+        },
+        {
+            "produit_id": "P4436",
+            "nom": "Intelligent Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 377.29
+        },
+        {
+            "produit_id": "P2252",
+            "nom": "Gorgeous Plastic Chicken",
+            "quantite": 3,
+            "prix_unitaire": 225.67
+        }
+    ],
+    "date_commande": "2025-02-11T16:22:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

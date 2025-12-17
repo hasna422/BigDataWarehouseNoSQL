@@ -1,0 +1,15 @@
+{
+    "order_id": 630588,
+    "client_id": 8257,
+    "produits": [
+        {
+            "produit_id": "P9761",
+            "nom": "Cotton Bike",
+            "quantite": 3,
+            "prix_unitaire": 300.88
+        }
+    ],
+    "date_commande": "2025-01-10T20:10:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

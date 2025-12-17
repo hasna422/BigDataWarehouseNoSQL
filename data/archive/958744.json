@@ -1,0 +1,31 @@
+{
+    "order_id": 958744,
+    "client_id": 9639,
+    "produits": [
+        {
+            "produit_id": "P8910",
+            "nom": "Practical Chips",
+            "quantite": 4,
+            "prix_unitaire": 108.83
+        },
+        {
+            "produit_id": "P5739",
+            "nom": "Incredible Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 287.0
+        },
+        {
+            "produit_id": "P5342",
+            "nom": "Generic Rubber Table",
+            "quantite": 1,
+            "prix_unitaire": 440.75
+        }
+    ],
+    "date_commande": "2023-05-29T12:32:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1112 Sherman",
+        "ville": "Lehi"
+    }
+}

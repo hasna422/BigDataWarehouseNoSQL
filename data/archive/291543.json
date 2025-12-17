@@ -1,0 +1,31 @@
+{
+    "order_id": 291543,
+    "client_id": 5214,
+    "produits": [
+        {
+            "produit_id": "P4589",
+            "nom": "Refined Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 411.98
+        },
+        {
+            "produit_id": "P4269",
+            "nom": "Soft Car",
+            "quantite": 2,
+            "prix_unitaire": 48.04
+        },
+        {
+            "produit_id": "P0039",
+            "nom": "For repair Granite Cheese",
+            "quantite": 5,
+            "prix_unitaire": 127.29
+        }
+    ],
+    "date_commande": "2024-08-02T23:19:28",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "983 Locksley",
+        "ville": "Quincy"
+    }
+}

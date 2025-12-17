@@ -1,0 +1,19 @@
+{
+    "order_id": 465148,
+    "client_id": 2695,
+    "produits": [
+        {
+            "produit_id": "P2654",
+            "nom": "Refined Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 189.07
+        }
+    ],
+    "date_commande": "2024-01-20T22:07:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "488 Fern",
+        "ville": "Frederick"
+    }
+}

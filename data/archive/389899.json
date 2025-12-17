@@ -1,0 +1,19 @@
+{
+    "order_id": 389899,
+    "client_id": 7337,
+    "produits": [
+        {
+            "produit_id": "P5835",
+            "nom": "Tasty Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 272.88
+        }
+    ],
+    "date_commande": "2024-10-21T22:29:16",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "981 Cedro",
+        "ville": "Kent"
+    }
+}

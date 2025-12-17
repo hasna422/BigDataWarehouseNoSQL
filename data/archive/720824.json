@@ -1,0 +1,19 @@
+{
+    "order_id": 720824,
+    "client_id": 8895,
+    "produits": [
+        {
+            "produit_id": "P7587",
+            "nom": "Gorgeous Rubber Cheese",
+            "quantite": 5,
+            "prix_unitaire": 119.33
+        }
+    ],
+    "date_commande": "2025-02-05T20:18:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1130 Stanford Heights",
+        "ville": "Fall River"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 403615,
+    "client_id": 8759,
+    "produits": [
+        {
+            "produit_id": "P4049",
+            "nom": "New Car",
+            "quantite": 5,
+            "prix_unitaire": 311.79
+        }
+    ],
+    "date_commande": "2025-01-18T00:12:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

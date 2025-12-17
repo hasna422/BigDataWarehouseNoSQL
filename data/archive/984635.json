@@ -1,0 +1,27 @@
+{
+    "order_id": 984635,
+    "client_id": 3948,
+    "produits": [
+        {
+            "produit_id": "P2449",
+            "nom": "Rustic Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 489.34
+        },
+        {
+            "produit_id": "P6646",
+            "nom": "Tasty Plastic Bike",
+            "quantite": 4,
+            "prix_unitaire": 121.12
+        },
+        {
+            "produit_id": "P3215",
+            "nom": "Fantastic Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 131.28
+        }
+    ],
+    "date_commande": "2024-06-09T09:58:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

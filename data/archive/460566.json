@@ -1,0 +1,19 @@
+{
+    "order_id": 460566,
+    "client_id": 5905,
+    "produits": [
+        {
+            "produit_id": "P9805",
+            "nom": "New Metal Chips",
+            "quantite": 1,
+            "prix_unitaire": 77.97
+        }
+    ],
+    "date_commande": "2024-02-19T15:10:01",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "377 Connecticut",
+        "ville": "Frisco"
+    }
+}

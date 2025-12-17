@@ -1,0 +1,27 @@
+{
+    "order_id": 727182,
+    "client_id": 3018,
+    "produits": [
+        {
+            "produit_id": "P7703",
+            "nom": "Practical Gloves",
+            "quantite": 4,
+            "prix_unitaire": 155.13
+        },
+        {
+            "produit_id": "P4750",
+            "nom": "Frozen Bike",
+            "quantite": 2,
+            "prix_unitaire": 322.5
+        },
+        {
+            "produit_id": "P1969",
+            "nom": "Concrete Car",
+            "quantite": 4,
+            "prix_unitaire": 18.28
+        }
+    ],
+    "date_commande": "2024-12-26T21:21:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

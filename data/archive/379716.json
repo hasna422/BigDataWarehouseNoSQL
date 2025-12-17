@@ -1,0 +1,19 @@
+{
+    "order_id": 379716,
+    "client_id": 4709,
+    "produits": [
+        {
+            "produit_id": "P6747",
+            "nom": "Unbranded Concrete Fish",
+            "quantite": 4,
+            "prix_unitaire": 408.6
+        }
+    ],
+    "date_commande": "2024-03-01T20:48:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "393 Dudley",
+        "ville": "Hinesville"
+    }
+}

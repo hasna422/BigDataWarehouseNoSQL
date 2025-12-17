@@ -1,0 +1,25 @@
+{
+    "order_id": 588091,
+    "client_id": 7460,
+    "produits": [
+        {
+            "produit_id": "P6952",
+            "nom": "Unbranded Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 139.81
+        },
+        {
+            "produit_id": "P1888",
+            "nom": "Rustic Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 172.2
+        }
+    ],
+    "date_commande": "2024-09-05T23:01:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "181 Teresita",
+        "ville": "Logansport"
+    }
+}

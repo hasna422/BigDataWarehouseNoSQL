@@ -1,0 +1,19 @@
+{
+    "order_id": 688547,
+    "client_id": 9026,
+    "produits": [
+        {
+            "produit_id": "P3831",
+            "nom": "Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 335.4
+        }
+    ],
+    "date_commande": "2024-11-05T18:18:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "353 Transbay Loop",
+        "ville": "Laguna Hills"
+    }
+}

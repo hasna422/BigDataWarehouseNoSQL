@@ -1,0 +1,25 @@
+{
+    "order_id": 561125,
+    "client_id": 6095,
+    "produits": [
+        {
+            "produit_id": "P3744",
+            "nom": "Fantastic Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 319.52
+        },
+        {
+            "produit_id": "P4816",
+            "nom": "Tasty Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 326.73
+        }
+    ],
+    "date_commande": "2024-12-08T04:27:05",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "749 Sussex",
+        "ville": "Hoover"
+    }
+}

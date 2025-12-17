@@ -1,0 +1,15 @@
+{
+    "order_id": 833061,
+    "client_id": 9000,
+    "produits": [
+        {
+            "produit_id": "P6516",
+            "nom": "New Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 164.78
+        }
+    ],
+    "date_commande": "2024-09-10T10:17:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

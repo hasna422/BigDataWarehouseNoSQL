@@ -1,0 +1,21 @@
+{
+    "order_id": 407322,
+    "client_id": 7895,
+    "produits": [
+        {
+            "produit_id": "P0207",
+            "nom": "Ergonomic Hat",
+            "quantite": 5,
+            "prix_unitaire": 103.37
+        },
+        {
+            "produit_id": "P4928",
+            "nom": "Shirt",
+            "quantite": 5,
+            "prix_unitaire": 272.16
+        }
+    ],
+    "date_commande": "2024-10-03T23:39:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

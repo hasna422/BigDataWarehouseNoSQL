@@ -1,0 +1,31 @@
+{
+    "order_id": 265990,
+    "client_id": 1448,
+    "produits": [
+        {
+            "produit_id": "P7858",
+            "nom": "Licensed Soft Bike",
+            "quantite": 5,
+            "prix_unitaire": 230.53
+        },
+        {
+            "produit_id": "P8476",
+            "nom": "Generic Shoes",
+            "quantite": 5,
+            "prix_unitaire": 322.46
+        },
+        {
+            "produit_id": "P0265",
+            "nom": "Sleek Steel Mouse",
+            "quantite": 2,
+            "prix_unitaire": 282.89
+        }
+    ],
+    "date_commande": "2024-05-19T15:02:33",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "604 San Buenaventura",
+        "ville": "Weston"
+    }
+}

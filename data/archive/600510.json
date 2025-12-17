@@ -1,0 +1,19 @@
+{
+    "order_id": 600510,
+    "client_id": 4711,
+    "produits": [
+        {
+            "produit_id": "P0499",
+            "nom": "For repair Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 450.59
+        }
+    ],
+    "date_commande": "2025-05-06T23:53:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "335 Butte",
+        "ville": "Schertz"
+    }
+}

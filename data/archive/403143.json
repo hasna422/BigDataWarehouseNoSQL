@@ -1,0 +1,15 @@
+{
+    "order_id": 403143,
+    "client_id": 2716,
+    "produits": [
+        {
+            "produit_id": "P9720",
+            "nom": "Sleek Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 211.38
+        }
+    ],
+    "date_commande": "2023-11-19T09:49:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

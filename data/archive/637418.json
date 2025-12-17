@@ -1,0 +1,15 @@
+{
+    "order_id": 637418,
+    "client_id": 3546,
+    "produits": [
+        {
+            "produit_id": "P5211",
+            "nom": "Unbranded Metal Fish",
+            "quantite": 1,
+            "prix_unitaire": 443.08
+        }
+    ],
+    "date_commande": "2024-08-18T17:55:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

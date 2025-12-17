@@ -1,0 +1,15 @@
+{
+    "order_id": 108745,
+    "client_id": 4166,
+    "produits": [
+        {
+            "produit_id": "P7510",
+            "nom": "Generic Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 104.73
+        }
+    ],
+    "date_commande": "2023-09-03T21:42:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

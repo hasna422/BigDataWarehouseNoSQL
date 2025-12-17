@@ -1,0 +1,19 @@
+{
+    "order_id": 822154,
+    "client_id": 9543,
+    "produits": [
+        {
+            "produit_id": "P5188",
+            "nom": "Gorgeous Plastic Cheese",
+            "quantite": 5,
+            "prix_unitaire": 306.6
+        }
+    ],
+    "date_commande": "2024-03-08T08:50:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "41 Toll Plaza Tunnel",
+        "ville": "Sikeston"
+    }
+}

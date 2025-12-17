@@ -1,0 +1,27 @@
+{
+    "order_id": 508382,
+    "client_id": 8685,
+    "produits": [
+        {
+            "produit_id": "P9986",
+            "nom": "Awesome Wooden Soap",
+            "quantite": 2,
+            "prix_unitaire": 103.32
+        },
+        {
+            "produit_id": "P9740",
+            "nom": "Handmade Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 242.65
+        },
+        {
+            "produit_id": "P9703",
+            "nom": "New Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 291.69
+        }
+    ],
+    "date_commande": "2024-08-18T16:56:21",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

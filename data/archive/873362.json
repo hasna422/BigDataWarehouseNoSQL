@@ -1,0 +1,25 @@
+{
+    "order_id": 873362,
+    "client_id": 8513,
+    "produits": [
+        {
+            "produit_id": "P5716",
+            "nom": "Gorgeous Fresh Ball",
+            "quantite": 5,
+            "prix_unitaire": 224.53
+        },
+        {
+            "produit_id": "P4828",
+            "nom": "New Steel Gloves",
+            "quantite": 3,
+            "prix_unitaire": 165.96
+        }
+    ],
+    "date_commande": "2023-07-26T00:22:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "782 Ingleside",
+        "ville": "Wisconsin Rapids"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 451957,
+    "client_id": 1945,
+    "produits": [
+        {
+            "produit_id": "P7550",
+            "nom": "Soft Gloves",
+            "quantite": 5,
+            "prix_unitaire": 174.61
+        }
+    ],
+    "date_commande": "2024-01-12T10:13:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1207 Smith",
+        "ville": "Belmont"
+    }
+}

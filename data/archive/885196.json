@@ -1,0 +1,19 @@
+{
+    "order_id": 885196,
+    "client_id": 1116,
+    "produits": [
+        {
+            "produit_id": "P0220",
+            "nom": "Licensed Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 380.66
+        }
+    ],
+    "date_commande": "2024-09-01T10:57:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1073 Pueblo",
+        "ville": "Champaign"
+    }
+}

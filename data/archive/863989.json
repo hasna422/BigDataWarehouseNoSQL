@@ -1,0 +1,19 @@
+{
+    "order_id": 863989,
+    "client_id": 8234,
+    "produits": [
+        {
+            "produit_id": "P6568",
+            "nom": "New Fresh Hat",
+            "quantite": 1,
+            "prix_unitaire": 45.02
+        }
+    ],
+    "date_commande": "2023-12-08T06:29:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "908 Raleigh",
+        "ville": "East St. Louis"
+    }
+}

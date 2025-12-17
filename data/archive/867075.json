@@ -1,0 +1,25 @@
+{
+    "order_id": 867075,
+    "client_id": 6657,
+    "produits": [
+        {
+            "produit_id": "P0895",
+            "nom": "Generic Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 472.44
+        },
+        {
+            "produit_id": "P0086",
+            "nom": "New Concrete Bike",
+            "quantite": 4,
+            "prix_unitaire": 491.8
+        }
+    ],
+    "date_commande": "2024-09-09T03:06:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "294 Bosworth",
+        "ville": "Lodi"
+    }
+}

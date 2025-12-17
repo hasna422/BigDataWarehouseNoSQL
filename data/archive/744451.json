@@ -1,0 +1,19 @@
+{
+    "order_id": 744451,
+    "client_id": 1930,
+    "produits": [
+        {
+            "produit_id": "P1472",
+            "nom": "New Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 157.67
+        }
+    ],
+    "date_commande": "2024-06-19T19:13:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1152 Pomona",
+        "ville": "Parker"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 916141,
+    "client_id": 2463,
+    "produits": [
+        {
+            "produit_id": "P8752",
+            "nom": "Sleek Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 449.72
+        },
+        {
+            "produit_id": "P7227",
+            "nom": "Practical Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 217.41
+        },
+        {
+            "produit_id": "P1262",
+            "nom": "Gorgeous Frozen Bacon",
+            "quantite": 1,
+            "prix_unitaire": 249.93
+        }
+    ],
+    "date_commande": "2023-08-31T16:26:09",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "547 Globe",
+        "ville": "La Porte"
+    }
+}

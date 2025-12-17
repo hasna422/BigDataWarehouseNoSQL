@@ -1,0 +1,27 @@
+{
+    "order_id": 852064,
+    "client_id": 7691,
+    "produits": [
+        {
+            "produit_id": "P4131",
+            "nom": "Unbranded Fish",
+            "quantite": 4,
+            "prix_unitaire": 13.66
+        },
+        {
+            "produit_id": "P7786",
+            "nom": "Plastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 241.16
+        },
+        {
+            "produit_id": "P2077",
+            "nom": "Sleek Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 334.02
+        }
+    ],
+    "date_commande": "2024-12-08T13:15:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 502647,
+    "client_id": 2951,
+    "produits": [
+        {
+            "produit_id": "P0927",
+            "nom": "Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 123.3
+        },
+        {
+            "produit_id": "P5880",
+            "nom": "For repair Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 471.96
+        },
+        {
+            "produit_id": "P2151",
+            "nom": "Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 51.88
+        }
+    ],
+    "date_commande": "2024-05-27T20:52:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

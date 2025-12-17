@@ -1,0 +1,25 @@
+{
+    "order_id": 108019,
+    "client_id": 5023,
+    "produits": [
+        {
+            "produit_id": "P3097",
+            "nom": "Rustic Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 134.45
+        },
+        {
+            "produit_id": "P7118",
+            "nom": "Practical Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 412.74
+        }
+    ],
+    "date_commande": "2023-06-28T01:40:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1073 Linda",
+        "ville": "Los Altos"
+    }
+}

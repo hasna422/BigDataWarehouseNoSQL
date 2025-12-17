@@ -1,0 +1,19 @@
+{
+    "order_id": 236481,
+    "client_id": 9425,
+    "produits": [
+        {
+            "produit_id": "P0258",
+            "nom": "Handcrafted Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 319.09
+        }
+    ],
+    "date_commande": "2024-03-18T01:48:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "188 Emerald",
+        "ville": "Bellwood"
+    }
+}

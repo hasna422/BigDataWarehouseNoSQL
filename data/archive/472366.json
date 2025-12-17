@@ -1,0 +1,31 @@
+{
+    "order_id": 472366,
+    "client_id": 4309,
+    "produits": [
+        {
+            "produit_id": "P9802",
+            "nom": "Ergonomic Fresh Tuna",
+            "quantite": 5,
+            "prix_unitaire": 131.83
+        },
+        {
+            "produit_id": "P3550",
+            "nom": "Small Frozen Hat",
+            "quantite": 2,
+            "prix_unitaire": 76.47
+        },
+        {
+            "produit_id": "P4324",
+            "nom": "Sleek Granite Towels",
+            "quantite": 1,
+            "prix_unitaire": 362.97
+        }
+    ],
+    "date_commande": "2023-07-14T15:58:26",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "448 Rockridge",
+        "ville": "Hobart"
+    }
+}

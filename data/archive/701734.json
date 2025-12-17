@@ -1,0 +1,21 @@
+{
+    "order_id": 701734,
+    "client_id": 9058,
+    "produits": [
+        {
+            "produit_id": "P8192",
+            "nom": "Refined Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 304.84
+        },
+        {
+            "produit_id": "P3166",
+            "nom": "Intelligent Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 88.47
+        }
+    ],
+    "date_commande": "2024-05-01T13:35:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

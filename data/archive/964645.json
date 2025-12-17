@@ -1,0 +1,31 @@
+{
+    "order_id": 964645,
+    "client_id": 3135,
+    "produits": [
+        {
+            "produit_id": "P1774",
+            "nom": "Practical Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 60.38
+        },
+        {
+            "produit_id": "P5661",
+            "nom": "Intelligent Wooden Mouse",
+            "quantite": 4,
+            "prix_unitaire": 132.29
+        },
+        {
+            "produit_id": "P9785",
+            "nom": "Sleek Steel Computer",
+            "quantite": 3,
+            "prix_unitaire": 385.73
+        }
+    ],
+    "date_commande": "2025-03-08T02:55:16",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1132 Campton",
+        "ville": "Inver Grove Heights"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 308018,
+    "client_id": 1052,
+    "produits": [
+        {
+            "produit_id": "P9064",
+            "nom": "Refined Frozen Bacon",
+            "quantite": 2,
+            "prix_unitaire": 439.95
+        },
+        {
+            "produit_id": "P7115",
+            "nom": "Awesome Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 273.89
+        },
+        {
+            "produit_id": "P5468",
+            "nom": "Handmade Metal Mouse",
+            "quantite": 1,
+            "prix_unitaire": 324.81
+        }
+    ],
+    "date_commande": "2023-12-08T10:05:07",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

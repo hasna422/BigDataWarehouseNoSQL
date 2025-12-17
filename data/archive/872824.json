@@ -1,0 +1,19 @@
+{
+    "order_id": 872824,
+    "client_id": 4122,
+    "produits": [
+        {
+            "produit_id": "P9585",
+            "nom": "Practical Pizza",
+            "quantite": 2,
+            "prix_unitaire": 125.43
+        }
+    ],
+    "date_commande": "2024-05-04T20:09:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "443 Hubbell",
+        "ville": "Orland Park"
+    }
+}

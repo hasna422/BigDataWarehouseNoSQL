@@ -1,0 +1,15 @@
+{
+    "order_id": 327146,
+    "client_id": 4476,
+    "produits": [
+        {
+            "produit_id": "P1019",
+            "nom": "For repair Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 239.64
+        }
+    ],
+    "date_commande": "2023-10-31T21:32:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

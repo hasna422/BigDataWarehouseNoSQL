@@ -1,0 +1,31 @@
+{
+    "order_id": 948593,
+    "client_id": 6141,
+    "produits": [
+        {
+            "produit_id": "P7080",
+            "nom": "Gorgeous Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 471.04
+        },
+        {
+            "produit_id": "P3551",
+            "nom": "Awesome Fish",
+            "quantite": 3,
+            "prix_unitaire": 31.88
+        },
+        {
+            "produit_id": "P0434",
+            "nom": "Used Fish",
+            "quantite": 5,
+            "prix_unitaire": 96.55
+        }
+    ],
+    "date_commande": "2024-10-19T15:53:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "166 Buena Vista",
+        "ville": "Concord"
+    }
+}

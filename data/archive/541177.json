@@ -1,0 +1,25 @@
+{
+    "order_id": 541177,
+    "client_id": 9434,
+    "produits": [
+        {
+            "produit_id": "P9983",
+            "nom": "Intelligent Hat",
+            "quantite": 5,
+            "prix_unitaire": 358.33
+        },
+        {
+            "produit_id": "P7862",
+            "nom": "Rubber Tuna",
+            "quantite": 2,
+            "prix_unitaire": 86.69
+        }
+    ],
+    "date_commande": "2024-11-09T09:28:14",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1274 Bowdoin",
+        "ville": "Grand Island"
+    }
+}

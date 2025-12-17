@@ -1,0 +1,27 @@
+{
+    "order_id": 770053,
+    "client_id": 5463,
+    "produits": [
+        {
+            "produit_id": "P1299",
+            "nom": "Handmade Rubber Gloves",
+            "quantite": 1,
+            "prix_unitaire": 397.72
+        },
+        {
+            "produit_id": "P1367",
+            "nom": "Incredible Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 265.32
+        },
+        {
+            "produit_id": "P9980",
+            "nom": "Generic Rubber Salad",
+            "quantite": 4,
+            "prix_unitaire": 442.75
+        }
+    ],
+    "date_commande": "2024-05-18T14:19:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

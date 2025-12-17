@@ -1,0 +1,15 @@
+{
+    "order_id": 167348,
+    "client_id": 1178,
+    "produits": [
+        {
+            "produit_id": "P7245",
+            "nom": "Refined Rubber Cheese",
+            "quantite": 2,
+            "prix_unitaire": 405.67
+        }
+    ],
+    "date_commande": "2024-08-13T15:53:32",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

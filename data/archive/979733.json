@@ -1,0 +1,19 @@
+{
+    "order_id": 979733,
+    "client_id": 1941,
+    "produits": [
+        {
+            "produit_id": "P8142",
+            "nom": "Handcrafted Frozen Ball",
+            "quantite": 4,
+            "prix_unitaire": 14.06
+        }
+    ],
+    "date_commande": "2023-06-12T15:19:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1344 Conkling",
+        "ville": "Alsip"
+    }
+}

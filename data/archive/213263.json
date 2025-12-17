@@ -1,0 +1,25 @@
+{
+    "order_id": 213263,
+    "client_id": 4827,
+    "produits": [
+        {
+            "produit_id": "P9722",
+            "nom": "Awesome Frozen Car",
+            "quantite": 5,
+            "prix_unitaire": 130.15
+        },
+        {
+            "produit_id": "P6645",
+            "nom": "Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 362.9
+        }
+    ],
+    "date_commande": "2025-04-04T05:28:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "50 Don Chee",
+        "ville": "Morgantown"
+    }
+}

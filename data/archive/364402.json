@@ -1,0 +1,31 @@
+{
+    "order_id": 364402,
+    "client_id": 9686,
+    "produits": [
+        {
+            "produit_id": "P3427",
+            "nom": "Intelligent Pants",
+            "quantite": 5,
+            "prix_unitaire": 413.39
+        },
+        {
+            "produit_id": "P1962",
+            "nom": "Fantastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 83.27
+        },
+        {
+            "produit_id": "P6136",
+            "nom": "Generic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 44.75
+        }
+    ],
+    "date_commande": "2024-10-12T19:47:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "127 Wisser",
+        "ville": "Waco"
+    }
+}

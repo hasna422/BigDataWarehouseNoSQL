@@ -1,0 +1,25 @@
+{
+    "order_id": 369995,
+    "client_id": 8515,
+    "produits": [
+        {
+            "produit_id": "P0107",
+            "nom": "Practical Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 433.22
+        },
+        {
+            "produit_id": "P1663",
+            "nom": "Unbranded Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 102.17
+        }
+    ],
+    "date_commande": "2024-11-28T03:31:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "192 Santa Fe",
+        "ville": "Oxford"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 286355,
+    "client_id": 3453,
+    "produits": [
+        {
+            "produit_id": "P3119",
+            "nom": "Intelligent Granite Ball",
+            "quantite": 4,
+            "prix_unitaire": 71.42
+        },
+        {
+            "produit_id": "P5622",
+            "nom": "Ergonomic Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 30.93
+        }
+    ],
+    "date_commande": "2024-12-26T06:04:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1301 Western Shore",
+        "ville": "Oviedo"
+    }
+}

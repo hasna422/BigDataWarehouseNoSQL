@@ -1,0 +1,25 @@
+{
+    "order_id": 220020,
+    "client_id": 7790,
+    "produits": [
+        {
+            "produit_id": "P0898",
+            "nom": "Awesome Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 285.62
+        },
+        {
+            "produit_id": "P9113",
+            "nom": "Licensed Plastic Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 89.55
+        }
+    ],
+    "date_commande": "2024-09-29T03:25:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "225 Elliot",
+        "ville": "Rockwall"
+    }
+}

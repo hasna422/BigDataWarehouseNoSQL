@@ -1,0 +1,15 @@
+{
+    "order_id": 895174,
+    "client_id": 4398,
+    "produits": [
+        {
+            "produit_id": "P2418",
+            "nom": "Intelligent Steel Shoes",
+            "quantite": 4,
+            "prix_unitaire": 318.08
+        }
+    ],
+    "date_commande": "2025-03-06T05:14:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

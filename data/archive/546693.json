@@ -1,0 +1,27 @@
+{
+    "order_id": 546693,
+    "client_id": 4326,
+    "produits": [
+        {
+            "produit_id": "P6121",
+            "nom": "Gently Used Metal Soap",
+            "quantite": 4,
+            "prix_unitaire": 7.05
+        },
+        {
+            "produit_id": "P2523",
+            "nom": "Licensed Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 28.97
+        },
+        {
+            "produit_id": "P8749",
+            "nom": "Refined Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 253.96
+        }
+    ],
+    "date_commande": "2023-07-21T04:56:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

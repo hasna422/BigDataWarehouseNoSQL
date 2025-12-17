@@ -1,0 +1,19 @@
+{
+    "order_id": 604078,
+    "client_id": 6912,
+    "produits": [
+        {
+            "produit_id": "P7252",
+            "nom": "Small Frozen Chicken",
+            "quantite": 1,
+            "prix_unitaire": 425.72
+        }
+    ],
+    "date_commande": "2024-06-23T20:35:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "34 Gerard",
+        "ville": "Pembroke Pines"
+    }
+}

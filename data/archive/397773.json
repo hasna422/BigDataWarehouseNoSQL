@@ -1,0 +1,31 @@
+{
+    "order_id": 397773,
+    "client_id": 8906,
+    "produits": [
+        {
+            "produit_id": "P0926",
+            "nom": "Unbranded Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 233.61
+        },
+        {
+            "produit_id": "P3203",
+            "nom": "Intelligent Shoes",
+            "quantite": 1,
+            "prix_unitaire": 117.24
+        },
+        {
+            "produit_id": "P5839",
+            "nom": "Tasty Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 244.0
+        }
+    ],
+    "date_commande": "2025-04-02T11:23:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "334 Division",
+        "ville": "Mukilteo"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 914155,
+    "client_id": 8463,
+    "produits": [
+        {
+            "produit_id": "P3001",
+            "nom": "Practical Fresh Chicken",
+            "quantite": 2,
+            "prix_unitaire": 297.15
+        }
+    ],
+    "date_commande": "2023-12-13T11:13:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "579 Harding",
+        "ville": "Visalia"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 820372,
+    "client_id": 8522,
+    "produits": [
+        {
+            "produit_id": "P8490",
+            "nom": "Handmade Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 104.39
+        }
+    ],
+    "date_commande": "2023-12-24T01:47:40",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

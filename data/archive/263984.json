@@ -1,0 +1,25 @@
+{
+    "order_id": 263984,
+    "client_id": 6878,
+    "produits": [
+        {
+            "produit_id": "P9775",
+            "nom": "Practical Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 461.17
+        },
+        {
+            "produit_id": "P2557",
+            "nom": "Licensed Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 303.72
+        }
+    ],
+    "date_commande": "2025-04-01T12:31:47",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "921 Prentiss",
+        "ville": "Massillon"
+    }
+}

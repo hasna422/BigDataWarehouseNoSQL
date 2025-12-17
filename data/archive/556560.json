@@ -1,0 +1,27 @@
+{
+    "order_id": 556560,
+    "client_id": 3168,
+    "produits": [
+        {
+            "produit_id": "P9348",
+            "nom": "Handcrafted Computer",
+            "quantite": 4,
+            "prix_unitaire": 102.63
+        },
+        {
+            "produit_id": "P5460",
+            "nom": "Gorgeous Soap",
+            "quantite": 1,
+            "prix_unitaire": 495.17
+        },
+        {
+            "produit_id": "P0897",
+            "nom": "Rustic Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 399.05
+        }
+    ],
+    "date_commande": "2024-04-01T23:25:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

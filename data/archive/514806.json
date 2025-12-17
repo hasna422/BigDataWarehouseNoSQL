@@ -1,0 +1,19 @@
+{
+    "order_id": 514806,
+    "client_id": 7894,
+    "produits": [
+        {
+            "produit_id": "P5855",
+            "nom": "Handcrafted Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 348.77
+        }
+    ],
+    "date_commande": "2024-10-01T19:54:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "160 Magnolia",
+        "ville": "Ocoee"
+    }
+}

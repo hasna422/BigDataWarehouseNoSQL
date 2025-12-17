@@ -1,0 +1,25 @@
+{
+    "order_id": 673610,
+    "client_id": 6986,
+    "produits": [
+        {
+            "produit_id": "P2235",
+            "nom": "Generic Metal Chips",
+            "quantite": 5,
+            "prix_unitaire": 467.69
+        },
+        {
+            "produit_id": "P1377",
+            "nom": "Ergonomic Granite Table",
+            "quantite": 5,
+            "prix_unitaire": 177.35
+        }
+    ],
+    "date_commande": "2023-10-12T21:54:44",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "702 Fortuna",
+        "ville": "Alamo"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 680536,
+    "client_id": 4092,
+    "produits": [
+        {
+            "produit_id": "P2294",
+            "nom": "Practical Plastic Sausages",
+            "quantite": 5,
+            "prix_unitaire": 335.67
+        },
+        {
+            "produit_id": "P4109",
+            "nom": "Tasty Fresh Gloves",
+            "quantite": 2,
+            "prix_unitaire": 307.98
+        }
+    ],
+    "date_commande": "2023-09-10T09:15:42",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

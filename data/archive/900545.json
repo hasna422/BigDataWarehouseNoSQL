@@ -1,0 +1,25 @@
+{
+    "order_id": 900545,
+    "client_id": 5656,
+    "produits": [
+        {
+            "produit_id": "P8581",
+            "nom": "Ergonomic Concrete Car",
+            "quantite": 5,
+            "prix_unitaire": 459.75
+        },
+        {
+            "produit_id": "P7689",
+            "nom": "Intelligent Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 153.29
+        }
+    ],
+    "date_commande": "2023-08-10T18:53:23",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "613 Mark Twain",
+        "ville": "Patterson"
+    }
+}

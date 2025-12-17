@@ -1,0 +1,31 @@
+{
+    "order_id": 614597,
+    "client_id": 8739,
+    "produits": [
+        {
+            "produit_id": "P7881",
+            "nom": "Licensed Concrete Sausages",
+            "quantite": 5,
+            "prix_unitaire": 474.22
+        },
+        {
+            "produit_id": "P9710",
+            "nom": "Licensed Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 263.63
+        },
+        {
+            "produit_id": "P5310",
+            "nom": "New Wooden Shirt",
+            "quantite": 5,
+            "prix_unitaire": 280.51
+        }
+    ],
+    "date_commande": "2024-02-18T20:54:24",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "329 De Soto",
+        "ville": "Marlborough"
+    }
+}

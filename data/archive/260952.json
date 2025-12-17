@@ -1,0 +1,21 @@
+{
+    "order_id": 260952,
+    "client_id": 3187,
+    "produits": [
+        {
+            "produit_id": "P8867",
+            "nom": "For repair Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 173.64
+        },
+        {
+            "produit_id": "P9045",
+            "nom": "Handcrafted Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 454.26
+        }
+    ],
+    "date_commande": "2023-06-06T21:47:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

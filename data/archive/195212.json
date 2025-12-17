@@ -1,0 +1,25 @@
+{
+    "order_id": 195212,
+    "client_id": 3558,
+    "produits": [
+        {
+            "produit_id": "P8402",
+            "nom": "Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 91.12
+        },
+        {
+            "produit_id": "P4196",
+            "nom": "Handcrafted Steel Salad",
+            "quantite": 2,
+            "prix_unitaire": 40.71
+        }
+    ],
+    "date_commande": "2025-04-19T18:53:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1130 Goettingen",
+        "ville": "Asheville"
+    }
+}

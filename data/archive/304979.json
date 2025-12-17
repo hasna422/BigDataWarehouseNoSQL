@@ -1,0 +1,27 @@
+{
+    "order_id": 304979,
+    "client_id": 1701,
+    "produits": [
+        {
+            "produit_id": "P4222",
+            "nom": "Awesome Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 43.51
+        },
+        {
+            "produit_id": "P7610",
+            "nom": "Rustic Concrete Bacon",
+            "quantite": 3,
+            "prix_unitaire": 365.78
+        },
+        {
+            "produit_id": "P7671",
+            "nom": "Licensed Table",
+            "quantite": 3,
+            "prix_unitaire": 190.73
+        }
+    ],
+    "date_commande": "2024-04-22T10:19:04",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

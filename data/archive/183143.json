@@ -1,0 +1,15 @@
+{
+    "order_id": 183143,
+    "client_id": 7789,
+    "produits": [
+        {
+            "produit_id": "P2332",
+            "nom": "Incredible Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 236.4
+        }
+    ],
+    "date_commande": "2024-01-28T12:45:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

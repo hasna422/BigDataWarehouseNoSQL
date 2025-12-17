@@ -1,0 +1,25 @@
+{
+    "order_id": 133151,
+    "client_id": 3429,
+    "produits": [
+        {
+            "produit_id": "P9364",
+            "nom": "Handmade Metal Table",
+            "quantite": 3,
+            "prix_unitaire": 445.28
+        },
+        {
+            "produit_id": "P6470",
+            "nom": "Rustic Car",
+            "quantite": 5,
+            "prix_unitaire": 357.68
+        }
+    ],
+    "date_commande": "2025-05-05T16:55:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "84 Kenneth Rexroth",
+        "ville": "Farragut"
+    }
+}

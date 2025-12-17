@@ -1,0 +1,25 @@
+{
+    "order_id": 367896,
+    "client_id": 3465,
+    "produits": [
+        {
+            "produit_id": "P2205",
+            "nom": "Used Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 45.84
+        },
+        {
+            "produit_id": "P5883",
+            "nom": "For repair Concrete Sausages",
+            "quantite": 4,
+            "prix_unitaire": 202.22
+        }
+    ],
+    "date_commande": "2025-01-30T23:22:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "760 Keyes",
+        "ville": "Dublin"
+    }
+}

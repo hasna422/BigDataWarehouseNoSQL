@@ -1,0 +1,15 @@
+{
+    "order_id": 725028,
+    "client_id": 4825,
+    "produits": [
+        {
+            "produit_id": "P1549",
+            "nom": "Unbranded Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 350.62
+        }
+    ],
+    "date_commande": "2024-01-11T08:17:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

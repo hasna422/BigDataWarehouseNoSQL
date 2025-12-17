@@ -1,0 +1,19 @@
+{
+    "order_id": 400774,
+    "client_id": 5748,
+    "produits": [
+        {
+            "produit_id": "P8223",
+            "nom": "Awesome Rubber Fish",
+            "quantite": 2,
+            "prix_unitaire": 154.47
+        }
+    ],
+    "date_commande": "2025-05-20T10:49:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1363 Santiago",
+        "ville": "Mission"
+    }
+}

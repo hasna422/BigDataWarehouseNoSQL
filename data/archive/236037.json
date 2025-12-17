@@ -1,0 +1,15 @@
+{
+    "order_id": 236037,
+    "client_id": 7227,
+    "produits": [
+        {
+            "produit_id": "P7726",
+            "nom": "Fantastic Granite Table",
+            "quantite": 3,
+            "prix_unitaire": 282.74
+        }
+    ],
+    "date_commande": "2025-01-03T22:08:19",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

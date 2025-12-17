@@ -1,0 +1,31 @@
+{
+    "order_id": 697449,
+    "client_id": 6891,
+    "produits": [
+        {
+            "produit_id": "P3995",
+            "nom": "Generic Soap",
+            "quantite": 4,
+            "prix_unitaire": 267.45
+        },
+        {
+            "produit_id": "P8975",
+            "nom": "Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 164.73
+        },
+        {
+            "produit_id": "P3591",
+            "nom": "Sleek Soap",
+            "quantite": 2,
+            "prix_unitaire": 89.81
+        }
+    ],
+    "date_commande": "2023-08-08T18:45:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "993 Catherine",
+        "ville": "Twinsburg"
+    }
+}

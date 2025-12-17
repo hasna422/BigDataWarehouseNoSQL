@@ -1,0 +1,25 @@
+{
+    "order_id": 447963,
+    "client_id": 4049,
+    "produits": [
+        {
+            "produit_id": "P9466",
+            "nom": "Licensed Soft Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 132.41
+        },
+        {
+            "produit_id": "P6506",
+            "nom": "Handcrafted Soft Towels",
+            "quantite": 4,
+            "prix_unitaire": 52.39
+        }
+    ],
+    "date_commande": "2025-03-15T02:40:15",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "387 Quane",
+        "ville": "Gainesville"
+    }
+}

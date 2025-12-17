@@ -1,0 +1,31 @@
+{
+    "order_id": 805651,
+    "client_id": 3982,
+    "produits": [
+        {
+            "produit_id": "P7214",
+            "nom": "Practical Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 454.34
+        },
+        {
+            "produit_id": "P4480",
+            "nom": "Used Concrete Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 108.31
+        },
+        {
+            "produit_id": "P4588",
+            "nom": "For repair Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 390.63
+        }
+    ],
+    "date_commande": "2023-08-02T07:21:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "631 Midway",
+        "ville": "St. George"
+    }
+}

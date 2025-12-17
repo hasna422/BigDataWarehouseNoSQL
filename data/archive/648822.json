@@ -1,0 +1,25 @@
+{
+    "order_id": 648822,
+    "client_id": 7554,
+    "produits": [
+        {
+            "produit_id": "P8893",
+            "nom": "Handcrafted Granite Table",
+            "quantite": 4,
+            "prix_unitaire": 452.66
+        },
+        {
+            "produit_id": "P4119",
+            "nom": "Sleek Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 195.38
+        }
+    ],
+    "date_commande": "2024-08-27T06:57:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "932 Lendrum",
+        "ville": "Batavia"
+    }
+}

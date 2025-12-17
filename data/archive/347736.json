@@ -1,0 +1,31 @@
+{
+    "order_id": 347736,
+    "client_id": 4342,
+    "produits": [
+        {
+            "produit_id": "P8900",
+            "nom": "Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 322.13
+        },
+        {
+            "produit_id": "P1254",
+            "nom": "Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 395.69
+        },
+        {
+            "produit_id": "P2935",
+            "nom": "Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 252.15
+        }
+    ],
+    "date_commande": "2024-04-19T19:11:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "23 Cochrane",
+        "ville": "San Jacinto"
+    }
+}

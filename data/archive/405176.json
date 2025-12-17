@@ -1,0 +1,19 @@
+{
+    "order_id": 405176,
+    "client_id": 7239,
+    "produits": [
+        {
+            "produit_id": "P6798",
+            "nom": "Ergonomic Metal Gloves",
+            "quantite": 1,
+            "prix_unitaire": 452.27
+        }
+    ],
+    "date_commande": "2024-05-24T23:40:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "714 Karen",
+        "ville": "Machesney Park"
+    }
+}

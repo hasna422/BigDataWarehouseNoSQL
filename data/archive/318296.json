@@ -1,0 +1,25 @@
+{
+    "order_id": 318296,
+    "client_id": 6004,
+    "produits": [
+        {
+            "produit_id": "P9269",
+            "nom": "Awesome Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 73.68
+        },
+        {
+            "produit_id": "P2360",
+            "nom": "Ergonomic Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 268.16
+        }
+    ],
+    "date_commande": "2023-06-24T22:26:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "638 Elm",
+        "ville": "Dubuque"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 804413,
+    "client_id": 3814,
+    "produits": [
+        {
+            "produit_id": "P1866",
+            "nom": "Generic Concrete Chips",
+            "quantite": 4,
+            "prix_unitaire": 180.31
+        },
+        {
+            "produit_id": "P9866",
+            "nom": "Generic Metal Chips",
+            "quantite": 3,
+            "prix_unitaire": 25.67
+        },
+        {
+            "produit_id": "P9126",
+            "nom": "Small Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 322.08
+        }
+    ],
+    "date_commande": "2024-11-19T13:29:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "910 Cuesta",
+        "ville": "Great Falls"
+    }
+}

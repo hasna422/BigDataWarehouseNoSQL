@@ -1,0 +1,31 @@
+{
+    "order_id": 308040,
+    "client_id": 2332,
+    "produits": [
+        {
+            "produit_id": "P0772",
+            "nom": "Awesome Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 215.39
+        },
+        {
+            "produit_id": "P6606",
+            "nom": "Intelligent Ball",
+            "quantite": 2,
+            "prix_unitaire": 470.18
+        },
+        {
+            "produit_id": "P1973",
+            "nom": "Refined Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 253.8
+        }
+    ],
+    "date_commande": "2025-02-12T15:04:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1192 Bigelow",
+        "ville": "Big Spring"
+    }
+}

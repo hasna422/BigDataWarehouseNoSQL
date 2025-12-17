@@ -1,0 +1,21 @@
+{
+    "order_id": 521117,
+    "client_id": 5844,
+    "produits": [
+        {
+            "produit_id": "P8023",
+            "nom": "For repair Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 415.89
+        },
+        {
+            "produit_id": "P2285",
+            "nom": "Gorgeous Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 246.33
+        }
+    ],
+    "date_commande": "2024-12-22T12:57:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

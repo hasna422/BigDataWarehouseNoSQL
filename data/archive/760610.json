@@ -1,0 +1,21 @@
+{
+    "order_id": 760610,
+    "client_id": 7936,
+    "produits": [
+        {
+            "produit_id": "P4424",
+            "nom": "For repair Metal Tuna",
+            "quantite": 4,
+            "prix_unitaire": 31.14
+        },
+        {
+            "produit_id": "P2623",
+            "nom": "Small Rubber Computer",
+            "quantite": 3,
+            "prix_unitaire": 223.77
+        }
+    ],
+    "date_commande": "2023-09-14T15:49:03",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

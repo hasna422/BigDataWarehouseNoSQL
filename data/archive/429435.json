@@ -1,0 +1,31 @@
+{
+    "order_id": 429435,
+    "client_id": 2628,
+    "produits": [
+        {
+            "produit_id": "P1162",
+            "nom": "Small Soft Computer",
+            "quantite": 2,
+            "prix_unitaire": 309.48
+        },
+        {
+            "produit_id": "P4007",
+            "nom": "Fantastic Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 127.44
+        },
+        {
+            "produit_id": "P6071",
+            "nom": "Awesome Plastic Fish",
+            "quantite": 1,
+            "prix_unitaire": 233.25
+        }
+    ],
+    "date_commande": "2023-09-29T16:43:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "467 Verdun",
+        "ville": "Sacramento"
+    }
+}

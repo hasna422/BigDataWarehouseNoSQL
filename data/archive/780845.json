@@ -1,0 +1,19 @@
+{
+    "order_id": 780845,
+    "client_id": 7990,
+    "produits": [
+        {
+            "produit_id": "P9977",
+            "nom": "Handcrafted Tuna",
+            "quantite": 1,
+            "prix_unitaire": 242.72
+        }
+    ],
+    "date_commande": "2023-06-17T02:50:12",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "220 Coventry",
+        "ville": "Dearborn Heights"
+    }
+}

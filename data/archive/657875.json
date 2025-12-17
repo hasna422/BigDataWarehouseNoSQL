@@ -1,0 +1,31 @@
+{
+    "order_id": 657875,
+    "client_id": 1377,
+    "produits": [
+        {
+            "produit_id": "P1335",
+            "nom": "Handcrafted Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 426.63
+        },
+        {
+            "produit_id": "P4497",
+            "nom": "Intelligent Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 100.3
+        },
+        {
+            "produit_id": "P5759",
+            "nom": "Small Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 499.54
+        }
+    ],
+    "date_commande": "2025-03-09T04:15:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "833 Venus",
+        "ville": "Bridgeton"
+    }
+}

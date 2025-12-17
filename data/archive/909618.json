@@ -1,0 +1,27 @@
+{
+    "order_id": 909618,
+    "client_id": 6987,
+    "produits": [
+        {
+            "produit_id": "P1756",
+            "nom": "Ergonomic Fresh Sausages",
+            "quantite": 5,
+            "prix_unitaire": 96.95
+        },
+        {
+            "produit_id": "P5758",
+            "nom": "Gorgeous Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 179.11
+        },
+        {
+            "produit_id": "P2269",
+            "nom": "Handmade Wooden Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 461.18
+        }
+    ],
+    "date_commande": "2024-01-20T09:25:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

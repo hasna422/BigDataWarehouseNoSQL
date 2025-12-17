@@ -1,0 +1,31 @@
+{
+    "order_id": 199044,
+    "client_id": 8387,
+    "produits": [
+        {
+            "produit_id": "P4739",
+            "nom": "Small Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 445.07
+        },
+        {
+            "produit_id": "P9093",
+            "nom": "Sleek Metal Mouse",
+            "quantite": 4,
+            "prix_unitaire": 295.34
+        },
+        {
+            "produit_id": "P6071",
+            "nom": "Awesome Frozen Chips",
+            "quantite": 3,
+            "prix_unitaire": 458.02
+        }
+    ],
+    "date_commande": "2024-03-11T14:32:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1356 Miramar",
+        "ville": "Baldwin Park"
+    }
+}

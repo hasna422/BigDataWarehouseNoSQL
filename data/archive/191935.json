@@ -1,0 +1,27 @@
+{
+    "order_id": 191935,
+    "client_id": 3559,
+    "produits": [
+        {
+            "produit_id": "P7979",
+            "nom": "Sleek Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 64.67
+        },
+        {
+            "produit_id": "P9357",
+            "nom": "Rustic Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 472.14
+        },
+        {
+            "produit_id": "P6137",
+            "nom": "Unbranded Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 138.61
+        }
+    ],
+    "date_commande": "2025-04-25T18:11:22",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

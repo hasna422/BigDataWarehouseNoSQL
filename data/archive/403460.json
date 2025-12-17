@@ -1,0 +1,15 @@
+{
+    "order_id": 403460,
+    "client_id": 6556,
+    "produits": [
+        {
+            "produit_id": "P3194",
+            "nom": "Fantastic Cotton Chair",
+            "quantite": 1,
+            "prix_unitaire": 158.58
+        }
+    ],
+    "date_commande": "2025-03-03T23:40:07",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

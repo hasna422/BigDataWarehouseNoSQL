@@ -1,0 +1,31 @@
+{
+    "order_id": 141458,
+    "client_id": 3547,
+    "produits": [
+        {
+            "produit_id": "P8524",
+            "nom": "Practical Steel Computer",
+            "quantite": 4,
+            "prix_unitaire": 167.19
+        },
+        {
+            "produit_id": "P2730",
+            "nom": "Refined Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 41.18
+        },
+        {
+            "produit_id": "P8512",
+            "nom": "Gorgeous Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 280.08
+        }
+    ],
+    "date_commande": "2023-10-14T07:10:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "725 French",
+        "ville": "Willmar"
+    }
+}

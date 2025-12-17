@@ -1,0 +1,19 @@
+{
+    "order_id": 959229,
+    "client_id": 4176,
+    "produits": [
+        {
+            "produit_id": "P9937",
+            "nom": "Incredible Wooden Chair",
+            "quantite": 5,
+            "prix_unitaire": 450.56
+        }
+    ],
+    "date_commande": "2023-06-04T04:56:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "815 Santa Fe",
+        "ville": "Lindenwold"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 646018,
+    "client_id": 9643,
+    "produits": [
+        {
+            "produit_id": "P7661",
+            "nom": "Used Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 158.67
+        },
+        {
+            "produit_id": "P6417",
+            "nom": "Gorgeous Soap",
+            "quantite": 4,
+            "prix_unitaire": 398.69
+        },
+        {
+            "produit_id": "P4316",
+            "nom": "Tasty Plastic Computer",
+            "quantite": 3,
+            "prix_unitaire": 145.27
+        }
+    ],
+    "date_commande": "2024-11-28T07:29:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "726 Carl",
+        "ville": "Newnan"
+    }
+}

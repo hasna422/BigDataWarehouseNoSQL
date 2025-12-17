@@ -1,0 +1,15 @@
+{
+    "order_id": 904507,
+    "client_id": 7460,
+    "produits": [
+        {
+            "produit_id": "P8206",
+            "nom": "Fantastic Rubber Bacon",
+            "quantite": 2,
+            "prix_unitaire": 89.5
+        }
+    ],
+    "date_commande": "2024-11-14T19:17:41",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

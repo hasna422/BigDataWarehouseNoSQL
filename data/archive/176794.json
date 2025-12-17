@@ -1,0 +1,27 @@
+{
+    "order_id": 176794,
+    "client_id": 4679,
+    "produits": [
+        {
+            "produit_id": "P3193",
+            "nom": "Gorgeous Granite Car",
+            "quantite": 5,
+            "prix_unitaire": 454.15
+        },
+        {
+            "produit_id": "P2473",
+            "nom": "Rustic Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 181.95
+        },
+        {
+            "produit_id": "P1832",
+            "nom": "For repair Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 407.97
+        }
+    ],
+    "date_commande": "2024-01-01T05:50:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

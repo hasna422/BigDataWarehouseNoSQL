@@ -1,0 +1,25 @@
+{
+    "order_id": 842981,
+    "client_id": 7687,
+    "produits": [
+        {
+            "produit_id": "P5392",
+            "nom": "Gently Used Fish",
+            "quantite": 3,
+            "prix_unitaire": 104.51
+        },
+        {
+            "produit_id": "P7961",
+            "nom": "Handcrafted Plastic Soap",
+            "quantite": 1,
+            "prix_unitaire": 84.17
+        }
+    ],
+    "date_commande": "2024-03-29T01:33:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "950 Dunnes",
+        "ville": "Garden City"
+    }
+}

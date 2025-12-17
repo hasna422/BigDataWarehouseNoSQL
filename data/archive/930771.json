@@ -1,0 +1,31 @@
+{
+    "order_id": 930771,
+    "client_id": 2529,
+    "produits": [
+        {
+            "produit_id": "P3283",
+            "nom": "Incredible Bacon",
+            "quantite": 5,
+            "prix_unitaire": 174.37
+        },
+        {
+            "produit_id": "P0330",
+            "nom": "Steel Bike",
+            "quantite": 4,
+            "prix_unitaire": 184.81
+        },
+        {
+            "produit_id": "P3179",
+            "nom": "Handcrafted Pizza",
+            "quantite": 1,
+            "prix_unitaire": 462.85
+        }
+    ],
+    "date_commande": "2025-05-08T21:01:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "372 Behr",
+        "ville": "El Reno"
+    }
+}

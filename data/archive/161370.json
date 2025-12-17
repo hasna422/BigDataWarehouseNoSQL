@@ -1,0 +1,27 @@
+{
+    "order_id": 161370,
+    "client_id": 2539,
+    "produits": [
+        {
+            "produit_id": "P8560",
+            "nom": "Licensed Wooden Cheese",
+            "quantite": 1,
+            "prix_unitaire": 418.94
+        },
+        {
+            "produit_id": "P4359",
+            "nom": "Tasty Steel Shoes",
+            "quantite": 1,
+            "prix_unitaire": 467.91
+        },
+        {
+            "produit_id": "P3781",
+            "nom": "Incredible Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 341.56
+        }
+    ],
+    "date_commande": "2024-12-22T23:28:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

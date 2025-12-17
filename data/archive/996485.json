@@ -1,0 +1,19 @@
+{
+    "order_id": 996485,
+    "client_id": 8522,
+    "produits": [
+        {
+            "produit_id": "P7676",
+            "nom": "For repair Concrete Mouse",
+            "quantite": 5,
+            "prix_unitaire": 370.95
+        }
+    ],
+    "date_commande": "2024-07-13T19:29:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "686 Bell",
+        "ville": "El Cerrito"
+    }
+}

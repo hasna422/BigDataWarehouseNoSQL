@@ -1,0 +1,19 @@
+{
+    "order_id": 442353,
+    "client_id": 9184,
+    "produits": [
+        {
+            "produit_id": "P8264",
+            "nom": "Awesome Shirt",
+            "quantite": 3,
+            "prix_unitaire": 425.18
+        }
+    ],
+    "date_commande": "2025-01-19T04:13:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1093 Lower Fort Mason",
+        "ville": "New Rochelle"
+    }
+}

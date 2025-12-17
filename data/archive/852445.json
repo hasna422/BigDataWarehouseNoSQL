@@ -1,0 +1,25 @@
+{
+    "order_id": 852445,
+    "client_id": 3062,
+    "produits": [
+        {
+            "produit_id": "P7577",
+            "nom": "Tasty Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 236.24
+        },
+        {
+            "produit_id": "P4953",
+            "nom": "Handcrafted Plastic Bike",
+            "quantite": 5,
+            "prix_unitaire": 193.75
+        }
+    ],
+    "date_commande": "2024-05-19T07:59:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "208 Pacheco",
+        "ville": "Duncan"
+    }
+}

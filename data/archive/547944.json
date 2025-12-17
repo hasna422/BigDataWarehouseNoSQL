@@ -1,0 +1,27 @@
+{
+    "order_id": 547944,
+    "client_id": 5010,
+    "produits": [
+        {
+            "produit_id": "P1484",
+            "nom": "New Frozen Salad",
+            "quantite": 1,
+            "prix_unitaire": 498.65
+        },
+        {
+            "produit_id": "P6427",
+            "nom": "Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 140.59
+        },
+        {
+            "produit_id": "P5594",
+            "nom": "Handcrafted Granite Shirt",
+            "quantite": 3,
+            "prix_unitaire": 399.91
+        }
+    ],
+    "date_commande": "2025-05-06T10:14:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

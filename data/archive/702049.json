@@ -1,0 +1,31 @@
+{
+    "order_id": 702049,
+    "client_id": 9202,
+    "produits": [
+        {
+            "produit_id": "P2973",
+            "nom": "Practical Fresh Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 101.76
+        },
+        {
+            "produit_id": "P1218",
+            "nom": "Fantastic Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 281.57
+        },
+        {
+            "produit_id": "P1923",
+            "nom": "Tasty Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 155.09
+        }
+    ],
+    "date_commande": "2024-09-28T08:09:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1249 Sfgh Access",
+        "ville": "Freeport"
+    }
+}

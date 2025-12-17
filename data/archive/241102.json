@@ -1,0 +1,25 @@
+{
+    "order_id": 241102,
+    "client_id": 8348,
+    "produits": [
+        {
+            "produit_id": "P2551",
+            "nom": "Refined Granite Bike",
+            "quantite": 3,
+            "prix_unitaire": 363.62
+        },
+        {
+            "produit_id": "P6787",
+            "nom": "Small Steel Soap",
+            "quantite": 1,
+            "prix_unitaire": 53.61
+        }
+    ],
+    "date_commande": "2024-02-01T18:22:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1193 Executive Park",
+        "ville": "Gresham"
+    }
+}

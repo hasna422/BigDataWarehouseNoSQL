@@ -1,0 +1,15 @@
+{
+    "order_id": 186547,
+    "client_id": 7256,
+    "produits": [
+        {
+            "produit_id": "P7783",
+            "nom": "Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 304.59
+        }
+    ],
+    "date_commande": "2025-01-05T18:36:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

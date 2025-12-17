@@ -1,0 +1,25 @@
+{
+    "order_id": 581706,
+    "client_id": 8992,
+    "produits": [
+        {
+            "produit_id": "P1530",
+            "nom": "New Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 137.46
+        },
+        {
+            "produit_id": "P7402",
+            "nom": "Sleek Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 93.5
+        }
+    ],
+    "date_commande": "2023-06-19T18:21:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1040 Holloway",
+        "ville": "Burleson"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 156216,
+    "client_id": 6729,
+    "produits": [
+        {
+            "produit_id": "P2314",
+            "nom": "Handmade Fresh Gloves",
+            "quantite": 5,
+            "prix_unitaire": 219.98
+        }
+    ],
+    "date_commande": "2023-06-17T01:52:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1176 Pasadena",
+        "ville": "Brockton"
+    }
+}

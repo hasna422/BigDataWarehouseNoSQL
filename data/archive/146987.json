@@ -1,0 +1,27 @@
+{
+    "order_id": 146987,
+    "client_id": 2161,
+    "produits": [
+        {
+            "produit_id": "P2052",
+            "nom": "Gently Used Salad",
+            "quantite": 4,
+            "prix_unitaire": 156.08
+        },
+        {
+            "produit_id": "P1867",
+            "nom": "Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 476.18
+        },
+        {
+            "produit_id": "P0934",
+            "nom": "Tasty Steel Shirt",
+            "quantite": 2,
+            "prix_unitaire": 106.78
+        }
+    ],
+    "date_commande": "2025-03-16T06:35:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

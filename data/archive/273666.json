@@ -1,0 +1,25 @@
+{
+    "order_id": 273666,
+    "client_id": 7247,
+    "produits": [
+        {
+            "produit_id": "P4097",
+            "nom": "Licensed Granite Bacon",
+            "quantite": 4,
+            "prix_unitaire": 98.69
+        },
+        {
+            "produit_id": "P1505",
+            "nom": "Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 9.12
+        }
+    ],
+    "date_commande": "2024-08-19T17:03:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1096 Downey",
+        "ville": "Fountain Valley"
+    }
+}

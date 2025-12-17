@@ -1,0 +1,19 @@
+{
+    "order_id": 127571,
+    "client_id": 9418,
+    "produits": [
+        {
+            "produit_id": "P3042",
+            "nom": "Sleek Metal Ball",
+            "quantite": 5,
+            "prix_unitaire": 294.01
+        }
+    ],
+    "date_commande": "2025-04-06T16:19:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1179 Fella",
+        "ville": "Mount Pleasant"
+    }
+}

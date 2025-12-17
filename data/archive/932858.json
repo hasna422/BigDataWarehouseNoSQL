@@ -1,0 +1,21 @@
+{
+    "order_id": 932858,
+    "client_id": 5209,
+    "produits": [
+        {
+            "produit_id": "P5764",
+            "nom": "Ergonomic Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 246.46
+        },
+        {
+            "produit_id": "P8160",
+            "nom": "Awesome Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 205.5
+        }
+    ],
+    "date_commande": "2024-03-20T07:44:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

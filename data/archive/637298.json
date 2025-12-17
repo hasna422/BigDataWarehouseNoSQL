@@ -1,0 +1,31 @@
+{
+    "order_id": 637298,
+    "client_id": 1302,
+    "produits": [
+        {
+            "produit_id": "P3416",
+            "nom": "Unbranded Concrete Salad",
+            "quantite": 4,
+            "prix_unitaire": 492.82
+        },
+        {
+            "produit_id": "P7415",
+            "nom": "Handmade Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 298.32
+        },
+        {
+            "produit_id": "P8764",
+            "nom": "New Rubber Soap",
+            "quantite": 5,
+            "prix_unitaire": 187.49
+        }
+    ],
+    "date_commande": "2024-02-23T20:04:38",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "583 Schwerin",
+        "ville": "Montebello"
+    }
+}

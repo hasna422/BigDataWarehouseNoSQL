@@ -1,0 +1,19 @@
+{
+    "order_id": 894405,
+    "client_id": 6152,
+    "produits": [
+        {
+            "produit_id": "P4218",
+            "nom": "Incredible Shirt",
+            "quantite": 2,
+            "prix_unitaire": 22.36
+        }
+    ],
+    "date_commande": "2023-07-25T17:13:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "416 Corbett",
+        "ville": "Cartersville"
+    }
+}

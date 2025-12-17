@@ -1,0 +1,19 @@
+{
+    "order_id": 342758,
+    "client_id": 6536,
+    "produits": [
+        {
+            "produit_id": "P6179",
+            "nom": "Small Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 300.08
+        }
+    ],
+    "date_commande": "2024-09-08T20:29:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1162 West Clay",
+        "ville": "Jeffersontown"
+    }
+}

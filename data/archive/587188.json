@@ -1,0 +1,27 @@
+{
+    "order_id": 587188,
+    "client_id": 5033,
+    "produits": [
+        {
+            "produit_id": "P7825",
+            "nom": "Gently Used Granite Shoes",
+            "quantite": 1,
+            "prix_unitaire": 335.68
+        },
+        {
+            "produit_id": "P9080",
+            "nom": "Incredible Rubber Shirt",
+            "quantite": 4,
+            "prix_unitaire": 201.43
+        },
+        {
+            "produit_id": "P5248",
+            "nom": "Unbranded Concrete Hat",
+            "quantite": 4,
+            "prix_unitaire": 319.18
+        }
+    ],
+    "date_commande": "2024-07-23T19:09:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

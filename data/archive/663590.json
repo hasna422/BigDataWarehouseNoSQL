@@ -1,0 +1,27 @@
+{
+    "order_id": 663590,
+    "client_id": 7419,
+    "produits": [
+        {
+            "produit_id": "P7342",
+            "nom": "Ergonomic Concrete Bike",
+            "quantite": 1,
+            "prix_unitaire": 307.75
+        },
+        {
+            "produit_id": "P7892",
+            "nom": "Generic Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 254.88
+        },
+        {
+            "produit_id": "P7005",
+            "nom": "Gorgeous Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 162.79
+        }
+    ],
+    "date_commande": "2025-02-22T02:16:32",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

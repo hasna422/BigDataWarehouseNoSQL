@@ -1,0 +1,19 @@
+{
+    "order_id": 556765,
+    "client_id": 4211,
+    "produits": [
+        {
+            "produit_id": "P3773",
+            "nom": "Licensed Wooden Bike",
+            "quantite": 1,
+            "prix_unitaire": 144.49
+        }
+    ],
+    "date_commande": "2025-03-19T04:33:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "820 Quartz",
+        "ville": "Elmwood Park"
+    }
+}

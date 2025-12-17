@@ -1,0 +1,15 @@
+{
+    "order_id": 525305,
+    "client_id": 7914,
+    "produits": [
+        {
+            "produit_id": "P1363",
+            "nom": "Handmade Granite Pants",
+            "quantite": 1,
+            "prix_unitaire": 487.64
+        }
+    ],
+    "date_commande": "2023-12-02T05:12:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

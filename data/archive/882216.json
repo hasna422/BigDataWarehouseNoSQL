@@ -1,0 +1,31 @@
+{
+    "order_id": 882216,
+    "client_id": 2255,
+    "produits": [
+        {
+            "produit_id": "P0428",
+            "nom": "Unbranded Rubber Cheese",
+            "quantite": 1,
+            "prix_unitaire": 325.6
+        },
+        {
+            "produit_id": "P3041",
+            "nom": "Handmade Bacon",
+            "quantite": 4,
+            "prix_unitaire": 269.97
+        },
+        {
+            "produit_id": "P7738",
+            "nom": "Licensed Metal Table",
+            "quantite": 4,
+            "prix_unitaire": 354.54
+        }
+    ],
+    "date_commande": "2025-04-26T13:49:11",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "175 Kenwood",
+        "ville": "Post Falls"
+    }
+}

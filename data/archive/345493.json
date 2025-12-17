@@ -1,0 +1,21 @@
+{
+    "order_id": 345493,
+    "client_id": 5740,
+    "produits": [
+        {
+            "produit_id": "P2219",
+            "nom": "Generic Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 322.48
+        },
+        {
+            "produit_id": "P0828",
+            "nom": "Used Table",
+            "quantite": 1,
+            "prix_unitaire": 219.48
+        }
+    ],
+    "date_commande": "2024-12-23T10:05:28",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

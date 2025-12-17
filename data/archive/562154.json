@@ -1,0 +1,21 @@
+{
+    "order_id": 562154,
+    "client_id": 9219,
+    "produits": [
+        {
+            "produit_id": "P0821",
+            "nom": "Fantastic Rubber Soap",
+            "quantite": 2,
+            "prix_unitaire": 70.65
+        },
+        {
+            "produit_id": "P5261",
+            "nom": "Awesome Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 444.18
+        }
+    ],
+    "date_commande": "2025-03-31T18:49:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

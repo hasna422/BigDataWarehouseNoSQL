@@ -1,0 +1,25 @@
+{
+    "order_id": 732582,
+    "client_id": 9864,
+    "produits": [
+        {
+            "produit_id": "P6122",
+            "nom": "Ergonomic Metal Pants",
+            "quantite": 5,
+            "prix_unitaire": 307.62
+        },
+        {
+            "produit_id": "P6705",
+            "nom": "Refined Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 316.29
+        }
+    ],
+    "date_commande": "2024-03-28T10:16:14",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "622 Black",
+        "ville": "Waterloo"
+    }
+}

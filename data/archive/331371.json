@@ -1,0 +1,19 @@
+{
+    "order_id": 331371,
+    "client_id": 9239,
+    "produits": [
+        {
+            "produit_id": "P0198",
+            "nom": "Sleek Cotton Pants",
+            "quantite": 4,
+            "prix_unitaire": 316.73
+        }
+    ],
+    "date_commande": "2025-01-17T12:06:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1076 Stoneman",
+        "ville": "Grove City"
+    }
+}

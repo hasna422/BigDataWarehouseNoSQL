@@ -1,0 +1,19 @@
+{
+    "order_id": 471554,
+    "client_id": 2767,
+    "produits": [
+        {
+            "produit_id": "P5184",
+            "nom": "Unbranded Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 214.91
+        }
+    ],
+    "date_commande": "2024-05-28T17:06:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "677 Myrtle",
+        "ville": "Albert Lea"
+    }
+}

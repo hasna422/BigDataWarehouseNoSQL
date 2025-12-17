@@ -1,0 +1,21 @@
+{
+    "order_id": 803008,
+    "client_id": 7804,
+    "produits": [
+        {
+            "produit_id": "P8838",
+            "nom": "Tasty Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 249.52
+        },
+        {
+            "produit_id": "P7885",
+            "nom": "Ergonomic Plastic Chair",
+            "quantite": 1,
+            "prix_unitaire": 78.26
+        }
+    ],
+    "date_commande": "2024-09-09T00:25:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

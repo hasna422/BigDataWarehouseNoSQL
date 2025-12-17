@@ -1,0 +1,15 @@
+{
+    "order_id": 555960,
+    "client_id": 5698,
+    "produits": [
+        {
+            "produit_id": "P7764",
+            "nom": "Metal Soap",
+            "quantite": 5,
+            "prix_unitaire": 119.17
+        }
+    ],
+    "date_commande": "2024-12-19T08:52:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

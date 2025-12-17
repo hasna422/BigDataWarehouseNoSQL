@@ -1,0 +1,25 @@
+{
+    "order_id": 470738,
+    "client_id": 8346,
+    "produits": [
+        {
+            "produit_id": "P6142",
+            "nom": "Rustic Frozen Fish",
+            "quantite": 2,
+            "prix_unitaire": 220.32
+        },
+        {
+            "produit_id": "P8078",
+            "nom": "Handcrafted Fish",
+            "quantite": 1,
+            "prix_unitaire": 476.06
+        }
+    ],
+    "date_commande": "2024-07-27T11:27:32",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "321 Prentiss",
+        "ville": "Wilson"
+    }
+}

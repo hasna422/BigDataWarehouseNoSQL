@@ -1,0 +1,25 @@
+{
+    "order_id": 586990,
+    "client_id": 8982,
+    "produits": [
+        {
+            "produit_id": "P3834",
+            "nom": "Generic Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 14.48
+        },
+        {
+            "produit_id": "P9671",
+            "nom": "Handcrafted Soft Gloves",
+            "quantite": 3,
+            "prix_unitaire": 455.81
+        }
+    ],
+    "date_commande": "2024-12-08T04:48:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "424 Marcela",
+        "ville": "Watauga"
+    }
+}

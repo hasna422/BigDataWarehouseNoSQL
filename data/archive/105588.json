@@ -1,0 +1,19 @@
+{
+    "order_id": 105588,
+    "client_id": 2724,
+    "produits": [
+        {
+            "produit_id": "P4838",
+            "nom": "Practical Hat",
+            "quantite": 5,
+            "prix_unitaire": 35.21
+        }
+    ],
+    "date_commande": "2025-01-19T01:37:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "29 Montcalm",
+        "ville": "Burnsville"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 121530,
+    "client_id": 3792,
+    "produits": [
+        {
+            "produit_id": "P7792",
+            "nom": "Practical Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 289.36
+        }
+    ],
+    "date_commande": "2025-02-18T18:09:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "361 Mayflower",
+        "ville": "Farmington Hills"
+    }
+}

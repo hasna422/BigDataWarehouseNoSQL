@@ -1,0 +1,19 @@
+{
+    "order_id": 659984,
+    "client_id": 7477,
+    "produits": [
+        {
+            "produit_id": "P6768",
+            "nom": "Ergonomic Granite Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 397.0
+        }
+    ],
+    "date_commande": "2024-01-29T12:18:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "156 Newell",
+        "ville": "Farmers Branch"
+    }
+}

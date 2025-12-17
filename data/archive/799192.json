@@ -1,0 +1,25 @@
+{
+    "order_id": 799192,
+    "client_id": 2508,
+    "produits": [
+        {
+            "produit_id": "P5175",
+            "nom": "Generic Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 393.76
+        },
+        {
+            "produit_id": "P9800",
+            "nom": "Generic Ball",
+            "quantite": 5,
+            "prix_unitaire": 319.51
+        }
+    ],
+    "date_commande": "2024-09-24T21:45:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1188 Rockaway",
+        "ville": "Lemoore"
+    }
+}

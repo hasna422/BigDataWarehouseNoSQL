@@ -1,0 +1,31 @@
+{
+    "order_id": 430812,
+    "client_id": 7160,
+    "produits": [
+        {
+            "produit_id": "P2805",
+            "nom": "Frozen Towels",
+            "quantite": 4,
+            "prix_unitaire": 493.11
+        },
+        {
+            "produit_id": "P0327",
+            "nom": "Gently Used Concrete Car",
+            "quantite": 2,
+            "prix_unitaire": 13.47
+        },
+        {
+            "produit_id": "P5163",
+            "nom": "Awesome Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 325.19
+        }
+    ],
+    "date_commande": "2023-11-04T03:48:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "132 Forest Side",
+        "ville": "Lackawanna"
+    }
+}

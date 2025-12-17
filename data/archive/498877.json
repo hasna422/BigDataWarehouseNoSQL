@@ -1,0 +1,21 @@
+{
+    "order_id": 498877,
+    "client_id": 3650,
+    "produits": [
+        {
+            "produit_id": "P7455",
+            "nom": "Tasty Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 358.53
+        },
+        {
+            "produit_id": "P5552",
+            "nom": "Plastic Cheese",
+            "quantite": 3,
+            "prix_unitaire": 186.99
+        }
+    ],
+    "date_commande": "2024-03-29T23:20:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 412488,
+    "client_id": 9705,
+    "produits": [
+        {
+            "produit_id": "P9022",
+            "nom": "Small Cotton Gloves",
+            "quantite": 4,
+            "prix_unitaire": 429.38
+        }
+    ],
+    "date_commande": "2023-12-17T13:24:51",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "247 Chula",
+        "ville": "Port St. Lucie"
+    }
+}

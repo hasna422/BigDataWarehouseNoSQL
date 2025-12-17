@@ -1,0 +1,25 @@
+{
+    "order_id": 209667,
+    "client_id": 1054,
+    "produits": [
+        {
+            "produit_id": "P8139",
+            "nom": "New Granite Salad",
+            "quantite": 1,
+            "prix_unitaire": 384.46
+        },
+        {
+            "produit_id": "P9014",
+            "nom": "Handcrafted Metal Sausages",
+            "quantite": 4,
+            "prix_unitaire": 393.04
+        }
+    ],
+    "date_commande": "2023-08-08T00:02:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "352 Sherwood",
+        "ville": "Pocatello"
+    }
+}

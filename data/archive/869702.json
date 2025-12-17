@@ -1,0 +1,31 @@
+{
+    "order_id": 869702,
+    "client_id": 5685,
+    "produits": [
+        {
+            "produit_id": "P3923",
+            "nom": "Ergonomic Wooden Chair",
+            "quantite": 4,
+            "prix_unitaire": 420.41
+        },
+        {
+            "produit_id": "P8661",
+            "nom": "Intelligent Chips",
+            "quantite": 3,
+            "prix_unitaire": 63.89
+        },
+        {
+            "produit_id": "P3560",
+            "nom": "Sleek Fresh Bike",
+            "quantite": 3,
+            "prix_unitaire": 32.21
+        }
+    ],
+    "date_commande": "2025-01-18T01:52:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "482 Myrtle",
+        "ville": "Antioch"
+    }
+}

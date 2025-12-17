@@ -1,0 +1,25 @@
+{
+    "order_id": 549565,
+    "client_id": 7240,
+    "produits": [
+        {
+            "produit_id": "P9199",
+            "nom": "Used Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 72.02
+        },
+        {
+            "produit_id": "P7289",
+            "nom": "Tasty Steel Shirt",
+            "quantite": 4,
+            "prix_unitaire": 11.57
+        }
+    ],
+    "date_commande": "2024-12-26T12:19:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1116 Elsie",
+        "ville": "Spokane Valley"
+    }
+}

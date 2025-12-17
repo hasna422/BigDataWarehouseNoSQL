@@ -1,0 +1,15 @@
+{
+    "order_id": 506880,
+    "client_id": 9747,
+    "produits": [
+        {
+            "produit_id": "P7376",
+            "nom": "Gorgeous Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 140.89
+        }
+    ],
+    "date_commande": "2023-12-08T21:09:11",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

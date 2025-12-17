@@ -1,0 +1,31 @@
+{
+    "order_id": 427521,
+    "client_id": 5664,
+    "produits": [
+        {
+            "produit_id": "P7512",
+            "nom": "Ergonomic Concrete Bacon",
+            "quantite": 5,
+            "prix_unitaire": 458.61
+        },
+        {
+            "produit_id": "P6508",
+            "nom": "Rustic Metal Bike",
+            "quantite": 3,
+            "prix_unitaire": 81.27
+        },
+        {
+            "produit_id": "P2096",
+            "nom": "Ergonomic Cotton Ball",
+            "quantite": 1,
+            "prix_unitaire": 231.73
+        }
+    ],
+    "date_commande": "2025-01-20T14:39:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "864 Lurmont",
+        "ville": "Bryan"
+    }
+}

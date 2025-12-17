@@ -1,0 +1,31 @@
+{
+    "order_id": 509694,
+    "client_id": 8091,
+    "produits": [
+        {
+            "produit_id": "P3794",
+            "nom": "New Car",
+            "quantite": 5,
+            "prix_unitaire": 90.52
+        },
+        {
+            "produit_id": "P8981",
+            "nom": "Licensed Table",
+            "quantite": 5,
+            "prix_unitaire": 248.14
+        },
+        {
+            "produit_id": "P7499",
+            "nom": "Fantastic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 490.48
+        }
+    ],
+    "date_commande": "2023-11-19T13:15:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "359 Sternberg",
+        "ville": "Cocoa"
+    }
+}

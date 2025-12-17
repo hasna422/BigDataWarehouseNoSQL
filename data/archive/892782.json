@@ -1,0 +1,15 @@
+{
+    "order_id": 892782,
+    "client_id": 1726,
+    "produits": [
+        {
+            "produit_id": "P7976",
+            "nom": "Practical Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 103.59
+        }
+    ],
+    "date_commande": "2025-05-17T22:18:20",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

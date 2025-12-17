@@ -1,0 +1,31 @@
+{
+    "order_id": 251633,
+    "client_id": 5409,
+    "produits": [
+        {
+            "produit_id": "P6581",
+            "nom": "Rustic Frozen Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 283.67
+        },
+        {
+            "produit_id": "P8523",
+            "nom": "Used Plastic Salad",
+            "quantite": 1,
+            "prix_unitaire": 290.43
+        },
+        {
+            "produit_id": "P2064",
+            "nom": "Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 350.11
+        }
+    ],
+    "date_commande": "2024-12-07T06:34:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1184 Kirkham",
+        "ville": "Newnan"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 939856,
+    "client_id": 2915,
+    "produits": [
+        {
+            "produit_id": "P1717",
+            "nom": "Awesome Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 9.06
+        },
+        {
+            "produit_id": "P8634",
+            "nom": "Generic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 136.82
+        }
+    ],
+    "date_commande": "2025-03-18T08:52:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

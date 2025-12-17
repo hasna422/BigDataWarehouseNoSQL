@@ -1,0 +1,21 @@
+{
+    "order_id": 406593,
+    "client_id": 2372,
+    "produits": [
+        {
+            "produit_id": "P5849",
+            "nom": "Handcrafted Metal Towels",
+            "quantite": 2,
+            "prix_unitaire": 52.27
+        },
+        {
+            "produit_id": "P7704",
+            "nom": "Intelligent Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 465.59
+        }
+    ],
+    "date_commande": "2024-04-25T05:20:19",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

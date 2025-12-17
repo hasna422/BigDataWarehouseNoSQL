@@ -1,0 +1,25 @@
+{
+    "order_id": 119636,
+    "client_id": 4066,
+    "produits": [
+        {
+            "produit_id": "P7524",
+            "nom": "Ergonomic Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 212.97
+        },
+        {
+            "produit_id": "P2352",
+            "nom": "Handcrafted Frozen Chair",
+            "quantite": 5,
+            "prix_unitaire": 21.21
+        }
+    ],
+    "date_commande": "2023-10-08T06:36:46",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "137 D",
+        "ville": "Foster City"
+    }
+}

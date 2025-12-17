@@ -1,0 +1,19 @@
+{
+    "order_id": 859187,
+    "client_id": 9718,
+    "produits": [
+        {
+            "produit_id": "P2397",
+            "nom": "Small Gloves",
+            "quantite": 1,
+            "prix_unitaire": 10.3
+        }
+    ],
+    "date_commande": "2024-03-17T22:48:41",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "339 Dearborn",
+        "ville": "Granite City"
+    }
+}

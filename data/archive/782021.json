@@ -1,0 +1,19 @@
+{
+    "order_id": 782021,
+    "client_id": 9375,
+    "produits": [
+        {
+            "produit_id": "P2256",
+            "nom": "Used Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 344.95
+        }
+    ],
+    "date_commande": "2024-05-26T05:59:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1301 Skyview",
+        "ville": "Champlin"
+    }
+}

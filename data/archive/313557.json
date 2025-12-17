@@ -1,0 +1,25 @@
+{
+    "order_id": 313557,
+    "client_id": 8739,
+    "produits": [
+        {
+            "produit_id": "P0004",
+            "nom": "Unbranded Wooden Shirt",
+            "quantite": 2,
+            "prix_unitaire": 141.02
+        },
+        {
+            "produit_id": "P2584",
+            "nom": "Handcrafted Metal Towels",
+            "quantite": 1,
+            "prix_unitaire": 9.25
+        }
+    ],
+    "date_commande": "2024-04-06T14:05:33",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "868 Toyon",
+        "ville": "Lakeville"
+    }
+}

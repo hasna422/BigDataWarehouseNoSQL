@@ -1,0 +1,25 @@
+{
+    "order_id": 776396,
+    "client_id": 4533,
+    "produits": [
+        {
+            "produit_id": "P9473",
+            "nom": "Handmade Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 443.42
+        },
+        {
+            "produit_id": "P0659",
+            "nom": "Refined Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 319.9
+        }
+    ],
+    "date_commande": "2024-08-01T14:43:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1111 Redwood",
+        "ville": "Port Huron"
+    }
+}

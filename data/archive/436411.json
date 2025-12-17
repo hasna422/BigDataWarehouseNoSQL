@@ -1,0 +1,31 @@
+{
+    "order_id": 436411,
+    "client_id": 6894,
+    "produits": [
+        {
+            "produit_id": "P7572",
+            "nom": "Tasty Chips",
+            "quantite": 5,
+            "prix_unitaire": 20.37
+        },
+        {
+            "produit_id": "P7423",
+            "nom": "Handmade Steel Shoes",
+            "quantite": 4,
+            "prix_unitaire": 119.37
+        },
+        {
+            "produit_id": "P4271",
+            "nom": "Unbranded Plastic Sausages",
+            "quantite": 1,
+            "prix_unitaire": 313.57
+        }
+    ],
+    "date_commande": "2023-07-06T11:12:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1337 Higuera",
+        "ville": "La Quinta"
+    }
+}

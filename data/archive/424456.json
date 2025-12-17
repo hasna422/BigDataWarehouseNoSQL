@@ -1,0 +1,25 @@
+{
+    "order_id": 424456,
+    "client_id": 9145,
+    "produits": [
+        {
+            "produit_id": "P7344",
+            "nom": "Licensed Fresh Tuna",
+            "quantite": 3,
+            "prix_unitaire": 200.97
+        },
+        {
+            "produit_id": "P1574",
+            "nom": "Refined Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 20.79
+        }
+    ],
+    "date_commande": "2023-10-20T10:37:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "723 Hoff",
+        "ville": "Rocky Mount"
+    }
+}

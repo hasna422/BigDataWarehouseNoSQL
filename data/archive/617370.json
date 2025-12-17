@@ -1,0 +1,19 @@
+{
+    "order_id": 617370,
+    "client_id": 2003,
+    "produits": [
+        {
+            "produit_id": "P4765",
+            "nom": "Practical Shirt",
+            "quantite": 1,
+            "prix_unitaire": 164.69
+        }
+    ],
+    "date_commande": "2024-10-02T01:35:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "603 Lake Merced Hill",
+        "ville": "Yuma"
+    }
+}

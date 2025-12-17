@@ -1,0 +1,25 @@
+{
+    "order_id": 589357,
+    "client_id": 9890,
+    "produits": [
+        {
+            "produit_id": "P5775",
+            "nom": "Awesome Gloves",
+            "quantite": 2,
+            "prix_unitaire": 486.36
+        },
+        {
+            "produit_id": "P6612",
+            "nom": "Practical Frozen Cheese",
+            "quantite": 5,
+            "prix_unitaire": 477.84
+        }
+    ],
+    "date_commande": "2024-02-19T14:56:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "183 Lillian",
+        "ville": "Durant"
+    }
+}

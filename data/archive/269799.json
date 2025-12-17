@@ -1,0 +1,21 @@
+{
+    "order_id": 269799,
+    "client_id": 8958,
+    "produits": [
+        {
+            "produit_id": "P9813",
+            "nom": "Rustic Concrete Bike",
+            "quantite": 2,
+            "prix_unitaire": 307.22
+        },
+        {
+            "produit_id": "P7869",
+            "nom": "Used Metal Soap",
+            "quantite": 2,
+            "prix_unitaire": 145.67
+        }
+    ],
+    "date_commande": "2024-06-10T04:24:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

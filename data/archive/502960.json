@@ -1,0 +1,25 @@
+{
+    "order_id": 502960,
+    "client_id": 8976,
+    "produits": [
+        {
+            "produit_id": "P4417",
+            "nom": "Rustic Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 295.98
+        },
+        {
+            "produit_id": "P9098",
+            "nom": "Gently Used Towels",
+            "quantite": 4,
+            "prix_unitaire": 311.04
+        }
+    ],
+    "date_commande": "2023-08-18T09:54:33",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "201 San Andreas",
+        "ville": "Weston"
+    }
+}

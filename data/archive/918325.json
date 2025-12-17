@@ -1,0 +1,25 @@
+{
+    "order_id": 918325,
+    "client_id": 1486,
+    "produits": [
+        {
+            "produit_id": "P5840",
+            "nom": "Refined Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 160.75
+        },
+        {
+            "produit_id": "P7548",
+            "nom": "Gorgeous Concrete Sausages",
+            "quantite": 4,
+            "prix_unitaire": 290.56
+        }
+    ],
+    "date_commande": "2024-05-28T13:54:35",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "11 Quincy",
+        "ville": "Marlborough"
+    }
+}

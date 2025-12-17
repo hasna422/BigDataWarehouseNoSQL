@@ -1,0 +1,15 @@
+{
+    "order_id": 976072,
+    "client_id": 4886,
+    "produits": [
+        {
+            "produit_id": "P2482",
+            "nom": "Rustic Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 8.03
+        }
+    ],
+    "date_commande": "2024-12-18T15:30:05",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

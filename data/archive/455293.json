@@ -1,0 +1,31 @@
+{
+    "order_id": 455293,
+    "client_id": 3051,
+    "produits": [
+        {
+            "produit_id": "P5516",
+            "nom": "Soft Chips",
+            "quantite": 2,
+            "prix_unitaire": 114.23
+        },
+        {
+            "produit_id": "P5589",
+            "nom": "Ergonomic Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 310.57
+        },
+        {
+            "produit_id": "P0630",
+            "nom": "Small Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 368.21
+        }
+    ],
+    "date_commande": "2024-07-09T07:07:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1145 Sixth",
+        "ville": "Lebanon"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 841498,
+    "client_id": 5414,
+    "produits": [
+        {
+            "produit_id": "P3802",
+            "nom": "New Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 207.53
+        }
+    ],
+    "date_commande": "2024-05-01T16:06:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

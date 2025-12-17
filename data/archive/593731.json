@@ -1,0 +1,21 @@
+{
+    "order_id": 593731,
+    "client_id": 1724,
+    "produits": [
+        {
+            "produit_id": "P3319",
+            "nom": "Licensed Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 49.93
+        },
+        {
+            "produit_id": "P7611",
+            "nom": "Gently Used Cotton Hat",
+            "quantite": 3,
+            "prix_unitaire": 166.44
+        }
+    ],
+    "date_commande": "2025-05-05T00:46:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

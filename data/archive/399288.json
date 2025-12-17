@@ -1,0 +1,25 @@
+{
+    "order_id": 399288,
+    "client_id": 5508,
+    "produits": [
+        {
+            "produit_id": "P2090",
+            "nom": "Refined Soft Chicken",
+            "quantite": 2,
+            "prix_unitaire": 203.66
+        },
+        {
+            "produit_id": "P5448",
+            "nom": "Fantastic Frozen Computer",
+            "quantite": 3,
+            "prix_unitaire": 296.79
+        }
+    ],
+    "date_commande": "2025-01-28T23:28:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1051 Ambrose Bierce",
+        "ville": "Hesperia"
+    }
+}

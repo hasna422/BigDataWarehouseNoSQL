@@ -1,0 +1,31 @@
+{
+    "order_id": 631405,
+    "client_id": 9187,
+    "produits": [
+        {
+            "produit_id": "P4508",
+            "nom": "Gently Used Cotton Tuna",
+            "quantite": 5,
+            "prix_unitaire": 333.55
+        },
+        {
+            "produit_id": "P9208",
+            "nom": "Practical Rubber Hat",
+            "quantite": 2,
+            "prix_unitaire": 207.91
+        },
+        {
+            "produit_id": "P5556",
+            "nom": "Rustic Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 123.3
+        }
+    ],
+    "date_commande": "2024-12-07T12:07:59",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "667 Charles J Brenham",
+        "ville": "Denver"
+    }
+}

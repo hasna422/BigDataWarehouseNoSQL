@@ -1,0 +1,15 @@
+{
+    "order_id": 613479,
+    "client_id": 5405,
+    "produits": [
+        {
+            "produit_id": "P6723",
+            "nom": "Rustic Cotton Hat",
+            "quantite": 4,
+            "prix_unitaire": 312.5
+        }
+    ],
+    "date_commande": "2023-11-24T04:33:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 843584,
+    "client_id": 3684,
+    "produits": [
+        {
+            "produit_id": "P3565",
+            "nom": "Generic Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 30.0
+        }
+    ],
+    "date_commande": "2025-03-16T14:08:54",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "24 Sadowa",
+        "ville": "Cuyahoga Falls"
+    }
+}

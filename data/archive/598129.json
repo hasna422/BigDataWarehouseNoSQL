@@ -1,0 +1,15 @@
+{
+    "order_id": 598129,
+    "client_id": 3365,
+    "produits": [
+        {
+            "produit_id": "P7637",
+            "nom": "Small Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 168.16
+        }
+    ],
+    "date_commande": "2025-05-01T17:08:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

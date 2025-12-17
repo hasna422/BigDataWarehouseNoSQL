@@ -1,0 +1,25 @@
+{
+    "order_id": 461208,
+    "client_id": 1445,
+    "produits": [
+        {
+            "produit_id": "P4498",
+            "nom": "Used Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 206.14
+        },
+        {
+            "produit_id": "P5182",
+            "nom": "Tasty Steel Chips",
+            "quantite": 5,
+            "prix_unitaire": 417.63
+        }
+    ],
+    "date_commande": "2023-10-27T23:42:59",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1008 San Ramon",
+        "ville": "Ann Arbor"
+    }
+}

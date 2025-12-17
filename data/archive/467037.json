@@ -1,0 +1,31 @@
+{
+    "order_id": 467037,
+    "client_id": 9466,
+    "produits": [
+        {
+            "produit_id": "P2272",
+            "nom": "Intelligent Chicken",
+            "quantite": 2,
+            "prix_unitaire": 96.76
+        },
+        {
+            "produit_id": "P2723",
+            "nom": "Sleek Bike",
+            "quantite": 3,
+            "prix_unitaire": 37.9
+        },
+        {
+            "produit_id": "P0249",
+            "nom": "Chips",
+            "quantite": 4,
+            "prix_unitaire": 39.49
+        }
+    ],
+    "date_commande": "2024-01-06T08:15:11",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "474 Guerrero",
+        "ville": "Georgetown"
+    }
+}

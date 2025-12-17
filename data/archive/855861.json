@@ -1,0 +1,25 @@
+{
+    "order_id": 855861,
+    "client_id": 2305,
+    "produits": [
+        {
+            "produit_id": "P6133",
+            "nom": "Licensed Plastic Hat",
+            "quantite": 2,
+            "prix_unitaire": 27.57
+        },
+        {
+            "produit_id": "P0655",
+            "nom": "Awesome Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 10.65
+        }
+    ],
+    "date_commande": "2024-01-22T06:31:38",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "144 Second",
+        "ville": "Albertville"
+    }
+}

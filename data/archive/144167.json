@@ -1,0 +1,31 @@
+{
+    "order_id": 144167,
+    "client_id": 7647,
+    "produits": [
+        {
+            "produit_id": "P0313",
+            "nom": "Gently Used Plastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 454.44
+        },
+        {
+            "produit_id": "P4366",
+            "nom": "Generic Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 402.54
+        },
+        {
+            "produit_id": "P1038",
+            "nom": "Ergonomic Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 84.11
+        }
+    ],
+    "date_commande": "2025-05-18T11:23:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "402 Mariner",
+        "ville": "Wilmette"
+    }
+}

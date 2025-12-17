@@ -1,0 +1,31 @@
+{
+    "order_id": 844826,
+    "client_id": 2983,
+    "produits": [
+        {
+            "produit_id": "P1822",
+            "nom": "Ergonomic Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 281.42
+        },
+        {
+            "produit_id": "P2318",
+            "nom": "Gently Used Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 75.54
+        },
+        {
+            "produit_id": "P8705",
+            "nom": "Intelligent Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 212.59
+        }
+    ],
+    "date_commande": "2025-04-14T14:15:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "618 Windsor",
+        "ville": "Mountain Brook"
+    }
+}

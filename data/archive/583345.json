@@ -1,0 +1,25 @@
+{
+    "order_id": 583345,
+    "client_id": 3872,
+    "produits": [
+        {
+            "produit_id": "P4490",
+            "nom": "New Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 400.39
+        },
+        {
+            "produit_id": "P3271",
+            "nom": "Handcrafted Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 489.81
+        }
+    ],
+    "date_commande": "2024-04-24T04:37:41",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "456 Morton",
+        "ville": "Duluth"
+    }
+}

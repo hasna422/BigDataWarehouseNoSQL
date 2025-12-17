@@ -1,0 +1,21 @@
+{
+    "order_id": 501852,
+    "client_id": 6460,
+    "produits": [
+        {
+            "produit_id": "P2764",
+            "nom": "Incredible Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 186.54
+        },
+        {
+            "produit_id": "P9646",
+            "nom": "Refined Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 431.24
+        }
+    ],
+    "date_commande": "2025-02-17T07:29:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 619179,
+    "client_id": 7248,
+    "produits": [
+        {
+            "produit_id": "P9472",
+            "nom": "Incredible Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 94.26
+        }
+    ],
+    "date_commande": "2023-09-11T00:40:42",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1318 Broad",
+        "ville": "Brigham City"
+    }
+}

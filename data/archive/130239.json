@@ -1,0 +1,19 @@
+{
+    "order_id": 130239,
+    "client_id": 7336,
+    "produits": [
+        {
+            "produit_id": "P8916",
+            "nom": "Awesome Gloves",
+            "quantite": 2,
+            "prix_unitaire": 49.79
+        }
+    ],
+    "date_commande": "2024-09-13T18:01:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "351 Palos",
+        "ville": "Searcy"
+    }
+}

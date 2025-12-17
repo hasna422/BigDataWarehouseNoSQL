@@ -1,0 +1,25 @@
+{
+    "order_id": 393809,
+    "client_id": 5262,
+    "produits": [
+        {
+            "produit_id": "P8944",
+            "nom": "Practical Chair",
+            "quantite": 2,
+            "prix_unitaire": 134.53
+        },
+        {
+            "produit_id": "P7627",
+            "nom": "Fantastic Chips",
+            "quantite": 4,
+            "prix_unitaire": 7.54
+        }
+    ],
+    "date_commande": "2025-04-22T23:33:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "980 Fell",
+        "ville": "Asbury Park"
+    }
+}

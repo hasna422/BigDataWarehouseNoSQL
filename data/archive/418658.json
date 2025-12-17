@@ -1,0 +1,31 @@
+{
+    "order_id": 418658,
+    "client_id": 9003,
+    "produits": [
+        {
+            "produit_id": "P7981",
+            "nom": "Fantastic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 146.94
+        },
+        {
+            "produit_id": "P6710",
+            "nom": "New Cheese",
+            "quantite": 4,
+            "prix_unitaire": 190.13
+        },
+        {
+            "produit_id": "P0325",
+            "nom": "Awesome Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 62.41
+        }
+    ],
+    "date_commande": "2024-08-31T06:37:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "646 Carolina",
+        "ville": "Milpitas"
+    }
+}

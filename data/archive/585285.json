@@ -1,0 +1,21 @@
+{
+    "order_id": 585285,
+    "client_id": 3544,
+    "produits": [
+        {
+            "produit_id": "P5850",
+            "nom": "Awesome Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 369.77
+        },
+        {
+            "produit_id": "P4599",
+            "nom": "Sleek Gloves",
+            "quantite": 5,
+            "prix_unitaire": 180.1
+        }
+    ],
+    "date_commande": "2024-10-19T23:20:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

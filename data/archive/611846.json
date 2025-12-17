@@ -1,0 +1,19 @@
+{
+    "order_id": 611846,
+    "client_id": 5961,
+    "produits": [
+        {
+            "produit_id": "P2900",
+            "nom": "Sleek Frozen Tuna",
+            "quantite": 5,
+            "prix_unitaire": 274.28
+        }
+    ],
+    "date_commande": "2023-06-20T14:47:26",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "610 Beulah",
+        "ville": "Norwalk"
+    }
+}

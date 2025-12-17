@@ -1,0 +1,19 @@
+{
+    "order_id": 312957,
+    "client_id": 2084,
+    "produits": [
+        {
+            "produit_id": "P6934",
+            "nom": "Intelligent Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 190.49
+        }
+    ],
+    "date_commande": "2023-08-01T12:56:35",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1204 Sheldon",
+        "ville": "Gurnee"
+    }
+}

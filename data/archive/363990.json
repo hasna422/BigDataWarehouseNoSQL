@@ -1,0 +1,27 @@
+{
+    "order_id": 363990,
+    "client_id": 7488,
+    "produits": [
+        {
+            "produit_id": "P2677",
+            "nom": "Tasty Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 365.52
+        },
+        {
+            "produit_id": "P1968",
+            "nom": "New Rubber Chips",
+            "quantite": 5,
+            "prix_unitaire": 189.6
+        },
+        {
+            "produit_id": "P9987",
+            "nom": "Fantastic Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 220.94
+        }
+    ],
+    "date_commande": "2025-05-15T10:01:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

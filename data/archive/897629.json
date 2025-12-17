@@ -1,0 +1,27 @@
+{
+    "order_id": 897629,
+    "client_id": 5632,
+    "produits": [
+        {
+            "produit_id": "P2074",
+            "nom": "Rustic Plastic Pants",
+            "quantite": 4,
+            "prix_unitaire": 337.96
+        },
+        {
+            "produit_id": "P7467",
+            "nom": "Awesome Wooden Hat",
+            "quantite": 1,
+            "prix_unitaire": 275.98
+        },
+        {
+            "produit_id": "P3633",
+            "nom": "Handcrafted Plastic Mouse",
+            "quantite": 3,
+            "prix_unitaire": 130.98
+        }
+    ],
+    "date_commande": "2024-12-21T09:43:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

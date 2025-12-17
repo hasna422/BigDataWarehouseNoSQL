@@ -1,0 +1,27 @@
+{
+    "order_id": 710508,
+    "client_id": 6032,
+    "produits": [
+        {
+            "produit_id": "P4531",
+            "nom": "Unbranded Fresh Hat",
+            "quantite": 1,
+            "prix_unitaire": 295.61
+        },
+        {
+            "produit_id": "P1430",
+            "nom": "Metal Bike",
+            "quantite": 4,
+            "prix_unitaire": 153.09
+        },
+        {
+            "produit_id": "P5647",
+            "nom": "Fantastic Steel Chicken",
+            "quantite": 2,
+            "prix_unitaire": 374.21
+        }
+    ],
+    "date_commande": "2025-04-20T07:58:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

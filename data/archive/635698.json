@@ -1,0 +1,31 @@
+{
+    "order_id": 635698,
+    "client_id": 5358,
+    "produits": [
+        {
+            "produit_id": "P7885",
+            "nom": "Unbranded Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 119.96
+        },
+        {
+            "produit_id": "P4686",
+            "nom": "Handmade Steel Table",
+            "quantite": 1,
+            "prix_unitaire": 75.67
+        },
+        {
+            "produit_id": "P9445",
+            "nom": "Tasty Fresh Pants",
+            "quantite": 1,
+            "prix_unitaire": 405.85
+        }
+    ],
+    "date_commande": "2024-04-23T22:50:59",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "127 Marston",
+        "ville": "Jefferson City"
+    }
+}

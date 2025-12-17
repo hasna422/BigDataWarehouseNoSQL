@@ -1,0 +1,27 @@
+{
+    "order_id": 975899,
+    "client_id": 1146,
+    "produits": [
+        {
+            "produit_id": "P8762",
+            "nom": "Fantastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 213.94
+        },
+        {
+            "produit_id": "P4932",
+            "nom": "Refined Metal Soap",
+            "quantite": 3,
+            "prix_unitaire": 136.89
+        },
+        {
+            "produit_id": "P1246",
+            "nom": "Refined Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 237.59
+        }
+    ],
+    "date_commande": "2023-07-28T14:43:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 613089,
+    "client_id": 9180,
+    "produits": [
+        {
+            "produit_id": "P4604",
+            "nom": "Sleek Cotton Computer",
+            "quantite": 5,
+            "prix_unitaire": 94.87
+        },
+        {
+            "produit_id": "P5083",
+            "nom": "Handcrafted Soft Sausages",
+            "quantite": 4,
+            "prix_unitaire": 467.28
+        },
+        {
+            "produit_id": "P1232",
+            "nom": "Used Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 345.3
+        }
+    ],
+    "date_commande": "2024-08-29T06:36:46",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "424 May",
+        "ville": "Hazel Park"
+    }
+}

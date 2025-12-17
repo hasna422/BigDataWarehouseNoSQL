@@ -1,0 +1,15 @@
+{
+    "order_id": 913227,
+    "client_id": 4777,
+    "produits": [
+        {
+            "produit_id": "P7388",
+            "nom": "Gently Used Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 337.68
+        }
+    ],
+    "date_commande": "2023-08-17T05:41:07",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

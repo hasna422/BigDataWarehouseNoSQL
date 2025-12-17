@@ -1,0 +1,25 @@
+{
+    "order_id": 616979,
+    "client_id": 9488,
+    "produits": [
+        {
+            "produit_id": "P8511",
+            "nom": "Handmade Granite Table",
+            "quantite": 5,
+            "prix_unitaire": 316.1
+        },
+        {
+            "produit_id": "P8362",
+            "nom": "Awesome Soft Hat",
+            "quantite": 2,
+            "prix_unitaire": 153.45
+        }
+    ],
+    "date_commande": "2023-11-13T00:57:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "663 Hayward",
+        "ville": "American Fork"
+    }
+}

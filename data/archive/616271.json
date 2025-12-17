@@ -1,0 +1,19 @@
+{
+    "order_id": 616271,
+    "client_id": 8255,
+    "produits": [
+        {
+            "produit_id": "P3124",
+            "nom": "Sleek Soft Soap",
+            "quantite": 3,
+            "prix_unitaire": 430.02
+        }
+    ],
+    "date_commande": "2024-05-06T17:51:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1001 San Leandro",
+        "ville": "Atascadero"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 750828,
+    "client_id": 9564,
+    "produits": [
+        {
+            "produit_id": "P2922",
+            "nom": "Refined Wooden Mouse",
+            "quantite": 5,
+            "prix_unitaire": 259.17
+        },
+        {
+            "produit_id": "P6510",
+            "nom": "Handmade Cotton Shoes",
+            "quantite": 2,
+            "prix_unitaire": 183.21
+        }
+    ],
+    "date_commande": "2025-05-14T21:51:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "624 Oriole",
+        "ville": "Inkster"
+    }
+}

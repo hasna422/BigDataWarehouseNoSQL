@@ -1,0 +1,31 @@
+{
+    "order_id": 687424,
+    "client_id": 1219,
+    "produits": [
+        {
+            "produit_id": "P4513",
+            "nom": "Awesome Concrete Computer",
+            "quantite": 1,
+            "prix_unitaire": 350.6
+        },
+        {
+            "produit_id": "P8763",
+            "nom": "Rubber Sausages",
+            "quantite": 2,
+            "prix_unitaire": 134.49
+        },
+        {
+            "produit_id": "P2107",
+            "nom": "Ergonomic Wooden Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 371.48
+        }
+    ],
+    "date_commande": "2024-08-11T14:23:13",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "12 Via Ferlinghetti",
+        "ville": "Mayfield Heights"
+    }
+}

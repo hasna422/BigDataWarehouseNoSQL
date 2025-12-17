@@ -1,0 +1,19 @@
+{
+    "order_id": 690520,
+    "client_id": 6718,
+    "produits": [
+        {
+            "produit_id": "P7256",
+            "nom": "Fantastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 498.37
+        }
+    ],
+    "date_commande": "2023-06-28T09:11:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "136 Pagoda",
+        "ville": "Elmira"
+    }
+}

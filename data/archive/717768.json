@@ -1,0 +1,25 @@
+{
+    "order_id": 717768,
+    "client_id": 1046,
+    "produits": [
+        {
+            "produit_id": "P6727",
+            "nom": "Unbranded Salad",
+            "quantite": 5,
+            "prix_unitaire": 52.16
+        },
+        {
+            "produit_id": "P1794",
+            "nom": "Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 103.13
+        }
+    ],
+    "date_commande": "2024-06-23T17:26:35",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "918 Salmon",
+        "ville": "Shoreview"
+    }
+}

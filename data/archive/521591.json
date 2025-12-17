@@ -1,0 +1,19 @@
+{
+    "order_id": 521591,
+    "client_id": 4124,
+    "produits": [
+        {
+            "produit_id": "P5041",
+            "nom": "Wooden Bacon",
+            "quantite": 2,
+            "prix_unitaire": 69.47
+        }
+    ],
+    "date_commande": "2023-12-31T04:12:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1382 Germania",
+        "ville": "St. Charles"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 918774,
+    "client_id": 1638,
+    "produits": [
+        {
+            "produit_id": "P9799",
+            "nom": "Fantastic Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 121.32
+        },
+        {
+            "produit_id": "P9130",
+            "nom": "Handcrafted Frozen Fish",
+            "quantite": 1,
+            "prix_unitaire": 216.67
+        }
+    ],
+    "date_commande": "2025-05-17T15:22:38",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "77 Spear",
+        "ville": "Novato"
+    }
+}

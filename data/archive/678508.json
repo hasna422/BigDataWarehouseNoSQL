@@ -1,0 +1,19 @@
+{
+    "order_id": 678508,
+    "client_id": 7495,
+    "produits": [
+        {
+            "produit_id": "P2133",
+            "nom": "Licensed Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 197.44
+        }
+    ],
+    "date_commande": "2024-03-05T08:54:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1190 Phelan",
+        "ville": "El Monte"
+    }
+}

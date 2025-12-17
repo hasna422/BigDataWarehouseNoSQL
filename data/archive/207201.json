@@ -1,0 +1,15 @@
+{
+    "order_id": 207201,
+    "client_id": 2356,
+    "produits": [
+        {
+            "produit_id": "P2256",
+            "nom": "Ergonomic Chair",
+            "quantite": 2,
+            "prix_unitaire": 269.83
+        }
+    ],
+    "date_commande": "2023-10-20T11:06:46",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

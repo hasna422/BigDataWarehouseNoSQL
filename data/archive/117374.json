@@ -1,0 +1,25 @@
+{
+    "order_id": 117374,
+    "client_id": 8769,
+    "produits": [
+        {
+            "produit_id": "P4469",
+            "nom": "Used Chips",
+            "quantite": 1,
+            "prix_unitaire": 439.31
+        },
+        {
+            "produit_id": "P4487",
+            "nom": "Metal Pants",
+            "quantite": 5,
+            "prix_unitaire": 247.56
+        }
+    ],
+    "date_commande": "2024-08-22T10:20:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "102 Burgoyne",
+        "ville": "Garland"
+    }
+}

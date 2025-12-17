@@ -1,0 +1,15 @@
+{
+    "order_id": 963987,
+    "client_id": 8989,
+    "produits": [
+        {
+            "produit_id": "P8968",
+            "nom": "Used Mouse",
+            "quantite": 2,
+            "prix_unitaire": 437.76
+        }
+    ],
+    "date_commande": "2024-10-27T14:38:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 721740,
+    "client_id": 4813,
+    "produits": [
+        {
+            "produit_id": "P5904",
+            "nom": "Gently Used Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 160.98
+        },
+        {
+            "produit_id": "P7278",
+            "nom": "Licensed Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 216.84
+        }
+    ],
+    "date_commande": "2025-01-17T01:50:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "143 Campbell",
+        "ville": "Parkland"
+    }
+}

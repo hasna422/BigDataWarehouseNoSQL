@@ -1,0 +1,27 @@
+{
+    "order_id": 169389,
+    "client_id": 8808,
+    "produits": [
+        {
+            "produit_id": "P3708",
+            "nom": "Handcrafted Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 141.11
+        },
+        {
+            "produit_id": "P8180",
+            "nom": "Handmade Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 283.34
+        },
+        {
+            "produit_id": "P7819",
+            "nom": "New Steel Ball",
+            "quantite": 2,
+            "prix_unitaire": 39.4
+        }
+    ],
+    "date_commande": "2023-08-27T21:04:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

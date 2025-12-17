@@ -1,0 +1,25 @@
+{
+    "order_id": 779613,
+    "client_id": 5339,
+    "produits": [
+        {
+            "produit_id": "P8372",
+            "nom": "Small Granite Ball",
+            "quantite": 2,
+            "prix_unitaire": 262.71
+        },
+        {
+            "produit_id": "P9821",
+            "nom": "Gorgeous Granite Chicken",
+            "quantite": 5,
+            "prix_unitaire": 288.41
+        }
+    ],
+    "date_commande": "2023-09-10T12:32:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1107 Catalina",
+        "ville": "Ottawa"
+    }
+}

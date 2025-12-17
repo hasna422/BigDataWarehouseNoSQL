@@ -1,0 +1,21 @@
+{
+    "order_id": 184231,
+    "client_id": 5136,
+    "produits": [
+        {
+            "produit_id": "P9118",
+            "nom": "Practical Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 92.77
+        },
+        {
+            "produit_id": "P3999",
+            "nom": "Refined Steel Car",
+            "quantite": 2,
+            "prix_unitaire": 256.68
+        }
+    ],
+    "date_commande": "2024-07-20T18:26:48",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

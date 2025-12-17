@@ -1,0 +1,19 @@
+{
+    "order_id": 248022,
+    "client_id": 6281,
+    "produits": [
+        {
+            "produit_id": "P0175",
+            "nom": "Practical Plastic Ball",
+            "quantite": 3,
+            "prix_unitaire": 326.51
+        }
+    ],
+    "date_commande": "2023-08-22T16:34:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "905 Shipley",
+        "ville": "Bismarck"
+    }
+}

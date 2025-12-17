@@ -1,0 +1,19 @@
+{
+    "order_id": 990008,
+    "client_id": 7793,
+    "produits": [
+        {
+            "produit_id": "P1842",
+            "nom": "Gorgeous Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 467.39
+        }
+    ],
+    "date_commande": "2024-04-13T17:36:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "57 Amazon",
+        "ville": "Las Vegas"
+    }
+}

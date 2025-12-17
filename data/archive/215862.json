@@ -1,0 +1,27 @@
+{
+    "order_id": 215862,
+    "client_id": 4617,
+    "produits": [
+        {
+            "produit_id": "P2226",
+            "nom": "Handmade Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 114.92
+        },
+        {
+            "produit_id": "P6119",
+            "nom": "Intelligent Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 386.54
+        },
+        {
+            "produit_id": "P9683",
+            "nom": "Intelligent Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 401.78
+        }
+    ],
+    "date_commande": "2023-12-08T03:05:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

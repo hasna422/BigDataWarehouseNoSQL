@@ -1,0 +1,31 @@
+{
+    "order_id": 857732,
+    "client_id": 9090,
+    "produits": [
+        {
+            "produit_id": "P1508",
+            "nom": "Generic Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 76.48
+        },
+        {
+            "produit_id": "P3178",
+            "nom": "Ergonomic Metal Cheese",
+            "quantite": 2,
+            "prix_unitaire": 98.06
+        },
+        {
+            "produit_id": "P9005",
+            "nom": "For repair Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 356.11
+        }
+    ],
+    "date_commande": "2024-12-23T03:11:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1261 Boutwell",
+        "ville": "Greenville"
+    }
+}

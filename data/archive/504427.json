@@ -1,0 +1,31 @@
+{
+    "order_id": 504427,
+    "client_id": 4533,
+    "produits": [
+        {
+            "produit_id": "P8739",
+            "nom": "Small Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 397.56
+        },
+        {
+            "produit_id": "P7340",
+            "nom": "Rustic Frozen Table",
+            "quantite": 5,
+            "prix_unitaire": 463.85
+        },
+        {
+            "produit_id": "P3211",
+            "nom": "Handmade Cotton Shoes",
+            "quantite": 4,
+            "prix_unitaire": 84.74
+        }
+    ],
+    "date_commande": "2023-10-13T09:57:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "889 Keystone",
+        "ville": "San Bernardino"
+    }
+}

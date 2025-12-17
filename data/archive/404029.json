@@ -1,0 +1,31 @@
+{
+    "order_id": 404029,
+    "client_id": 7583,
+    "produits": [
+        {
+            "produit_id": "P4956",
+            "nom": "Generic Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 281.56
+        },
+        {
+            "produit_id": "P4980",
+            "nom": "Sleek Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 43.61
+        },
+        {
+            "produit_id": "P3032",
+            "nom": "Refined Steel Pants",
+            "quantite": 4,
+            "prix_unitaire": 486.02
+        }
+    ],
+    "date_commande": "2023-06-07T19:22:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "884 Music Concourse",
+        "ville": "Searcy"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 581606,
+    "client_id": 7055,
+    "produits": [
+        {
+            "produit_id": "P0393",
+            "nom": "Refined Soap",
+            "quantite": 3,
+            "prix_unitaire": 229.59
+        },
+        {
+            "produit_id": "P8293",
+            "nom": "Incredible Wooden Tuna",
+            "quantite": 3,
+            "prix_unitaire": 105.81
+        }
+    ],
+    "date_commande": "2024-10-03T13:29:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "492 Haight",
+        "ville": "Fond du Lac"
+    }
+}

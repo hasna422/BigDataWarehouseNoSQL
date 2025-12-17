@@ -1,0 +1,25 @@
+{
+    "order_id": 797835,
+    "client_id": 9333,
+    "produits": [
+        {
+            "produit_id": "P1091",
+            "nom": "Awesome Rubber Computer",
+            "quantite": 1,
+            "prix_unitaire": 112.17
+        },
+        {
+            "produit_id": "P8306",
+            "nom": "Handcrafted Granite Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 227.63
+        }
+    ],
+    "date_commande": "2024-03-18T00:28:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "384 Dixie",
+        "ville": "Green Bay"
+    }
+}

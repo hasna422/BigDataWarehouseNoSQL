@@ -1,0 +1,19 @@
+{
+    "order_id": 497564,
+    "client_id": 3903,
+    "produits": [
+        {
+            "produit_id": "P3365",
+            "nom": "Generic Metal Sausages",
+            "quantite": 1,
+            "prix_unitaire": 467.13
+        }
+    ],
+    "date_commande": "2025-05-19T01:11:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1157 Pena",
+        "ville": "Ithaca"
+    }
+}

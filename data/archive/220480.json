@@ -1,0 +1,15 @@
+{
+    "order_id": 220480,
+    "client_id": 6116,
+    "produits": [
+        {
+            "produit_id": "P7387",
+            "nom": "Rustic Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 225.66
+        }
+    ],
+    "date_commande": "2024-09-18T23:35:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 291609,
+    "client_id": 8698,
+    "produits": [
+        {
+            "produit_id": "P0446",
+            "nom": "Gorgeous Granite Shirt",
+            "quantite": 3,
+            "prix_unitaire": 271.72
+        },
+        {
+            "produit_id": "P2849",
+            "nom": "Generic Wooden Table",
+            "quantite": 3,
+            "prix_unitaire": 22.6
+        }
+    ],
+    "date_commande": "2023-06-30T10:52:27",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1079 Glen",
+        "ville": "North Charleston"
+    }
+}

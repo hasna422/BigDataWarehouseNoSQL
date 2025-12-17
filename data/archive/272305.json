@@ -1,0 +1,25 @@
+{
+    "order_id": 272305,
+    "client_id": 1461,
+    "produits": [
+        {
+            "produit_id": "P9947",
+            "nom": "Sleek Plastic Ball",
+            "quantite": 1,
+            "prix_unitaire": 163.09
+        },
+        {
+            "produit_id": "P0276",
+            "nom": "Licensed Frozen Chicken",
+            "quantite": 3,
+            "prix_unitaire": 412.83
+        }
+    ],
+    "date_commande": "2025-02-19T03:31:09",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1119 Mariner",
+        "ville": "North Tonawanda"
+    }
+}

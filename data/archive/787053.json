@@ -1,0 +1,25 @@
+{
+    "order_id": 787053,
+    "client_id": 7296,
+    "produits": [
+        {
+            "produit_id": "P5548",
+            "nom": "For repair Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 295.62
+        },
+        {
+            "produit_id": "P1418",
+            "nom": "Intelligent Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 497.02
+        }
+    ],
+    "date_commande": "2025-02-11T19:54:12",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "478 Tamalpais",
+        "ville": "Brook Park"
+    }
+}

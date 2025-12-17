@@ -1,0 +1,31 @@
+{
+    "order_id": 532936,
+    "client_id": 7384,
+    "produits": [
+        {
+            "produit_id": "P2996",
+            "nom": "For repair Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 157.7
+        },
+        {
+            "produit_id": "P5474",
+            "nom": "Gorgeous Metal Chips",
+            "quantite": 2,
+            "prix_unitaire": 406.1
+        },
+        {
+            "produit_id": "P4573",
+            "nom": "Incredible Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 488.25
+        }
+    ],
+    "date_commande": "2023-08-08T14:38:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "71 Morris",
+        "ville": "Sioux City"
+    }
+}

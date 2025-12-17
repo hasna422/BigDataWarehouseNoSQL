@@ -1,0 +1,31 @@
+{
+    "order_id": 940240,
+    "client_id": 5670,
+    "produits": [
+        {
+            "produit_id": "P7537",
+            "nom": "Licensed Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 275.69
+        },
+        {
+            "produit_id": "P6224",
+            "nom": "Generic Concrete Tuna",
+            "quantite": 5,
+            "prix_unitaire": 497.03
+        },
+        {
+            "produit_id": "P2909",
+            "nom": "Generic Granite Chips",
+            "quantite": 1,
+            "prix_unitaire": 324.2
+        }
+    ],
+    "date_commande": "2023-09-18T17:04:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1375 Caselli",
+        "ville": "Sammamish"
+    }
+}

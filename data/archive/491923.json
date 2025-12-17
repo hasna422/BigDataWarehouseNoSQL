@@ -1,0 +1,15 @@
+{
+    "order_id": 491923,
+    "client_id": 8957,
+    "produits": [
+        {
+            "produit_id": "P8088",
+            "nom": "Rustic Towels",
+            "quantite": 4,
+            "prix_unitaire": 429.95
+        }
+    ],
+    "date_commande": "2023-06-05T22:05:44",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

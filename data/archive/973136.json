@@ -1,0 +1,27 @@
+{
+    "order_id": 973136,
+    "client_id": 6630,
+    "produits": [
+        {
+            "produit_id": "P0087",
+            "nom": "Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 377.98
+        },
+        {
+            "produit_id": "P0822",
+            "nom": "Refined Ball",
+            "quantite": 1,
+            "prix_unitaire": 40.86
+        },
+        {
+            "produit_id": "P4608",
+            "nom": "Tasty Tuna",
+            "quantite": 3,
+            "prix_unitaire": 405.23
+        }
+    ],
+    "date_commande": "2025-01-26T12:26:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

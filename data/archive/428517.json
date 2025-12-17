@@ -1,0 +1,27 @@
+{
+    "order_id": 428517,
+    "client_id": 2256,
+    "produits": [
+        {
+            "produit_id": "P8776",
+            "nom": "Licensed Cotton Car",
+            "quantite": 4,
+            "prix_unitaire": 149.96
+        },
+        {
+            "produit_id": "P8860",
+            "nom": "Practical Granite Bike",
+            "quantite": 4,
+            "prix_unitaire": 364.35
+        },
+        {
+            "produit_id": "P2188",
+            "nom": "Handcrafted Steel Gloves",
+            "quantite": 4,
+            "prix_unitaire": 53.35
+        }
+    ],
+    "date_commande": "2024-06-17T11:27:59",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 240367,
+    "client_id": 7107,
+    "produits": [
+        {
+            "produit_id": "P2431",
+            "nom": "New Metal Bike",
+            "quantite": 2,
+            "prix_unitaire": 31.97
+        }
+    ],
+    "date_commande": "2024-06-03T23:48:06",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1110 Noriega",
+        "ville": "Mill Creek"
+    }
+}

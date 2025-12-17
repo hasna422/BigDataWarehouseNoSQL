@@ -1,0 +1,25 @@
+{
+    "order_id": 920067,
+    "client_id": 1389,
+    "produits": [
+        {
+            "produit_id": "P8932",
+            "nom": "Generic Cotton Ball",
+            "quantite": 4,
+            "prix_unitaire": 461.53
+        },
+        {
+            "produit_id": "P9988",
+            "nom": "For repair Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 349.53
+        }
+    ],
+    "date_commande": "2023-10-04T07:39:56",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1207 Racine",
+        "ville": "Prior Lake"
+    }
+}

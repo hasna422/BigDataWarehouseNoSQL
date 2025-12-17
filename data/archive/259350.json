@@ -1,0 +1,27 @@
+{
+    "order_id": 259350,
+    "client_id": 3898,
+    "produits": [
+        {
+            "produit_id": "P4206",
+            "nom": "Tasty Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 227.59
+        },
+        {
+            "produit_id": "P4877",
+            "nom": "Intelligent Soft Ball",
+            "quantite": 3,
+            "prix_unitaire": 167.39
+        },
+        {
+            "produit_id": "P4432",
+            "nom": "Refined Rubber Pants",
+            "quantite": 4,
+            "prix_unitaire": 125.42
+        }
+    ],
+    "date_commande": "2024-07-17T19:35:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

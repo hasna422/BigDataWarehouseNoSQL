@@ -1,0 +1,25 @@
+{
+    "order_id": 512805,
+    "client_id": 5920,
+    "produits": [
+        {
+            "produit_id": "P9864",
+            "nom": "Gently Used Steel Table",
+            "quantite": 4,
+            "prix_unitaire": 339.88
+        },
+        {
+            "produit_id": "P4991",
+            "nom": "Fantastic Wooden Cheese",
+            "quantite": 5,
+            "prix_unitaire": 189.26
+        }
+    ],
+    "date_commande": "2024-01-17T03:49:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1237 Banbury",
+        "ville": "Salem"
+    }
+}

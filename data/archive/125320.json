@@ -1,0 +1,21 @@
+{
+    "order_id": 125320,
+    "client_id": 2818,
+    "produits": [
+        {
+            "produit_id": "P5509",
+            "nom": "Sleek Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 129.76
+        },
+        {
+            "produit_id": "P9538",
+            "nom": "Handcrafted Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 456.06
+        }
+    ],
+    "date_commande": "2025-03-02T15:13:52",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 856388,
+    "client_id": 8105,
+    "produits": [
+        {
+            "produit_id": "P3033",
+            "nom": "Chicken",
+            "quantite": 3,
+            "prix_unitaire": 9.68
+        }
+    ],
+    "date_commande": "2023-12-08T00:55:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "212 Santa Rosa",
+        "ville": "Fairmont"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 367148,
+    "client_id": 5422,
+    "produits": [
+        {
+            "produit_id": "P6806",
+            "nom": "Tasty Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 316.22
+        },
+        {
+            "produit_id": "P6324",
+            "nom": "Gently Used Granite Towels",
+            "quantite": 4,
+            "prix_unitaire": 128.11
+        },
+        {
+            "produit_id": "P2338",
+            "nom": "Gorgeous Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 50.55
+        }
+    ],
+    "date_commande": "2023-12-29T03:11:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "91 Acorn",
+        "ville": "St. Louis Park"
+    }
+}

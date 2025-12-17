@@ -1,0 +1,27 @@
+{
+    "order_id": 660615,
+    "client_id": 9395,
+    "produits": [
+        {
+            "produit_id": "P0616",
+            "nom": "Rustic Fresh Sausages",
+            "quantite": 1,
+            "prix_unitaire": 113.41
+        },
+        {
+            "produit_id": "P7465",
+            "nom": "Handcrafted Frozen Chair",
+            "quantite": 4,
+            "prix_unitaire": 352.34
+        },
+        {
+            "produit_id": "P6022",
+            "nom": "Gently Used Cotton Chips",
+            "quantite": 1,
+            "prix_unitaire": 484.45
+        }
+    ],
+    "date_commande": "2024-01-08T18:25:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

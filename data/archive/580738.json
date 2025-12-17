@@ -1,0 +1,25 @@
+{
+    "order_id": 580738,
+    "client_id": 6687,
+    "produits": [
+        {
+            "produit_id": "P4633",
+            "nom": "Incredible Granite Soap",
+            "quantite": 4,
+            "prix_unitaire": 320.89
+        },
+        {
+            "produit_id": "P8833",
+            "nom": "Intelligent Frozen Car",
+            "quantite": 1,
+            "prix_unitaire": 424.39
+        }
+    ],
+    "date_commande": "2024-12-01T11:31:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "842 Hilton",
+        "ville": "Yucca Valley"
+    }
+}

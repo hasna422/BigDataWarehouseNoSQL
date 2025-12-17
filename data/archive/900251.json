@@ -1,0 +1,19 @@
+{
+    "order_id": 900251,
+    "client_id": 3756,
+    "produits": [
+        {
+            "produit_id": "P1495",
+            "nom": "Handmade Metal Shirt",
+            "quantite": 3,
+            "prix_unitaire": 324.63
+        }
+    ],
+    "date_commande": "2025-03-24T15:51:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1301 Essex",
+        "ville": "Rancho Santa Margarita"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 869490,
+    "client_id": 2265,
+    "produits": [
+        {
+            "produit_id": "P7339",
+            "nom": "For repair Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 432.25
+        },
+        {
+            "produit_id": "P8005",
+            "nom": "For repair Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 261.63
+        }
+    ],
+    "date_commande": "2023-10-21T07:56:55",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "686 Holly Park",
+        "ville": "Santa Rosa"
+    }
+}

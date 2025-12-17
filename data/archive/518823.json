@@ -1,0 +1,31 @@
+{
+    "order_id": 518823,
+    "client_id": 3707,
+    "produits": [
+        {
+            "produit_id": "P1720",
+            "nom": "Gently Used Frozen Mouse",
+            "quantite": 5,
+            "prix_unitaire": 59.09
+        },
+        {
+            "produit_id": "P2970",
+            "nom": "Intelligent Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 387.04
+        },
+        {
+            "produit_id": "P7361",
+            "nom": "Practical Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 422.25
+        }
+    ],
+    "date_commande": "2023-11-04T03:59:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "905 Castro",
+        "ville": "Chester"
+    }
+}

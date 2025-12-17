@@ -1,0 +1,27 @@
+{
+    "order_id": 938333,
+    "client_id": 3040,
+    "produits": [
+        {
+            "produit_id": "P3235",
+            "nom": "Sleek Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 253.17
+        },
+        {
+            "produit_id": "P1516",
+            "nom": "Awesome Steel Bacon",
+            "quantite": 3,
+            "prix_unitaire": 469.08
+        },
+        {
+            "produit_id": "P6040",
+            "nom": "Awesome Wooden Computer",
+            "quantite": 4,
+            "prix_unitaire": 250.43
+        }
+    ],
+    "date_commande": "2024-03-27T04:32:55",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

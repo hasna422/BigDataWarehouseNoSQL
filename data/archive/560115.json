@@ -1,0 +1,21 @@
+{
+    "order_id": 560115,
+    "client_id": 9647,
+    "produits": [
+        {
+            "produit_id": "P5437",
+            "nom": "Incredible Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 39.02
+        },
+        {
+            "produit_id": "P1757",
+            "nom": "Gently Used Table",
+            "quantite": 4,
+            "prix_unitaire": 368.96
+        }
+    ],
+    "date_commande": "2023-11-28T15:36:28",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

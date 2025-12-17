@@ -1,0 +1,21 @@
+{
+    "order_id": 945113,
+    "client_id": 6798,
+    "produits": [
+        {
+            "produit_id": "P3843",
+            "nom": "Small Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 451.16
+        },
+        {
+            "produit_id": "P0932",
+            "nom": "Fresh Soap",
+            "quantite": 1,
+            "prix_unitaire": 396.68
+        }
+    ],
+    "date_commande": "2023-08-04T07:04:57",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

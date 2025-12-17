@@ -1,0 +1,27 @@
+{
+    "order_id": 628950,
+    "client_id": 8109,
+    "produits": [
+        {
+            "produit_id": "P5797",
+            "nom": "Gently Used Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 363.82
+        },
+        {
+            "produit_id": "P2599",
+            "nom": "Intelligent Chicken",
+            "quantite": 5,
+            "prix_unitaire": 95.72
+        },
+        {
+            "produit_id": "P4268",
+            "nom": "Handmade Steel Chips",
+            "quantite": 5,
+            "prix_unitaire": 235.31
+        }
+    ],
+    "date_commande": "2024-09-06T16:39:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

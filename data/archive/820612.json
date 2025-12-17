@@ -1,0 +1,19 @@
+{
+    "order_id": 820612,
+    "client_id": 4846,
+    "produits": [
+        {
+            "produit_id": "P6404",
+            "nom": "Ergonomic Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 386.69
+        }
+    ],
+    "date_commande": "2023-06-03T21:03:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "254 Hill Point",
+        "ville": "Petaluma"
+    }
+}

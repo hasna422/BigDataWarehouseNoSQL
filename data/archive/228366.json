@@ -1,0 +1,31 @@
+{
+    "order_id": 228366,
+    "client_id": 3406,
+    "produits": [
+        {
+            "produit_id": "P8099",
+            "nom": "Handmade Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 484.08
+        },
+        {
+            "produit_id": "P9530",
+            "nom": "Intelligent Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 126.61
+        },
+        {
+            "produit_id": "P1024",
+            "nom": "For repair Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 277.99
+        }
+    ],
+    "date_commande": "2024-12-07T06:26:32",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "515 Gateview 1",
+        "ville": "Coconut Creek"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 629151,
+    "client_id": 1253,
+    "produits": [
+        {
+            "produit_id": "P0261",
+            "nom": "New Steel Chair",
+            "quantite": 2,
+            "prix_unitaire": 258.37
+        },
+        {
+            "produit_id": "P3003",
+            "nom": "Refined Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 334.82
+        }
+    ],
+    "date_commande": "2024-08-10T09:19:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "53 Mcallister",
+        "ville": "Oregon City"
+    }
+}

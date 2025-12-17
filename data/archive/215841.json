@@ -1,0 +1,19 @@
+{
+    "order_id": 215841,
+    "client_id": 1984,
+    "produits": [
+        {
+            "produit_id": "P7896",
+            "nom": "For repair Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 372.19
+        }
+    ],
+    "date_commande": "2024-05-24T12:39:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1259 Miley",
+        "ville": "Northampton"
+    }
+}

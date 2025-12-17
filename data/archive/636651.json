@@ -1,0 +1,19 @@
+{
+    "order_id": 636651,
+    "client_id": 4930,
+    "produits": [
+        {
+            "produit_id": "P7004",
+            "nom": "New Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 264.86
+        }
+    ],
+    "date_commande": "2024-10-20T18:22:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1158 Owens",
+        "ville": "New Orleans"
+    }
+}

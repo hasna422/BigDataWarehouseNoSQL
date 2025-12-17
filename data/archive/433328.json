@@ -1,0 +1,15 @@
+{
+    "order_id": 433328,
+    "client_id": 1543,
+    "produits": [
+        {
+            "produit_id": "P3554",
+            "nom": "Intelligent Chair",
+            "quantite": 5,
+            "prix_unitaire": 190.59
+        }
+    ],
+    "date_commande": "2023-09-06T07:18:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

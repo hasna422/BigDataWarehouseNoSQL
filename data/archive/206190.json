@@ -1,0 +1,27 @@
+{
+    "order_id": 206190,
+    "client_id": 3148,
+    "produits": [
+        {
+            "produit_id": "P1233",
+            "nom": "Licensed Steel Gloves",
+            "quantite": 4,
+            "prix_unitaire": 113.19
+        },
+        {
+            "produit_id": "P7035",
+            "nom": "Generic Concrete Ball",
+            "quantite": 4,
+            "prix_unitaire": 23.35
+        },
+        {
+            "produit_id": "P2780",
+            "nom": "Sleek Fresh Computer",
+            "quantite": 4,
+            "prix_unitaire": 471.07
+        }
+    ],
+    "date_commande": "2023-10-17T03:35:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

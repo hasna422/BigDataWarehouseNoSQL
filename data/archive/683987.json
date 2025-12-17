@@ -1,0 +1,19 @@
+{
+    "order_id": 683987,
+    "client_id": 3147,
+    "produits": [
+        {
+            "produit_id": "P9443",
+            "nom": "Tasty Plastic Gloves",
+            "quantite": 3,
+            "prix_unitaire": 135.58
+        }
+    ],
+    "date_commande": "2024-08-02T21:01:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "608 Columbia Square",
+        "ville": "Farmington"
+    }
+}

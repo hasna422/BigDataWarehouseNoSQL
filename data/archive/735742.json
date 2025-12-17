@@ -1,0 +1,19 @@
+{
+    "order_id": 735742,
+    "client_id": 3331,
+    "produits": [
+        {
+            "produit_id": "P6964",
+            "nom": "Sleek Steel Bacon",
+            "quantite": 4,
+            "prix_unitaire": 174.5
+        }
+    ],
+    "date_commande": "2023-11-29T01:38:16",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "645 Bertha",
+        "ville": "Temecula"
+    }
+}

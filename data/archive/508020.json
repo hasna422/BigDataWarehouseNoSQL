@@ -1,0 +1,27 @@
+{
+    "order_id": 508020,
+    "client_id": 2008,
+    "produits": [
+        {
+            "produit_id": "P4074",
+            "nom": "Licensed Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 180.36
+        },
+        {
+            "produit_id": "P9404",
+            "nom": "Sleek Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 324.66
+        },
+        {
+            "produit_id": "P3177",
+            "nom": "Tasty Plastic Hat",
+            "quantite": 5,
+            "prix_unitaire": 312.48
+        }
+    ],
+    "date_commande": "2025-05-12T08:44:38",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

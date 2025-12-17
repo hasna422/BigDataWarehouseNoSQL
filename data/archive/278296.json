@@ -1,0 +1,25 @@
+{
+    "order_id": 278296,
+    "client_id": 8800,
+    "produits": [
+        {
+            "produit_id": "P2794",
+            "nom": "Handcrafted Granite Table",
+            "quantite": 3,
+            "prix_unitaire": 316.57
+        },
+        {
+            "produit_id": "P5468",
+            "nom": "Handmade Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 463.55
+        }
+    ],
+    "date_commande": "2024-08-07T23:22:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "838 Transbay Hump",
+        "ville": "Johnson City"
+    }
+}

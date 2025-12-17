@@ -1,0 +1,31 @@
+{
+    "order_id": 842752,
+    "client_id": 6169,
+    "produits": [
+        {
+            "produit_id": "P9826",
+            "nom": "Licensed Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 222.87
+        },
+        {
+            "produit_id": "P4324",
+            "nom": "Tasty Fresh Chips",
+            "quantite": 2,
+            "prix_unitaire": 424.71
+        },
+        {
+            "produit_id": "P2790",
+            "nom": "Awesome Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 265.07
+        }
+    ],
+    "date_commande": "2023-09-23T02:02:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "752 Langdon",
+        "ville": "Blaine"
+    }
+}

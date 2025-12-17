@@ -1,0 +1,19 @@
+{
+    "order_id": 421421,
+    "client_id": 5663,
+    "produits": [
+        {
+            "produit_id": "P2340",
+            "nom": "Gently Used Frozen Sausages",
+            "quantite": 5,
+            "prix_unitaire": 238.03
+        }
+    ],
+    "date_commande": "2024-04-20T15:01:04",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1128 Kalmanovitz",
+        "ville": "Lodi"
+    }
+}

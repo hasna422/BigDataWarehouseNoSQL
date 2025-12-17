@@ -1,0 +1,19 @@
+{
+    "order_id": 803450,
+    "client_id": 6498,
+    "produits": [
+        {
+            "produit_id": "P8195",
+            "nom": "Generic Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 478.3
+        }
+    ],
+    "date_commande": "2023-11-28T10:08:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "346 Belvedere",
+        "ville": "Watsonville"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 900159,
+    "client_id": 5183,
+    "produits": [
+        {
+            "produit_id": "P5060",
+            "nom": "Licensed Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 489.43
+        }
+    ],
+    "date_commande": "2024-05-07T18:58:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "647 Cuvier",
+        "ville": "Somerville"
+    }
+}

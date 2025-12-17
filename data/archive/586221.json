@@ -1,0 +1,27 @@
+{
+    "order_id": 586221,
+    "client_id": 8923,
+    "produits": [
+        {
+            "produit_id": "P9328",
+            "nom": "New Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 274.43
+        },
+        {
+            "produit_id": "P0461",
+            "nom": "Gently Used Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 355.37
+        },
+        {
+            "produit_id": "P0383",
+            "nom": "Ergonomic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 101.53
+        }
+    ],
+    "date_commande": "2023-09-04T12:57:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 807558,
+    "client_id": 7338,
+    "produits": [
+        {
+            "produit_id": "P3818",
+            "nom": "Handmade Rubber Car",
+            "quantite": 2,
+            "prix_unitaire": 466.78
+        },
+        {
+            "produit_id": "P4293",
+            "nom": "Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 89.62
+        }
+    ],
+    "date_commande": "2024-02-27T00:16:06",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

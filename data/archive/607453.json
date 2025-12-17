@@ -1,0 +1,21 @@
+{
+    "order_id": 607453,
+    "client_id": 6649,
+    "produits": [
+        {
+            "produit_id": "P5601",
+            "nom": "Intelligent Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 477.03
+        },
+        {
+            "produit_id": "P8158",
+            "nom": "Licensed Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 64.95
+        }
+    ],
+    "date_commande": "2024-11-03T08:38:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

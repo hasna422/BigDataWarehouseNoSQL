@@ -1,0 +1,27 @@
+{
+    "order_id": 321814,
+    "client_id": 7426,
+    "produits": [
+        {
+            "produit_id": "P2303",
+            "nom": "Gently Used Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 372.94
+        },
+        {
+            "produit_id": "P7757",
+            "nom": "Unbranded Frozen Car",
+            "quantite": 3,
+            "prix_unitaire": 293.91
+        },
+        {
+            "produit_id": "P5870",
+            "nom": "Ergonomic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 476.07
+        }
+    ],
+    "date_commande": "2024-09-29T14:57:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

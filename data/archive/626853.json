@@ -1,0 +1,19 @@
+{
+    "order_id": 626853,
+    "client_id": 7657,
+    "produits": [
+        {
+            "produit_id": "P5453",
+            "nom": "Tasty Concrete Table",
+            "quantite": 4,
+            "prix_unitaire": 405.92
+        }
+    ],
+    "date_commande": "2025-01-31T08:25:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "978 Clementina",
+        "ville": "Biddeford"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 443099,
+    "client_id": 6435,
+    "produits": [
+        {
+            "produit_id": "P2603",
+            "nom": "Fresh Bacon",
+            "quantite": 5,
+            "prix_unitaire": 74.33
+        }
+    ],
+    "date_commande": "2023-09-10T16:17:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "872 Brown",
+        "ville": "Mission Viejo"
+    }
+}

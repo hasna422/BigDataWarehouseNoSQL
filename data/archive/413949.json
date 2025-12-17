@@ -1,0 +1,27 @@
+{
+    "order_id": 413949,
+    "client_id": 2464,
+    "produits": [
+        {
+            "produit_id": "P9274",
+            "nom": "For repair Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 354.5
+        },
+        {
+            "produit_id": "P9198",
+            "nom": "Awesome Rubber Shoes",
+            "quantite": 3,
+            "prix_unitaire": 111.07
+        },
+        {
+            "produit_id": "P9004",
+            "nom": "Handcrafted Chair",
+            "quantite": 3,
+            "prix_unitaire": 87.12
+        }
+    ],
+    "date_commande": "2024-09-17T06:22:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

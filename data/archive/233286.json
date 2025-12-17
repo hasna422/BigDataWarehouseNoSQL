@@ -1,0 +1,15 @@
+{
+    "order_id": 233286,
+    "client_id": 7951,
+    "produits": [
+        {
+            "produit_id": "P5111",
+            "nom": "Used Fresh Bike",
+            "quantite": 5,
+            "prix_unitaire": 162.97
+        }
+    ],
+    "date_commande": "2023-09-06T23:01:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

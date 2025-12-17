@@ -1,0 +1,19 @@
+{
+    "order_id": 108243,
+    "client_id": 8614,
+    "produits": [
+        {
+            "produit_id": "P6911",
+            "nom": "Unbranded Soft Gloves",
+            "quantite": 5,
+            "prix_unitaire": 229.97
+        }
+    ],
+    "date_commande": "2023-06-20T19:36:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "574 Isola",
+        "ville": "San Bernardino"
+    }
+}

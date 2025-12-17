@@ -1,0 +1,25 @@
+{
+    "order_id": 463906,
+    "client_id": 1803,
+    "produits": [
+        {
+            "produit_id": "P0079",
+            "nom": "Licensed Frozen Shoes",
+            "quantite": 3,
+            "prix_unitaire": 315.0
+        },
+        {
+            "produit_id": "P7238",
+            "nom": "Incredible Shirt",
+            "quantite": 2,
+            "prix_unitaire": 53.98
+        }
+    ],
+    "date_commande": "2024-01-05T12:33:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1034 Kimball",
+        "ville": "North Miami"
+    }
+}

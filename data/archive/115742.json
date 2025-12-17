@@ -1,0 +1,31 @@
+{
+    "order_id": 115742,
+    "client_id": 6255,
+    "produits": [
+        {
+            "produit_id": "P5727",
+            "nom": "Sleek Frozen Bacon",
+            "quantite": 4,
+            "prix_unitaire": 270.56
+        },
+        {
+            "produit_id": "P1237",
+            "nom": "Used Metal Bike",
+            "quantite": 1,
+            "prix_unitaire": 271.98
+        },
+        {
+            "produit_id": "P2618",
+            "nom": "Incredible Concrete Tuna",
+            "quantite": 1,
+            "prix_unitaire": 458.77
+        }
+    ],
+    "date_commande": "2024-07-05T04:16:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "268 Valletta",
+        "ville": "New Albany"
+    }
+}

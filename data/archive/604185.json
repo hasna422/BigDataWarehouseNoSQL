@@ -1,0 +1,15 @@
+{
+    "order_id": 604185,
+    "client_id": 7718,
+    "produits": [
+        {
+            "produit_id": "P3817",
+            "nom": "Refined Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 456.19
+        }
+    ],
+    "date_commande": "2024-01-24T09:04:07",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

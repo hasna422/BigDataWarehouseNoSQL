@@ -1,0 +1,19 @@
+{
+    "order_id": 486463,
+    "client_id": 3505,
+    "produits": [
+        {
+            "produit_id": "P6069",
+            "nom": "Tasty Table",
+            "quantite": 5,
+            "prix_unitaire": 481.01
+        }
+    ],
+    "date_commande": "2025-05-24T23:42:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1192 Lindsay",
+        "ville": "Schererville"
+    }
+}

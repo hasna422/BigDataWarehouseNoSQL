@@ -1,0 +1,25 @@
+{
+    "order_id": 740434,
+    "client_id": 6492,
+    "produits": [
+        {
+            "produit_id": "P8970",
+            "nom": "For repair Chicken",
+            "quantite": 1,
+            "prix_unitaire": 299.31
+        },
+        {
+            "produit_id": "P3002",
+            "nom": "For repair Chips",
+            "quantite": 5,
+            "prix_unitaire": 187.92
+        }
+    ],
+    "date_commande": "2024-07-12T15:27:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "663 Long",
+        "ville": "Lynn"
+    }
+}

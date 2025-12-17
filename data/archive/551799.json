@@ -1,0 +1,15 @@
+{
+    "order_id": 551799,
+    "client_id": 2232,
+    "produits": [
+        {
+            "produit_id": "P6092",
+            "nom": "Incredible Fresh Salad",
+            "quantite": 3,
+            "prix_unitaire": 147.38
+        }
+    ],
+    "date_commande": "2024-12-04T00:50:15",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

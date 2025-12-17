@@ -1,0 +1,31 @@
+{
+    "order_id": 984439,
+    "client_id": 5307,
+    "produits": [
+        {
+            "produit_id": "P7242",
+            "nom": "Practical Metal Sausages",
+            "quantite": 3,
+            "prix_unitaire": 240.88
+        },
+        {
+            "produit_id": "P6446",
+            "nom": "Rustic Granite Ball",
+            "quantite": 3,
+            "prix_unitaire": 383.21
+        },
+        {
+            "produit_id": "P3010",
+            "nom": "Gently Used Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 274.24
+        }
+    ],
+    "date_commande": "2024-02-08T10:48:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "714 Oak Hills",
+        "ville": "Cudahy"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 230599,
+    "client_id": 4009,
+    "produits": [
+        {
+            "produit_id": "P6229",
+            "nom": "Wooden Table",
+            "quantite": 1,
+            "prix_unitaire": 374.77
+        }
+    ],
+    "date_commande": "2025-02-20T05:00:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "2 Ogden",
+        "ville": "La Verne"
+    }
+}

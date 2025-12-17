@@ -1,0 +1,31 @@
+{
+    "order_id": 687959,
+    "client_id": 9230,
+    "produits": [
+        {
+            "produit_id": "P9845",
+            "nom": "Unbranded Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 19.14
+        },
+        {
+            "produit_id": "P2908",
+            "nom": "Handcrafted Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 451.36
+        },
+        {
+            "produit_id": "P0192",
+            "nom": "Refined Metal Chicken",
+            "quantite": 5,
+            "prix_unitaire": 236.3
+        }
+    ],
+    "date_commande": "2023-06-23T16:44:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1350 Bruce",
+        "ville": "Claremore"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 853723,
+    "client_id": 6621,
+    "produits": [
+        {
+            "produit_id": "P0629",
+            "nom": "Refined Granite Soap",
+            "quantite": 3,
+            "prix_unitaire": 429.72
+        },
+        {
+            "produit_id": "P0231",
+            "nom": "Sleek Steel Soap",
+            "quantite": 4,
+            "prix_unitaire": 65.91
+        },
+        {
+            "produit_id": "P9233",
+            "nom": "Handcrafted Cotton Gloves",
+            "quantite": 1,
+            "prix_unitaire": 349.25
+        }
+    ],
+    "date_commande": "2024-03-29T21:34:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "14 Vienna",
+        "ville": "Beloit"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 259161,
+    "client_id": 5302,
+    "produits": [
+        {
+            "produit_id": "P0876",
+            "nom": "Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 167.78
+        },
+        {
+            "produit_id": "P7479",
+            "nom": "Gorgeous Chicken",
+            "quantite": 4,
+            "prix_unitaire": 323.44
+        }
+    ],
+    "date_commande": "2024-07-08T23:44:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "828 Costa",
+        "ville": "Talladega"
+    }
+}

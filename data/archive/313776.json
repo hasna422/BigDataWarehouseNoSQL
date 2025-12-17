@@ -1,0 +1,31 @@
+{
+    "order_id": 313776,
+    "client_id": 1553,
+    "produits": [
+        {
+            "produit_id": "P0801",
+            "nom": "Tasty Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 477.18
+        },
+        {
+            "produit_id": "P3110",
+            "nom": "Wooden Chair",
+            "quantite": 1,
+            "prix_unitaire": 332.94
+        },
+        {
+            "produit_id": "P2104",
+            "nom": "Small Soap",
+            "quantite": 2,
+            "prix_unitaire": 205.83
+        }
+    ],
+    "date_commande": "2024-03-06T21:24:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "25 Dr Carlton B Goodlett",
+        "ville": "Santa Ana"
+    }
+}

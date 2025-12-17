@@ -1,0 +1,25 @@
+{
+    "order_id": 393121,
+    "client_id": 5286,
+    "produits": [
+        {
+            "produit_id": "P0902",
+            "nom": "Intelligent Gloves",
+            "quantite": 4,
+            "prix_unitaire": 491.41
+        },
+        {
+            "produit_id": "P5584",
+            "nom": "Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 333.69
+        }
+    ],
+    "date_commande": "2024-09-01T11:26:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "669 Lee",
+        "ville": "Redmond"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 901075,
+    "client_id": 7207,
+    "produits": [
+        {
+            "produit_id": "P6759",
+            "nom": "Gently Used Shirt",
+            "quantite": 5,
+            "prix_unitaire": 307.94
+        },
+        {
+            "produit_id": "P8370",
+            "nom": "Fresh Hat",
+            "quantite": 4,
+            "prix_unitaire": 197.03
+        },
+        {
+            "produit_id": "P7096",
+            "nom": "Licensed Bacon",
+            "quantite": 2,
+            "prix_unitaire": 396.52
+        }
+    ],
+    "date_commande": "2024-12-10T09:17:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

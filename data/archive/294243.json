@@ -1,0 +1,27 @@
+{
+    "order_id": 294243,
+    "client_id": 5093,
+    "produits": [
+        {
+            "produit_id": "P0073",
+            "nom": "Fantastic Wooden Chair",
+            "quantite": 3,
+            "prix_unitaire": 417.62
+        },
+        {
+            "produit_id": "P9422",
+            "nom": "Intelligent Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 432.81
+        },
+        {
+            "produit_id": "P7259",
+            "nom": "Intelligent Steel Pizza",
+            "quantite": 1,
+            "prix_unitaire": 341.88
+        }
+    ],
+    "date_commande": "2024-01-14T18:16:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

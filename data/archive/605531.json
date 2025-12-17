@@ -1,0 +1,15 @@
+{
+    "order_id": 605531,
+    "client_id": 8253,
+    "produits": [
+        {
+            "produit_id": "P0499",
+            "nom": "Refined Mouse",
+            "quantite": 5,
+            "prix_unitaire": 122.69
+        }
+    ],
+    "date_commande": "2024-11-24T06:10:43",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

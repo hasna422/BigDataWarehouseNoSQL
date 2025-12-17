@@ -1,0 +1,19 @@
+{
+    "order_id": 703492,
+    "client_id": 6612,
+    "produits": [
+        {
+            "produit_id": "P3253",
+            "nom": "Small Car",
+            "quantite": 1,
+            "prix_unitaire": 73.61
+        }
+    ],
+    "date_commande": "2025-01-11T16:07:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "164 North",
+        "ville": "Tifton"
+    }
+}

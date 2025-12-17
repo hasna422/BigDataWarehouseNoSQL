@@ -1,0 +1,21 @@
+{
+    "order_id": 955572,
+    "client_id": 7363,
+    "produits": [
+        {
+            "produit_id": "P9891",
+            "nom": "For repair Plastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 424.62
+        },
+        {
+            "produit_id": "P9576",
+            "nom": "Practical Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 452.43
+        }
+    ],
+    "date_commande": "2024-06-23T00:41:47",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 740032,
+    "client_id": 2848,
+    "produits": [
+        {
+            "produit_id": "P3745",
+            "nom": "Refined Concrete Bike",
+            "quantite": 2,
+            "prix_unitaire": 30.42
+        }
+    ],
+    "date_commande": "2025-03-17T12:03:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

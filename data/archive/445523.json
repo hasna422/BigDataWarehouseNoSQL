@@ -1,0 +1,15 @@
+{
+    "order_id": 445523,
+    "client_id": 5858,
+    "produits": [
+        {
+            "produit_id": "P8693",
+            "nom": "Wooden Computer",
+            "quantite": 1,
+            "prix_unitaire": 436.71
+        }
+    ],
+    "date_commande": "2024-02-07T10:56:18",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

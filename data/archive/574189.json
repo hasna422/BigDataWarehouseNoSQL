@@ -1,0 +1,19 @@
+{
+    "order_id": 574189,
+    "client_id": 5975,
+    "produits": [
+        {
+            "produit_id": "P0282",
+            "nom": "Fantastic Fresh Bacon",
+            "quantite": 4,
+            "prix_unitaire": 426.77
+        }
+    ],
+    "date_commande": "2023-06-25T03:33:42",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "766 Steiner",
+        "ville": "Bentonville"
+    }
+}

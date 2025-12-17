@@ -1,0 +1,25 @@
+{
+    "order_id": 134434,
+    "client_id": 5193,
+    "produits": [
+        {
+            "produit_id": "P5720",
+            "nom": "Practical Table",
+            "quantite": 1,
+            "prix_unitaire": 472.75
+        },
+        {
+            "produit_id": "P8213",
+            "nom": "Licensed Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 135.66
+        }
+    ],
+    "date_commande": "2023-08-12T10:04:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1165 Gerard",
+        "ville": "Pawtucket"
+    }
+}

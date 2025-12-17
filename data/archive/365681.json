@@ -1,0 +1,25 @@
+{
+    "order_id": 365681,
+    "client_id": 9751,
+    "produits": [
+        {
+            "produit_id": "P4435",
+            "nom": "Rustic Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 330.21
+        },
+        {
+            "produit_id": "P8694",
+            "nom": "Awesome Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 26.14
+        }
+    ],
+    "date_commande": "2025-03-30T20:36:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "391 Hamerton",
+        "ville": "Beloit"
+    }
+}

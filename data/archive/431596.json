@@ -1,0 +1,15 @@
+{
+    "order_id": 431596,
+    "client_id": 5011,
+    "produits": [
+        {
+            "produit_id": "P7656",
+            "nom": "Licensed Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 81.93
+        }
+    ],
+    "date_commande": "2023-12-15T05:39:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

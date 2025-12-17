@@ -1,0 +1,31 @@
+{
+    "order_id": 439299,
+    "client_id": 3960,
+    "produits": [
+        {
+            "produit_id": "P7598",
+            "nom": "Small Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 237.22
+        },
+        {
+            "produit_id": "P5999",
+            "nom": "Tasty Rubber Chicken",
+            "quantite": 1,
+            "prix_unitaire": 485.61
+        },
+        {
+            "produit_id": "P3358",
+            "nom": "Ergonomic Granite Hat",
+            "quantite": 5,
+            "prix_unitaire": 386.07
+        }
+    ],
+    "date_commande": "2023-12-22T06:31:24",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "939 Karen",
+        "ville": "Forest Grove"
+    }
+}

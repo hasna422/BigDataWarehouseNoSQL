@@ -1,0 +1,15 @@
+{
+    "order_id": 435987,
+    "client_id": 6291,
+    "produits": [
+        {
+            "produit_id": "P1769",
+            "nom": "Gently Used Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 80.19
+        }
+    ],
+    "date_commande": "2024-05-12T14:44:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

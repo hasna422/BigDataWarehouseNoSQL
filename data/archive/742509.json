@@ -1,0 +1,27 @@
+{
+    "order_id": 742509,
+    "client_id": 9727,
+    "produits": [
+        {
+            "produit_id": "P6102",
+            "nom": "Licensed Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 6.38
+        },
+        {
+            "produit_id": "P3833",
+            "nom": "Handmade Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 494.92
+        },
+        {
+            "produit_id": "P0530",
+            "nom": "Gently Used Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 98.17
+        }
+    ],
+    "date_commande": "2025-01-04T06:31:03",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

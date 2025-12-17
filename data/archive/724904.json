@@ -1,0 +1,25 @@
+{
+    "order_id": 724904,
+    "client_id": 7063,
+    "produits": [
+        {
+            "produit_id": "P5914",
+            "nom": "Used Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 7.67
+        },
+        {
+            "produit_id": "P7063",
+            "nom": "Fantastic Metal Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 319.82
+        }
+    ],
+    "date_commande": "2023-12-03T18:21:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "279 Cayuga",
+        "ville": "Bethany"
+    }
+}

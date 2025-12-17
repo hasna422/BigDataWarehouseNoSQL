@@ -1,0 +1,15 @@
+{
+    "order_id": 254497,
+    "client_id": 7966,
+    "produits": [
+        {
+            "produit_id": "P8516",
+            "nom": "For repair Wooden Car",
+            "quantite": 3,
+            "prix_unitaire": 78.2
+        }
+    ],
+    "date_commande": "2023-12-18T21:25:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

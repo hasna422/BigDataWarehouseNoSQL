@@ -1,0 +1,31 @@
+{
+    "order_id": 225636,
+    "client_id": 3027,
+    "produits": [
+        {
+            "produit_id": "P3904",
+            "nom": "Unbranded Concrete Pants",
+            "quantite": 1,
+            "prix_unitaire": 122.76
+        },
+        {
+            "produit_id": "P8235",
+            "nom": "Rustic Frozen Gloves",
+            "quantite": 4,
+            "prix_unitaire": 346.84
+        },
+        {
+            "produit_id": "P9352",
+            "nom": "Practical Granite Cheese",
+            "quantite": 4,
+            "prix_unitaire": 358.68
+        }
+    ],
+    "date_commande": "2024-03-24T00:57:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "977 Spofford",
+        "ville": "Brooklyn Park"
+    }
+}

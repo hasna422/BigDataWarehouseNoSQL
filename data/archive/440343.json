@@ -1,0 +1,31 @@
+{
+    "order_id": 440343,
+    "client_id": 7539,
+    "produits": [
+        {
+            "produit_id": "P9548",
+            "nom": "Practical Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 284.39
+        },
+        {
+            "produit_id": "P2881",
+            "nom": "Intelligent Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 265.13
+        },
+        {
+            "produit_id": "P4133",
+            "nom": "Generic Soft Cheese",
+            "quantite": 2,
+            "prix_unitaire": 272.31
+        }
+    ],
+    "date_commande": "2024-12-07T21:49:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "138 Guerrero",
+        "ville": "Kaysville"
+    }
+}

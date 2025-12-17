@@ -1,0 +1,25 @@
+{
+    "order_id": 124977,
+    "client_id": 8827,
+    "produits": [
+        {
+            "produit_id": "P1262",
+            "nom": "Licensed Plastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 196.17
+        },
+        {
+            "produit_id": "P7802",
+            "nom": "Practical Fresh Towels",
+            "quantite": 1,
+            "prix_unitaire": 214.58
+        }
+    ],
+    "date_commande": "2023-08-20T14:35:45",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "863 Battery Safford",
+        "ville": "Alliance"
+    }
+}

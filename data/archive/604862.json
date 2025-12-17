@@ -1,0 +1,15 @@
+{
+    "order_id": 604862,
+    "client_id": 4593,
+    "produits": [
+        {
+            "produit_id": "P6818",
+            "nom": "Ergonomic Wooden Cheese",
+            "quantite": 5,
+            "prix_unitaire": 242.67
+        }
+    ],
+    "date_commande": "2025-03-09T15:34:41",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

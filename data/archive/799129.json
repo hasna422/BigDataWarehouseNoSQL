@@ -1,0 +1,21 @@
+{
+    "order_id": 799129,
+    "client_id": 9673,
+    "produits": [
+        {
+            "produit_id": "P0890",
+            "nom": "Awesome Plastic Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 103.37
+        },
+        {
+            "produit_id": "P8869",
+            "nom": "Gorgeous Metal Soap",
+            "quantite": 4,
+            "prix_unitaire": 388.57
+        }
+    ],
+    "date_commande": "2025-05-11T12:10:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

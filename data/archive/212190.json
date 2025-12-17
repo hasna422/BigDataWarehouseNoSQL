@@ -1,0 +1,27 @@
+{
+    "order_id": 212190,
+    "client_id": 2486,
+    "produits": [
+        {
+            "produit_id": "P0373",
+            "nom": "Gorgeous Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 326.98
+        },
+        {
+            "produit_id": "P9920",
+            "nom": "Handmade Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 317.78
+        },
+        {
+            "produit_id": "P8877",
+            "nom": "New Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 89.07
+        }
+    ],
+    "date_commande": "2024-11-24T18:06:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 742872,
+    "client_id": 6605,
+    "produits": [
+        {
+            "produit_id": "P1498",
+            "nom": "Awesome Plastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 473.49
+        },
+        {
+            "produit_id": "P5228",
+            "nom": "Concrete Chicken",
+            "quantite": 5,
+            "prix_unitaire": 372.59
+        },
+        {
+            "produit_id": "P1894",
+            "nom": "Small Concrete Cheese",
+            "quantite": 1,
+            "prix_unitaire": 271.43
+        }
+    ],
+    "date_commande": "2024-11-07T00:29:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "636 Holyoke",
+        "ville": "Durango"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 694951,
+    "client_id": 7114,
+    "produits": [
+        {
+            "produit_id": "P8408",
+            "nom": "Ergonomic Pants",
+            "quantite": 5,
+            "prix_unitaire": 402.08
+        },
+        {
+            "produit_id": "P2471",
+            "nom": "Gorgeous Plastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 21.87
+        },
+        {
+            "produit_id": "P8348",
+            "nom": "Gorgeous Rubber Bacon",
+            "quantite": 3,
+            "prix_unitaire": 86.09
+        }
+    ],
+    "date_commande": "2025-04-27T18:57:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "622 Shakespeare",
+        "ville": "Bakersfield"
+    }
+}

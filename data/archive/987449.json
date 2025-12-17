@@ -1,0 +1,27 @@
+{
+    "order_id": 987449,
+    "client_id": 1722,
+    "produits": [
+        {
+            "produit_id": "P1649",
+            "nom": "New Granite Cheese",
+            "quantite": 3,
+            "prix_unitaire": 162.41
+        },
+        {
+            "produit_id": "P1300",
+            "nom": "Refined Granite Tuna",
+            "quantite": 3,
+            "prix_unitaire": 438.4
+        },
+        {
+            "produit_id": "P1099",
+            "nom": "Fantastic Wooden Mouse",
+            "quantite": 3,
+            "prix_unitaire": 65.93
+        }
+    ],
+    "date_commande": "2023-11-21T08:57:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 828503,
+    "client_id": 2853,
+    "produits": [
+        {
+            "produit_id": "P6400",
+            "nom": "Handcrafted Wooden Computer",
+            "quantite": 5,
+            "prix_unitaire": 468.87
+        },
+        {
+            "produit_id": "P3396",
+            "nom": "Practical Gloves",
+            "quantite": 3,
+            "prix_unitaire": 223.7
+        },
+        {
+            "produit_id": "P2117",
+            "nom": "Awesome Fish",
+            "quantite": 3,
+            "prix_unitaire": 441.74
+        }
+    ],
+    "date_commande": "2024-06-09T18:33:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "326 Cambridge",
+        "ville": "Claremont"
+    }
+}

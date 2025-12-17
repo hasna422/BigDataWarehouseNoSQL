@@ -1,0 +1,31 @@
+{
+    "order_id": 393321,
+    "client_id": 1940,
+    "produits": [
+        {
+            "produit_id": "P4431",
+            "nom": "Rustic Steel Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 362.55
+        },
+        {
+            "produit_id": "P9994",
+            "nom": "Intelligent Steel Pizza",
+            "quantite": 4,
+            "prix_unitaire": 95.0
+        },
+        {
+            "produit_id": "P4790",
+            "nom": "Licensed Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 211.1
+        }
+    ],
+    "date_commande": "2024-08-19T18:56:48",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "811 Oloran",
+        "ville": "Coppell"
+    }
+}

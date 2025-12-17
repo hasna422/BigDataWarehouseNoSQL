@@ -1,0 +1,25 @@
+{
+    "order_id": 209540,
+    "client_id": 5813,
+    "produits": [
+        {
+            "produit_id": "P8773",
+            "nom": "Handcrafted Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 168.97
+        },
+        {
+            "produit_id": "P0995",
+            "nom": "Incredible Wooden Hat",
+            "quantite": 4,
+            "prix_unitaire": 44.58
+        }
+    ],
+    "date_commande": "2024-11-27T04:01:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "784 Faith",
+        "ville": "Chino Hills"
+    }
+}

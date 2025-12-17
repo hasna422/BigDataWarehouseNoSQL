@@ -1,0 +1,19 @@
+{
+    "order_id": 120301,
+    "client_id": 3197,
+    "produits": [
+        {
+            "produit_id": "P8691",
+            "nom": "Concrete Shirt",
+            "quantite": 2,
+            "prix_unitaire": 166.74
+        }
+    ],
+    "date_commande": "2023-08-27T11:38:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "760 Catherine",
+        "ville": "Woodridge"
+    }
+}

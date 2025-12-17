@@ -1,0 +1,21 @@
+{
+    "order_id": 394255,
+    "client_id": 6854,
+    "produits": [
+        {
+            "produit_id": "P6308",
+            "nom": "Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 150.25
+        },
+        {
+            "produit_id": "P5008",
+            "nom": "Sleek Cotton Fish",
+            "quantite": 4,
+            "prix_unitaire": 324.82
+        }
+    ],
+    "date_commande": "2023-07-09T20:01:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

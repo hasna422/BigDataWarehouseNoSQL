@@ -1,0 +1,21 @@
+{
+    "order_id": 404976,
+    "client_id": 2091,
+    "produits": [
+        {
+            "produit_id": "P8983",
+            "nom": "Used Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 292.56
+        },
+        {
+            "produit_id": "P2421",
+            "nom": "Refined Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 493.08
+        }
+    ],
+    "date_commande": "2025-02-04T16:44:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 364901,
+    "client_id": 4719,
+    "produits": [
+        {
+            "produit_id": "P2005",
+            "nom": "Rustic Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 77.17
+        }
+    ],
+    "date_commande": "2025-02-20T23:22:56",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "87 Aztec",
+        "ville": "Woodstock"
+    }
+}

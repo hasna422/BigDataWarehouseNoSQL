@@ -1,0 +1,19 @@
+{
+    "order_id": 923179,
+    "client_id": 3059,
+    "produits": [
+        {
+            "produit_id": "P7773",
+            "nom": "New Soft Towels",
+            "quantite": 2,
+            "prix_unitaire": 299.01
+        }
+    ],
+    "date_commande": "2023-10-22T06:50:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1171 Copper",
+        "ville": "Loves Park"
+    }
+}

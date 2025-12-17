@@ -1,0 +1,19 @@
+{
+    "order_id": 617876,
+    "client_id": 3230,
+    "produits": [
+        {
+            "produit_id": "P8001",
+            "nom": "New Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 147.83
+        }
+    ],
+    "date_commande": "2025-05-13T07:01:44",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1338 Golf Course",
+        "ville": "Santee"
+    }
+}

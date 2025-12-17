@@ -1,0 +1,31 @@
+{
+    "order_id": 165002,
+    "client_id": 3978,
+    "produits": [
+        {
+            "produit_id": "P4057",
+            "nom": "Shirt",
+            "quantite": 3,
+            "prix_unitaire": 174.37
+        },
+        {
+            "produit_id": "P5231",
+            "nom": "Gently Used Rubber Computer",
+            "quantite": 1,
+            "prix_unitaire": 215.95
+        },
+        {
+            "produit_id": "P5656",
+            "nom": "Intelligent Wooden Pants",
+            "quantite": 3,
+            "prix_unitaire": 285.78
+        }
+    ],
+    "date_commande": "2024-10-24T22:52:53",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "660 Corbin",
+        "ville": "West Fargo"
+    }
+}

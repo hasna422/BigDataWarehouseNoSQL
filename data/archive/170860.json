@@ -1,0 +1,27 @@
+{
+    "order_id": 170860,
+    "client_id": 9447,
+    "produits": [
+        {
+            "produit_id": "P1285",
+            "nom": "Generic Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 110.62
+        },
+        {
+            "produit_id": "P4404",
+            "nom": "Sleek Tuna",
+            "quantite": 2,
+            "prix_unitaire": 225.42
+        },
+        {
+            "produit_id": "P3565",
+            "nom": "Gently Used Frozen Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 262.86
+        }
+    ],
+    "date_commande": "2024-01-27T16:59:52",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

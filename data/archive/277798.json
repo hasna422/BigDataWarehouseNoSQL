@@ -1,0 +1,19 @@
+{
+    "order_id": 277798,
+    "client_id": 2613,
+    "produits": [
+        {
+            "produit_id": "P7021",
+            "nom": "Fantastic Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 114.9
+        }
+    ],
+    "date_commande": "2024-05-25T00:04:13",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1096 Hoffman",
+        "ville": "Hot Springs"
+    }
+}

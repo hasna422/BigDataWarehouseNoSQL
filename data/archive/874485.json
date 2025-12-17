@@ -1,0 +1,19 @@
+{
+    "order_id": 874485,
+    "client_id": 2765,
+    "produits": [
+        {
+            "produit_id": "P3991",
+            "nom": "Wooden Bike",
+            "quantite": 3,
+            "prix_unitaire": 406.57
+        }
+    ],
+    "date_commande": "2023-09-05T17:40:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "235 French",
+        "ville": "Mason City"
+    }
+}

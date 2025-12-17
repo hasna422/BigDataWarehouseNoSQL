@@ -1,0 +1,19 @@
+{
+    "order_id": 259034,
+    "client_id": 5486,
+    "produits": [
+        {
+            "produit_id": "P1331",
+            "nom": "For repair Table",
+            "quantite": 4,
+            "prix_unitaire": 389.83
+        }
+    ],
+    "date_commande": "2024-05-25T22:58:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1337 Chenery",
+        "ville": "Temple"
+    }
+}

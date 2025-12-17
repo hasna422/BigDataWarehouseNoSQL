@@ -1,0 +1,31 @@
+{
+    "order_id": 889070,
+    "client_id": 2507,
+    "produits": [
+        {
+            "produit_id": "P9284",
+            "nom": "For repair Fresh Shoes",
+            "quantite": 3,
+            "prix_unitaire": 421.15
+        },
+        {
+            "produit_id": "P5293",
+            "nom": "Ergonomic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 230.6
+        },
+        {
+            "produit_id": "P0398",
+            "nom": "Gently Used Plastic Car",
+            "quantite": 2,
+            "prix_unitaire": 422.99
+        }
+    ],
+    "date_commande": "2023-06-29T11:26:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "22 Rice",
+        "ville": "Indian Trail"
+    }
+}

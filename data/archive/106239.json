@@ -1,0 +1,25 @@
+{
+    "order_id": 106239,
+    "client_id": 3505,
+    "produits": [
+        {
+            "produit_id": "P1439",
+            "nom": "Metal Shoes",
+            "quantite": 2,
+            "prix_unitaire": 297.0
+        },
+        {
+            "produit_id": "P3768",
+            "nom": "Salad",
+            "quantite": 3,
+            "prix_unitaire": 110.01
+        }
+    ],
+    "date_commande": "2025-01-06T23:52:25",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "176 Pioche",
+        "ville": "St. Cloud"
+    }
+}

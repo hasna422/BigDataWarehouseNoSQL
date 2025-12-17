@@ -1,0 +1,21 @@
+{
+    "order_id": 533955,
+    "client_id": 8994,
+    "produits": [
+        {
+            "produit_id": "P6577",
+            "nom": "Unbranded Steel Pizza",
+            "quantite": 2,
+            "prix_unitaire": 481.72
+        },
+        {
+            "produit_id": "P0556",
+            "nom": "Gorgeous Metal Chair",
+            "quantite": 3,
+            "prix_unitaire": 392.57
+        }
+    ],
+    "date_commande": "2025-05-11T23:19:17",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

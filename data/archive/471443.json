@@ -1,0 +1,15 @@
+{
+    "order_id": 471443,
+    "client_id": 9654,
+    "produits": [
+        {
+            "produit_id": "P4001",
+            "nom": "Rubber Mouse",
+            "quantite": 4,
+            "prix_unitaire": 295.16
+        }
+    ],
+    "date_commande": "2024-10-30T12:16:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

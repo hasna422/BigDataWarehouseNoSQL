@@ -1,0 +1,19 @@
+{
+    "order_id": 133479,
+    "client_id": 5231,
+    "produits": [
+        {
+            "produit_id": "P7099",
+            "nom": "Gently Used Granite Tuna",
+            "quantite": 2,
+            "prix_unitaire": 374.4
+        }
+    ],
+    "date_commande": "2023-08-12T21:55:55",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1399 Neptune",
+        "ville": "Alameda"
+    }
+}

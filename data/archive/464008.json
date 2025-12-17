@@ -1,0 +1,25 @@
+{
+    "order_id": 464008,
+    "client_id": 6675,
+    "produits": [
+        {
+            "produit_id": "P6442",
+            "nom": "Licensed Pizza",
+            "quantite": 2,
+            "prix_unitaire": 478.93
+        },
+        {
+            "produit_id": "P8331",
+            "nom": "Sleek Table",
+            "quantite": 2,
+            "prix_unitaire": 306.26
+        }
+    ],
+    "date_commande": "2025-01-04T11:36:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "134 Ramona",
+        "ville": "Sapulpa"
+    }
+}

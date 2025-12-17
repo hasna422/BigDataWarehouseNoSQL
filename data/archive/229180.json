@@ -1,0 +1,31 @@
+{
+    "order_id": 229180,
+    "client_id": 7008,
+    "produits": [
+        {
+            "produit_id": "P9096",
+            "nom": "Generic Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 367.25
+        },
+        {
+            "produit_id": "P0754",
+            "nom": "Refined Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 220.23
+        },
+        {
+            "produit_id": "P1357",
+            "nom": "Gently Used Fresh Ball",
+            "quantite": 1,
+            "prix_unitaire": 345.1
+        }
+    ],
+    "date_commande": "2023-09-01T19:20:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "693 Rosa Parks",
+        "ville": "Carmel"
+    }
+}

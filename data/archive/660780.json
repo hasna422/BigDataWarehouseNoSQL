@@ -1,0 +1,25 @@
+{
+    "order_id": 660780,
+    "client_id": 9493,
+    "produits": [
+        {
+            "produit_id": "P8733",
+            "nom": "Licensed Soft Pizza",
+            "quantite": 1,
+            "prix_unitaire": 24.69
+        },
+        {
+            "produit_id": "P5008",
+            "nom": "Handmade Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 229.95
+        }
+    ],
+    "date_commande": "2024-10-02T19:35:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "204 Battery Dynamite",
+        "ville": "Norwalk"
+    }
+}

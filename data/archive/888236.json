@@ -1,0 +1,25 @@
+{
+    "order_id": 888236,
+    "client_id": 8443,
+    "produits": [
+        {
+            "produit_id": "P0206",
+            "nom": "Refined Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 389.06
+        },
+        {
+            "produit_id": "P0601",
+            "nom": "Used Fresh Soap",
+            "quantite": 1,
+            "prix_unitaire": 498.8
+        }
+    ],
+    "date_commande": "2024-03-22T11:07:15",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "975 Alpine",
+        "ville": "Noblesville"
+    }
+}

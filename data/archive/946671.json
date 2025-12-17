@@ -1,0 +1,25 @@
+{
+    "order_id": 946671,
+    "client_id": 1882,
+    "produits": [
+        {
+            "produit_id": "P8644",
+            "nom": "New Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 362.04
+        },
+        {
+            "produit_id": "P2242",
+            "nom": "Gently Used Tuna",
+            "quantite": 1,
+            "prix_unitaire": 429.89
+        }
+    ],
+    "date_commande": "2025-03-19T11:40:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "408 Dock",
+        "ville": "Madera"
+    }
+}

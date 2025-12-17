@@ -1,0 +1,27 @@
+{
+    "order_id": 900323,
+    "client_id": 9738,
+    "produits": [
+        {
+            "produit_id": "P5336",
+            "nom": "Gorgeous Gloves",
+            "quantite": 1,
+            "prix_unitaire": 210.71
+        },
+        {
+            "produit_id": "P0848",
+            "nom": "For repair Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 104.09
+        },
+        {
+            "produit_id": "P1058",
+            "nom": "Fantastic Granite Towels",
+            "quantite": 4,
+            "prix_unitaire": 448.18
+        }
+    ],
+    "date_commande": "2024-08-02T10:01:23",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

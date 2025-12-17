@@ -1,0 +1,21 @@
+{
+    "order_id": 800836,
+    "client_id": 3385,
+    "produits": [
+        {
+            "produit_id": "P9087",
+            "nom": "Generic Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 54.04
+        },
+        {
+            "produit_id": "P0225",
+            "nom": "Incredible Plastic Shoes",
+            "quantite": 1,
+            "prix_unitaire": 95.12
+        }
+    ],
+    "date_commande": "2025-04-10T21:34:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 380859,
+    "client_id": 7907,
+    "produits": [
+        {
+            "produit_id": "P1750",
+            "nom": "For repair Rubber Pants",
+            "quantite": 1,
+            "prix_unitaire": 338.59
+        }
+    ],
+    "date_commande": "2024-08-08T12:46:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

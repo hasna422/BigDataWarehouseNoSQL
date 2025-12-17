@@ -1,0 +1,15 @@
+{
+    "order_id": 410599,
+    "client_id": 3784,
+    "produits": [
+        {
+            "produit_id": "P9233",
+            "nom": "New Fresh Cheese",
+            "quantite": 5,
+            "prix_unitaire": 257.22
+        }
+    ],
+    "date_commande": "2023-10-09T09:51:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 840367,
+    "client_id": 2376,
+    "produits": [
+        {
+            "produit_id": "P5477",
+            "nom": "For repair Rubber Cheese",
+            "quantite": 5,
+            "prix_unitaire": 387.75
+        }
+    ],
+    "date_commande": "2023-10-14T02:03:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "245 Moulton",
+        "ville": "Richland"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 534384,
+    "client_id": 5884,
+    "produits": [
+        {
+            "produit_id": "P2945",
+            "nom": "Refined Granite Towels",
+            "quantite": 1,
+            "prix_unitaire": 13.13
+        },
+        {
+            "produit_id": "P5575",
+            "nom": "Intelligent Frozen Chair",
+            "quantite": 1,
+            "prix_unitaire": 366.97
+        },
+        {
+            "produit_id": "P3853",
+            "nom": "Ergonomic Frozen Bike",
+            "quantite": 1,
+            "prix_unitaire": 416.78
+        }
+    ],
+    "date_commande": "2025-05-11T05:49:12",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 539119,
+    "client_id": 6190,
+    "produits": [
+        {
+            "produit_id": "P0124",
+            "nom": "Incredible Plastic Bike",
+            "quantite": 2,
+            "prix_unitaire": 16.29
+        },
+        {
+            "produit_id": "P7555",
+            "nom": "Ergonomic Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 159.93
+        }
+    ],
+    "date_commande": "2024-09-25T10:33:06",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

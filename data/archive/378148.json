@@ -1,0 +1,19 @@
+{
+    "order_id": 378148,
+    "client_id": 1951,
+    "produits": [
+        {
+            "produit_id": "P5540",
+            "nom": "Unbranded Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 42.65
+        }
+    ],
+    "date_commande": "2025-03-28T19:39:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "102 Bryn Mahr",
+        "ville": "Mount Vernon"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 237439,
+    "client_id": 3659,
+    "produits": [
+        {
+            "produit_id": "P3704",
+            "nom": "Generic Steel Hat",
+            "quantite": 5,
+            "prix_unitaire": 300.15
+        }
+    ],
+    "date_commande": "2024-12-30T15:25:42",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

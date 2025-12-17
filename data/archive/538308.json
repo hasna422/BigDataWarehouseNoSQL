@@ -1,0 +1,15 @@
+{
+    "order_id": 538308,
+    "client_id": 8944,
+    "produits": [
+        {
+            "produit_id": "P2853",
+            "nom": "Handcrafted Frozen Bacon",
+            "quantite": 3,
+            "prix_unitaire": 28.1
+        }
+    ],
+    "date_commande": "2024-10-20T00:05:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

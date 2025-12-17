@@ -1,0 +1,31 @@
+{
+    "order_id": 487127,
+    "client_id": 6010,
+    "produits": [
+        {
+            "produit_id": "P7595",
+            "nom": "Unbranded Concrete Shirt",
+            "quantite": 2,
+            "prix_unitaire": 205.98
+        },
+        {
+            "produit_id": "P4668",
+            "nom": "Rustic Rubber Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 92.89
+        },
+        {
+            "produit_id": "P2715",
+            "nom": "Incredible Granite Chips",
+            "quantite": 5,
+            "prix_unitaire": 168.03
+        }
+    ],
+    "date_commande": "2025-05-08T21:21:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "606 Dormitory",
+        "ville": "Garfield Heights"
+    }
+}

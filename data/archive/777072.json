@@ -1,0 +1,31 @@
+{
+    "order_id": 777072,
+    "client_id": 1248,
+    "produits": [
+        {
+            "produit_id": "P1048",
+            "nom": "New Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 144.83
+        },
+        {
+            "produit_id": "P0987",
+            "nom": "Licensed Cotton Table",
+            "quantite": 3,
+            "prix_unitaire": 72.57
+        },
+        {
+            "produit_id": "P3666",
+            "nom": "Fresh Towels",
+            "quantite": 5,
+            "prix_unitaire": 345.17
+        }
+    ],
+    "date_commande": "2024-11-04T06:39:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "33 Campus",
+        "ville": "Wildwood"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 521345,
+    "client_id": 9710,
+    "produits": [
+        {
+            "produit_id": "P0010",
+            "nom": "Generic Fish",
+            "quantite": 4,
+            "prix_unitaire": 468.05
+        }
+    ],
+    "date_commande": "2024-12-10T12:24:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "159 Alta Vista",
+        "ville": "League City"
+    }
+}

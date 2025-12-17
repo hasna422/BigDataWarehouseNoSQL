@@ -1,0 +1,27 @@
+{
+    "order_id": 724449,
+    "client_id": 5849,
+    "produits": [
+        {
+            "produit_id": "P7614",
+            "nom": "Handcrafted Pizza",
+            "quantite": 2,
+            "prix_unitaire": 365.07
+        },
+        {
+            "produit_id": "P6324",
+            "nom": "Handmade Cotton Bacon",
+            "quantite": 4,
+            "prix_unitaire": 292.03
+        },
+        {
+            "produit_id": "P9463",
+            "nom": "Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 286.96
+        }
+    ],
+    "date_commande": "2024-09-17T00:23:10",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

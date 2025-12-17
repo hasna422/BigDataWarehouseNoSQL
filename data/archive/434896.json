@@ -1,0 +1,25 @@
+{
+    "order_id": 434896,
+    "client_id": 6931,
+    "produits": [
+        {
+            "produit_id": "P2580",
+            "nom": "Tasty Cotton Cheese",
+            "quantite": 3,
+            "prix_unitaire": 478.08
+        },
+        {
+            "produit_id": "P6373",
+            "nom": "Awesome Rubber Bacon",
+            "quantite": 3,
+            "prix_unitaire": 91.25
+        }
+    ],
+    "date_commande": "2024-08-16T17:04:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "672 Marina Green",
+        "ville": "Concord"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 130490,
+    "client_id": 8278,
+    "produits": [
+        {
+            "produit_id": "P0120",
+            "nom": "Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 9.69
+        }
+    ],
+    "date_commande": "2023-10-13T11:06:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "409 Cook",
+        "ville": "Palmdale"
+    }
+}

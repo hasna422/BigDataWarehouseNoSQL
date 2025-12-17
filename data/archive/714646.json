@@ -1,0 +1,25 @@
+{
+    "order_id": 714646,
+    "client_id": 2850,
+    "produits": [
+        {
+            "produit_id": "P4634",
+            "nom": "Rubber Pants",
+            "quantite": 3,
+            "prix_unitaire": 441.02
+        },
+        {
+            "produit_id": "P7744",
+            "nom": "Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 198.54
+        }
+    ],
+    "date_commande": "2024-08-18T06:46:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1028 Huron",
+        "ville": "Stafford"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 319029,
+    "client_id": 9564,
+    "produits": [
+        {
+            "produit_id": "P6742",
+            "nom": "Awesome Fresh Bike",
+            "quantite": 3,
+            "prix_unitaire": 194.52
+        },
+        {
+            "produit_id": "P7436",
+            "nom": "Intelligent Soft Pants",
+            "quantite": 3,
+            "prix_unitaire": 190.6
+        },
+        {
+            "produit_id": "P1202",
+            "nom": "Practical Steel Bacon",
+            "quantite": 5,
+            "prix_unitaire": 397.87
+        }
+    ],
+    "date_commande": "2023-10-12T23:58:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "608 Lancaster",
+        "ville": "Mokena"
+    }
+}

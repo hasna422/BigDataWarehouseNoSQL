@@ -1,0 +1,21 @@
+{
+    "order_id": 407356,
+    "client_id": 1941,
+    "produits": [
+        {
+            "produit_id": "P5005",
+            "nom": "Gently Used Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 103.75
+        },
+        {
+            "produit_id": "P6606",
+            "nom": "Rustic Concrete Shirt",
+            "quantite": 5,
+            "prix_unitaire": 226.42
+        }
+    ],
+    "date_commande": "2023-10-16T13:28:02",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

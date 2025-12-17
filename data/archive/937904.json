@@ -1,0 +1,19 @@
+{
+    "order_id": 937904,
+    "client_id": 1107,
+    "produits": [
+        {
+            "produit_id": "P1070",
+            "nom": "Intelligent Frozen Shirt",
+            "quantite": 1,
+            "prix_unitaire": 238.44
+        }
+    ],
+    "date_commande": "2025-04-01T12:02:58",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1125 Worden",
+        "ville": "Arcata"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 279826,
+    "client_id": 3938,
+    "produits": [
+        {
+            "produit_id": "P5195",
+            "nom": "Rustic Computer",
+            "quantite": 1,
+            "prix_unitaire": 13.08
+        },
+        {
+            "produit_id": "P4841",
+            "nom": "Fantastic Soft Chips",
+            "quantite": 5,
+            "prix_unitaire": 418.35
+        },
+        {
+            "produit_id": "P9228",
+            "nom": "Gently Used Steel Pizza",
+            "quantite": 5,
+            "prix_unitaire": 315.72
+        }
+    ],
+    "date_commande": "2023-05-31T01:10:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "578 Hillview",
+        "ville": "Sacramento"
+    }
+}

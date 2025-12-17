@@ -1,0 +1,25 @@
+{
+    "order_id": 230939,
+    "client_id": 6021,
+    "produits": [
+        {
+            "produit_id": "P1381",
+            "nom": "Handcrafted Metal Salad",
+            "quantite": 3,
+            "prix_unitaire": 163.86
+        },
+        {
+            "produit_id": "P7464",
+            "nom": "Generic Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 80.45
+        }
+    ],
+    "date_commande": "2024-01-01T07:08:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "644 Walkway",
+        "ville": "Munster"
+    }
+}

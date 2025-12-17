@@ -1,0 +1,19 @@
+{
+    "order_id": 352791,
+    "client_id": 7983,
+    "produits": [
+        {
+            "produit_id": "P7506",
+            "nom": "Practical Soft Mouse",
+            "quantite": 3,
+            "prix_unitaire": 308.58
+        }
+    ],
+    "date_commande": "2024-08-24T21:24:05",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "320 Drake",
+        "ville": "East Moline"
+    }
+}

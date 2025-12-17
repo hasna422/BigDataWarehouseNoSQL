@@ -1,0 +1,25 @@
+{
+    "order_id": 260396,
+    "client_id": 5270,
+    "produits": [
+        {
+            "produit_id": "P8492",
+            "nom": "Handcrafted Chicken",
+            "quantite": 4,
+            "prix_unitaire": 167.86
+        },
+        {
+            "produit_id": "P5215",
+            "nom": "Unbranded Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 453.48
+        }
+    ],
+    "date_commande": "2024-06-03T16:39:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "989 Fella",
+        "ville": "Derby"
+    }
+}

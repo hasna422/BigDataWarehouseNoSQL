@@ -1,0 +1,25 @@
+{
+    "order_id": 559069,
+    "client_id": 7811,
+    "produits": [
+        {
+            "produit_id": "P1563",
+            "nom": "Rustic Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 499.91
+        },
+        {
+            "produit_id": "P6002",
+            "nom": "Handcrafted Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 94.94
+        }
+    ],
+    "date_commande": "2024-11-28T03:45:11",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "227 Saint Germain",
+        "ville": "Phoenix"
+    }
+}

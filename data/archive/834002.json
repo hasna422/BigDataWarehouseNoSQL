@@ -1,0 +1,19 @@
+{
+    "order_id": 834002,
+    "client_id": 2574,
+    "produits": [
+        {
+            "produit_id": "P1490",
+            "nom": "Gorgeous Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 207.29
+        }
+    ],
+    "date_commande": "2025-03-26T05:45:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1043 Paulding",
+        "ville": "Superior"
+    }
+}

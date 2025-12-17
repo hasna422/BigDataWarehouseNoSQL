@@ -1,0 +1,25 @@
+{
+    "order_id": 532301,
+    "client_id": 4795,
+    "produits": [
+        {
+            "produit_id": "P3777",
+            "nom": "Rustic Frozen Towels",
+            "quantite": 2,
+            "prix_unitaire": 431.76
+        },
+        {
+            "produit_id": "P0068",
+            "nom": "Rustic Granite Car",
+            "quantite": 4,
+            "prix_unitaire": 195.45
+        }
+    ],
+    "date_commande": "2025-01-22T22:18:15",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "706 Juri",
+        "ville": "Plano"
+    }
+}

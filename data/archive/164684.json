@@ -1,0 +1,25 @@
+{
+    "order_id": 164684,
+    "client_id": 1382,
+    "produits": [
+        {
+            "produit_id": "P3046",
+            "nom": "Fantastic Shirt",
+            "quantite": 5,
+            "prix_unitaire": 48.04
+        },
+        {
+            "produit_id": "P2427",
+            "nom": "Gently Used Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 268.19
+        }
+    ],
+    "date_commande": "2024-09-27T21:20:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "50 Macarthur",
+        "ville": "Titusville"
+    }
+}

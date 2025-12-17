@@ -1,0 +1,27 @@
+{
+    "order_id": 454966,
+    "client_id": 8648,
+    "produits": [
+        {
+            "produit_id": "P8457",
+            "nom": "Practical Concrete Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 466.67
+        },
+        {
+            "produit_id": "P1042",
+            "nom": "Small Concrete Shoes",
+            "quantite": 3,
+            "prix_unitaire": 119.69
+        },
+        {
+            "produit_id": "P7655",
+            "nom": "Fantastic Rubber Table",
+            "quantite": 2,
+            "prix_unitaire": 492.45
+        }
+    ],
+    "date_commande": "2025-01-30T14:54:54",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

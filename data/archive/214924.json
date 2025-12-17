@@ -1,0 +1,31 @@
+{
+    "order_id": 214924,
+    "client_id": 5062,
+    "produits": [
+        {
+            "produit_id": "P0809",
+            "nom": "Rustic Metal Fish",
+            "quantite": 1,
+            "prix_unitaire": 124.68
+        },
+        {
+            "produit_id": "P7933",
+            "nom": "Handmade Wooden Towels",
+            "quantite": 2,
+            "prix_unitaire": 400.07
+        },
+        {
+            "produit_id": "P5810",
+            "nom": "Gorgeous Granite Soap",
+            "quantite": 1,
+            "prix_unitaire": 329.4
+        }
+    ],
+    "date_commande": "2025-01-03T23:28:22",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1228 Ship",
+        "ville": "San Rafael"
+    }
+}

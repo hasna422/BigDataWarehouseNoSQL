@@ -1,0 +1,15 @@
+{
+    "order_id": 306072,
+    "client_id": 6674,
+    "produits": [
+        {
+            "produit_id": "P8329",
+            "nom": "Rustic Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 140.0
+        }
+    ],
+    "date_commande": "2025-03-16T01:51:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

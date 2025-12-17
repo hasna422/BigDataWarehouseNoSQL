@@ -1,0 +1,15 @@
+{
+    "order_id": 940826,
+    "client_id": 8479,
+    "produits": [
+        {
+            "produit_id": "P5636",
+            "nom": "Fantastic Cotton Mouse",
+            "quantite": 1,
+            "prix_unitaire": 222.21
+        }
+    ],
+    "date_commande": "2024-11-10T12:22:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

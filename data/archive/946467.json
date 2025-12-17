@@ -1,0 +1,25 @@
+{
+    "order_id": 946467,
+    "client_id": 4433,
+    "produits": [
+        {
+            "produit_id": "P5380",
+            "nom": "Handcrafted Bacon",
+            "quantite": 4,
+            "prix_unitaire": 349.95
+        },
+        {
+            "produit_id": "P2864",
+            "nom": "Rustic Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 445.83
+        }
+    ],
+    "date_commande": "2024-03-14T04:10:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "308 Wills",
+        "ville": "Cathedral City"
+    }
+}

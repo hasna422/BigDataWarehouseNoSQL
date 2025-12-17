@@ -1,0 +1,15 @@
+{
+    "order_id": 957802,
+    "client_id": 1713,
+    "produits": [
+        {
+            "produit_id": "P0139",
+            "nom": "Ergonomic Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 180.49
+        }
+    ],
+    "date_commande": "2023-10-23T11:47:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

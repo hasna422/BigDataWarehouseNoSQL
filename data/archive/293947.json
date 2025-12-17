@@ -1,0 +1,27 @@
+{
+    "order_id": 293947,
+    "client_id": 4105,
+    "produits": [
+        {
+            "produit_id": "P3295",
+            "nom": "Generic Soft Tuna",
+            "quantite": 4,
+            "prix_unitaire": 65.87
+        },
+        {
+            "produit_id": "P8112",
+            "nom": "For repair Frozen Shirt",
+            "quantite": 2,
+            "prix_unitaire": 495.63
+        },
+        {
+            "produit_id": "P3385",
+            "nom": "Handcrafted Granite Salad",
+            "quantite": 4,
+            "prix_unitaire": 391.76
+        }
+    ],
+    "date_commande": "2023-12-08T19:15:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

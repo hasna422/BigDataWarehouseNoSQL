@@ -1,0 +1,25 @@
+{
+    "order_id": 813226,
+    "client_id": 6893,
+    "produits": [
+        {
+            "produit_id": "P8762",
+            "nom": "Rustic Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 329.29
+        },
+        {
+            "produit_id": "P6008",
+            "nom": "For repair Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 289.02
+        }
+    ],
+    "date_commande": "2023-07-27T06:31:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "799 Bowman",
+        "ville": "North Plainfield"
+    }
+}

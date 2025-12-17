@@ -1,0 +1,15 @@
+{
+    "order_id": 977428,
+    "client_id": 3256,
+    "produits": [
+        {
+            "produit_id": "P9306",
+            "nom": "For repair Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 164.52
+        }
+    ],
+    "date_commande": "2025-04-04T00:55:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

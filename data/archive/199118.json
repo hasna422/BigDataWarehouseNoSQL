@@ -1,0 +1,25 @@
+{
+    "order_id": 199118,
+    "client_id": 6217,
+    "produits": [
+        {
+            "produit_id": "P4391",
+            "nom": "Handmade Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 410.29
+        },
+        {
+            "produit_id": "P0777",
+            "nom": "Licensed Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 38.07
+        }
+    ],
+    "date_commande": "2025-02-07T15:01:02",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "29 Moore",
+        "ville": "Xenia"
+    }
+}

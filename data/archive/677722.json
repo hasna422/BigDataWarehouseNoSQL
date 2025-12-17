@@ -1,0 +1,15 @@
+{
+    "order_id": 677722,
+    "client_id": 3295,
+    "produits": [
+        {
+            "produit_id": "P8231",
+            "nom": "Licensed Metal Pizza",
+            "quantite": 1,
+            "prix_unitaire": 395.61
+        }
+    ],
+    "date_commande": "2024-10-29T05:28:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 663678,
+    "client_id": 3287,
+    "produits": [
+        {
+            "produit_id": "P4409",
+            "nom": "Ergonomic Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 34.75
+        },
+        {
+            "produit_id": "P3044",
+            "nom": "Ergonomic Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 189.59
+        },
+        {
+            "produit_id": "P5758",
+            "nom": "Used Wooden Bike",
+            "quantite": 4,
+            "prix_unitaire": 208.0
+        }
+    ],
+    "date_commande": "2025-04-06T06:16:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "341 Goethe",
+        "ville": "Port Chester"
+    }
+}

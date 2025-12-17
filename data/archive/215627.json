@@ -1,0 +1,25 @@
+{
+    "order_id": 215627,
+    "client_id": 8782,
+    "produits": [
+        {
+            "produit_id": "P8373",
+            "nom": "For repair Soft Chicken",
+            "quantite": 4,
+            "prix_unitaire": 316.03
+        },
+        {
+            "produit_id": "P9764",
+            "nom": "Intelligent Plastic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 459.91
+        }
+    ],
+    "date_commande": "2024-04-24T08:39:17",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1388 Raycliff",
+        "ville": "Kernersville"
+    }
+}

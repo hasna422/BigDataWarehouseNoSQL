@@ -1,0 +1,25 @@
+{
+    "order_id": 781824,
+    "client_id": 9332,
+    "produits": [
+        {
+            "produit_id": "P5681",
+            "nom": "Small Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 118.83
+        },
+        {
+            "produit_id": "P4516",
+            "nom": "Sleek Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 417.87
+        }
+    ],
+    "date_commande": "2023-08-25T14:06:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "837 York",
+        "ville": "Augusta"
+    }
+}

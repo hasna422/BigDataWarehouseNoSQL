@@ -1,0 +1,25 @@
+{
+    "order_id": 742730,
+    "client_id": 9959,
+    "produits": [
+        {
+            "produit_id": "P0595",
+            "nom": "Small Frozen Ball",
+            "quantite": 1,
+            "prix_unitaire": 151.91
+        },
+        {
+            "produit_id": "P6790",
+            "nom": "New Concrete Fish",
+            "quantite": 1,
+            "prix_unitaire": 415.68
+        }
+    ],
+    "date_commande": "2024-08-29T11:23:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1215 Bliss",
+        "ville": "Oceanside"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 202304,
+    "client_id": 9463,
+    "produits": [
+        {
+            "produit_id": "P9831",
+            "nom": "Gorgeous Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 179.43
+        },
+        {
+            "produit_id": "P5619",
+            "nom": "Used Rubber Table",
+            "quantite": 3,
+            "prix_unitaire": 33.24
+        },
+        {
+            "produit_id": "P2598",
+            "nom": "Ergonomic Cotton Gloves",
+            "quantite": 3,
+            "prix_unitaire": 179.1
+        }
+    ],
+    "date_commande": "2024-02-13T15:54:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1147 Geary",
+        "ville": "Forest Grove"
+    }
+}

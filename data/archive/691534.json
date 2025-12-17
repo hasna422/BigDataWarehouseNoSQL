@@ -1,0 +1,25 @@
+{
+    "order_id": 691534,
+    "client_id": 5298,
+    "produits": [
+        {
+            "produit_id": "P3552",
+            "nom": "Gorgeous Steel Shoes",
+            "quantite": 3,
+            "prix_unitaire": 221.7
+        },
+        {
+            "produit_id": "P8527",
+            "nom": "New Plastic Bike",
+            "quantite": 3,
+            "prix_unitaire": 309.71
+        }
+    ],
+    "date_commande": "2023-10-26T10:14:40",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1115 Stow Lake",
+        "ville": "Rosenberg"
+    }
+}

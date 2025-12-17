@@ -1,0 +1,31 @@
+{
+    "order_id": 779834,
+    "client_id": 2566,
+    "produits": [
+        {
+            "produit_id": "P3007",
+            "nom": "Gorgeous Concrete Shoes",
+            "quantite": 3,
+            "prix_unitaire": 314.84
+        },
+        {
+            "produit_id": "P4463",
+            "nom": "New Granite Mouse",
+            "quantite": 3,
+            "prix_unitaire": 281.98
+        },
+        {
+            "produit_id": "P7479",
+            "nom": "Unbranded Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 265.89
+        }
+    ],
+    "date_commande": "2024-11-06T14:36:10",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "38 Morgan",
+        "ville": "New Brighton"
+    }
+}

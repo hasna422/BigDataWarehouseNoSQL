@@ -1,0 +1,31 @@
+{
+    "order_id": 673787,
+    "client_id": 5617,
+    "produits": [
+        {
+            "produit_id": "P4116",
+            "nom": "Used Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 410.61
+        },
+        {
+            "produit_id": "P7199",
+            "nom": "Small Soft Chips",
+            "quantite": 3,
+            "prix_unitaire": 414.13
+        },
+        {
+            "produit_id": "P9232",
+            "nom": "Awesome Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 324.9
+        }
+    ],
+    "date_commande": "2024-01-30T02:53:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "569 Andover",
+        "ville": "West Mifflin"
+    }
+}

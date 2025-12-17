@@ -1,0 +1,25 @@
+{
+    "order_id": 654013,
+    "client_id": 3424,
+    "produits": [
+        {
+            "produit_id": "P2555",
+            "nom": "Handcrafted Shirt",
+            "quantite": 2,
+            "prix_unitaire": 234.87
+        },
+        {
+            "produit_id": "P7345",
+            "nom": "Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 8.32
+        }
+    ],
+    "date_commande": "2025-01-06T00:44:45",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1186 Dublin",
+        "ville": "Tracy"
+    }
+}

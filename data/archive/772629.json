@@ -1,0 +1,25 @@
+{
+    "order_id": 772629,
+    "client_id": 5625,
+    "produits": [
+        {
+            "produit_id": "P5081",
+            "nom": "Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 340.88
+        },
+        {
+            "produit_id": "P8658",
+            "nom": "Fantastic Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 183.63
+        }
+    ],
+    "date_commande": "2024-08-22T00:04:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1284 Eastman",
+        "ville": "Evansville"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 509922,
+    "client_id": 7959,
+    "produits": [
+        {
+            "produit_id": "P7413",
+            "nom": "Handmade Granite Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 109.82
+        },
+        {
+            "produit_id": "P3984",
+            "nom": "Incredible Plastic Ball",
+            "quantite": 2,
+            "prix_unitaire": 151.85
+        }
+    ],
+    "date_commande": "2025-01-08T01:41:32",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "360 Saint Louis",
+        "ville": "Plattsburgh"
+    }
+}

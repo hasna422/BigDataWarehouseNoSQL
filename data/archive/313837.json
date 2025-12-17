@@ -1,0 +1,19 @@
+{
+    "order_id": 313837,
+    "client_id": 1814,
+    "produits": [
+        {
+            "produit_id": "P0834",
+            "nom": "Incredible Cotton Chicken",
+            "quantite": 1,
+            "prix_unitaire": 473.64
+        }
+    ],
+    "date_commande": "2025-03-21T17:30:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1161 Baywood",
+        "ville": "Bergenfield"
+    }
+}

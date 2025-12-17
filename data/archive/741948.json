@@ -1,0 +1,27 @@
+{
+    "order_id": 741948,
+    "client_id": 4250,
+    "produits": [
+        {
+            "produit_id": "P0597",
+            "nom": "Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 451.07
+        },
+        {
+            "produit_id": "P3625",
+            "nom": "Small Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 338.5
+        },
+        {
+            "produit_id": "P0969",
+            "nom": "Rustic Soft Chicken",
+            "quantite": 5,
+            "prix_unitaire": 283.72
+        }
+    ],
+    "date_commande": "2025-02-24T07:20:25",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 651530,
+    "client_id": 8949,
+    "produits": [
+        {
+            "produit_id": "P4030",
+            "nom": "Sleek Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 452.19
+        },
+        {
+            "produit_id": "P9682",
+            "nom": "Unbranded Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 406.06
+        },
+        {
+            "produit_id": "P2274",
+            "nom": "Practical Rubber Fish",
+            "quantite": 1,
+            "prix_unitaire": 184.57
+        }
+    ],
+    "date_commande": "2024-12-26T15:26:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "69 Reno",
+        "ville": "Griffin"
+    }
+}

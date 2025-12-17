@@ -1,0 +1,27 @@
+{
+    "order_id": 349496,
+    "client_id": 6209,
+    "produits": [
+        {
+            "produit_id": "P6679",
+            "nom": "Small Frozen Shirt",
+            "quantite": 5,
+            "prix_unitaire": 488.34
+        },
+        {
+            "produit_id": "P3598",
+            "nom": "New Wooden Table",
+            "quantite": 4,
+            "prix_unitaire": 447.05
+        },
+        {
+            "produit_id": "P4193",
+            "nom": "Handmade Cotton Chips",
+            "quantite": 1,
+            "prix_unitaire": 48.78
+        }
+    ],
+    "date_commande": "2025-05-16T23:46:26",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

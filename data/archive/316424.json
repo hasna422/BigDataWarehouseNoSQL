@@ -1,0 +1,19 @@
+{
+    "order_id": 316424,
+    "client_id": 4438,
+    "produits": [
+        {
+            "produit_id": "P8253",
+            "nom": "For repair Rubber Pants",
+            "quantite": 1,
+            "prix_unitaire": 284.93
+        }
+    ],
+    "date_commande": "2023-09-25T01:04:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1026 Castle Manor",
+        "ville": "Loves Park"
+    }
+}

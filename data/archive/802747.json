@@ -1,0 +1,19 @@
+{
+    "order_id": 802747,
+    "client_id": 1353,
+    "produits": [
+        {
+            "produit_id": "P1957",
+            "nom": "Incredible Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 288.19
+        }
+    ],
+    "date_commande": "2025-04-12T05:37:31",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "877 Wayne",
+        "ville": "Hampton"
+    }
+}

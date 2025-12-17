@@ -1,0 +1,21 @@
+{
+    "order_id": 674375,
+    "client_id": 5630,
+    "produits": [
+        {
+            "produit_id": "P2807",
+            "nom": "Gorgeous Steel Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 309.89
+        },
+        {
+            "produit_id": "P2014",
+            "nom": "Gorgeous Concrete Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 132.8
+        }
+    ],
+    "date_commande": "2024-04-04T01:15:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

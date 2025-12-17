@@ -1,0 +1,31 @@
+{
+    "order_id": 937680,
+    "client_id": 4655,
+    "produits": [
+        {
+            "produit_id": "P6087",
+            "nom": "Practical Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 337.76
+        },
+        {
+            "produit_id": "P0848",
+            "nom": "Licensed Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 449.76
+        },
+        {
+            "produit_id": "P9033",
+            "nom": "Fantastic Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 416.29
+        }
+    ],
+    "date_commande": "2023-07-05T13:19:24",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "444 Espanola",
+        "ville": "Jeffersonville"
+    }
+}

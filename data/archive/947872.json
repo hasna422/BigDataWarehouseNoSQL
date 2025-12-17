@@ -1,0 +1,27 @@
+{
+    "order_id": 947872,
+    "client_id": 2366,
+    "produits": [
+        {
+            "produit_id": "P5652",
+            "nom": "Metal Salad",
+            "quantite": 5,
+            "prix_unitaire": 250.54
+        },
+        {
+            "produit_id": "P7856",
+            "nom": "Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 75.08
+        },
+        {
+            "produit_id": "P6158",
+            "nom": "Rustic Soap",
+            "quantite": 3,
+            "prix_unitaire": 404.65
+        }
+    ],
+    "date_commande": "2024-08-23T00:06:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

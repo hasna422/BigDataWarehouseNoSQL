@@ -1,0 +1,15 @@
+{
+    "order_id": 110800,
+    "client_id": 5334,
+    "produits": [
+        {
+            "produit_id": "P6062",
+            "nom": "Intelligent Granite Towels",
+            "quantite": 2,
+            "prix_unitaire": 451.47
+        }
+    ],
+    "date_commande": "2024-03-20T00:18:13",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

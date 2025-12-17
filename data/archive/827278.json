@@ -1,0 +1,31 @@
+{
+    "order_id": 827278,
+    "client_id": 7496,
+    "produits": [
+        {
+            "produit_id": "P1175",
+            "nom": "Sleek Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 71.05
+        },
+        {
+            "produit_id": "P6711",
+            "nom": "Rustic Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 480.0
+        },
+        {
+            "produit_id": "P8386",
+            "nom": "Unbranded Shoes",
+            "quantite": 5,
+            "prix_unitaire": 312.55
+        }
+    ],
+    "date_commande": "2023-11-14T16:41:17",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "177 Gellert",
+        "ville": "Wayne"
+    }
+}

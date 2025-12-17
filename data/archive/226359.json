@@ -1,0 +1,19 @@
+{
+    "order_id": 226359,
+    "client_id": 9684,
+    "produits": [
+        {
+            "produit_id": "P4775",
+            "nom": "Cotton Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 75.17
+        }
+    ],
+    "date_commande": "2024-06-18T21:22:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "901 Giants",
+        "ville": "Arlington Heights"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 267047,
+    "client_id": 2024,
+    "produits": [
+        {
+            "produit_id": "P5016",
+            "nom": "Soft Shirt",
+            "quantite": 1,
+            "prix_unitaire": 165.55
+        },
+        {
+            "produit_id": "P7721",
+            "nom": "Small Hat",
+            "quantite": 2,
+            "prix_unitaire": 475.16
+        },
+        {
+            "produit_id": "P2196",
+            "nom": "Used Granite Tuna",
+            "quantite": 1,
+            "prix_unitaire": 371.26
+        }
+    ],
+    "date_commande": "2024-09-03T19:21:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "932 Sycamore",
+        "ville": "Derby"
+    }
+}

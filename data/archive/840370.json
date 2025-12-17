@@ -1,0 +1,19 @@
+{
+    "order_id": 840370,
+    "client_id": 1614,
+    "produits": [
+        {
+            "produit_id": "P3729",
+            "nom": "Used Metal Fish",
+            "quantite": 5,
+            "prix_unitaire": 80.77
+        }
+    ],
+    "date_commande": "2023-12-18T03:50:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1323 Goethe",
+        "ville": "Rochester"
+    }
+}

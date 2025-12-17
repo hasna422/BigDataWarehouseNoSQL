@@ -1,0 +1,25 @@
+{
+    "order_id": 763721,
+    "client_id": 1499,
+    "produits": [
+        {
+            "produit_id": "P9175",
+            "nom": "Small Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 169.01
+        },
+        {
+            "produit_id": "P9730",
+            "nom": "Refined Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 232.83
+        }
+    ],
+    "date_commande": "2023-11-23T03:22:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "797 Mansell",
+        "ville": "Riviera Beach"
+    }
+}

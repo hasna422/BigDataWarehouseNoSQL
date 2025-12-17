@@ -1,0 +1,25 @@
+{
+    "order_id": 863618,
+    "client_id": 6985,
+    "produits": [
+        {
+            "produit_id": "P9165",
+            "nom": "Metal Tuna",
+            "quantite": 4,
+            "prix_unitaire": 310.15
+        },
+        {
+            "produit_id": "P9051",
+            "nom": "Generic Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 403.17
+        }
+    ],
+    "date_commande": "2023-12-25T19:41:10",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "413 Isola",
+        "ville": "Findlay"
+    }
+}

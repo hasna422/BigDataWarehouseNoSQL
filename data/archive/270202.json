@@ -1,0 +1,19 @@
+{
+    "order_id": 270202,
+    "client_id": 4581,
+    "produits": [
+        {
+            "produit_id": "P4097",
+            "nom": "Gently Used Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 355.87
+        }
+    ],
+    "date_commande": "2023-10-20T00:55:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "29 Linden",
+        "ville": "New Orleans"
+    }
+}

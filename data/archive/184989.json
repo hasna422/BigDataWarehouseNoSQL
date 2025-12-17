@@ -1,0 +1,27 @@
+{
+    "order_id": 184989,
+    "client_id": 1332,
+    "produits": [
+        {
+            "produit_id": "P5890",
+            "nom": "Refined Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 486.31
+        },
+        {
+            "produit_id": "P9715",
+            "nom": "Small Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 414.09
+        },
+        {
+            "produit_id": "P6653",
+            "nom": "New Mouse",
+            "quantite": 3,
+            "prix_unitaire": 361.38
+        }
+    ],
+    "date_commande": "2024-11-25T18:53:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

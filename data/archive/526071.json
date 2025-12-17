@@ -1,0 +1,31 @@
+{
+    "order_id": 526071,
+    "client_id": 8730,
+    "produits": [
+        {
+            "produit_id": "P6236",
+            "nom": "Sleek Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 390.24
+        },
+        {
+            "produit_id": "P6002",
+            "nom": "Handcrafted Granite Bacon",
+            "quantite": 3,
+            "prix_unitaire": 331.69
+        },
+        {
+            "produit_id": "P5333",
+            "nom": "Used Soft Cheese",
+            "quantite": 5,
+            "prix_unitaire": 423.04
+        }
+    ],
+    "date_commande": "2024-09-15T04:48:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "976 Attridge",
+        "ville": "Midlothian"
+    }
+}

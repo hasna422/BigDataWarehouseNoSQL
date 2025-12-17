@@ -1,0 +1,31 @@
+{
+    "order_id": 807728,
+    "client_id": 7030,
+    "produits": [
+        {
+            "produit_id": "P1408",
+            "nom": "Fantastic Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 258.92
+        },
+        {
+            "produit_id": "P8333",
+            "nom": "Sleek Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 255.84
+        },
+        {
+            "produit_id": "P9776",
+            "nom": "Handmade Frozen Hat",
+            "quantite": 1,
+            "prix_unitaire": 455.06
+        }
+    ],
+    "date_commande": "2025-05-05T01:20:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "458 Turk",
+        "ville": "Pensacola"
+    }
+}

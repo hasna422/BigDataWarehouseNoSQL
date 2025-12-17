@@ -1,0 +1,25 @@
+{
+    "order_id": 747585,
+    "client_id": 6947,
+    "produits": [
+        {
+            "produit_id": "P0807",
+            "nom": "Licensed Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 60.5
+        },
+        {
+            "produit_id": "P0377",
+            "nom": "Used Steel Sausages",
+            "quantite": 2,
+            "prix_unitaire": 21.61
+        }
+    ],
+    "date_commande": "2024-07-02T01:18:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1152 Entrada",
+        "ville": "Duncan"
+    }
+}

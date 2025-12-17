@@ -1,0 +1,15 @@
+{
+    "order_id": 198336,
+    "client_id": 2398,
+    "produits": [
+        {
+            "produit_id": "P9569",
+            "nom": "Licensed Car",
+            "quantite": 4,
+            "prix_unitaire": 457.79
+        }
+    ],
+    "date_commande": "2024-08-07T12:25:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

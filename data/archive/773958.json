@@ -1,0 +1,21 @@
+{
+    "order_id": 773958,
+    "client_id": 4559,
+    "produits": [
+        {
+            "produit_id": "P8534",
+            "nom": "Fantastic Soft Chips",
+            "quantite": 4,
+            "prix_unitaire": 207.59
+        },
+        {
+            "produit_id": "P0389",
+            "nom": "Tasty Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 182.91
+        }
+    ],
+    "date_commande": "2025-02-19T12:20:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

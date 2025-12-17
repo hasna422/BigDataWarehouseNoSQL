@@ -1,0 +1,19 @@
+{
+    "order_id": 545188,
+    "client_id": 9344,
+    "produits": [
+        {
+            "produit_id": "P9249",
+            "nom": "Ergonomic Wooden Soap",
+            "quantite": 2,
+            "prix_unitaire": 322.44
+        }
+    ],
+    "date_commande": "2024-08-18T07:58:07",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "355 Montclair",
+        "ville": "Victoria"
+    }
+}

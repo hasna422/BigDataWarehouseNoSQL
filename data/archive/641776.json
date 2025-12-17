@@ -1,0 +1,25 @@
+{
+    "order_id": 641776,
+    "client_id": 3617,
+    "produits": [
+        {
+            "produit_id": "P4537",
+            "nom": "Rustic Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 265.43
+        },
+        {
+            "produit_id": "P4571",
+            "nom": "Ergonomic Wooden Mouse",
+            "quantite": 2,
+            "prix_unitaire": 96.23
+        }
+    ],
+    "date_commande": "2025-04-22T02:24:21",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "947 Gateview 3",
+        "ville": "Rancho Cordova"
+    }
+}

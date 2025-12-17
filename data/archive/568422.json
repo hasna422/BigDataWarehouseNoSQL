@@ -1,0 +1,27 @@
+{
+    "order_id": 568422,
+    "client_id": 3080,
+    "produits": [
+        {
+            "produit_id": "P7640",
+            "nom": "Small Cotton Table",
+            "quantite": 3,
+            "prix_unitaire": 78.39
+        },
+        {
+            "produit_id": "P4584",
+            "nom": "Incredible Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 438.58
+        },
+        {
+            "produit_id": "P9873",
+            "nom": "Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 406.85
+        }
+    ],
+    "date_commande": "2024-04-05T20:43:53",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 705366,
+    "client_id": 5675,
+    "produits": [
+        {
+            "produit_id": "P9241",
+            "nom": "Fantastic Wooden Ball",
+            "quantite": 1,
+            "prix_unitaire": 401.65
+        },
+        {
+            "produit_id": "P5400",
+            "nom": "Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 418.27
+        },
+        {
+            "produit_id": "P8582",
+            "nom": "Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 260.22
+        }
+    ],
+    "date_commande": "2024-02-17T21:07:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "13 Jack Balestreri",
+        "ville": "Sammamish"
+    }
+}

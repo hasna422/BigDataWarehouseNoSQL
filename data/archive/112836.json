@@ -1,0 +1,31 @@
+{
+    "order_id": 112836,
+    "client_id": 1515,
+    "produits": [
+        {
+            "produit_id": "P3308",
+            "nom": "Practical Wooden Chicken",
+            "quantite": 1,
+            "prix_unitaire": 141.15
+        },
+        {
+            "produit_id": "P6774",
+            "nom": "Refined Plastic Pizza",
+            "quantite": 3,
+            "prix_unitaire": 156.45
+        },
+        {
+            "produit_id": "P0197",
+            "nom": "Handmade Concrete Tuna",
+            "quantite": 3,
+            "prix_unitaire": 411.59
+        }
+    ],
+    "date_commande": "2023-09-17T04:19:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1308 Le Conte",
+        "ville": "Moscow"
+    }
+}

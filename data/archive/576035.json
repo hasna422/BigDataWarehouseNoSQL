@@ -1,0 +1,27 @@
+{
+    "order_id": 576035,
+    "client_id": 3598,
+    "produits": [
+        {
+            "produit_id": "P4330",
+            "nom": "Generic Computer",
+            "quantite": 2,
+            "prix_unitaire": 152.69
+        },
+        {
+            "produit_id": "P0956",
+            "nom": "Used Granite Soap",
+            "quantite": 2,
+            "prix_unitaire": 177.09
+        },
+        {
+            "produit_id": "P8272",
+            "nom": "For repair Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 127.14
+        }
+    ],
+    "date_commande": "2025-02-04T19:52:35",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

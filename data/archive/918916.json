@@ -1,0 +1,25 @@
+{
+    "order_id": 918916,
+    "client_id": 4435,
+    "produits": [
+        {
+            "produit_id": "P0605",
+            "nom": "Ergonomic Fresh Chips",
+            "quantite": 4,
+            "prix_unitaire": 321.91
+        },
+        {
+            "produit_id": "P4529",
+            "nom": "Used Table",
+            "quantite": 2,
+            "prix_unitaire": 382.23
+        }
+    ],
+    "date_commande": "2024-08-04T05:41:01",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "350 Plymouth",
+        "ville": "Rock Island"
+    }
+}

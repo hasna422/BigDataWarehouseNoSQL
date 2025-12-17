@@ -1,0 +1,25 @@
+{
+    "order_id": 831616,
+    "client_id": 1033,
+    "produits": [
+        {
+            "produit_id": "P2923",
+            "nom": "Intelligent Soft Shoes",
+            "quantite": 4,
+            "prix_unitaire": 88.12
+        },
+        {
+            "produit_id": "P0054",
+            "nom": "Incredible Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 130.09
+        }
+    ],
+    "date_commande": "2024-04-05T01:31:31",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "994 Almaden",
+        "ville": "Laredo"
+    }
+}

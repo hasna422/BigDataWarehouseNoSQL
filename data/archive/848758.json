@@ -1,0 +1,25 @@
+{
+    "order_id": 848758,
+    "client_id": 2454,
+    "produits": [
+        {
+            "produit_id": "P5701",
+            "nom": "Awesome Cotton Fish",
+            "quantite": 2,
+            "prix_unitaire": 127.45
+        },
+        {
+            "produit_id": "P6587",
+            "nom": "Licensed Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 290.36
+        }
+    ],
+    "date_commande": "2023-07-06T17:11:05",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "592 Loma Vista",
+        "ville": "Santee"
+    }
+}

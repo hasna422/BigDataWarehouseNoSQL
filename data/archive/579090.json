@@ -1,0 +1,19 @@
+{
+    "order_id": 579090,
+    "client_id": 1885,
+    "produits": [
+        {
+            "produit_id": "P5713",
+            "nom": "Practical Shirt",
+            "quantite": 4,
+            "prix_unitaire": 238.36
+        }
+    ],
+    "date_commande": "2025-05-11T21:40:24",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "419 United Nations",
+        "ville": "Attleboro"
+    }
+}

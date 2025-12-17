@@ -1,0 +1,25 @@
+{
+    "order_id": 805629,
+    "client_id": 6299,
+    "produits": [
+        {
+            "produit_id": "P8750",
+            "nom": "Gorgeous Soft Shirt",
+            "quantite": 4,
+            "prix_unitaire": 382.91
+        },
+        {
+            "produit_id": "P5680",
+            "nom": "Fantastic Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 118.47
+        }
+    ],
+    "date_commande": "2025-03-03T00:36:39",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "812 Mark",
+        "ville": "Highland Village"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 413445,
+    "client_id": 6348,
+    "produits": [
+        {
+            "produit_id": "P1733",
+            "nom": "Handmade Concrete Table",
+            "quantite": 3,
+            "prix_unitaire": 53.98
+        },
+        {
+            "produit_id": "P7968",
+            "nom": "Generic Car",
+            "quantite": 1,
+            "prix_unitaire": 451.67
+        }
+    ],
+    "date_commande": "2024-01-11T07:47:13",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "580 Arlington",
+        "ville": "Kingsport"
+    }
+}

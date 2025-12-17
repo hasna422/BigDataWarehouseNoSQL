@@ -1,0 +1,31 @@
+{
+    "order_id": 604056,
+    "client_id": 9655,
+    "produits": [
+        {
+            "produit_id": "P2924",
+            "nom": "Small Steel Computer",
+            "quantite": 5,
+            "prix_unitaire": 285.6
+        },
+        {
+            "produit_id": "P8546",
+            "nom": "Handcrafted Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 174.58
+        },
+        {
+            "produit_id": "P1101",
+            "nom": "Used Cotton Gloves",
+            "quantite": 2,
+            "prix_unitaire": 338.67
+        }
+    ],
+    "date_commande": "2024-09-23T13:29:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1102 Mizpah",
+        "ville": "Oshkosh"
+    }
+}

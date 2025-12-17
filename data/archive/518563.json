@@ -1,0 +1,19 @@
+{
+    "order_id": 518563,
+    "client_id": 1028,
+    "produits": [
+        {
+            "produit_id": "P9819",
+            "nom": "Tasty Steel Gloves",
+            "quantite": 1,
+            "prix_unitaire": 200.08
+        }
+    ],
+    "date_commande": "2023-09-22T00:57:06",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "79 Locust",
+        "ville": "Bethlehem"
+    }
+}

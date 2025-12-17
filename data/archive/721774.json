@@ -1,0 +1,19 @@
+{
+    "order_id": 721774,
+    "client_id": 7251,
+    "produits": [
+        {
+            "produit_id": "P8464",
+            "nom": "Rubber Gloves",
+            "quantite": 4,
+            "prix_unitaire": 213.87
+        }
+    ],
+    "date_commande": "2023-11-19T09:53:17",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1237 Veterans",
+        "ville": "Bethel Park"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 650842,
+    "client_id": 2916,
+    "produits": [
+        {
+            "produit_id": "P1172",
+            "nom": "Rustic Granite Shirt",
+            "quantite": 5,
+            "prix_unitaire": 422.59
+        },
+        {
+            "produit_id": "P0850",
+            "nom": "Generic Table",
+            "quantite": 1,
+            "prix_unitaire": 437.05
+        },
+        {
+            "produit_id": "P5262",
+            "nom": "New Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 159.9
+        }
+    ],
+    "date_commande": "2024-07-05T09:18:03",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "529 Byron",
+        "ville": "East Orange"
+    }
+}

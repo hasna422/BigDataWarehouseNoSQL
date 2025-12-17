@@ -1,0 +1,25 @@
+{
+    "order_id": 837901,
+    "client_id": 3185,
+    "produits": [
+        {
+            "produit_id": "P9668",
+            "nom": "Gorgeous Cotton Soap",
+            "quantite": 2,
+            "prix_unitaire": 429.42
+        },
+        {
+            "produit_id": "P8761",
+            "nom": "Rustic Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 26.98
+        }
+    ],
+    "date_commande": "2023-11-21T16:36:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1030 Adam",
+        "ville": "Holyoke"
+    }
+}

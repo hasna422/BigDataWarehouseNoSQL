@@ -1,0 +1,19 @@
+{
+    "order_id": 145132,
+    "client_id": 2797,
+    "produits": [
+        {
+            "produit_id": "P6411",
+            "nom": "Fantastic Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 124.45
+        }
+    ],
+    "date_commande": "2024-05-20T17:29:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1130 Kendall",
+        "ville": "Westlake"
+    }
+}

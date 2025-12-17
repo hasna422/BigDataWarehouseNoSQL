@@ -1,0 +1,15 @@
+{
+    "order_id": 924378,
+    "client_id": 7954,
+    "produits": [
+        {
+            "produit_id": "P8857",
+            "nom": "Tasty Plastic Pants",
+            "quantite": 2,
+            "prix_unitaire": 164.31
+        }
+    ],
+    "date_commande": "2024-05-18T18:24:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

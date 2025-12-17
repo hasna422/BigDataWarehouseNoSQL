@@ -1,0 +1,25 @@
+{
+    "order_id": 773245,
+    "client_id": 6255,
+    "produits": [
+        {
+            "produit_id": "P8788",
+            "nom": "Intelligent Steel Tuna",
+            "quantite": 5,
+            "prix_unitaire": 26.52
+        },
+        {
+            "produit_id": "P3350",
+            "nom": "Sleek Frozen Ball",
+            "quantite": 3,
+            "prix_unitaire": 281.63
+        }
+    ],
+    "date_commande": "2024-04-19T22:18:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1104 Steuben",
+        "ville": "Kennewick"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 969767,
+    "client_id": 2393,
+    "produits": [
+        {
+            "produit_id": "P6075",
+            "nom": "For repair Pizza",
+            "quantite": 5,
+            "prix_unitaire": 382.4
+        }
+    ],
+    "date_commande": "2025-04-05T11:04:59",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "153 Waltham",
+        "ville": "Norfolk"
+    }
+}

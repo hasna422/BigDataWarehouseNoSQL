@@ -1,0 +1,15 @@
+{
+    "order_id": 354016,
+    "client_id": 1811,
+    "produits": [
+        {
+            "produit_id": "P6509",
+            "nom": "Sleek Fresh Tuna",
+            "quantite": 3,
+            "prix_unitaire": 484.15
+        }
+    ],
+    "date_commande": "2024-07-12T07:27:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

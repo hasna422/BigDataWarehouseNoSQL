@@ -1,0 +1,25 @@
+{
+    "order_id": 540768,
+    "client_id": 5567,
+    "produits": [
+        {
+            "produit_id": "P7455",
+            "nom": "Awesome Computer",
+            "quantite": 1,
+            "prix_unitaire": 370.88
+        },
+        {
+            "produit_id": "P8881",
+            "nom": "Gently Used Wooden Pants",
+            "quantite": 1,
+            "prix_unitaire": 114.22
+        }
+    ],
+    "date_commande": "2025-02-12T13:52:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "203 Cuvier",
+        "ville": "Cape Coral"
+    }
+}

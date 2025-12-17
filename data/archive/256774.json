@@ -1,0 +1,15 @@
+{
+    "order_id": 256774,
+    "client_id": 9851,
+    "produits": [
+        {
+            "produit_id": "P5771",
+            "nom": "Awesome Plastic Shirt",
+            "quantite": 2,
+            "prix_unitaire": 82.73
+        }
+    ],
+    "date_commande": "2023-07-14T16:47:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

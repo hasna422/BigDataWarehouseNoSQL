@@ -1,0 +1,15 @@
+{
+    "order_id": 634973,
+    "client_id": 7163,
+    "produits": [
+        {
+            "produit_id": "P9241",
+            "nom": "Incredible Bike",
+            "quantite": 3,
+            "prix_unitaire": 358.2
+        }
+    ],
+    "date_commande": "2024-11-09T16:01:45",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

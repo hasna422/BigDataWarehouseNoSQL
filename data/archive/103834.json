@@ -1,0 +1,21 @@
+{
+    "order_id": 103834,
+    "client_id": 9796,
+    "produits": [
+        {
+            "produit_id": "P1638",
+            "nom": "New Soft Table",
+            "quantite": 5,
+            "prix_unitaire": 71.23
+        },
+        {
+            "produit_id": "P1055",
+            "nom": "Refined Fresh Towels",
+            "quantite": 2,
+            "prix_unitaire": 348.43
+        }
+    ],
+    "date_commande": "2023-06-18T21:41:53",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

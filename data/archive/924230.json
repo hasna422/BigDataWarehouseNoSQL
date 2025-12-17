@@ -1,0 +1,25 @@
+{
+    "order_id": 924230,
+    "client_id": 6453,
+    "produits": [
+        {
+            "produit_id": "P9930",
+            "nom": "Refined Granite Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 202.97
+        },
+        {
+            "produit_id": "P3056",
+            "nom": "Practical Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 498.3
+        }
+    ],
+    "date_commande": "2024-01-27T19:16:34",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "668 Corona",
+        "ville": "Taylor"
+    }
+}

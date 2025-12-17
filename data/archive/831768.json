@@ -1,0 +1,25 @@
+{
+    "order_id": 831768,
+    "client_id": 5078,
+    "produits": [
+        {
+            "produit_id": "P6706",
+            "nom": "Handmade Plastic Computer",
+            "quantite": 4,
+            "prix_unitaire": 51.42
+        },
+        {
+            "produit_id": "P9294",
+            "nom": "Used Towels",
+            "quantite": 1,
+            "prix_unitaire": 273.31
+        }
+    ],
+    "date_commande": "2025-03-29T20:55:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "671 Nantucket",
+        "ville": "Tukwila"
+    }
+}

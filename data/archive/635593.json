@@ -1,0 +1,25 @@
+{
+    "order_id": 635593,
+    "client_id": 9511,
+    "produits": [
+        {
+            "produit_id": "P0500",
+            "nom": "Handcrafted Plastic Chips",
+            "quantite": 2,
+            "prix_unitaire": 489.11
+        },
+        {
+            "produit_id": "P9562",
+            "nom": "Handmade Granite Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 446.07
+        }
+    ],
+    "date_commande": "2025-04-24T09:17:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "594 Inca",
+        "ville": "Medford"
+    }
+}

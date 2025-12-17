@@ -1,0 +1,31 @@
+{
+    "order_id": 836985,
+    "client_id": 9397,
+    "produits": [
+        {
+            "produit_id": "P7590",
+            "nom": "Fantastic Fresh Soap",
+            "quantite": 5,
+            "prix_unitaire": 138.87
+        },
+        {
+            "produit_id": "P1384",
+            "nom": "Used Fresh Bike",
+            "quantite": 2,
+            "prix_unitaire": 146.15
+        },
+        {
+            "produit_id": "P0846",
+            "nom": "New Wooden Pizza",
+            "quantite": 5,
+            "prix_unitaire": 300.0
+        }
+    ],
+    "date_commande": "2024-10-12T23:42:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1341 Scotia",
+        "ville": "Arvada"
+    }
+}

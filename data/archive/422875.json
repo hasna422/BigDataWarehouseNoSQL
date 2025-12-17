@@ -1,0 +1,15 @@
+{
+    "order_id": 422875,
+    "client_id": 7820,
+    "produits": [
+        {
+            "produit_id": "P6132",
+            "nom": "Incredible Rubber Towels",
+            "quantite": 4,
+            "prix_unitaire": 469.79
+        }
+    ],
+    "date_commande": "2024-11-29T01:53:29",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

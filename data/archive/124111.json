@@ -1,0 +1,31 @@
+{
+    "order_id": 124111,
+    "client_id": 3995,
+    "produits": [
+        {
+            "produit_id": "P2043",
+            "nom": "Used Soft Mouse",
+            "quantite": 5,
+            "prix_unitaire": 356.32
+        },
+        {
+            "produit_id": "P3518",
+            "nom": "Practical Plastic Computer",
+            "quantite": 5,
+            "prix_unitaire": 36.04
+        },
+        {
+            "produit_id": "P0802",
+            "nom": "Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 100.53
+        }
+    ],
+    "date_commande": "2024-01-17T00:09:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "959 Vienna",
+        "ville": "Clarksdale"
+    }
+}

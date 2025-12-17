@@ -1,0 +1,25 @@
+{
+    "order_id": 831199,
+    "client_id": 7045,
+    "produits": [
+        {
+            "produit_id": "P0431",
+            "nom": "Used Cotton Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 262.19
+        },
+        {
+            "produit_id": "P7306",
+            "nom": "New Frozen Shirt",
+            "quantite": 4,
+            "prix_unitaire": 43.91
+        }
+    ],
+    "date_commande": "2024-11-02T00:27:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "809 Balmy",
+        "ville": "Ottumwa"
+    }
+}

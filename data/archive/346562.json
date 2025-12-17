@@ -1,0 +1,25 @@
+{
+    "order_id": 346562,
+    "client_id": 9210,
+    "produits": [
+        {
+            "produit_id": "P2425",
+            "nom": "Refined Soft Hat",
+            "quantite": 1,
+            "prix_unitaire": 286.06
+        },
+        {
+            "produit_id": "P3699",
+            "nom": "Used Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 347.42
+        }
+    ],
+    "date_commande": "2023-10-24T09:46:21",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "386 Ramsell",
+        "ville": "Denver"
+    }
+}

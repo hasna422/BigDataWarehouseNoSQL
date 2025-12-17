@@ -1,0 +1,27 @@
+{
+    "order_id": 173461,
+    "client_id": 9549,
+    "produits": [
+        {
+            "produit_id": "P0173",
+            "nom": "Practical Pants",
+            "quantite": 5,
+            "prix_unitaire": 407.68
+        },
+        {
+            "produit_id": "P5945",
+            "nom": "For repair Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 446.74
+        },
+        {
+            "produit_id": "P7480",
+            "nom": "Refined Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 103.04
+        }
+    ],
+    "date_commande": "2023-12-27T07:59:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

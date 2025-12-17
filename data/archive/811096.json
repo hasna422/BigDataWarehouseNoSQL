@@ -1,0 +1,19 @@
+{
+    "order_id": 811096,
+    "client_id": 1062,
+    "produits": [
+        {
+            "produit_id": "P9034",
+            "nom": "Fantastic Plastic Fish",
+            "quantite": 4,
+            "prix_unitaire": 461.8
+        }
+    ],
+    "date_commande": "2023-11-09T17:59:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "534 Virgil",
+        "ville": "Galesburg"
+    }
+}

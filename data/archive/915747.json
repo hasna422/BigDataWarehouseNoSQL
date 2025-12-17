@@ -1,0 +1,25 @@
+{
+    "order_id": 915747,
+    "client_id": 9522,
+    "produits": [
+        {
+            "produit_id": "P5530",
+            "nom": "For repair Granite Table",
+            "quantite": 3,
+            "prix_unitaire": 293.49
+        },
+        {
+            "produit_id": "P0081",
+            "nom": "Ergonomic Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 348.17
+        }
+    ],
+    "date_commande": "2024-06-02T09:04:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "56 Maiden",
+        "ville": "Carol Stream"
+    }
+}

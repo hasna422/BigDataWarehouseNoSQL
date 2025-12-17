@@ -1,0 +1,31 @@
+{
+    "order_id": 667599,
+    "client_id": 7024,
+    "produits": [
+        {
+            "produit_id": "P6888",
+            "nom": "Gorgeous Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 362.95
+        },
+        {
+            "produit_id": "P8601",
+            "nom": "Rustic Cotton Pizza",
+            "quantite": 2,
+            "prix_unitaire": 350.19
+        },
+        {
+            "produit_id": "P2951",
+            "nom": "Gorgeous Metal Fish",
+            "quantite": 2,
+            "prix_unitaire": 124.58
+        }
+    ],
+    "date_commande": "2023-06-27T06:33:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "95 Windsor",
+        "ville": "Alliance"
+    }
+}

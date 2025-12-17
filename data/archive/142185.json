@@ -1,0 +1,27 @@
+{
+    "order_id": 142185,
+    "client_id": 4877,
+    "produits": [
+        {
+            "produit_id": "P2138",
+            "nom": "Handmade Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 174.27
+        },
+        {
+            "produit_id": "P5195",
+            "nom": "Sleek Soft Bacon",
+            "quantite": 4,
+            "prix_unitaire": 173.47
+        },
+        {
+            "produit_id": "P7562",
+            "nom": "Unbranded Plastic Sausages",
+            "quantite": 2,
+            "prix_unitaire": 356.18
+        }
+    ],
+    "date_commande": "2024-07-29T02:04:29",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

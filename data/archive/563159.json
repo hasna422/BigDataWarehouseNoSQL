@@ -1,0 +1,27 @@
+{
+    "order_id": 563159,
+    "client_id": 8993,
+    "produits": [
+        {
+            "produit_id": "P6572",
+            "nom": "Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 459.65
+        },
+        {
+            "produit_id": "P7830",
+            "nom": "Intelligent Soft Shirt",
+            "quantite": 2,
+            "prix_unitaire": 187.19
+        },
+        {
+            "produit_id": "P9745",
+            "nom": "Gently Used Plastic Bacon",
+            "quantite": 1,
+            "prix_unitaire": 314.32
+        }
+    ],
+    "date_commande": "2024-05-07T16:45:26",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

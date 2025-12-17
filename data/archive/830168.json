@@ -1,0 +1,21 @@
+{
+    "order_id": 830168,
+    "client_id": 7493,
+    "produits": [
+        {
+            "produit_id": "P1914",
+            "nom": "Used Soft Salad",
+            "quantite": 1,
+            "prix_unitaire": 342.39
+        },
+        {
+            "produit_id": "P5117",
+            "nom": "Incredible Wooden Table",
+            "quantite": 2,
+            "prix_unitaire": 449.48
+        }
+    ],
+    "date_commande": "2024-07-08T23:17:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

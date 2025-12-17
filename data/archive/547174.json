@@ -1,0 +1,19 @@
+{
+    "order_id": 547174,
+    "client_id": 1029,
+    "produits": [
+        {
+            "produit_id": "P1621",
+            "nom": "Intelligent Metal Car",
+            "quantite": 5,
+            "prix_unitaire": 295.88
+        }
+    ],
+    "date_commande": "2023-07-12T00:46:41",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1386 Transverse",
+        "ville": "McKinney"
+    }
+}

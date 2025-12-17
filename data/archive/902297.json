@@ -1,0 +1,27 @@
+{
+    "order_id": 902297,
+    "client_id": 5022,
+    "produits": [
+        {
+            "produit_id": "P6778",
+            "nom": "Practical Concrete Pants",
+            "quantite": 1,
+            "prix_unitaire": 202.35
+        },
+        {
+            "produit_id": "P3001",
+            "nom": "Licensed Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 98.66
+        },
+        {
+            "produit_id": "P1986",
+            "nom": "Handcrafted Steel Sausages",
+            "quantite": 3,
+            "prix_unitaire": 211.58
+        }
+    ],
+    "date_commande": "2023-06-09T07:03:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

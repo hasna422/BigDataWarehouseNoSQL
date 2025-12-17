@@ -1,0 +1,25 @@
+{
+    "order_id": 138257,
+    "client_id": 1750,
+    "produits": [
+        {
+            "produit_id": "P6157",
+            "nom": "Tasty Granite Fish",
+            "quantite": 3,
+            "prix_unitaire": 90.07
+        },
+        {
+            "produit_id": "P8397",
+            "nom": "Used Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 81.4
+        }
+    ],
+    "date_commande": "2024-09-07T02:09:24",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "455 Teresita",
+        "ville": "Jacksonville"
+    }
+}

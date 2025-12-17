@@ -1,0 +1,31 @@
+{
+    "order_id": 165878,
+    "client_id": 4389,
+    "produits": [
+        {
+            "produit_id": "P8717",
+            "nom": "Unbranded Towels",
+            "quantite": 5,
+            "prix_unitaire": 296.09
+        },
+        {
+            "produit_id": "P8398",
+            "nom": "New Plastic Chair",
+            "quantite": 5,
+            "prix_unitaire": 470.17
+        },
+        {
+            "produit_id": "P3248",
+            "nom": "Rustic Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 165.69
+        }
+    ],
+    "date_commande": "2025-05-04T09:28:52",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "80 Naples",
+        "ville": "South Portland"
+    }
+}

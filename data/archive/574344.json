@@ -1,0 +1,25 @@
+{
+    "order_id": 574344,
+    "client_id": 3044,
+    "produits": [
+        {
+            "produit_id": "P1194",
+            "nom": "Tasty Metal Chair",
+            "quantite": 1,
+            "prix_unitaire": 479.28
+        },
+        {
+            "produit_id": "P1692",
+            "nom": "Incredible Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 279.0
+        }
+    ],
+    "date_commande": "2025-02-08T14:27:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "421 La Salle",
+        "ville": "Blue Island"
+    }
+}

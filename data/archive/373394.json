@@ -1,0 +1,21 @@
+{
+    "order_id": 373394,
+    "client_id": 9689,
+    "produits": [
+        {
+            "produit_id": "P5525",
+            "nom": "Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 49.3
+        },
+        {
+            "produit_id": "P8706",
+            "nom": "Frozen Tuna",
+            "quantite": 1,
+            "prix_unitaire": 447.98
+        }
+    ],
+    "date_commande": "2023-12-15T20:55:37",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

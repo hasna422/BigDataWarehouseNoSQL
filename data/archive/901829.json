@@ -1,0 +1,25 @@
+{
+    "order_id": 901829,
+    "client_id": 3962,
+    "produits": [
+        {
+            "produit_id": "P2135",
+            "nom": "Handmade Hat",
+            "quantite": 3,
+            "prix_unitaire": 60.76
+        },
+        {
+            "produit_id": "P4877",
+            "nom": "Handcrafted Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 342.56
+        }
+    ],
+    "date_commande": "2024-12-27T11:21:29",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1290 Oreilly",
+        "ville": "Brunswick"
+    }
+}

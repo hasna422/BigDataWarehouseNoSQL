@@ -1,0 +1,21 @@
+{
+    "order_id": 992894,
+    "client_id": 5521,
+    "produits": [
+        {
+            "produit_id": "P1364",
+            "nom": "Fantastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 366.69
+        },
+        {
+            "produit_id": "P4583",
+            "nom": "Intelligent Ball",
+            "quantite": 5,
+            "prix_unitaire": 232.37
+        }
+    ],
+    "date_commande": "2024-09-17T19:34:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

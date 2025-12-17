@@ -1,0 +1,25 @@
+{
+    "order_id": 621865,
+    "client_id": 1569,
+    "produits": [
+        {
+            "produit_id": "P6729",
+            "nom": "Pizza",
+            "quantite": 4,
+            "prix_unitaire": 63.42
+        },
+        {
+            "produit_id": "P4069",
+            "nom": "Gorgeous Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 298.51
+        }
+    ],
+    "date_commande": "2025-01-07T13:33:01",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "176 Walbridge",
+        "ville": "Palos Hills"
+    }
+}

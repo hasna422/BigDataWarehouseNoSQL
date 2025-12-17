@@ -1,0 +1,15 @@
+{
+    "order_id": 801718,
+    "client_id": 5359,
+    "produits": [
+        {
+            "produit_id": "P2350",
+            "nom": "Ergonomic Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 148.15
+        }
+    ],
+    "date_commande": "2025-05-09T19:20:23",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

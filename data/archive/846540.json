@@ -1,0 +1,25 @@
+{
+    "order_id": 846540,
+    "client_id": 1719,
+    "produits": [
+        {
+            "produit_id": "P2068",
+            "nom": "Soft Towels",
+            "quantite": 2,
+            "prix_unitaire": 469.06
+        },
+        {
+            "produit_id": "P6222",
+            "nom": "Incredible Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 157.38
+        }
+    ],
+    "date_commande": "2023-09-02T05:17:41",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "150 San Andreas",
+        "ville": "Laguna Beach"
+    }
+}

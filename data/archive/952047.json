@@ -1,0 +1,27 @@
+{
+    "order_id": 952047,
+    "client_id": 1016,
+    "produits": [
+        {
+            "produit_id": "P7046",
+            "nom": "Gorgeous Metal Chicken",
+            "quantite": 2,
+            "prix_unitaire": 472.94
+        },
+        {
+            "produit_id": "P6364",
+            "nom": "Sleek Chicken",
+            "quantite": 2,
+            "prix_unitaire": 64.64
+        },
+        {
+            "produit_id": "P0806",
+            "nom": "Granite Towels",
+            "quantite": 3,
+            "prix_unitaire": 197.29
+        }
+    ],
+    "date_commande": "2024-04-22T18:18:34",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 555538,
+    "client_id": 8237,
+    "produits": [
+        {
+            "produit_id": "P7223",
+            "nom": "Used Fresh Shoes",
+            "quantite": 1,
+            "prix_unitaire": 13.79
+        },
+        {
+            "produit_id": "P4997",
+            "nom": "Rustic Frozen Bike",
+            "quantite": 3,
+            "prix_unitaire": 265.31
+        },
+        {
+            "produit_id": "P4960",
+            "nom": "Generic Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 190.29
+        }
+    ],
+    "date_commande": "2023-10-10T01:04:22",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "489 Winfield",
+        "ville": "Baldwin"
+    }
+}

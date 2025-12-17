@@ -1,0 +1,21 @@
+{
+    "order_id": 464699,
+    "client_id": 5348,
+    "produits": [
+        {
+            "produit_id": "P5183",
+            "nom": "Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 287.62
+        },
+        {
+            "produit_id": "P0470",
+            "nom": "For repair Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 399.6
+        }
+    ],
+    "date_commande": "2025-01-09T11:41:14",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

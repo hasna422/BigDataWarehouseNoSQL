@@ -1,0 +1,19 @@
+{
+    "order_id": 909125,
+    "client_id": 6071,
+    "produits": [
+        {
+            "produit_id": "P1360",
+            "nom": "Handcrafted Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 391.08
+        }
+    ],
+    "date_commande": "2023-08-29T22:57:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1072 Lee",
+        "ville": "Seaside"
+    }
+}

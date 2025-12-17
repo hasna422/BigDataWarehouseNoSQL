@@ -1,0 +1,19 @@
+{
+    "order_id": 575056,
+    "client_id": 4345,
+    "produits": [
+        {
+            "produit_id": "P6895",
+            "nom": "New Frozen Towels",
+            "quantite": 4,
+            "prix_unitaire": 43.58
+        }
+    ],
+    "date_commande": "2024-12-26T18:08:36",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "883 Lupine",
+        "ville": "Piqua"
+    }
+}

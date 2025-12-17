@@ -1,0 +1,25 @@
+{
+    "order_id": 145531,
+    "client_id": 3685,
+    "produits": [
+        {
+            "produit_id": "P1199",
+            "nom": "Awesome Granite Sausages",
+            "quantite": 5,
+            "prix_unitaire": 148.78
+        },
+        {
+            "produit_id": "P2483",
+            "nom": "Plastic Bike",
+            "quantite": 2,
+            "prix_unitaire": 61.5
+        }
+    ],
+    "date_commande": "2023-11-08T18:13:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "946 Gold",
+        "ville": "Banning"
+    }
+}

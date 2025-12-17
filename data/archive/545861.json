@@ -1,0 +1,25 @@
+{
+    "order_id": 545861,
+    "client_id": 7871,
+    "produits": [
+        {
+            "produit_id": "P4629",
+            "nom": "Practical Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 487.49
+        },
+        {
+            "produit_id": "P2679",
+            "nom": "Tasty Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 489.66
+        }
+    ],
+    "date_commande": "2024-06-19T06:59:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "969 Hallam",
+        "ville": "West Hollywood"
+    }
+}

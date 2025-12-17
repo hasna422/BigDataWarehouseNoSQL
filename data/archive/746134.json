@@ -1,0 +1,15 @@
+{
+    "order_id": 746134,
+    "client_id": 1202,
+    "produits": [
+        {
+            "produit_id": "P7740",
+            "nom": "For repair Fresh Chicken",
+            "quantite": 4,
+            "prix_unitaire": 59.86
+        }
+    ],
+    "date_commande": "2025-01-09T14:25:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

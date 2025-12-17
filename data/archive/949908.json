@@ -1,0 +1,21 @@
+{
+    "order_id": 949908,
+    "client_id": 6377,
+    "produits": [
+        {
+            "produit_id": "P0594",
+            "nom": "Fantastic Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 303.45
+        },
+        {
+            "produit_id": "P2179",
+            "nom": "New Wooden Pizza",
+            "quantite": 2,
+            "prix_unitaire": 18.84
+        }
+    ],
+    "date_commande": "2024-02-13T03:24:37",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

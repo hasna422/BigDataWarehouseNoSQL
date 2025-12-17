@@ -1,0 +1,21 @@
+{
+    "order_id": 997066,
+    "client_id": 1349,
+    "produits": [
+        {
+            "produit_id": "P7211",
+            "nom": "Tasty Soft Tuna",
+            "quantite": 2,
+            "prix_unitaire": 146.73
+        },
+        {
+            "produit_id": "P2949",
+            "nom": "Handcrafted Fresh Chair",
+            "quantite": 1,
+            "prix_unitaire": 446.21
+        }
+    ],
+    "date_commande": "2024-05-31T17:11:48",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

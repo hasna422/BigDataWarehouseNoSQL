@@ -1,0 +1,31 @@
+{
+    "order_id": 708811,
+    "client_id": 1684,
+    "produits": [
+        {
+            "produit_id": "P3148",
+            "nom": "New Concrete Sausages",
+            "quantite": 3,
+            "prix_unitaire": 187.54
+        },
+        {
+            "produit_id": "P8615",
+            "nom": "Licensed Cotton Pizza",
+            "quantite": 2,
+            "prix_unitaire": 225.92
+        },
+        {
+            "produit_id": "P7413",
+            "nom": "Used Granite Tuna",
+            "quantite": 4,
+            "prix_unitaire": 19.23
+        }
+    ],
+    "date_commande": "2024-08-11T07:05:27",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "883 Columbia Square",
+        "ville": "St. Louis"
+    }
+}

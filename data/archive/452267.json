@@ -1,0 +1,21 @@
+{
+    "order_id": 452267,
+    "client_id": 3105,
+    "produits": [
+        {
+            "produit_id": "P4833",
+            "nom": "Sleek Soft Shoes",
+            "quantite": 2,
+            "prix_unitaire": 299.76
+        },
+        {
+            "produit_id": "P8239",
+            "nom": "Small Concrete Salad",
+            "quantite": 1,
+            "prix_unitaire": 284.41
+        }
+    ],
+    "date_commande": "2024-09-28T07:40:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

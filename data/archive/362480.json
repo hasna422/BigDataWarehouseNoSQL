@@ -1,0 +1,25 @@
+{
+    "order_id": 362480,
+    "client_id": 8594,
+    "produits": [
+        {
+            "produit_id": "P7251",
+            "nom": "Awesome Steel Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 98.85
+        },
+        {
+            "produit_id": "P6854",
+            "nom": "Small Ball",
+            "quantite": 3,
+            "prix_unitaire": 219.32
+        }
+    ],
+    "date_commande": "2025-05-03T17:22:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "848 Harry",
+        "ville": "Chino"
+    }
+}

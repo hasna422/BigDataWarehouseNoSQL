@@ -1,0 +1,25 @@
+{
+    "order_id": 315894,
+    "client_id": 4469,
+    "produits": [
+        {
+            "produit_id": "P0364",
+            "nom": "Fresh Shoes",
+            "quantite": 2,
+            "prix_unitaire": 177.45
+        },
+        {
+            "produit_id": "P7586",
+            "nom": "Used Metal Chips",
+            "quantite": 5,
+            "prix_unitaire": 114.15
+        }
+    ],
+    "date_commande": "2025-02-08T22:39:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "482 Caledonia",
+        "ville": "Auburn Hills"
+    }
+}

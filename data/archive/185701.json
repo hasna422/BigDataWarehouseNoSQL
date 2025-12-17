@@ -1,0 +1,21 @@
+{
+    "order_id": 185701,
+    "client_id": 9394,
+    "produits": [
+        {
+            "produit_id": "P9818",
+            "nom": "Gently Used Fresh Shoes",
+            "quantite": 3,
+            "prix_unitaire": 492.14
+        },
+        {
+            "produit_id": "P0023",
+            "nom": "Refined Granite Hat",
+            "quantite": 2,
+            "prix_unitaire": 90.21
+        }
+    ],
+    "date_commande": "2025-02-15T14:57:58",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

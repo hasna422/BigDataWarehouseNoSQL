@@ -1,0 +1,25 @@
+{
+    "order_id": 426854,
+    "client_id": 5870,
+    "produits": [
+        {
+            "produit_id": "P3085",
+            "nom": "Incredible Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 43.09
+        },
+        {
+            "produit_id": "P2953",
+            "nom": "Refined Frozen Chips",
+            "quantite": 5,
+            "prix_unitaire": 54.94
+        }
+    ],
+    "date_commande": "2024-04-16T02:10:38",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "637 Hampshire",
+        "ville": "Salt Lake City"
+    }
+}

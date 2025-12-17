@@ -1,0 +1,25 @@
+{
+    "order_id": 367516,
+    "client_id": 9274,
+    "produits": [
+        {
+            "produit_id": "P1596",
+            "nom": "Handcrafted Steel Sausages",
+            "quantite": 4,
+            "prix_unitaire": 83.89
+        },
+        {
+            "produit_id": "P1225",
+            "nom": "Fantastic Rubber Tuna",
+            "quantite": 2,
+            "prix_unitaire": 168.29
+        }
+    ],
+    "date_commande": "2025-03-10T20:00:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "182 Lakeshore",
+        "ville": "College Park"
+    }
+}

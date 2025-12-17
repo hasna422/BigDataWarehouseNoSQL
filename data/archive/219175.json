@@ -1,0 +1,31 @@
+{
+    "order_id": 219175,
+    "client_id": 5363,
+    "produits": [
+        {
+            "produit_id": "P0521",
+            "nom": "Used Cotton Chair",
+            "quantite": 2,
+            "prix_unitaire": 318.25
+        },
+        {
+            "produit_id": "P3385",
+            "nom": "Ergonomic Fresh Ball",
+            "quantite": 2,
+            "prix_unitaire": 448.1
+        },
+        {
+            "produit_id": "P5211",
+            "nom": "Awesome Cheese",
+            "quantite": 1,
+            "prix_unitaire": 221.96
+        }
+    ],
+    "date_commande": "2024-02-15T20:46:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "910 Margaret",
+        "ville": "Buena Park"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 956086,
+    "client_id": 6922,
+    "produits": [
+        {
+            "produit_id": "P1439",
+            "nom": "Intelligent Pizza",
+            "quantite": 1,
+            "prix_unitaire": 60.9
+        },
+        {
+            "produit_id": "P4935",
+            "nom": "Sleek Fresh Shoes",
+            "quantite": 4,
+            "prix_unitaire": 219.74
+        }
+    ],
+    "date_commande": "2024-08-03T18:04:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1346 Joy",
+        "ville": "Twinsburg"
+    }
+}

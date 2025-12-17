@@ -1,0 +1,31 @@
+{
+    "order_id": 652769,
+    "client_id": 8606,
+    "produits": [
+        {
+            "produit_id": "P3231",
+            "nom": "Small Chair",
+            "quantite": 2,
+            "prix_unitaire": 345.93
+        },
+        {
+            "produit_id": "P4948",
+            "nom": "Licensed Wooden Chips",
+            "quantite": 2,
+            "prix_unitaire": 260.11
+        },
+        {
+            "produit_id": "P9824",
+            "nom": "Handmade Plastic Cheese",
+            "quantite": 1,
+            "prix_unitaire": 154.39
+        }
+    ],
+    "date_commande": "2023-06-06T03:52:03",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "224 Montcalm",
+        "ville": "Ames"
+    }
+}

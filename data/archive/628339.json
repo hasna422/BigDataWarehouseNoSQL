@@ -1,0 +1,25 @@
+{
+    "order_id": 628339,
+    "client_id": 8068,
+    "produits": [
+        {
+            "produit_id": "P0193",
+            "nom": "Sleek Rubber Chicken",
+            "quantite": 2,
+            "prix_unitaire": 105.72
+        },
+        {
+            "produit_id": "P9885",
+            "nom": "Ergonomic Cotton Chair",
+            "quantite": 4,
+            "prix_unitaire": 418.25
+        }
+    ],
+    "date_commande": "2024-05-05T05:12:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "920 Delta",
+        "ville": "Vineland"
+    }
+}

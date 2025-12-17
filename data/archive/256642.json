@@ -1,0 +1,19 @@
+{
+    "order_id": 256642,
+    "client_id": 9554,
+    "produits": [
+        {
+            "produit_id": "P4903",
+            "nom": "Practical Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 425.17
+        }
+    ],
+    "date_commande": "2025-05-16T18:35:53",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1294 Kalmanovitz",
+        "ville": "Kentwood"
+    }
+}

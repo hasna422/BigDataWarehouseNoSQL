@@ -1,0 +1,15 @@
+{
+    "order_id": 617179,
+    "client_id": 8027,
+    "produits": [
+        {
+            "produit_id": "P6639",
+            "nom": "Ergonomic Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 205.02
+        }
+    ],
+    "date_commande": "2024-05-14T23:55:36",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

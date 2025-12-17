@@ -1,0 +1,19 @@
+{
+    "order_id": 306099,
+    "client_id": 9412,
+    "produits": [
+        {
+            "produit_id": "P0827",
+            "nom": "Intelligent Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 206.5
+        }
+    ],
+    "date_commande": "2024-05-06T09:48:33",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "199 Emmett",
+        "ville": "East Peoria"
+    }
+}

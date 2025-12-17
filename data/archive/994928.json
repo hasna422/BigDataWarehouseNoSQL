@@ -1,0 +1,19 @@
+{
+    "order_id": 994928,
+    "client_id": 9051,
+    "produits": [
+        {
+            "produit_id": "P7687",
+            "nom": "Gorgeous Frozen Gloves",
+            "quantite": 3,
+            "prix_unitaire": 291.17
+        }
+    ],
+    "date_commande": "2024-06-21T06:05:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "649 Baywood",
+        "ville": "Granite City"
+    }
+}

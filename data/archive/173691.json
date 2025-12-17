@@ -1,0 +1,15 @@
+{
+    "order_id": 173691,
+    "client_id": 7073,
+    "produits": [
+        {
+            "produit_id": "P1816",
+            "nom": "Gorgeous Concrete Bike",
+            "quantite": 4,
+            "prix_unitaire": 271.73
+        }
+    ],
+    "date_commande": "2024-10-13T05:09:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

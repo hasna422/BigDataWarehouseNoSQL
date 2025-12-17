@@ -1,0 +1,19 @@
+{
+    "order_id": 461595,
+    "client_id": 6124,
+    "produits": [
+        {
+            "produit_id": "P3379",
+            "nom": "Refined Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 310.51
+        }
+    ],
+    "date_commande": "2024-02-14T15:23:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "260 Ramsell",
+        "ville": "York"
+    }
+}

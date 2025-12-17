@@ -1,0 +1,19 @@
+{
+    "order_id": 886237,
+    "client_id": 8281,
+    "produits": [
+        {
+            "produit_id": "P2007",
+            "nom": "Incredible Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 419.89
+        }
+    ],
+    "date_commande": "2023-10-11T16:54:17",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "239 Andover",
+        "ville": "Moscow"
+    }
+}

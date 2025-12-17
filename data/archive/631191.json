@@ -1,0 +1,25 @@
+{
+    "order_id": 631191,
+    "client_id": 3326,
+    "produits": [
+        {
+            "produit_id": "P4947",
+            "nom": "Intelligent Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 396.57
+        },
+        {
+            "produit_id": "P8703",
+            "nom": "Small Plastic Salad",
+            "quantite": 1,
+            "prix_unitaire": 469.61
+        }
+    ],
+    "date_commande": "2023-10-17T08:32:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "875 Nevada",
+        "ville": "Indianapolis"
+    }
+}

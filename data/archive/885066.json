@@ -1,0 +1,19 @@
+{
+    "order_id": 885066,
+    "client_id": 3421,
+    "produits": [
+        {
+            "produit_id": "P2770",
+            "nom": "Steel Fish",
+            "quantite": 2,
+            "prix_unitaire": 141.38
+        }
+    ],
+    "date_commande": "2024-11-04T20:20:53",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "339 Rincon",
+        "ville": "Rocky River"
+    }
+}

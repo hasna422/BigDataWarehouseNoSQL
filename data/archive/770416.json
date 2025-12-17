@@ -1,0 +1,19 @@
+{
+    "order_id": 770416,
+    "client_id": 1029,
+    "produits": [
+        {
+            "produit_id": "P3034",
+            "nom": "Refined Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 493.35
+        }
+    ],
+    "date_commande": "2024-12-26T22:48:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1364 Treat",
+        "ville": "Tempe"
+    }
+}

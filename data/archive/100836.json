@@ -1,0 +1,27 @@
+{
+    "order_id": 100836,
+    "client_id": 6077,
+    "produits": [
+        {
+            "produit_id": "P4195",
+            "nom": "Intelligent Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 491.15
+        },
+        {
+            "produit_id": "P8315",
+            "nom": "Gorgeous Cheese",
+            "quantite": 1,
+            "prix_unitaire": 195.65
+        },
+        {
+            "produit_id": "P9290",
+            "nom": "Intelligent Wooden Mouse",
+            "quantite": 3,
+            "prix_unitaire": 477.18
+        }
+    ],
+    "date_commande": "2024-01-10T09:44:15",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

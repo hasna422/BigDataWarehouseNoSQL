@@ -1,0 +1,19 @@
+{
+    "order_id": 267992,
+    "client_id": 1882,
+    "produits": [
+        {
+            "produit_id": "P7765",
+            "nom": "Practical Cotton Pizza",
+            "quantite": 4,
+            "prix_unitaire": 164.83
+        }
+    ],
+    "date_commande": "2024-07-09T02:37:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "388 Saint Germain",
+        "ville": "Glendora"
+    }
+}

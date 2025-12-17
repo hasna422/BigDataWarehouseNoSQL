@@ -1,0 +1,19 @@
+{
+    "order_id": 557017,
+    "client_id": 6410,
+    "produits": [
+        {
+            "produit_id": "P1967",
+            "nom": "Steel Towels",
+            "quantite": 5,
+            "prix_unitaire": 422.59
+        }
+    ],
+    "date_commande": "2025-01-18T16:50:53",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "618 Houston",
+        "ville": "Kearney"
+    }
+}

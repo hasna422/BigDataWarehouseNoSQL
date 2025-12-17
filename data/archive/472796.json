@@ -1,0 +1,19 @@
+{
+    "order_id": 472796,
+    "client_id": 5502,
+    "produits": [
+        {
+            "produit_id": "P4260",
+            "nom": "Practical Metal Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 49.74
+        }
+    ],
+    "date_commande": "2024-11-24T21:34:10",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "310 Jennings",
+        "ville": "Temple City"
+    }
+}

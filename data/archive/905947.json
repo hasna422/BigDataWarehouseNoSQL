@@ -1,0 +1,19 @@
+{
+    "order_id": 905947,
+    "client_id": 3889,
+    "produits": [
+        {
+            "produit_id": "P0930",
+            "nom": "Practical Wooden Bacon",
+            "quantite": 4,
+            "prix_unitaire": 481.19
+        }
+    ],
+    "date_commande": "2024-12-18T07:45:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "955 Marengo",
+        "ville": "Haverhill"
+    }
+}

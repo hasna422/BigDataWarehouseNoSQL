@@ -1,0 +1,19 @@
+{
+    "order_id": 206236,
+    "client_id": 9697,
+    "produits": [
+        {
+            "produit_id": "P2754",
+            "nom": "Refined Cotton Car",
+            "quantite": 1,
+            "prix_unitaire": 371.85
+        }
+    ],
+    "date_commande": "2024-08-08T04:20:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1340 Zampa",
+        "ville": "North Canton"
+    }
+}

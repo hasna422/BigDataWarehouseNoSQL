@@ -1,0 +1,19 @@
+{
+    "order_id": 707092,
+    "client_id": 2923,
+    "produits": [
+        {
+            "produit_id": "P8405",
+            "nom": "Intelligent Rubber Hat",
+            "quantite": 3,
+            "prix_unitaire": 326.07
+        }
+    ],
+    "date_commande": "2024-05-06T15:06:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "422 Laura",
+        "ville": "Hammond"
+    }
+}

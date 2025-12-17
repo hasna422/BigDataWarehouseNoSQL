@@ -1,0 +1,19 @@
+{
+    "order_id": 172116,
+    "client_id": 5230,
+    "produits": [
+        {
+            "produit_id": "P3753",
+            "nom": "Gently Used Wooden Tuna",
+            "quantite": 2,
+            "prix_unitaire": 8.47
+        }
+    ],
+    "date_commande": "2023-12-11T10:29:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "521 Van Buren",
+        "ville": "Wentzville"
+    }
+}

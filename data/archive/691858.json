@@ -1,0 +1,15 @@
+{
+    "order_id": 691858,
+    "client_id": 9382,
+    "produits": [
+        {
+            "produit_id": "P8076",
+            "nom": "Licensed Plastic Gloves",
+            "quantite": 5,
+            "prix_unitaire": 136.4
+        }
+    ],
+    "date_commande": "2024-09-16T20:40:09",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

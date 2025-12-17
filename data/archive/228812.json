@@ -1,0 +1,15 @@
+{
+    "order_id": 228812,
+    "client_id": 4702,
+    "produits": [
+        {
+            "produit_id": "P0705",
+            "nom": "Handmade Frozen Bike",
+            "quantite": 1,
+            "prix_unitaire": 399.4
+        }
+    ],
+    "date_commande": "2023-11-23T02:31:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

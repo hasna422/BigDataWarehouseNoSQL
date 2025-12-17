@@ -1,0 +1,19 @@
+{
+    "order_id": 892329,
+    "client_id": 2108,
+    "produits": [
+        {
+            "produit_id": "P6209",
+            "nom": "Small Steel Sausages",
+            "quantite": 1,
+            "prix_unitaire": 38.45
+        }
+    ],
+    "date_commande": "2023-06-04T03:25:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1341 J",
+        "ville": "Deltona"
+    }
+}

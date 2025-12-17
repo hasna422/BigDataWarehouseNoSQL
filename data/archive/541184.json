@@ -1,0 +1,25 @@
+{
+    "order_id": 541184,
+    "client_id": 7262,
+    "produits": [
+        {
+            "produit_id": "P0464",
+            "nom": "Refined Frozen Towels",
+            "quantite": 5,
+            "prix_unitaire": 229.92
+        },
+        {
+            "produit_id": "P8034",
+            "nom": "Rustic Hat",
+            "quantite": 4,
+            "prix_unitaire": 27.29
+        }
+    ],
+    "date_commande": "2024-11-11T23:43:02",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1235 Ames",
+        "ville": "Big Spring"
+    }
+}

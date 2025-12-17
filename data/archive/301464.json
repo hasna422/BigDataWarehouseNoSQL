@@ -1,0 +1,31 @@
+{
+    "order_id": 301464,
+    "client_id": 6894,
+    "produits": [
+        {
+            "produit_id": "P9777",
+            "nom": "Unbranded Soft Chips",
+            "quantite": 5,
+            "prix_unitaire": 244.86
+        },
+        {
+            "produit_id": "P0119",
+            "nom": "Incredible Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 480.05
+        },
+        {
+            "produit_id": "P8522",
+            "nom": "Gorgeous Granite Towels",
+            "quantite": 2,
+            "prix_unitaire": 65.75
+        }
+    ],
+    "date_commande": "2024-11-07T10:39:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "315 Overlook",
+        "ville": "Holly Springs"
+    }
+}

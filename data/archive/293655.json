@@ -1,0 +1,19 @@
+{
+    "order_id": 293655,
+    "client_id": 7867,
+    "produits": [
+        {
+            "produit_id": "P8687",
+            "nom": "New Granite Tuna",
+            "quantite": 5,
+            "prix_unitaire": 157.41
+        }
+    ],
+    "date_commande": "2025-03-22T11:29:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "838 Kissling",
+        "ville": "West Mifflin"
+    }
+}

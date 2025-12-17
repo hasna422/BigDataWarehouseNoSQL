@@ -1,0 +1,19 @@
+{
+    "order_id": 404736,
+    "client_id": 6222,
+    "produits": [
+        {
+            "produit_id": "P9405",
+            "nom": "Generic Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 493.63
+        }
+    ],
+    "date_commande": "2023-09-16T05:20:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "539 Sherwood",
+        "ville": "Kalispell"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 406398,
+    "client_id": 9839,
+    "produits": [
+        {
+            "produit_id": "P4013",
+            "nom": "Unbranded Steel Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 350.28
+        },
+        {
+            "produit_id": "P0371",
+            "nom": "Gently Used Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 382.31
+        },
+        {
+            "produit_id": "P7135",
+            "nom": "Ergonomic Rubber Chips",
+            "quantite": 5,
+            "prix_unitaire": 287.81
+        }
+    ],
+    "date_commande": "2024-04-11T13:57:58",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "635 Santa Rosa",
+        "ville": "Tampa"
+    }
+}

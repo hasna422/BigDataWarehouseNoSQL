@@ -1,0 +1,31 @@
+{
+    "order_id": 503582,
+    "client_id": 8647,
+    "produits": [
+        {
+            "produit_id": "P7385",
+            "nom": "Rustic Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 244.73
+        },
+        {
+            "produit_id": "P0552",
+            "nom": "Small Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 309.8
+        },
+        {
+            "produit_id": "P7297",
+            "nom": "Gently Used Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 105.99
+        }
+    ],
+    "date_commande": "2025-03-07T16:16:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "565 Downey",
+        "ville": "Henderson"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 740612,
+    "client_id": 9659,
+    "produits": [
+        {
+            "produit_id": "P7367",
+            "nom": "New Rubber Shirt",
+            "quantite": 1,
+            "prix_unitaire": 214.86
+        }
+    ],
+    "date_commande": "2023-06-20T07:54:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

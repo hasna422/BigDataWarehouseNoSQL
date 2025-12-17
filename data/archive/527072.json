@@ -1,0 +1,25 @@
+{
+    "order_id": 527072,
+    "client_id": 7169,
+    "produits": [
+        {
+            "produit_id": "P0996",
+            "nom": "New Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 147.49
+        },
+        {
+            "produit_id": "P2876",
+            "nom": "Sleek Cotton Soap",
+            "quantite": 3,
+            "prix_unitaire": 91.01
+        }
+    ],
+    "date_commande": "2024-11-27T08:44:22",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "76 Thornton",
+        "ville": "Santa Rosa"
+    }
+}

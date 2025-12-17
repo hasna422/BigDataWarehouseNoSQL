@@ -1,0 +1,31 @@
+{
+    "order_id": 987234,
+    "client_id": 7197,
+    "produits": [
+        {
+            "produit_id": "P3682",
+            "nom": "Gorgeous Frozen Chair",
+            "quantite": 3,
+            "prix_unitaire": 404.4
+        },
+        {
+            "produit_id": "P8241",
+            "nom": "New Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 75.33
+        },
+        {
+            "produit_id": "P4566",
+            "nom": "Handmade Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 149.72
+        }
+    ],
+    "date_commande": "2024-05-13T08:09:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "398 Bonifacio",
+        "ville": "Poughkeepsie"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 327260,
+    "client_id": 7895,
+    "produits": [
+        {
+            "produit_id": "P6211",
+            "nom": "Sleek Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 375.73
+        },
+        {
+            "produit_id": "P2739",
+            "nom": "Used Granite Fish",
+            "quantite": 4,
+            "prix_unitaire": 20.57
+        }
+    ],
+    "date_commande": "2023-08-23T15:34:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "517 Sabin",
+        "ville": "Winter Haven"
+    }
+}

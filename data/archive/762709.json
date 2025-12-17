@@ -1,0 +1,25 @@
+{
+    "order_id": 762709,
+    "client_id": 3204,
+    "produits": [
+        {
+            "produit_id": "P0994",
+            "nom": "Generic Frozen Gloves",
+            "quantite": 2,
+            "prix_unitaire": 329.1
+        },
+        {
+            "produit_id": "P7225",
+            "nom": "Fantastic Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 174.85
+        }
+    ],
+    "date_commande": "2024-09-17T03:26:02",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1106 Rome",
+        "ville": "Sugar Land"
+    }
+}

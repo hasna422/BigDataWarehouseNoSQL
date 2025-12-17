@@ -1,0 +1,31 @@
+{
+    "order_id": 893187,
+    "client_id": 9651,
+    "produits": [
+        {
+            "produit_id": "P5286",
+            "nom": "Handcrafted Steel Car",
+            "quantite": 5,
+            "prix_unitaire": 129.7
+        },
+        {
+            "produit_id": "P7556",
+            "nom": "For repair Soft Ball",
+            "quantite": 3,
+            "prix_unitaire": 223.98
+        },
+        {
+            "produit_id": "P5276",
+            "nom": "Unbranded Wooden Fish",
+            "quantite": 4,
+            "prix_unitaire": 301.52
+        }
+    ],
+    "date_commande": "2024-01-17T06:13:21",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1168 Windsor Mill",
+        "ville": "SeaTac"
+    }
+}

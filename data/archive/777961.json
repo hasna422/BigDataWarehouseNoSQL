@@ -1,0 +1,31 @@
+{
+    "order_id": 777961,
+    "client_id": 7182,
+    "produits": [
+        {
+            "produit_id": "P0257",
+            "nom": "Ergonomic Fish",
+            "quantite": 5,
+            "prix_unitaire": 401.27
+        },
+        {
+            "produit_id": "P2913",
+            "nom": "Practical Granite Towels",
+            "quantite": 2,
+            "prix_unitaire": 11.76
+        },
+        {
+            "produit_id": "P7552",
+            "nom": "Unbranded Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 284.27
+        }
+    ],
+    "date_commande": "2023-12-24T20:23:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "279 Towerside",
+        "ville": "Broadview Heights"
+    }
+}

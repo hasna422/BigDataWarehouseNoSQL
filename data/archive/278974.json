@@ -1,0 +1,21 @@
+{
+    "order_id": 278974,
+    "client_id": 6968,
+    "produits": [
+        {
+            "produit_id": "P8005",
+            "nom": "Practical Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 303.46
+        },
+        {
+            "produit_id": "P9804",
+            "nom": "New Soft Pizza",
+            "quantite": 2,
+            "prix_unitaire": 209.35
+        }
+    ],
+    "date_commande": "2023-11-20T06:44:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

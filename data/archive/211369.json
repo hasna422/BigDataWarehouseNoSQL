@@ -1,0 +1,31 @@
+{
+    "order_id": 211369,
+    "client_id": 6888,
+    "produits": [
+        {
+            "produit_id": "P0500",
+            "nom": "Used Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 86.87
+        },
+        {
+            "produit_id": "P6531",
+            "nom": "New Cotton Fish",
+            "quantite": 1,
+            "prix_unitaire": 218.12
+        },
+        {
+            "produit_id": "P5127",
+            "nom": "Sleek Metal Shirt",
+            "quantite": 1,
+            "prix_unitaire": 390.95
+        }
+    ],
+    "date_commande": "2023-06-17T17:29:27",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "931 San Ramon",
+        "ville": "Biloxi"
+    }
+}

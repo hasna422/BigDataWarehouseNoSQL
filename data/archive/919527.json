@@ -1,0 +1,25 @@
+{
+    "order_id": 919527,
+    "client_id": 9081,
+    "produits": [
+        {
+            "produit_id": "P2498",
+            "nom": "New Fresh Chicken",
+            "quantite": 2,
+            "prix_unitaire": 442.43
+        },
+        {
+            "produit_id": "P6691",
+            "nom": "Refined Fresh Table",
+            "quantite": 4,
+            "prix_unitaire": 135.02
+        }
+    ],
+    "date_commande": "2024-02-15T20:25:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "171 Taber",
+        "ville": "McDonough"
+    }
+}

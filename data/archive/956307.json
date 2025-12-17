@@ -1,0 +1,21 @@
+{
+    "order_id": 956307,
+    "client_id": 9413,
+    "produits": [
+        {
+            "produit_id": "P1613",
+            "nom": "Used Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 248.82
+        },
+        {
+            "produit_id": "P7283",
+            "nom": "Tasty Towels",
+            "quantite": 4,
+            "prix_unitaire": 195.26
+        }
+    ],
+    "date_commande": "2024-07-27T05:06:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

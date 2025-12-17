@@ -1,0 +1,15 @@
+{
+    "order_id": 244475,
+    "client_id": 7575,
+    "produits": [
+        {
+            "produit_id": "P7277",
+            "nom": "Tasty Steel Tuna",
+            "quantite": 4,
+            "prix_unitaire": 310.19
+        }
+    ],
+    "date_commande": "2023-09-13T05:01:44",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

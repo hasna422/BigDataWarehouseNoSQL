@@ -1,0 +1,19 @@
+{
+    "order_id": 636357,
+    "client_id": 7976,
+    "produits": [
+        {
+            "produit_id": "P4160",
+            "nom": "Metal Computer",
+            "quantite": 3,
+            "prix_unitaire": 199.61
+        }
+    ],
+    "date_commande": "2023-09-10T14:46:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "602 Waldo",
+        "ville": "Broomfield"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 425990,
+    "client_id": 5831,
+    "produits": [
+        {
+            "produit_id": "P4697",
+            "nom": "Incredible Soft Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 221.83
+        },
+        {
+            "produit_id": "P5428",
+            "nom": "Used Frozen Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 265.01
+        },
+        {
+            "produit_id": "P9774",
+            "nom": "Small Fresh Sausages",
+            "quantite": 5,
+            "prix_unitaire": 271.09
+        }
+    ],
+    "date_commande": "2023-06-11T15:54:57",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1184 Lettuce",
+        "ville": "Fairmont"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 156841,
+    "client_id": 3987,
+    "produits": [
+        {
+            "produit_id": "P6147",
+            "nom": "Intelligent Shoes",
+            "quantite": 2,
+            "prix_unitaire": 331.19
+        },
+        {
+            "produit_id": "P3881",
+            "nom": "Metal Soap",
+            "quantite": 1,
+            "prix_unitaire": 376.19
+        },
+        {
+            "produit_id": "P4277",
+            "nom": "Intelligent Soft Bacon",
+            "quantite": 2,
+            "prix_unitaire": 155.57
+        }
+    ],
+    "date_commande": "2024-12-05T18:02:37",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "787 Sabin",
+        "ville": "Springdale"
+    }
+}

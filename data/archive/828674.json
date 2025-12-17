@@ -1,0 +1,25 @@
+{
+    "order_id": 828674,
+    "client_id": 3698,
+    "produits": [
+        {
+            "produit_id": "P7042",
+            "nom": "Generic Bike",
+            "quantite": 4,
+            "prix_unitaire": 308.36
+        },
+        {
+            "produit_id": "P8559",
+            "nom": "Small Wooden Computer",
+            "quantite": 3,
+            "prix_unitaire": 141.85
+        }
+    ],
+    "date_commande": "2025-05-19T04:28:52",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1108 Turk Murphy",
+        "ville": "Burlingame"
+    }
+}

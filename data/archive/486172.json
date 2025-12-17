@@ -1,0 +1,15 @@
+{
+    "order_id": 486172,
+    "client_id": 8815,
+    "produits": [
+        {
+            "produit_id": "P0339",
+            "nom": "Small Steel Tuna",
+            "quantite": 5,
+            "prix_unitaire": 455.05
+        }
+    ],
+    "date_commande": "2024-01-09T03:03:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

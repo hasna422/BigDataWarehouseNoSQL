@@ -1,0 +1,21 @@
+{
+    "order_id": 110264,
+    "client_id": 3219,
+    "produits": [
+        {
+            "produit_id": "P4864",
+            "nom": "Licensed Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 278.53
+        },
+        {
+            "produit_id": "P2596",
+            "nom": "Ergonomic Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 414.99
+        }
+    ],
+    "date_commande": "2024-02-21T06:06:20",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

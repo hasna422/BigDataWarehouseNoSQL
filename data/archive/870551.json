@@ -1,0 +1,27 @@
+{
+    "order_id": 870551,
+    "client_id": 6877,
+    "produits": [
+        {
+            "produit_id": "P6575",
+            "nom": "Handcrafted Soft Chair",
+            "quantite": 5,
+            "prix_unitaire": 13.43
+        },
+        {
+            "produit_id": "P4656",
+            "nom": "Handcrafted Steel Bacon",
+            "quantite": 5,
+            "prix_unitaire": 477.16
+        },
+        {
+            "produit_id": "P6128",
+            "nom": "For repair Metal Mouse",
+            "quantite": 1,
+            "prix_unitaire": 336.82
+        }
+    ],
+    "date_commande": "2023-11-12T14:19:58",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 622772,
+    "client_id": 2952,
+    "produits": [
+        {
+            "produit_id": "P9159",
+            "nom": "Handcrafted Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 161.99
+        },
+        {
+            "produit_id": "P2534",
+            "nom": "For repair Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 124.82
+        },
+        {
+            "produit_id": "P9374",
+            "nom": "Generic Wooden Table",
+            "quantite": 5,
+            "prix_unitaire": 138.83
+        }
+    ],
+    "date_commande": "2025-02-06T10:56:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

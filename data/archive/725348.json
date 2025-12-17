@@ -1,0 +1,19 @@
+{
+    "order_id": 725348,
+    "client_id": 5841,
+    "produits": [
+        {
+            "produit_id": "P4871",
+            "nom": "Fantastic Concrete Towels",
+            "quantite": 1,
+            "prix_unitaire": 165.95
+        }
+    ],
+    "date_commande": "2025-04-29T15:19:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1075 Kimball",
+        "ville": "Philadelphia"
+    }
+}

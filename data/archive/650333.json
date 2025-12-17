@@ -1,0 +1,25 @@
+{
+    "order_id": 650333,
+    "client_id": 7943,
+    "produits": [
+        {
+            "produit_id": "P2480",
+            "nom": "Ergonomic Cotton Pizza",
+            "quantite": 1,
+            "prix_unitaire": 246.23
+        },
+        {
+            "produit_id": "P7973",
+            "nom": "Gorgeous Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 172.63
+        }
+    ],
+    "date_commande": "2024-03-30T09:14:13",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "806 E",
+        "ville": "Arroyo Grande"
+    }
+}

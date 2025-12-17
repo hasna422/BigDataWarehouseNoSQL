@@ -1,0 +1,19 @@
+{
+    "order_id": 794614,
+    "client_id": 5526,
+    "produits": [
+        {
+            "produit_id": "P0340",
+            "nom": "New Soft Shirt",
+            "quantite": 5,
+            "prix_unitaire": 26.61
+        }
+    ],
+    "date_commande": "2025-05-09T20:15:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "871 Powell",
+        "ville": "New York"
+    }
+}

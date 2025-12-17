@@ -1,0 +1,19 @@
+{
+    "order_id": 341114,
+    "client_id": 9641,
+    "produits": [
+        {
+            "produit_id": "P7974",
+            "nom": "For repair Concrete Chicken",
+            "quantite": 1,
+            "prix_unitaire": 182.95
+        }
+    ],
+    "date_commande": "2023-12-29T18:00:34",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1288 Berry",
+        "ville": "Franklin Park"
+    }
+}

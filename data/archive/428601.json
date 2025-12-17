@@ -1,0 +1,19 @@
+{
+    "order_id": 428601,
+    "client_id": 1435,
+    "produits": [
+        {
+            "produit_id": "P2860",
+            "nom": "Small Chips",
+            "quantite": 3,
+            "prix_unitaire": 265.77
+        }
+    ],
+    "date_commande": "2025-04-07T06:32:36",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "880 Osceola",
+        "ville": "Lino Lakes"
+    }
+}

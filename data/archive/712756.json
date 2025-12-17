@@ -1,0 +1,25 @@
+{
+    "order_id": 712756,
+    "client_id": 7451,
+    "produits": [
+        {
+            "produit_id": "P0369",
+            "nom": "Awesome Pants",
+            "quantite": 1,
+            "prix_unitaire": 356.96
+        },
+        {
+            "produit_id": "P9111",
+            "nom": "Refined Soft Tuna",
+            "quantite": 3,
+            "prix_unitaire": 31.0
+        }
+    ],
+    "date_commande": "2025-03-20T19:03:08",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "365 Paradise",
+        "ville": "San Mateo"
+    }
+}

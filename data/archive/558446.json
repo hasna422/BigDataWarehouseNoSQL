@@ -1,0 +1,15 @@
+{
+    "order_id": 558446,
+    "client_id": 4474,
+    "produits": [
+        {
+            "produit_id": "P1752",
+            "nom": "Practical Metal Bacon",
+            "quantite": 1,
+            "prix_unitaire": 394.58
+        }
+    ],
+    "date_commande": "2024-10-11T08:03:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

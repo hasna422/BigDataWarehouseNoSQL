@@ -1,0 +1,25 @@
+{
+    "order_id": 233454,
+    "client_id": 1576,
+    "produits": [
+        {
+            "produit_id": "P1579",
+            "nom": "Used Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 87.77
+        },
+        {
+            "produit_id": "P3157",
+            "nom": "For repair Table",
+            "quantite": 4,
+            "prix_unitaire": 315.5
+        }
+    ],
+    "date_commande": "2025-01-24T01:01:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1398 Polk",
+        "ville": "Anacortes"
+    }
+}

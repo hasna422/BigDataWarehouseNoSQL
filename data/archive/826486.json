@@ -1,0 +1,21 @@
+{
+    "order_id": 826486,
+    "client_id": 5971,
+    "produits": [
+        {
+            "produit_id": "P5585",
+            "nom": "New Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 483.4
+        },
+        {
+            "produit_id": "P4085",
+            "nom": "Fantastic Shoes",
+            "quantite": 2,
+            "prix_unitaire": 370.52
+        }
+    ],
+    "date_commande": "2025-01-15T09:45:50",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

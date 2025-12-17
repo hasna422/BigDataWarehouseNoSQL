@@ -1,0 +1,19 @@
+{
+    "order_id": 744241,
+    "client_id": 8739,
+    "produits": [
+        {
+            "produit_id": "P2538",
+            "nom": "Gently Used Granite Hat",
+            "quantite": 1,
+            "prix_unitaire": 456.77
+        }
+    ],
+    "date_commande": "2024-09-18T17:22:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "203 Caine",
+        "ville": "Willmar"
+    }
+}

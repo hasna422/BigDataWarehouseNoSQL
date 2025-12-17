@@ -1,0 +1,31 @@
+{
+    "order_id": 945662,
+    "client_id": 9119,
+    "produits": [
+        {
+            "produit_id": "P8771",
+            "nom": "Practical Rubber Computer",
+            "quantite": 1,
+            "prix_unitaire": 46.77
+        },
+        {
+            "produit_id": "P5831",
+            "nom": "New Cotton Salad",
+            "quantite": 4,
+            "prix_unitaire": 114.04
+        },
+        {
+            "produit_id": "P2319",
+            "nom": "Gently Used Fresh Chicken",
+            "quantite": 1,
+            "prix_unitaire": 120.79
+        }
+    ],
+    "date_commande": "2024-03-12T02:28:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "184 Country Club",
+        "ville": "Alameda"
+    }
+}

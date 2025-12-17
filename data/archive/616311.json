@@ -1,0 +1,19 @@
+{
+    "order_id": 616311,
+    "client_id": 9772,
+    "produits": [
+        {
+            "produit_id": "P6817",
+            "nom": "Sleek Wooden Shoes",
+            "quantite": 1,
+            "prix_unitaire": 294.78
+        }
+    ],
+    "date_commande": "2023-10-15T22:56:59",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "534 Clementina",
+        "ville": "Las Vegas"
+    }
+}

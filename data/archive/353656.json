@@ -1,0 +1,19 @@
+{
+    "order_id": 353656,
+    "client_id": 7939,
+    "produits": [
+        {
+            "produit_id": "P0245",
+            "nom": "Generic Frozen Soap",
+            "quantite": 4,
+            "prix_unitaire": 104.93
+        }
+    ],
+    "date_commande": "2024-09-01T18:17:05",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1264 Sfgh Access",
+        "ville": "Sioux City"
+    }
+}

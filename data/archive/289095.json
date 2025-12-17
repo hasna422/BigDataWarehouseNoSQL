@@ -1,0 +1,31 @@
+{
+    "order_id": 289095,
+    "client_id": 2878,
+    "produits": [
+        {
+            "produit_id": "P8714",
+            "nom": "Generic Ball",
+            "quantite": 5,
+            "prix_unitaire": 373.54
+        },
+        {
+            "produit_id": "P5547",
+            "nom": "Sleek Gloves",
+            "quantite": 5,
+            "prix_unitaire": 332.28
+        },
+        {
+            "produit_id": "P9255",
+            "nom": "Rubber Pizza",
+            "quantite": 5,
+            "prix_unitaire": 448.22
+        }
+    ],
+    "date_commande": "2024-08-13T08:52:43",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "358 Alviso",
+        "ville": "Carrboro"
+    }
+}

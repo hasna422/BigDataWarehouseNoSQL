@@ -1,0 +1,19 @@
+{
+    "order_id": 432129,
+    "client_id": 9948,
+    "produits": [
+        {
+            "produit_id": "P4144",
+            "nom": "Soft Hat",
+            "quantite": 2,
+            "prix_unitaire": 477.05
+        }
+    ],
+    "date_commande": "2023-07-16T07:59:53",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1348 Bishop",
+        "ville": "DeSoto"
+    }
+}

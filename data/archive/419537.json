@@ -1,0 +1,25 @@
+{
+    "order_id": 419537,
+    "client_id": 7495,
+    "produits": [
+        {
+            "produit_id": "P3725",
+            "nom": "Incredible Plastic Pants",
+            "quantite": 3,
+            "prix_unitaire": 231.9
+        },
+        {
+            "produit_id": "P9588",
+            "nom": "Gorgeous Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 36.36
+        }
+    ],
+    "date_commande": "2024-01-29T01:29:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1318 Milan",
+        "ville": "Hillsboro"
+    }
+}

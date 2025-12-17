@@ -1,0 +1,31 @@
+{
+    "order_id": 928291,
+    "client_id": 8546,
+    "produits": [
+        {
+            "produit_id": "P0223",
+            "nom": "Sleek Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 99.76
+        },
+        {
+            "produit_id": "P1947",
+            "nom": "Gently Used Metal Ball",
+            "quantite": 2,
+            "prix_unitaire": 188.08
+        },
+        {
+            "produit_id": "P1284",
+            "nom": "Tasty Rubber Chicken",
+            "quantite": 2,
+            "prix_unitaire": 244.39
+        }
+    ],
+    "date_commande": "2025-03-09T00:10:02",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1317 San Marcos",
+        "ville": "Kenmore"
+    }
+}

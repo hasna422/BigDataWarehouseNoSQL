@@ -1,0 +1,21 @@
+{
+    "order_id": 802381,
+    "client_id": 4313,
+    "produits": [
+        {
+            "produit_id": "P7983",
+            "nom": "Incredible Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 231.81
+        },
+        {
+            "produit_id": "P9254",
+            "nom": "Intelligent Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 343.49
+        }
+    ],
+    "date_commande": "2024-07-15T06:22:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

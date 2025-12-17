@@ -1,0 +1,31 @@
+{
+    "order_id": 573699,
+    "client_id": 5467,
+    "produits": [
+        {
+            "produit_id": "P8628",
+            "nom": "Unbranded Chips",
+            "quantite": 4,
+            "prix_unitaire": 430.71
+        },
+        {
+            "produit_id": "P4863",
+            "nom": "Cotton Salad",
+            "quantite": 3,
+            "prix_unitaire": 221.98
+        },
+        {
+            "produit_id": "P4459",
+            "nom": "Granite Mouse",
+            "quantite": 4,
+            "prix_unitaire": 331.0
+        }
+    ],
+    "date_commande": "2025-01-09T03:46:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "652 Toledo",
+        "ville": "Sandusky"
+    }
+}

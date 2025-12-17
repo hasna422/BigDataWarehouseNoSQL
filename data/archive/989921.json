@@ -1,0 +1,25 @@
+{
+    "order_id": 989921,
+    "client_id": 5954,
+    "produits": [
+        {
+            "produit_id": "P2967",
+            "nom": "Refined Fresh Bike",
+            "quantite": 1,
+            "prix_unitaire": 37.53
+        },
+        {
+            "produit_id": "P5571",
+            "nom": "Handcrafted Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 178.75
+        }
+    ],
+    "date_commande": "2024-08-27T23:09:00",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "667 Liebig",
+        "ville": "Jeffersontown"
+    }
+}

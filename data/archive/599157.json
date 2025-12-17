@@ -1,0 +1,19 @@
+{
+    "order_id": 599157,
+    "client_id": 8849,
+    "produits": [
+        {
+            "produit_id": "P1682",
+            "nom": "Generic Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 150.6
+        }
+    ],
+    "date_commande": "2024-08-10T08:50:08",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1375 Dublin",
+        "ville": "Melrose Park"
+    }
+}

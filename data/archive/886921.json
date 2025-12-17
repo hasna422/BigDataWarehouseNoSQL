@@ -1,0 +1,19 @@
+{
+    "order_id": 886921,
+    "client_id": 6934,
+    "produits": [
+        {
+            "produit_id": "P5243",
+            "nom": "Gently Used Rubber Tuna",
+            "quantite": 1,
+            "prix_unitaire": 262.79
+        }
+    ],
+    "date_commande": "2025-02-07T14:12:44",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "33 Newburg",
+        "ville": "Big Spring"
+    }
+}

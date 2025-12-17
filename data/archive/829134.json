@@ -1,0 +1,19 @@
+{
+    "order_id": 829134,
+    "client_id": 6289,
+    "produits": [
+        {
+            "produit_id": "P6579",
+            "nom": "Generic Frozen Chair",
+            "quantite": 2,
+            "prix_unitaire": 416.76
+        }
+    ],
+    "date_commande": "2025-04-30T20:35:37",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "701 Lomita",
+        "ville": "Emporia"
+    }
+}

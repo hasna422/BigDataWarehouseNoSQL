@@ -1,0 +1,27 @@
+{
+    "order_id": 760031,
+    "client_id": 2324,
+    "produits": [
+        {
+            "produit_id": "P0328",
+            "nom": "Generic Soft Bike",
+            "quantite": 3,
+            "prix_unitaire": 157.17
+        },
+        {
+            "produit_id": "P0914",
+            "nom": "Refined Rubber Car",
+            "quantite": 1,
+            "prix_unitaire": 164.75
+        },
+        {
+            "produit_id": "P1513",
+            "nom": "Ergonomic Frozen Fish",
+            "quantite": 5,
+            "prix_unitaire": 443.55
+        }
+    ],
+    "date_commande": "2023-08-28T10:31:14",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

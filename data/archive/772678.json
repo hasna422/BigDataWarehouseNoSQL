@@ -1,0 +1,25 @@
+{
+    "order_id": 772678,
+    "client_id": 5848,
+    "produits": [
+        {
+            "produit_id": "P5953",
+            "nom": "Rustic Fresh Pizza",
+            "quantite": 4,
+            "prix_unitaire": 139.02
+        },
+        {
+            "produit_id": "P0208",
+            "nom": "Gently Used Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 11.82
+        }
+    ],
+    "date_commande": "2025-02-15T02:41:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "254 Junipero Serra",
+        "ville": "Cathedral City"
+    }
+}

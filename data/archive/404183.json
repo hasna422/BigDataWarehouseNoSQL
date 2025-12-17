@@ -1,0 +1,27 @@
+{
+    "order_id": 404183,
+    "client_id": 3973,
+    "produits": [
+        {
+            "produit_id": "P2791",
+            "nom": "Small Sausages",
+            "quantite": 4,
+            "prix_unitaire": 223.42
+        },
+        {
+            "produit_id": "P1748",
+            "nom": "Awesome Frozen Sausages",
+            "quantite": 4,
+            "prix_unitaire": 206.8
+        },
+        {
+            "produit_id": "P3024",
+            "nom": "Concrete Shoes",
+            "quantite": 5,
+            "prix_unitaire": 107.53
+        }
+    ],
+    "date_commande": "2023-06-23T07:12:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

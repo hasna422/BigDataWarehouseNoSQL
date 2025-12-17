@@ -1,0 +1,31 @@
+{
+    "order_id": 851138,
+    "client_id": 7321,
+    "produits": [
+        {
+            "produit_id": "P1438",
+            "nom": "Unbranded Steel Table",
+            "quantite": 2,
+            "prix_unitaire": 316.93
+        },
+        {
+            "produit_id": "P6093",
+            "nom": "Handcrafted Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 288.39
+        },
+        {
+            "produit_id": "P8147",
+            "nom": "Incredible Soft Chair",
+            "quantite": 4,
+            "prix_unitaire": 165.81
+        }
+    ],
+    "date_commande": "2023-10-12T12:51:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "37 Windsor Mill",
+        "ville": "Wheaton"
+    }
+}

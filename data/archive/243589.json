@@ -1,0 +1,19 @@
+{
+    "order_id": 243589,
+    "client_id": 7564,
+    "produits": [
+        {
+            "produit_id": "P8615",
+            "nom": "Licensed Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 432.27
+        }
+    ],
+    "date_commande": "2024-01-30T09:34:52",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1322 Mclea",
+        "ville": "South Holland"
+    }
+}

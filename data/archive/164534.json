@@ -1,0 +1,25 @@
+{
+    "order_id": 164534,
+    "client_id": 6272,
+    "produits": [
+        {
+            "produit_id": "P5094",
+            "nom": "Tasty Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 247.96
+        },
+        {
+            "produit_id": "P7769",
+            "nom": "For repair Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 52.18
+        }
+    ],
+    "date_commande": "2023-07-29T11:35:14",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1071 Hoffman",
+        "ville": "Bristol"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 611565,
+    "client_id": 7789,
+    "produits": [
+        {
+            "produit_id": "P1582",
+            "nom": "Fantastic Steel Ball",
+            "quantite": 4,
+            "prix_unitaire": 208.93
+        }
+    ],
+    "date_commande": "2023-10-22T10:29:13",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

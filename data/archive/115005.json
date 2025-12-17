@@ -1,0 +1,31 @@
+{
+    "order_id": 115005,
+    "client_id": 1587,
+    "produits": [
+        {
+            "produit_id": "P9839",
+            "nom": "Incredible Fresh Soap",
+            "quantite": 3,
+            "prix_unitaire": 385.97
+        },
+        {
+            "produit_id": "P6077",
+            "nom": "Licensed Wooden Fish",
+            "quantite": 5,
+            "prix_unitaire": 227.98
+        },
+        {
+            "produit_id": "P0130",
+            "nom": "Licensed Plastic Towels",
+            "quantite": 3,
+            "prix_unitaire": 181.1
+        }
+    ],
+    "date_commande": "2024-06-13T23:04:07",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "331 Croaker",
+        "ville": "Texarkana"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 235873,
+    "client_id": 8147,
+    "produits": [
+        {
+            "produit_id": "P5064",
+            "nom": "For repair Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 460.91
+        },
+        {
+            "produit_id": "P7664",
+            "nom": "Handmade Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 39.3
+        }
+    ],
+    "date_commande": "2024-09-10T20:18:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "456 Otega",
+        "ville": "Gardena"
+    }
+}

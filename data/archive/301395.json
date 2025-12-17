@@ -1,0 +1,21 @@
+{
+    "order_id": 301395,
+    "client_id": 4341,
+    "produits": [
+        {
+            "produit_id": "P0462",
+            "nom": "Generic Cotton Mouse",
+            "quantite": 5,
+            "prix_unitaire": 437.01
+        },
+        {
+            "produit_id": "P5456",
+            "nom": "New Frozen Bike",
+            "quantite": 5,
+            "prix_unitaire": 69.72
+        }
+    ],
+    "date_commande": "2024-06-06T01:10:18",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

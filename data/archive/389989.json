@@ -1,0 +1,25 @@
+{
+    "order_id": 389989,
+    "client_id": 9984,
+    "produits": [
+        {
+            "produit_id": "P1992",
+            "nom": "Refined Frozen Cheese",
+            "quantite": 5,
+            "prix_unitaire": 134.12
+        },
+        {
+            "produit_id": "P2787",
+            "nom": "Gorgeous Plastic Soap",
+            "quantite": 2,
+            "prix_unitaire": 329.55
+        }
+    ],
+    "date_commande": "2023-12-02T15:31:38",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "505 Chain Of Lakes",
+        "ville": "Southaven"
+    }
+}

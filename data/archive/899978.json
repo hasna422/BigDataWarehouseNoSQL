@@ -1,0 +1,19 @@
+{
+    "order_id": 899978,
+    "client_id": 9582,
+    "produits": [
+        {
+            "produit_id": "P4299",
+            "nom": "Sleek Wooden Ball",
+            "quantite": 2,
+            "prix_unitaire": 402.12
+        }
+    ],
+    "date_commande": "2025-04-24T16:26:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "619 Easement",
+        "ville": "Cocoa"
+    }
+}

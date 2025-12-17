@@ -1,0 +1,31 @@
+{
+    "order_id": 243061,
+    "client_id": 9869,
+    "produits": [
+        {
+            "produit_id": "P8744",
+            "nom": "New Concrete Computer",
+            "quantite": 5,
+            "prix_unitaire": 440.1
+        },
+        {
+            "produit_id": "P8449",
+            "nom": "Tasty Car",
+            "quantite": 4,
+            "prix_unitaire": 440.32
+        },
+        {
+            "produit_id": "P2850",
+            "nom": "Unbranded Chips",
+            "quantite": 4,
+            "prix_unitaire": 299.58
+        }
+    ],
+    "date_commande": "2024-03-27T07:19:53",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1256 Jordan",
+        "ville": "Scottsdale"
+    }
+}

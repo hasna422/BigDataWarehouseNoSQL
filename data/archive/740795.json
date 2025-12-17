@@ -1,0 +1,15 @@
+{
+    "order_id": 740795,
+    "client_id": 8859,
+    "produits": [
+        {
+            "produit_id": "P6028",
+            "nom": "Practical Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 68.16
+        }
+    ],
+    "date_commande": "2025-01-08T00:09:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

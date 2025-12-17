@@ -1,0 +1,21 @@
+{
+    "order_id": 196907,
+    "client_id": 2998,
+    "produits": [
+        {
+            "produit_id": "P5693",
+            "nom": "Gorgeous Steel Shoes",
+            "quantite": 2,
+            "prix_unitaire": 339.05
+        },
+        {
+            "produit_id": "P0149",
+            "nom": "Awesome Concrete Chair",
+            "quantite": 2,
+            "prix_unitaire": 179.46
+        }
+    ],
+    "date_commande": "2024-10-31T16:04:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

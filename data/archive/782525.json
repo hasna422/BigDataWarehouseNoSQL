@@ -1,0 +1,21 @@
+{
+    "order_id": 782525,
+    "client_id": 8427,
+    "produits": [
+        {
+            "produit_id": "P5482",
+            "nom": "Sleek Fresh Table",
+            "quantite": 3,
+            "prix_unitaire": 463.63
+        },
+        {
+            "produit_id": "P6125",
+            "nom": "Used Plastic Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 428.46
+        }
+    ],
+    "date_commande": "2024-10-22T18:03:49",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

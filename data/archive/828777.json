@@ -1,0 +1,25 @@
+{
+    "order_id": 828777,
+    "client_id": 8252,
+    "produits": [
+        {
+            "produit_id": "P6996",
+            "nom": "Refined Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 153.54
+        },
+        {
+            "produit_id": "P4012",
+            "nom": "Handmade Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 230.58
+        }
+    ],
+    "date_commande": "2023-10-15T05:53:09",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "640 Executive Park",
+        "ville": "Poughkeepsie"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 817876,
+    "client_id": 6628,
+    "produits": [
+        {
+            "produit_id": "P8708",
+            "nom": "Fantastic Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 388.25
+        },
+        {
+            "produit_id": "P1871",
+            "nom": "Practical Steel Salad",
+            "quantite": 1,
+            "prix_unitaire": 261.5
+        }
+    ],
+    "date_commande": "2023-11-06T13:10:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

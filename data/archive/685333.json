@@ -1,0 +1,25 @@
+{
+    "order_id": 685333,
+    "client_id": 7171,
+    "produits": [
+        {
+            "produit_id": "P8041",
+            "nom": "Cotton Shoes",
+            "quantite": 4,
+            "prix_unitaire": 408.66
+        },
+        {
+            "produit_id": "P3384",
+            "nom": "Ergonomic Rubber Computer",
+            "quantite": 5,
+            "prix_unitaire": 318.37
+        }
+    ],
+    "date_commande": "2024-03-21T20:10:46",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1257 Missouri",
+        "ville": "Clemmons"
+    }
+}

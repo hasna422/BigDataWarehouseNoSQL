@@ -1,0 +1,21 @@
+{
+    "order_id": 144420,
+    "client_id": 3312,
+    "produits": [
+        {
+            "produit_id": "P0680",
+            "nom": "Tasty Wooden Salad",
+            "quantite": 4,
+            "prix_unitaire": 310.31
+        },
+        {
+            "produit_id": "P0638",
+            "nom": "Licensed Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 416.98
+        }
+    ],
+    "date_commande": "2023-10-28T08:28:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

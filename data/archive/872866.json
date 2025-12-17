@@ -1,0 +1,25 @@
+{
+    "order_id": 872866,
+    "client_id": 6487,
+    "produits": [
+        {
+            "produit_id": "P4422",
+            "nom": "Licensed Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 398.38
+        },
+        {
+            "produit_id": "P2056",
+            "nom": "Practical Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 267.78
+        }
+    ],
+    "date_commande": "2024-03-21T03:44:04",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1332 Whitecliff",
+        "ville": "Tempe"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 935693,
+    "client_id": 9503,
+    "produits": [
+        {
+            "produit_id": "P2290",
+            "nom": "Practical Cotton Shirt",
+            "quantite": 1,
+            "prix_unitaire": 179.65
+        }
+    ],
+    "date_commande": "2023-07-27T12:47:45",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

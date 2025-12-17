@@ -1,0 +1,31 @@
+{
+    "order_id": 801686,
+    "client_id": 7637,
+    "produits": [
+        {
+            "produit_id": "P5684",
+            "nom": "Incredible Steel Shirt",
+            "quantite": 1,
+            "prix_unitaire": 177.81
+        },
+        {
+            "produit_id": "P0949",
+            "nom": "New Frozen Fish",
+            "quantite": 4,
+            "prix_unitaire": 7.44
+        },
+        {
+            "produit_id": "P8992",
+            "nom": "Handmade Steel Pants",
+            "quantite": 1,
+            "prix_unitaire": 488.74
+        }
+    ],
+    "date_commande": "2024-06-14T00:31:58",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1134 Noe",
+        "ville": "Garland"
+    }
+}

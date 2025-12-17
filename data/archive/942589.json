@@ -1,0 +1,27 @@
+{
+    "order_id": 942589,
+    "client_id": 3302,
+    "produits": [
+        {
+            "produit_id": "P3032",
+            "nom": "New Plastic Soap",
+            "quantite": 4,
+            "prix_unitaire": 266.06
+        },
+        {
+            "produit_id": "P6520",
+            "nom": "Refined Metal Pants",
+            "quantite": 4,
+            "prix_unitaire": 217.62
+        },
+        {
+            "produit_id": "P1384",
+            "nom": "Unbranded Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 270.91
+        }
+    ],
+    "date_commande": "2025-03-25T18:08:39",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

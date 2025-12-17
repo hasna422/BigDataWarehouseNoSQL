@@ -1,0 +1,19 @@
+{
+    "order_id": 290176,
+    "client_id": 6188,
+    "produits": [
+        {
+            "produit_id": "P8105",
+            "nom": "Awesome Plastic Computer",
+            "quantite": 2,
+            "prix_unitaire": 389.97
+        }
+    ],
+    "date_commande": "2024-09-03T00:01:13",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "688 Santa Cruz",
+        "ville": "State College"
+    }
+}

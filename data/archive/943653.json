@@ -1,0 +1,19 @@
+{
+    "order_id": 943653,
+    "client_id": 7218,
+    "produits": [
+        {
+            "produit_id": "P8324",
+            "nom": "Fantastic Concrete Chair",
+            "quantite": 1,
+            "prix_unitaire": 215.39
+        }
+    ],
+    "date_commande": "2024-03-23T12:49:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "359 Ambrose Bierce",
+        "ville": "Plant City"
+    }
+}

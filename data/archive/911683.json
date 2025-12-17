@@ -1,0 +1,25 @@
+{
+    "order_id": 911683,
+    "client_id": 4873,
+    "produits": [
+        {
+            "produit_id": "P1762",
+            "nom": "Generic Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 402.27
+        },
+        {
+            "produit_id": "P4130",
+            "nom": "Awesome Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 395.12
+        }
+    ],
+    "date_commande": "2024-09-11T13:52:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1041 Grattan",
+        "ville": "Schererville"
+    }
+}

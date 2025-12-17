@@ -1,0 +1,19 @@
+{
+    "order_id": 890880,
+    "client_id": 2220,
+    "produits": [
+        {
+            "produit_id": "P1204",
+            "nom": "Handcrafted Concrete Soap",
+            "quantite": 2,
+            "prix_unitaire": 205.72
+        }
+    ],
+    "date_commande": "2023-11-25T05:42:48",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "448 Boalt",
+        "ville": "Youngstown"
+    }
+}

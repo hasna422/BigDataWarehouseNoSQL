@@ -1,0 +1,25 @@
+{
+    "order_id": 536115,
+    "client_id": 7047,
+    "produits": [
+        {
+            "produit_id": "P0915",
+            "nom": "Generic Steel Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 318.35
+        },
+        {
+            "produit_id": "P8805",
+            "nom": "Sleek Steel Pizza",
+            "quantite": 3,
+            "prix_unitaire": 51.67
+        }
+    ],
+    "date_commande": "2023-06-15T06:08:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "95 Dorman",
+        "ville": "Rolling Meadows"
+    }
+}

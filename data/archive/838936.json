@@ -1,0 +1,19 @@
+{
+    "order_id": 838936,
+    "client_id": 1580,
+    "produits": [
+        {
+            "produit_id": "P1489",
+            "nom": "Ergonomic Cotton Shoes",
+            "quantite": 5,
+            "prix_unitaire": 313.42
+        }
+    ],
+    "date_commande": "2023-07-18T23:17:35",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1393 Cordelia",
+        "ville": "Bayonne"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 265604,
+    "client_id": 8436,
+    "produits": [
+        {
+            "produit_id": "P3800",
+            "nom": "Practical Shoes",
+            "quantite": 5,
+            "prix_unitaire": 382.92
+        }
+    ],
+    "date_commande": "2024-09-19T09:46:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "64 Verdi",
+        "ville": "Copperas Cove"
+    }
+}

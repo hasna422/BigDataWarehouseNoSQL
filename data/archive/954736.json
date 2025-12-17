@@ -1,0 +1,19 @@
+{
+    "order_id": 954736,
+    "client_id": 1935,
+    "produits": [
+        {
+            "produit_id": "P5500",
+            "nom": "For repair Bacon",
+            "quantite": 4,
+            "prix_unitaire": 126.48
+        }
+    ],
+    "date_commande": "2024-03-09T07:06:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "666 Dorland",
+        "ville": "Brawley"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 820839,
+    "client_id": 9278,
+    "produits": [
+        {
+            "produit_id": "P3982",
+            "nom": "Handcrafted Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 193.62
+        }
+    ],
+    "date_commande": "2024-11-03T22:49:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1372 Opalo",
+        "ville": "Lemon Grove"
+    }
+}

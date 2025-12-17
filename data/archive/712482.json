@@ -1,0 +1,15 @@
+{
+    "order_id": 712482,
+    "client_id": 6016,
+    "produits": [
+        {
+            "produit_id": "P3041",
+            "nom": "Ergonomic Wooden Chips",
+            "quantite": 5,
+            "prix_unitaire": 40.7
+        }
+    ],
+    "date_commande": "2023-12-28T21:02:53",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

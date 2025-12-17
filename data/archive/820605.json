@@ -1,0 +1,31 @@
+{
+    "order_id": 820605,
+    "client_id": 1755,
+    "produits": [
+        {
+            "produit_id": "P5028",
+            "nom": "Licensed Cheese",
+            "quantite": 3,
+            "prix_unitaire": 52.61
+        },
+        {
+            "produit_id": "P6932",
+            "nom": "Rustic Soft Hat",
+            "quantite": 4,
+            "prix_unitaire": 436.41
+        },
+        {
+            "produit_id": "P8526",
+            "nom": "New Chair",
+            "quantite": 5,
+            "prix_unitaire": 441.31
+        }
+    ],
+    "date_commande": "2025-02-01T16:25:29",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1147 Nantucket",
+        "ville": "Sahuarita"
+    }
+}

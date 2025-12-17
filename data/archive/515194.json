@@ -1,0 +1,21 @@
+{
+    "order_id": 515194,
+    "client_id": 3044,
+    "produits": [
+        {
+            "produit_id": "P1420",
+            "nom": "Unbranded Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 403.97
+        },
+        {
+            "produit_id": "P5163",
+            "nom": "Generic Steel Bike",
+            "quantite": 2,
+            "prix_unitaire": 165.33
+        }
+    ],
+    "date_commande": "2023-08-29T11:10:47",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

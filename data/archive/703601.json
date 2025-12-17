@@ -1,0 +1,25 @@
+{
+    "order_id": 703601,
+    "client_id": 7950,
+    "produits": [
+        {
+            "produit_id": "P6547",
+            "nom": "Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 119.15
+        },
+        {
+            "produit_id": "P3961",
+            "nom": "Ergonomic Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 21.15
+        }
+    ],
+    "date_commande": "2023-11-15T23:51:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "87 Varennes",
+        "ville": "Methuen"
+    }
+}

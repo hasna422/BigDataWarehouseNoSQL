@@ -1,0 +1,31 @@
+{
+    "order_id": 780632,
+    "client_id": 3586,
+    "produits": [
+        {
+            "produit_id": "P5972",
+            "nom": "Handmade Fish",
+            "quantite": 5,
+            "prix_unitaire": 290.3
+        },
+        {
+            "produit_id": "P9782",
+            "nom": "Licensed Soft Salad",
+            "quantite": 4,
+            "prix_unitaire": 379.9
+        },
+        {
+            "produit_id": "P1145",
+            "nom": "New Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 391.53
+        }
+    ],
+    "date_commande": "2023-12-10T23:19:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "216 Prentiss",
+        "ville": "Soledad"
+    }
+}

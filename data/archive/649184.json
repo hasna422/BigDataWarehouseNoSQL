@@ -1,0 +1,15 @@
+{
+    "order_id": 649184,
+    "client_id": 2264,
+    "produits": [
+        {
+            "produit_id": "P6526",
+            "nom": "Unbranded Soft Shoes",
+            "quantite": 1,
+            "prix_unitaire": 346.46
+        }
+    ],
+    "date_commande": "2023-10-01T18:20:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

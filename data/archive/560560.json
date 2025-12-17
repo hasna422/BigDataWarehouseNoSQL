@@ -1,0 +1,25 @@
+{
+    "order_id": 560560,
+    "client_id": 4565,
+    "produits": [
+        {
+            "produit_id": "P2025",
+            "nom": "Intelligent Steel Hat",
+            "quantite": 2,
+            "prix_unitaire": 227.65
+        },
+        {
+            "produit_id": "P6196",
+            "nom": "Tasty Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 43.94
+        }
+    ],
+    "date_commande": "2023-07-04T21:21:35",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "760 Wright",
+        "ville": "San Pablo"
+    }
+}

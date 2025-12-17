@@ -1,0 +1,15 @@
+{
+    "order_id": 576540,
+    "client_id": 9138,
+    "produits": [
+        {
+            "produit_id": "P0003",
+            "nom": "Practical Concrete Cheese",
+            "quantite": 2,
+            "prix_unitaire": 278.18
+        }
+    ],
+    "date_commande": "2024-02-10T17:12:59",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

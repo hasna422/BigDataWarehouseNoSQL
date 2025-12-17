@@ -1,0 +1,31 @@
+{
+    "order_id": 429259,
+    "client_id": 5922,
+    "produits": [
+        {
+            "produit_id": "P7540",
+            "nom": "Practical Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 390.61
+        },
+        {
+            "produit_id": "P3870",
+            "nom": "Tasty Metal Fish",
+            "quantite": 5,
+            "prix_unitaire": 139.72
+        },
+        {
+            "produit_id": "P2590",
+            "nom": "Handcrafted Wooden Chicken",
+            "quantite": 2,
+            "prix_unitaire": 392.59
+        }
+    ],
+    "date_commande": "2025-03-08T07:24:39",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "463 Bayview Park",
+        "ville": "McHenry"
+    }
+}

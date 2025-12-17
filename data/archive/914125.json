@@ -1,0 +1,21 @@
+{
+    "order_id": 914125,
+    "client_id": 6298,
+    "produits": [
+        {
+            "produit_id": "P6933",
+            "nom": "Small Table",
+            "quantite": 1,
+            "prix_unitaire": 425.33
+        },
+        {
+            "produit_id": "P4812",
+            "nom": "Handcrafted Wooden Cheese",
+            "quantite": 5,
+            "prix_unitaire": 370.37
+        }
+    ],
+    "date_commande": "2024-08-11T21:01:32",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

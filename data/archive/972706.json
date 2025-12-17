@@ -1,0 +1,31 @@
+{
+    "order_id": 972706,
+    "client_id": 9233,
+    "produits": [
+        {
+            "produit_id": "P3964",
+            "nom": "Ergonomic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 290.08
+        },
+        {
+            "produit_id": "P9285",
+            "nom": "Metal Cheese",
+            "quantite": 5,
+            "prix_unitaire": 472.82
+        },
+        {
+            "produit_id": "P0810",
+            "nom": "Rustic Cotton Salad",
+            "quantite": 5,
+            "prix_unitaire": 353.76
+        }
+    ],
+    "date_commande": "2023-11-16T11:11:42",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1290 Gorgas",
+        "ville": "Del Rio"
+    }
+}

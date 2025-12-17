@@ -1,0 +1,19 @@
+{
+    "order_id": 412586,
+    "client_id": 2153,
+    "produits": [
+        {
+            "produit_id": "P0453",
+            "nom": "Gently Used Plastic Chips",
+            "quantite": 5,
+            "prix_unitaire": 468.59
+        }
+    ],
+    "date_commande": "2024-08-22T05:22:05",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1277 Pratt",
+        "ville": "Junction City"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 771467,
+    "client_id": 7049,
+    "produits": [
+        {
+            "produit_id": "P4452",
+            "nom": "For repair Wooden Ball",
+            "quantite": 3,
+            "prix_unitaire": 72.88
+        },
+        {
+            "produit_id": "P7895",
+            "nom": "Rustic Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 18.47
+        }
+    ],
+    "date_commande": "2024-01-20T22:23:00",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

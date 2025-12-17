@@ -1,0 +1,31 @@
+{
+    "order_id": 707625,
+    "client_id": 9503,
+    "produits": [
+        {
+            "produit_id": "P1689",
+            "nom": "Gently Used Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 20.13
+        },
+        {
+            "produit_id": "P2692",
+            "nom": "Sleek Fresh Mouse",
+            "quantite": 4,
+            "prix_unitaire": 77.6
+        },
+        {
+            "produit_id": "P4630",
+            "nom": "Handmade Plastic Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 88.41
+        }
+    ],
+    "date_commande": "2024-04-13T02:42:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1126 Shields",
+        "ville": "Helena"
+    }
+}

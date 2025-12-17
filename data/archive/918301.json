@@ -1,0 +1,25 @@
+{
+    "order_id": 918301,
+    "client_id": 6335,
+    "produits": [
+        {
+            "produit_id": "P1582",
+            "nom": "Unbranded Towels",
+            "quantite": 4,
+            "prix_unitaire": 183.79
+        },
+        {
+            "produit_id": "P4102",
+            "nom": "Gently Used Car",
+            "quantite": 3,
+            "prix_unitaire": 81.37
+        }
+    ],
+    "date_commande": "2025-01-07T07:11:40",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "737 Toyon",
+        "ville": "Clemmons"
+    }
+}

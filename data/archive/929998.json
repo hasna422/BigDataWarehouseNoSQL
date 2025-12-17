@@ -1,0 +1,27 @@
+{
+    "order_id": 929998,
+    "client_id": 3264,
+    "produits": [
+        {
+            "produit_id": "P2578",
+            "nom": "Rustic Granite Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 115.14
+        },
+        {
+            "produit_id": "P7500",
+            "nom": "Used Rubber Shirt",
+            "quantite": 5,
+            "prix_unitaire": 450.79
+        },
+        {
+            "produit_id": "P5127",
+            "nom": "Small Fresh Cheese",
+            "quantite": 5,
+            "prix_unitaire": 124.96
+        }
+    ],
+    "date_commande": "2024-08-07T21:31:26",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

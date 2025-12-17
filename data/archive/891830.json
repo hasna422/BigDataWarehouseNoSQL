@@ -1,0 +1,21 @@
+{
+    "order_id": 891830,
+    "client_id": 1947,
+    "produits": [
+        {
+            "produit_id": "P5463",
+            "nom": "Gently Used Plastic Salad",
+            "quantite": 3,
+            "prix_unitaire": 421.3
+        },
+        {
+            "produit_id": "P9423",
+            "nom": "Refined Granite Pants",
+            "quantite": 5,
+            "prix_unitaire": 327.17
+        }
+    ],
+    "date_commande": "2025-02-09T20:51:33",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 632067,
+    "client_id": 7746,
+    "produits": [
+        {
+            "produit_id": "P4445",
+            "nom": "For repair Wooden Fish",
+            "quantite": 1,
+            "prix_unitaire": 252.07
+        }
+    ],
+    "date_commande": "2023-12-17T09:44:31",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1232 Macalla",
+        "ville": "Suffolk"
+    }
+}

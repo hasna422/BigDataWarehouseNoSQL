@@ -1,0 +1,21 @@
+{
+    "order_id": 910906,
+    "client_id": 8078,
+    "produits": [
+        {
+            "produit_id": "P8015",
+            "nom": "Fantastic Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 376.85
+        },
+        {
+            "produit_id": "P2669",
+            "nom": "Unbranded Cotton Salad",
+            "quantite": 4,
+            "prix_unitaire": 441.18
+        }
+    ],
+    "date_commande": "2023-11-16T09:29:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

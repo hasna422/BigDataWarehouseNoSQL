@@ -1,0 +1,25 @@
+{
+    "order_id": 506876,
+    "client_id": 8939,
+    "produits": [
+        {
+            "produit_id": "P6091",
+            "nom": "Granite Pants",
+            "quantite": 4,
+            "prix_unitaire": 492.12
+        },
+        {
+            "produit_id": "P6754",
+            "nom": "Intelligent Rubber Towels",
+            "quantite": 1,
+            "prix_unitaire": 310.3
+        }
+    ],
+    "date_commande": "2025-05-08T21:24:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "761 Northern",
+        "ville": "Havelock"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 439119,
+    "client_id": 2409,
+    "produits": [
+        {
+            "produit_id": "P9574",
+            "nom": "Tasty Concrete Shoes",
+            "quantite": 4,
+            "prix_unitaire": 107.55
+        },
+        {
+            "produit_id": "P5440",
+            "nom": "Intelligent Fresh Cheese",
+            "quantite": 3,
+            "prix_unitaire": 142.18
+        },
+        {
+            "produit_id": "P9317",
+            "nom": "Intelligent Metal Gloves",
+            "quantite": 1,
+            "prix_unitaire": 186.31
+        }
+    ],
+    "date_commande": "2025-03-01T07:46:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "397 Harriet",
+        "ville": "Deerfield Beach"
+    }
+}

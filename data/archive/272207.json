@@ -1,0 +1,21 @@
+{
+    "order_id": 272207,
+    "client_id": 7877,
+    "produits": [
+        {
+            "produit_id": "P8060",
+            "nom": "Small Soft Shoes",
+            "quantite": 5,
+            "prix_unitaire": 226.63
+        },
+        {
+            "produit_id": "P0000",
+            "nom": "Unbranded Cotton Computer",
+            "quantite": 3,
+            "prix_unitaire": 477.59
+        }
+    ],
+    "date_commande": "2023-08-06T16:48:23",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 819081,
+    "client_id": 7526,
+    "produits": [
+        {
+            "produit_id": "P0572",
+            "nom": "Ergonomic Concrete Shoes",
+            "quantite": 4,
+            "prix_unitaire": 418.16
+        },
+        {
+            "produit_id": "P6588",
+            "nom": "Incredible Frozen Chips",
+            "quantite": 4,
+            "prix_unitaire": 396.82
+        }
+    ],
+    "date_commande": "2023-06-22T09:28:12",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

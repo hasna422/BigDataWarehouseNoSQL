@@ -1,0 +1,19 @@
+{
+    "order_id": 242588,
+    "client_id": 5700,
+    "produits": [
+        {
+            "produit_id": "P8091",
+            "nom": "Used Soft Computer",
+            "quantite": 1,
+            "prix_unitaire": 103.75
+        }
+    ],
+    "date_commande": "2024-07-06T06:59:41",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1222 Havenside",
+        "ville": "Clearfield"
+    }
+}

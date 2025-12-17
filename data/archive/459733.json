@@ -1,0 +1,31 @@
+{
+    "order_id": 459733,
+    "client_id": 2536,
+    "produits": [
+        {
+            "produit_id": "P8300",
+            "nom": "Awesome Rubber Chicken",
+            "quantite": 5,
+            "prix_unitaire": 257.17
+        },
+        {
+            "produit_id": "P2283",
+            "nom": "Refined Wooden Pants",
+            "quantite": 5,
+            "prix_unitaire": 25.86
+        },
+        {
+            "produit_id": "P2362",
+            "nom": "Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 370.06
+        }
+    ],
+    "date_commande": "2025-01-31T09:13:54",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "344 Ardenwood",
+        "ville": "Hot Springs"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 620609,
+    "client_id": 9127,
+    "produits": [
+        {
+            "produit_id": "P8313",
+            "nom": "Gently Used Fresh Salad",
+            "quantite": 2,
+            "prix_unitaire": 343.66
+        }
+    ],
+    "date_commande": "2024-02-28T09:40:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1200 Kendall",
+        "ville": "Morton Grove"
+    }
+}

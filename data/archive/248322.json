@@ -1,0 +1,25 @@
+{
+    "order_id": 248322,
+    "client_id": 3504,
+    "produits": [
+        {
+            "produit_id": "P1852",
+            "nom": "Fantastic Table",
+            "quantite": 4,
+            "prix_unitaire": 122.25
+        },
+        {
+            "produit_id": "P7938",
+            "nom": "Sleek Chair",
+            "quantite": 1,
+            "prix_unitaire": 106.96
+        }
+    ],
+    "date_commande": "2023-10-29T01:14:50",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "24 Anderson",
+        "ville": "Hillsboro"
+    }
+}

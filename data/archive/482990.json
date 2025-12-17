@@ -1,0 +1,27 @@
+{
+    "order_id": 482990,
+    "client_id": 1651,
+    "produits": [
+        {
+            "produit_id": "P8437",
+            "nom": "Fantastic Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 124.47
+        },
+        {
+            "produit_id": "P5339",
+            "nom": "Small Salad",
+            "quantite": 5,
+            "prix_unitaire": 186.42
+        },
+        {
+            "produit_id": "P7804",
+            "nom": "Gorgeous Ball",
+            "quantite": 5,
+            "prix_unitaire": 191.6
+        }
+    ],
+    "date_commande": "2024-05-13T14:06:52",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 115190,
+    "client_id": 9166,
+    "produits": [
+        {
+            "produit_id": "P5931",
+            "nom": "Sleek Metal Chips",
+            "quantite": 3,
+            "prix_unitaire": 94.24
+        },
+        {
+            "produit_id": "P1994",
+            "nom": "Intelligent Cotton Shirt",
+            "quantite": 2,
+            "prix_unitaire": 148.23
+        }
+    ],
+    "date_commande": "2023-11-04T19:57:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1150 Todd",
+        "ville": "West Memphis"
+    }
+}

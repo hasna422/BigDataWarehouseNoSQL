@@ -1,0 +1,25 @@
+{
+    "order_id": 708557,
+    "client_id": 9698,
+    "produits": [
+        {
+            "produit_id": "P6549",
+            "nom": "New Frozen Cheese",
+            "quantite": 1,
+            "prix_unitaire": 79.97
+        },
+        {
+            "produit_id": "P0629",
+            "nom": "Refined Soft Pizza",
+            "quantite": 3,
+            "prix_unitaire": 354.2
+        }
+    ],
+    "date_commande": "2023-07-28T05:28:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "472 Yerba Buena",
+        "ville": "Jackson"
+    }
+}

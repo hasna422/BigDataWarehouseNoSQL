@@ -1,0 +1,31 @@
+{
+    "order_id": 830721,
+    "client_id": 6624,
+    "produits": [
+        {
+            "produit_id": "P4659",
+            "nom": "Gently Used Cotton Bike",
+            "quantite": 4,
+            "prix_unitaire": 409.44
+        },
+        {
+            "produit_id": "P3181",
+            "nom": "Unbranded Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 56.36
+        },
+        {
+            "produit_id": "P7062",
+            "nom": "Ergonomic Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 455.05
+        }
+    ],
+    "date_commande": "2024-08-23T02:50:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "665 Baden",
+        "ville": "Garland"
+    }
+}

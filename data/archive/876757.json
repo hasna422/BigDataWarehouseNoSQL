@@ -1,0 +1,15 @@
+{
+    "order_id": 876757,
+    "client_id": 1612,
+    "produits": [
+        {
+            "produit_id": "P8464",
+            "nom": "Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 275.37
+        }
+    ],
+    "date_commande": "2025-01-16T06:04:27",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

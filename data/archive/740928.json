@@ -1,0 +1,15 @@
+{
+    "order_id": 740928,
+    "client_id": 9867,
+    "produits": [
+        {
+            "produit_id": "P9508",
+            "nom": "Awesome Fresh Bacon",
+            "quantite": 3,
+            "prix_unitaire": 186.55
+        }
+    ],
+    "date_commande": "2024-09-16T00:36:51",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

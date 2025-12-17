@@ -1,0 +1,25 @@
+{
+    "order_id": 228076,
+    "client_id": 7862,
+    "produits": [
+        {
+            "produit_id": "P6928",
+            "nom": "Small Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 237.77
+        },
+        {
+            "produit_id": "P7327",
+            "nom": "Handmade Bike",
+            "quantite": 4,
+            "prix_unitaire": 123.08
+        }
+    ],
+    "date_commande": "2024-06-10T10:54:12",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "10 Jessie East",
+        "ville": "Haltom City"
+    }
+}

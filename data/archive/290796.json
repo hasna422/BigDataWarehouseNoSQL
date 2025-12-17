@@ -1,0 +1,25 @@
+{
+    "order_id": 290796,
+    "client_id": 5182,
+    "produits": [
+        {
+            "produit_id": "P8559",
+            "nom": "Tasty Ball",
+            "quantite": 4,
+            "prix_unitaire": 417.63
+        },
+        {
+            "produit_id": "P8085",
+            "nom": "Fantastic Plastic Salad",
+            "quantite": 5,
+            "prix_unitaire": 296.22
+        }
+    ],
+    "date_commande": "2024-05-17T06:58:48",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "10 Shaw",
+        "ville": "Munster"
+    }
+}

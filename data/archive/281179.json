@@ -1,0 +1,25 @@
+{
+    "order_id": 281179,
+    "client_id": 6313,
+    "produits": [
+        {
+            "produit_id": "P7325",
+            "nom": "Unbranded Granite Chair",
+            "quantite": 5,
+            "prix_unitaire": 100.98
+        },
+        {
+            "produit_id": "P9909",
+            "nom": "Generic Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 381.42
+        }
+    ],
+    "date_commande": "2024-07-17T05:48:20",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "397 Upper",
+        "ville": "Wadsworth"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 471467,
+    "client_id": 9318,
+    "produits": [
+        {
+            "produit_id": "P1895",
+            "nom": "Wooden Fish",
+            "quantite": 2,
+            "prix_unitaire": 310.59
+        },
+        {
+            "produit_id": "P7292",
+            "nom": "Soft Bike",
+            "quantite": 4,
+            "prix_unitaire": 343.22
+        },
+        {
+            "produit_id": "P0540",
+            "nom": "Gorgeous Chips",
+            "quantite": 1,
+            "prix_unitaire": 141.14
+        }
+    ],
+    "date_commande": "2023-07-22T00:42:00",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "383 Randolph",
+        "ville": "Tullahoma"
+    }
+}

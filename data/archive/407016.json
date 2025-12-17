@@ -1,0 +1,25 @@
+{
+    "order_id": 407016,
+    "client_id": 8759,
+    "produits": [
+        {
+            "produit_id": "P7941",
+            "nom": "Incredible Wooden Car",
+            "quantite": 4,
+            "prix_unitaire": 40.6
+        },
+        {
+            "produit_id": "P5470",
+            "nom": "Soft Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 421.62
+        }
+    ],
+    "date_commande": "2024-02-18T00:33:53",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "211 Davis",
+        "ville": "Creve Coeur"
+    }
+}

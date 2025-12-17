@@ -1,0 +1,19 @@
+{
+    "order_id": 152476,
+    "client_id": 6058,
+    "produits": [
+        {
+            "produit_id": "P2886",
+            "nom": "Small Wooden Towels",
+            "quantite": 2,
+            "prix_unitaire": 253.43
+        }
+    ],
+    "date_commande": "2024-12-11T13:01:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "214 Wabash",
+        "ville": "Lenexa"
+    }
+}

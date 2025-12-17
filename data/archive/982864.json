@@ -1,0 +1,25 @@
+{
+    "order_id": 982864,
+    "client_id": 6532,
+    "produits": [
+        {
+            "produit_id": "P7402",
+            "nom": "Handmade Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 480.42
+        },
+        {
+            "produit_id": "P6218",
+            "nom": "Handcrafted Fresh Pizza",
+            "quantite": 5,
+            "prix_unitaire": 33.22
+        }
+    ],
+    "date_commande": "2025-01-23T06:15:01",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1078 Jennings",
+        "ville": "Ridgewood"
+    }
+}

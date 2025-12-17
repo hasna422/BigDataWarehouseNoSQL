@@ -1,0 +1,25 @@
+{
+    "order_id": 782236,
+    "client_id": 9699,
+    "produits": [
+        {
+            "produit_id": "P3750",
+            "nom": "Gently Used Concrete Salad",
+            "quantite": 2,
+            "prix_unitaire": 379.51
+        },
+        {
+            "produit_id": "P2613",
+            "nom": "Handcrafted Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 157.05
+        }
+    ],
+    "date_commande": "2023-10-15T12:08:18",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "726 Merchant",
+        "ville": "Fredericksburg"
+    }
+}

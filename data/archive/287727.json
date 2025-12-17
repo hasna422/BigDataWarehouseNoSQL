@@ -1,0 +1,21 @@
+{
+    "order_id": 287727,
+    "client_id": 6991,
+    "produits": [
+        {
+            "produit_id": "P5950",
+            "nom": "Fantastic Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 344.81
+        },
+        {
+            "produit_id": "P1435",
+            "nom": "Refined Plastic Ball",
+            "quantite": 4,
+            "prix_unitaire": 495.72
+        }
+    ],
+    "date_commande": "2024-04-14T19:29:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

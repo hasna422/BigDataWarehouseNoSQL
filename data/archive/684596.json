@@ -1,0 +1,27 @@
+{
+    "order_id": 684596,
+    "client_id": 5060,
+    "produits": [
+        {
+            "produit_id": "P4309",
+            "nom": "Practical Concrete Fish",
+            "quantite": 2,
+            "prix_unitaire": 37.45
+        },
+        {
+            "produit_id": "P9701",
+            "nom": "Handmade Plastic Chair",
+            "quantite": 3,
+            "prix_unitaire": 132.68
+        },
+        {
+            "produit_id": "P4946",
+            "nom": "Fantastic Concrete Gloves",
+            "quantite": 1,
+            "prix_unitaire": 250.01
+        }
+    ],
+    "date_commande": "2023-11-18T09:21:09",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

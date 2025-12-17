@@ -1,0 +1,27 @@
+{
+    "order_id": 441932,
+    "client_id": 8092,
+    "produits": [
+        {
+            "produit_id": "P2481",
+            "nom": "Handmade Wooden Towels",
+            "quantite": 1,
+            "prix_unitaire": 442.11
+        },
+        {
+            "produit_id": "P7741",
+            "nom": "Unbranded Steel Pants",
+            "quantite": 5,
+            "prix_unitaire": 259.08
+        },
+        {
+            "produit_id": "P4580",
+            "nom": "Unbranded Granite Computer",
+            "quantite": 2,
+            "prix_unitaire": 87.97
+        }
+    ],
+    "date_commande": "2024-07-08T20:37:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

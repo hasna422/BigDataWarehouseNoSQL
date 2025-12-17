@@ -1,0 +1,25 @@
+{
+    "order_id": 841331,
+    "client_id": 7437,
+    "produits": [
+        {
+            "produit_id": "P5874",
+            "nom": "New Frozen Salad",
+            "quantite": 1,
+            "prix_unitaire": 368.57
+        },
+        {
+            "produit_id": "P4011",
+            "nom": "Incredible Frozen Gloves",
+            "quantite": 3,
+            "prix_unitaire": 83.99
+        }
+    ],
+    "date_commande": "2024-02-16T02:45:50",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "295 Stow Lake",
+        "ville": "Hattiesburg"
+    }
+}

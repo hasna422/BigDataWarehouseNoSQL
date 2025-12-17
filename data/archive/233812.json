@@ -1,0 +1,31 @@
+{
+    "order_id": 233812,
+    "client_id": 2722,
+    "produits": [
+        {
+            "produit_id": "P4881",
+            "nom": "Sleek Metal Shoes",
+            "quantite": 5,
+            "prix_unitaire": 458.04
+        },
+        {
+            "produit_id": "P3746",
+            "nom": "Handcrafted Steel Soap",
+            "quantite": 5,
+            "prix_unitaire": 287.67
+        },
+        {
+            "produit_id": "P9267",
+            "nom": "Small Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 268.98
+        }
+    ],
+    "date_commande": "2024-03-12T13:12:08",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "217 Fisher",
+        "ville": "Ames"
+    }
+}

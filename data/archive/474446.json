@@ -1,0 +1,19 @@
+{
+    "order_id": 474446,
+    "client_id": 5666,
+    "produits": [
+        {
+            "produit_id": "P3852",
+            "nom": "Ergonomic Concrete Hat",
+            "quantite": 1,
+            "prix_unitaire": 19.33
+        }
+    ],
+    "date_commande": "2025-05-21T21:05:10",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "951 Redfield",
+        "ville": "St. Clair Shores"
+    }
+}

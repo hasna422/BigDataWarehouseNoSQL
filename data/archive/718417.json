@@ -1,0 +1,25 @@
+{
+    "order_id": 718417,
+    "client_id": 4594,
+    "produits": [
+        {
+            "produit_id": "P8397",
+            "nom": "Generic Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 192.91
+        },
+        {
+            "produit_id": "P2613",
+            "nom": "New Plastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 122.43
+        }
+    ],
+    "date_commande": "2024-01-29T15:49:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "938 West Halleck",
+        "ville": "Ventura"
+    }
+}

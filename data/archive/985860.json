@@ -1,0 +1,15 @@
+{
+    "order_id": 985860,
+    "client_id": 1423,
+    "produits": [
+        {
+            "produit_id": "P2658",
+            "nom": "Handmade Frozen Computer",
+            "quantite": 2,
+            "prix_unitaire": 221.8
+        }
+    ],
+    "date_commande": "2024-05-15T14:27:41",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

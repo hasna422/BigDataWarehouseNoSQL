@@ -1,0 +1,15 @@
+{
+    "order_id": 779415,
+    "client_id": 5294,
+    "produits": [
+        {
+            "produit_id": "P6614",
+            "nom": "Steel Chips",
+            "quantite": 2,
+            "prix_unitaire": 439.26
+        }
+    ],
+    "date_commande": "2024-03-12T12:37:17",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

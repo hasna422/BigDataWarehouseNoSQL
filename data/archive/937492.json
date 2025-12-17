@@ -1,0 +1,31 @@
+{
+    "order_id": 937492,
+    "client_id": 7386,
+    "produits": [
+        {
+            "produit_id": "P4664",
+            "nom": "Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 106.34
+        },
+        {
+            "produit_id": "P4993",
+            "nom": "Tasty Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 457.63
+        },
+        {
+            "produit_id": "P1548",
+            "nom": "Intelligent Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 203.39
+        }
+    ],
+    "date_commande": "2024-10-08T13:38:52",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1157 Kern",
+        "ville": "Morristown"
+    }
+}

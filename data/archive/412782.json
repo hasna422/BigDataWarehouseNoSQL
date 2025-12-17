@@ -1,0 +1,19 @@
+{
+    "order_id": 412782,
+    "client_id": 6447,
+    "produits": [
+        {
+            "produit_id": "P4821",
+            "nom": "Handmade Frozen Chips",
+            "quantite": 2,
+            "prix_unitaire": 33.98
+        }
+    ],
+    "date_commande": "2024-11-15T22:03:15",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1093 Dellbrook",
+        "ville": "New Brunswick"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 780669,
+    "client_id": 6744,
+    "produits": [
+        {
+            "produit_id": "P5427",
+            "nom": "New Soft Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 490.99
+        },
+        {
+            "produit_id": "P6216",
+            "nom": "Handmade Concrete Cheese",
+            "quantite": 1,
+            "prix_unitaire": 80.93
+        }
+    ],
+    "date_commande": "2024-06-14T10:23:53",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "941 Urbano",
+        "ville": "Pharr"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 941849,
+    "client_id": 7835,
+    "produits": [
+        {
+            "produit_id": "P7631",
+            "nom": "Incredible Rubber Bike",
+            "quantite": 2,
+            "prix_unitaire": 411.86
+        },
+        {
+            "produit_id": "P4392",
+            "nom": "Frozen Chicken",
+            "quantite": 5,
+            "prix_unitaire": 17.77
+        }
+    ],
+    "date_commande": "2024-01-29T20:21:28",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1262 Harvard",
+        "ville": "Wadsworth"
+    }
+}

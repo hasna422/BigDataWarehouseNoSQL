@@ -1,0 +1,21 @@
+{
+    "order_id": 887552,
+    "client_id": 2738,
+    "produits": [
+        {
+            "produit_id": "P1014",
+            "nom": "Small Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 321.25
+        },
+        {
+            "produit_id": "P9343",
+            "nom": "Fantastic Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 253.99
+        }
+    ],
+    "date_commande": "2023-11-17T08:23:51",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

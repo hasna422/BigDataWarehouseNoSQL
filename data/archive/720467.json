@@ -1,0 +1,15 @@
+{
+    "order_id": 720467,
+    "client_id": 5276,
+    "produits": [
+        {
+            "produit_id": "P4872",
+            "nom": "Unbranded Wooden Shirt",
+            "quantite": 4,
+            "prix_unitaire": 24.85
+        }
+    ],
+    "date_commande": "2024-10-29T11:03:40",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

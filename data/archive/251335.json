@@ -1,0 +1,27 @@
+{
+    "order_id": 251335,
+    "client_id": 8925,
+    "produits": [
+        {
+            "produit_id": "P9798",
+            "nom": "Handcrafted Metal Tuna",
+            "quantite": 5,
+            "prix_unitaire": 258.16
+        },
+        {
+            "produit_id": "P6436",
+            "nom": "Practical Frozen Chair",
+            "quantite": 1,
+            "prix_unitaire": 257.69
+        },
+        {
+            "produit_id": "P4031",
+            "nom": "Intelligent Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 341.94
+        }
+    ],
+    "date_commande": "2024-05-05T02:57:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

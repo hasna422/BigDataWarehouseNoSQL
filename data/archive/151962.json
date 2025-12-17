@@ -1,0 +1,27 @@
+{
+    "order_id": 151962,
+    "client_id": 9411,
+    "produits": [
+        {
+            "produit_id": "P6922",
+            "nom": "Rustic Granite Table",
+            "quantite": 1,
+            "prix_unitaire": 360.62
+        },
+        {
+            "produit_id": "P0574",
+            "nom": "Small Rubber Soap",
+            "quantite": 2,
+            "prix_unitaire": 77.25
+        },
+        {
+            "produit_id": "P7095",
+            "nom": "Practical Plastic Bacon",
+            "quantite": 4,
+            "prix_unitaire": 411.36
+        }
+    ],
+    "date_commande": "2023-06-26T08:24:05",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

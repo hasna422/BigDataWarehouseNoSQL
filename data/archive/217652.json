@@ -1,0 +1,27 @@
+{
+    "order_id": 217652,
+    "client_id": 5348,
+    "produits": [
+        {
+            "produit_id": "P2932",
+            "nom": "Handcrafted Soft Pants",
+            "quantite": 4,
+            "prix_unitaire": 127.3
+        },
+        {
+            "produit_id": "P3640",
+            "nom": "Gently Used Concrete Fish",
+            "quantite": 3,
+            "prix_unitaire": 88.01
+        },
+        {
+            "produit_id": "P6241",
+            "nom": "Gorgeous Frozen Soap",
+            "quantite": 5,
+            "prix_unitaire": 258.41
+        }
+    ],
+    "date_commande": "2024-12-09T20:42:18",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

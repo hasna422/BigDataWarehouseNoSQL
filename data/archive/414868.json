@@ -1,0 +1,25 @@
+{
+    "order_id": 414868,
+    "client_id": 4012,
+    "produits": [
+        {
+            "produit_id": "P4419",
+            "nom": "Handcrafted Metal Table",
+            "quantite": 2,
+            "prix_unitaire": 172.46
+        },
+        {
+            "produit_id": "P8836",
+            "nom": "Ergonomic Metal Towels",
+            "quantite": 4,
+            "prix_unitaire": 25.47
+        }
+    ],
+    "date_commande": "2024-05-03T14:15:20",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "181 Linda",
+        "ville": "Dixon"
+    }
+}

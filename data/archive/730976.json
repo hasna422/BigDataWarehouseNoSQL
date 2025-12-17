@@ -1,0 +1,27 @@
+{
+    "order_id": 730976,
+    "client_id": 9826,
+    "produits": [
+        {
+            "produit_id": "P8397",
+            "nom": "Sleek Concrete Car",
+            "quantite": 4,
+            "prix_unitaire": 452.94
+        },
+        {
+            "produit_id": "P5026",
+            "nom": "New Shirt",
+            "quantite": 1,
+            "prix_unitaire": 456.27
+        },
+        {
+            "produit_id": "P9199",
+            "nom": "Unbranded Cotton Tuna",
+            "quantite": 2,
+            "prix_unitaire": 474.58
+        }
+    ],
+    "date_commande": "2024-08-31T02:27:17",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

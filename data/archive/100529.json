@@ -1,0 +1,31 @@
+{
+    "order_id": 100529,
+    "client_id": 5703,
+    "produits": [
+        {
+            "produit_id": "P3687",
+            "nom": "Gently Used Soft Table",
+            "quantite": 4,
+            "prix_unitaire": 489.49
+        },
+        {
+            "produit_id": "P4883",
+            "nom": "Small Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 88.86
+        },
+        {
+            "produit_id": "P1482",
+            "nom": "Generic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 342.61
+        }
+    ],
+    "date_commande": "2024-03-08T18:12:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "502 Mars",
+        "ville": "Farragut"
+    }
+}

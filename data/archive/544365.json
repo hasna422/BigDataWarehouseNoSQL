@@ -1,0 +1,31 @@
+{
+    "order_id": 544365,
+    "client_id": 6072,
+    "produits": [
+        {
+            "produit_id": "P3491",
+            "nom": "Handcrafted Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 189.41
+        },
+        {
+            "produit_id": "P9832",
+            "nom": "Practical Cheese",
+            "quantite": 5,
+            "prix_unitaire": 90.41
+        },
+        {
+            "produit_id": "P2459",
+            "nom": "Rustic Steel Fish",
+            "quantite": 3,
+            "prix_unitaire": 467.24
+        }
+    ],
+    "date_commande": "2025-03-15T22:58:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "679 Wool",
+        "ville": "Rutland"
+    }
+}

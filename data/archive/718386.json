@@ -1,0 +1,27 @@
+{
+    "order_id": 718386,
+    "client_id": 5543,
+    "produits": [
+        {
+            "produit_id": "P8596",
+            "nom": "Intelligent Cotton Chair",
+            "quantite": 1,
+            "prix_unitaire": 89.96
+        },
+        {
+            "produit_id": "P2741",
+            "nom": "Awesome Soft Chicken",
+            "quantite": 1,
+            "prix_unitaire": 154.28
+        },
+        {
+            "produit_id": "P8246",
+            "nom": "Incredible Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 154.05
+        }
+    ],
+    "date_commande": "2023-08-11T16:30:33",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 651592,
+    "client_id": 7786,
+    "produits": [
+        {
+            "produit_id": "P4786",
+            "nom": "Metal Shoes",
+            "quantite": 1,
+            "prix_unitaire": 426.61
+        },
+        {
+            "produit_id": "P8154",
+            "nom": "Salad",
+            "quantite": 4,
+            "prix_unitaire": 19.43
+        }
+    ],
+    "date_commande": "2024-08-08T08:05:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "885 Glenbrook",
+        "ville": "Apex"
+    }
+}

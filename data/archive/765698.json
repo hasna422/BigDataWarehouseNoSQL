@@ -1,0 +1,25 @@
+{
+    "order_id": 765698,
+    "client_id": 6237,
+    "produits": [
+        {
+            "produit_id": "P3073",
+            "nom": "Gorgeous Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 184.61
+        },
+        {
+            "produit_id": "P7241",
+            "nom": "Practical Wooden Chips",
+            "quantite": 4,
+            "prix_unitaire": 38.78
+        }
+    ],
+    "date_commande": "2025-02-22T22:29:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "940 Central Magazine",
+        "ville": "Pampa"
+    }
+}

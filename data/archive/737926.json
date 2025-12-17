@@ -1,0 +1,25 @@
+{
+    "order_id": 737926,
+    "client_id": 6733,
+    "produits": [
+        {
+            "produit_id": "P8780",
+            "nom": "Handcrafted Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 98.06
+        },
+        {
+            "produit_id": "P1283",
+            "nom": "Intelligent Plastic Shirt",
+            "quantite": 2,
+            "prix_unitaire": 145.29
+        }
+    ],
+    "date_commande": "2023-06-07T14:12:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "684 Lyon",
+        "ville": "Gardner"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 269551,
+    "client_id": 6004,
+    "produits": [
+        {
+            "produit_id": "P7931",
+            "nom": "Generic Plastic Pants",
+            "quantite": 5,
+            "prix_unitaire": 69.22
+        },
+        {
+            "produit_id": "P9253",
+            "nom": "Handmade Fresh Sausages",
+            "quantite": 4,
+            "prix_unitaire": 185.44
+        },
+        {
+            "produit_id": "P0775",
+            "nom": "Intelligent Granite Gloves",
+            "quantite": 4,
+            "prix_unitaire": 426.89
+        }
+    ],
+    "date_commande": "2024-04-22T00:37:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1255 Prosper",
+        "ville": "South Milwaukee"
+    }
+}

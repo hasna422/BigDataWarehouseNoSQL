@@ -1,0 +1,19 @@
+{
+    "order_id": 661776,
+    "client_id": 1524,
+    "produits": [
+        {
+            "produit_id": "P2694",
+            "nom": "New Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 66.96
+        }
+    ],
+    "date_commande": "2024-07-03T05:09:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1253 Balance",
+        "ville": "Brentwood"
+    }
+}

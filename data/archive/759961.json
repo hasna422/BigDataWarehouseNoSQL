@@ -1,0 +1,21 @@
+{
+    "order_id": 759961,
+    "client_id": 2658,
+    "produits": [
+        {
+            "produit_id": "P6441",
+            "nom": "Used Chicken",
+            "quantite": 1,
+            "prix_unitaire": 225.19
+        },
+        {
+            "produit_id": "P3360",
+            "nom": "For repair Fresh Bacon",
+            "quantite": 1,
+            "prix_unitaire": 374.83
+        }
+    ],
+    "date_commande": "2025-01-17T11:47:22",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

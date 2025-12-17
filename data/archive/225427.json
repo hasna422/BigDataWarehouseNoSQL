@@ -1,0 +1,15 @@
+{
+    "order_id": 225427,
+    "client_id": 5069,
+    "produits": [
+        {
+            "produit_id": "P2099",
+            "nom": "Handmade Fresh Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 230.82
+        }
+    ],
+    "date_commande": "2024-12-27T10:42:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

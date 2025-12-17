@@ -1,0 +1,31 @@
+{
+    "order_id": 108405,
+    "client_id": 7740,
+    "produits": [
+        {
+            "produit_id": "P0407",
+            "nom": "Used Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 141.0
+        },
+        {
+            "produit_id": "P5642",
+            "nom": "Practical Wooden Fish",
+            "quantite": 5,
+            "prix_unitaire": 148.57
+        },
+        {
+            "produit_id": "P3983",
+            "nom": "Generic Granite Chips",
+            "quantite": 3,
+            "prix_unitaire": 341.81
+        }
+    ],
+    "date_commande": "2024-09-05T09:05:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1026 Seal Cove",
+        "ville": "Tarpon Springs"
+    }
+}

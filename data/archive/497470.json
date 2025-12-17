@@ -1,0 +1,25 @@
+{
+    "order_id": 497470,
+    "client_id": 9463,
+    "produits": [
+        {
+            "produit_id": "P0033",
+            "nom": "Incredible Fresh Fish",
+            "quantite": 3,
+            "prix_unitaire": 481.12
+        },
+        {
+            "produit_id": "P3383",
+            "nom": "Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 381.49
+        }
+    ],
+    "date_commande": "2025-03-18T17:30:16",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1355 Whipple",
+        "ville": "Noblesville"
+    }
+}

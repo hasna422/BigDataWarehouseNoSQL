@@ -1,0 +1,21 @@
+{
+    "order_id": 901763,
+    "client_id": 9547,
+    "produits": [
+        {
+            "produit_id": "P1892",
+            "nom": "Incredible Concrete Bike",
+            "quantite": 2,
+            "prix_unitaire": 45.09
+        },
+        {
+            "produit_id": "P5562",
+            "nom": "Used Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 265.81
+        }
+    ],
+    "date_commande": "2024-10-04T06:52:47",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

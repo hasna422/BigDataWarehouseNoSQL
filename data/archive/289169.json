@@ -1,0 +1,21 @@
+{
+    "order_id": 289169,
+    "client_id": 7069,
+    "produits": [
+        {
+            "produit_id": "P0913",
+            "nom": "Ergonomic Tuna",
+            "quantite": 2,
+            "prix_unitaire": 357.8
+        },
+        {
+            "produit_id": "P8835",
+            "nom": "Incredible Plastic Soap",
+            "quantite": 5,
+            "prix_unitaire": 245.61
+        }
+    ],
+    "date_commande": "2024-03-05T14:53:38",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

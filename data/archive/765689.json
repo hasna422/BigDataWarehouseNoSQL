@@ -1,0 +1,19 @@
+{
+    "order_id": 765689,
+    "client_id": 5339,
+    "produits": [
+        {
+            "produit_id": "P4099",
+            "nom": "Gently Used Bike",
+            "quantite": 2,
+            "prix_unitaire": 103.26
+        }
+    ],
+    "date_commande": "2024-07-23T09:50:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "869 Eastwood",
+        "ville": "Boise City"
+    }
+}

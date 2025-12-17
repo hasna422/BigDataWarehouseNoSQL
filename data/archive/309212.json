@@ -1,0 +1,25 @@
+{
+    "order_id": 309212,
+    "client_id": 1047,
+    "produits": [
+        {
+            "produit_id": "P8285",
+            "nom": "Used Soft Chips",
+            "quantite": 3,
+            "prix_unitaire": 28.12
+        },
+        {
+            "produit_id": "P4559",
+            "nom": "Licensed Concrete Mouse",
+            "quantite": 5,
+            "prix_unitaire": 456.75
+        }
+    ],
+    "date_commande": "2024-05-08T07:12:10",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1221 Olive",
+        "ville": "Mentor"
+    }
+}

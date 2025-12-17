@@ -1,0 +1,19 @@
+{
+    "order_id": 472321,
+    "client_id": 4318,
+    "produits": [
+        {
+            "produit_id": "P2681",
+            "nom": "Awesome Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 332.33
+        }
+    ],
+    "date_commande": "2024-11-01T19:29:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "108 Jones",
+        "ville": "Forest Grove"
+    }
+}

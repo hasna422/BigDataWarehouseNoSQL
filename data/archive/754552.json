@@ -1,0 +1,25 @@
+{
+    "order_id": 754552,
+    "client_id": 3732,
+    "produits": [
+        {
+            "produit_id": "P8098",
+            "nom": "Generic Cheese",
+            "quantite": 5,
+            "prix_unitaire": 379.62
+        },
+        {
+            "produit_id": "P7165",
+            "nom": "Small Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 68.54
+        }
+    ],
+    "date_commande": "2024-04-10T23:36:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1031 Music Concourse Access",
+        "ville": "Bartlesville"
+    }
+}

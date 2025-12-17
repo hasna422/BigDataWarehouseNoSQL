@@ -1,0 +1,19 @@
+{
+    "order_id": 175541,
+    "client_id": 1012,
+    "produits": [
+        {
+            "produit_id": "P4076",
+            "nom": "Ergonomic Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 103.12
+        }
+    ],
+    "date_commande": "2024-10-20T22:15:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "21 Meade",
+        "ville": "Greenbelt"
+    }
+}

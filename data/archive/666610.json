@@ -1,0 +1,19 @@
+{
+    "order_id": 666610,
+    "client_id": 7262,
+    "produits": [
+        {
+            "produit_id": "P9079",
+            "nom": "Sleek Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 40.24
+        }
+    ],
+    "date_commande": "2025-03-22T19:58:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1146 Romain",
+        "ville": "Birmingham"
+    }
+}

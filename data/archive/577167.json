@@ -1,0 +1,25 @@
+{
+    "order_id": 577167,
+    "client_id": 8786,
+    "produits": [
+        {
+            "produit_id": "P7679",
+            "nom": "Tasty Soft Chicken",
+            "quantite": 3,
+            "prix_unitaire": 334.86
+        },
+        {
+            "produit_id": "P7972",
+            "nom": "Rustic Granite Shoes",
+            "quantite": 2,
+            "prix_unitaire": 197.72
+        }
+    ],
+    "date_commande": "2025-01-26T03:59:45",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "420 Boylston",
+        "ville": "Arcata"
+    }
+}

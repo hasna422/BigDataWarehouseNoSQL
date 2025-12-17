@@ -1,0 +1,31 @@
+{
+    "order_id": 213407,
+    "client_id": 7572,
+    "produits": [
+        {
+            "produit_id": "P2065",
+            "nom": "Soft Bike",
+            "quantite": 5,
+            "prix_unitaire": 132.23
+        },
+        {
+            "produit_id": "P2901",
+            "nom": "Incredible Concrete Sausages",
+            "quantite": 1,
+            "prix_unitaire": 125.72
+        },
+        {
+            "produit_id": "P8729",
+            "nom": "For repair Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 345.5
+        }
+    ],
+    "date_commande": "2023-07-02T21:20:49",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1359 Lyon",
+        "ville": "O'Fallon"
+    }
+}

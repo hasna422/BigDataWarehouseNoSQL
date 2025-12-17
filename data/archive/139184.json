@@ -1,0 +1,19 @@
+{
+    "order_id": 139184,
+    "client_id": 4094,
+    "produits": [
+        {
+            "produit_id": "P7711",
+            "nom": "New Cotton Gloves",
+            "quantite": 5,
+            "prix_unitaire": 21.33
+        }
+    ],
+    "date_commande": "2024-05-07T04:49:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "269 Farnum",
+        "ville": "Ontario"
+    }
+}

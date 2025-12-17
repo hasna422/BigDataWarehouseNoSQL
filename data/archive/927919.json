@@ -1,0 +1,25 @@
+{
+    "order_id": 927919,
+    "client_id": 1392,
+    "produits": [
+        {
+            "produit_id": "P8555",
+            "nom": "Cotton Cheese",
+            "quantite": 1,
+            "prix_unitaire": 41.78
+        },
+        {
+            "produit_id": "P1573",
+            "nom": "Soft Table",
+            "quantite": 1,
+            "prix_unitaire": 13.14
+        }
+    ],
+    "date_commande": "2025-03-26T17:29:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "237 Lucky",
+        "ville": "Tarpon Springs"
+    }
+}

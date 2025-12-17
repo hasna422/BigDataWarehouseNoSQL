@@ -1,0 +1,19 @@
+{
+    "order_id": 832518,
+    "client_id": 7798,
+    "produits": [
+        {
+            "produit_id": "P8502",
+            "nom": "Unbranded Metal Table",
+            "quantite": 1,
+            "prix_unitaire": 239.8
+        }
+    ],
+    "date_commande": "2023-10-08T20:28:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "662 Adam",
+        "ville": "Novi"
+    }
+}

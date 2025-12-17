@@ -1,0 +1,19 @@
+{
+    "order_id": 421593,
+    "client_id": 4646,
+    "produits": [
+        {
+            "produit_id": "P2022",
+            "nom": "Unbranded Rubber Hat",
+            "quantite": 1,
+            "prix_unitaire": 381.36
+        }
+    ],
+    "date_commande": "2023-08-07T20:05:07",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "391 San Leandro",
+        "ville": "Winter Garden"
+    }
+}

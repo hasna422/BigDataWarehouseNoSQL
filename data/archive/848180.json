@@ -1,0 +1,19 @@
+{
+    "order_id": 848180,
+    "client_id": 5556,
+    "produits": [
+        {
+            "produit_id": "P8641",
+            "nom": "Soft Shirt",
+            "quantite": 5,
+            "prix_unitaire": 396.62
+        }
+    ],
+    "date_commande": "2025-02-21T16:46:42",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "552 Adele",
+        "ville": "National City"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 975977,
+    "client_id": 9384,
+    "produits": [
+        {
+            "produit_id": "P3566",
+            "nom": "Tasty Soft Chair",
+            "quantite": 1,
+            "prix_unitaire": 60.31
+        },
+        {
+            "produit_id": "P3254",
+            "nom": "Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 6.39
+        }
+    ],
+    "date_commande": "2024-03-08T05:53:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "277 Majestic",
+        "ville": "Chambersburg"
+    }
+}

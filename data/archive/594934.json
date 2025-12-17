@@ -1,0 +1,25 @@
+{
+    "order_id": 594934,
+    "client_id": 3430,
+    "produits": [
+        {
+            "produit_id": "P6947",
+            "nom": "Refined Wooden Gloves",
+            "quantite": 3,
+            "prix_unitaire": 358.08
+        },
+        {
+            "produit_id": "P0147",
+            "nom": "Sleek Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 486.02
+        }
+    ],
+    "date_commande": "2024-09-10T23:28:22",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "893 Melba",
+        "ville": "Lackawanna"
+    }
+}

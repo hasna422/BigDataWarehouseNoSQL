@@ -1,0 +1,31 @@
+{
+    "order_id": 982230,
+    "client_id": 5835,
+    "produits": [
+        {
+            "produit_id": "P1151",
+            "nom": "Soft Car",
+            "quantite": 4,
+            "prix_unitaire": 431.88
+        },
+        {
+            "produit_id": "P8617",
+            "nom": "Handmade Fresh Pants",
+            "quantite": 5,
+            "prix_unitaire": 170.27
+        },
+        {
+            "produit_id": "P1313",
+            "nom": "Rustic Fresh Shirt",
+            "quantite": 2,
+            "prix_unitaire": 379.3
+        }
+    ],
+    "date_commande": "2025-03-02T22:12:50",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1216 Agnon",
+        "ville": "Hazelwood"
+    }
+}

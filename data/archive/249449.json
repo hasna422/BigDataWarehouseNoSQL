@@ -1,0 +1,19 @@
+{
+    "order_id": 249449,
+    "client_id": 6281,
+    "produits": [
+        {
+            "produit_id": "P6186",
+            "nom": "Incredible Table",
+            "quantite": 4,
+            "prix_unitaire": 137.8
+        }
+    ],
+    "date_commande": "2023-09-12T15:55:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "948 Morse",
+        "ville": "Goodyear"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 738514,
+    "client_id": 8683,
+    "produits": [
+        {
+            "produit_id": "P7767",
+            "nom": "Practical Plastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 400.36
+        },
+        {
+            "produit_id": "P2750",
+            "nom": "Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 445.47
+        },
+        {
+            "produit_id": "P6676",
+            "nom": "Concrete Computer",
+            "quantite": 1,
+            "prix_unitaire": 99.28
+        }
+    ],
+    "date_commande": "2025-04-26T23:02:39",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "628 Molimo",
+        "ville": "Paducah"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 803477,
+    "client_id": 1693,
+    "produits": [
+        {
+            "produit_id": "P0493",
+            "nom": "New Towels",
+            "quantite": 1,
+            "prix_unitaire": 425.33
+        }
+    ],
+    "date_commande": "2024-07-19T04:31:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 903943,
+    "client_id": 9307,
+    "produits": [
+        {
+            "produit_id": "P8631",
+            "nom": "Licensed Concrete Bacon",
+            "quantite": 1,
+            "prix_unitaire": 103.72
+        },
+        {
+            "produit_id": "P9878",
+            "nom": "Intelligent Plastic Hat",
+            "quantite": 4,
+            "prix_unitaire": 489.66
+        },
+        {
+            "produit_id": "P9160",
+            "nom": "Used Fresh Mouse",
+            "quantite": 3,
+            "prix_unitaire": 433.81
+        }
+    ],
+    "date_commande": "2024-11-28T19:27:19",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "784 Lathrop",
+        "ville": "Mundelein"
+    }
+}

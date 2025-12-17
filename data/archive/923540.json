@@ -1,0 +1,19 @@
+{
+    "order_id": 923540,
+    "client_id": 6932,
+    "produits": [
+        {
+            "produit_id": "P8204",
+            "nom": "Sleek Plastic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 17.78
+        }
+    ],
+    "date_commande": "2025-02-17T10:51:19",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1276 Bartol",
+        "ville": "Kearny"
+    }
+}

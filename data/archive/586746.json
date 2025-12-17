@@ -1,0 +1,25 @@
+{
+    "order_id": 586746,
+    "client_id": 9252,
+    "produits": [
+        {
+            "produit_id": "P2717",
+            "nom": "Sleek Cotton Mouse",
+            "quantite": 2,
+            "prix_unitaire": 453.28
+        },
+        {
+            "produit_id": "P0222",
+            "nom": "Sleek Wooden Chips",
+            "quantite": 4,
+            "prix_unitaire": 460.05
+        }
+    ],
+    "date_commande": "2024-04-19T19:35:32",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "572 Hayward",
+        "ville": "Dearborn Heights"
+    }
+}

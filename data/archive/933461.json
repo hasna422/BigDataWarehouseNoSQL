@@ -1,0 +1,31 @@
+{
+    "order_id": 933461,
+    "client_id": 6142,
+    "produits": [
+        {
+            "produit_id": "P6419",
+            "nom": "Gorgeous Concrete Car",
+            "quantite": 4,
+            "prix_unitaire": 107.26
+        },
+        {
+            "produit_id": "P4857",
+            "nom": "Fantastic Metal Towels",
+            "quantite": 5,
+            "prix_unitaire": 223.8
+        },
+        {
+            "produit_id": "P7516",
+            "nom": "Handcrafted Plastic Bacon",
+            "quantite": 2,
+            "prix_unitaire": 493.8
+        }
+    ],
+    "date_commande": "2024-06-10T01:54:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "90 Aptos",
+        "ville": "Tulsa"
+    }
+}

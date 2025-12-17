@@ -1,0 +1,27 @@
+{
+    "order_id": 510480,
+    "client_id": 1393,
+    "produits": [
+        {
+            "produit_id": "P9390",
+            "nom": "Handmade Fish",
+            "quantite": 2,
+            "prix_unitaire": 407.31
+        },
+        {
+            "produit_id": "P2156",
+            "nom": "For repair Rubber Hat",
+            "quantite": 4,
+            "prix_unitaire": 108.68
+        },
+        {
+            "produit_id": "P9900",
+            "nom": "Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 87.87
+        }
+    ],
+    "date_commande": "2023-12-29T07:11:06",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

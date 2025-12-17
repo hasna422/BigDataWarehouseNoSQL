@@ -1,0 +1,27 @@
+{
+    "order_id": 925049,
+    "client_id": 2526,
+    "produits": [
+        {
+            "produit_id": "P0264",
+            "nom": "Fantastic Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 398.52
+        },
+        {
+            "produit_id": "P1389",
+            "nom": "Rubber Car",
+            "quantite": 5,
+            "prix_unitaire": 68.47
+        },
+        {
+            "produit_id": "P6255",
+            "nom": "Handcrafted Soap",
+            "quantite": 1,
+            "prix_unitaire": 64.07
+        }
+    ],
+    "date_commande": "2024-04-13T15:19:00",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

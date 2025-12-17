@@ -1,0 +1,25 @@
+{
+    "order_id": 621383,
+    "client_id": 3676,
+    "produits": [
+        {
+            "produit_id": "P4552",
+            "nom": "Handcrafted Metal Salad",
+            "quantite": 4,
+            "prix_unitaire": 332.41
+        },
+        {
+            "produit_id": "P6823",
+            "nom": "Sleek Fresh Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 91.68
+        }
+    ],
+    "date_commande": "2023-06-01T17:08:01",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "243 Gibson",
+        "ville": "Willoughby"
+    }
+}

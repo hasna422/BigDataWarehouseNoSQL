@@ -1,0 +1,19 @@
+{
+    "order_id": 513310,
+    "client_id": 7604,
+    "produits": [
+        {
+            "produit_id": "P9348",
+            "nom": "Sleek Wooden Tuna",
+            "quantite": 4,
+            "prix_unitaire": 344.03
+        }
+    ],
+    "date_commande": "2024-09-22T14:17:51",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1321 Owen",
+        "ville": "Woodridge"
+    }
+}

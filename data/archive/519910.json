@@ -1,0 +1,31 @@
+{
+    "order_id": 519910,
+    "client_id": 7046,
+    "produits": [
+        {
+            "produit_id": "P7132",
+            "nom": "Practical Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 95.58
+        },
+        {
+            "produit_id": "P5408",
+            "nom": "Ergonomic Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 353.89
+        },
+        {
+            "produit_id": "P5968",
+            "nom": "Generic Steel Towels",
+            "quantite": 1,
+            "prix_unitaire": 44.86
+        }
+    ],
+    "date_commande": "2023-08-16T14:32:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "383 Bernice Rodgers",
+        "ville": "Neenah"
+    }
+}

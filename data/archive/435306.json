@@ -1,0 +1,27 @@
+{
+    "order_id": 435306,
+    "client_id": 5154,
+    "produits": [
+        {
+            "produit_id": "P3169",
+            "nom": "Awesome Cotton Tuna",
+            "quantite": 4,
+            "prix_unitaire": 322.45
+        },
+        {
+            "produit_id": "P1149",
+            "nom": "Intelligent Cotton Salad",
+            "quantite": 1,
+            "prix_unitaire": 99.08
+        },
+        {
+            "produit_id": "P5523",
+            "nom": "Handcrafted Shoes",
+            "quantite": 2,
+            "prix_unitaire": 378.54
+        }
+    ],
+    "date_commande": "2024-10-24T16:29:41",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

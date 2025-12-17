@@ -1,0 +1,15 @@
+{
+    "order_id": 237209,
+    "client_id": 6083,
+    "produits": [
+        {
+            "produit_id": "P3160",
+            "nom": "Fantastic Steel Cheese",
+            "quantite": 2,
+            "prix_unitaire": 236.33
+        }
+    ],
+    "date_commande": "2025-03-30T07:28:30",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

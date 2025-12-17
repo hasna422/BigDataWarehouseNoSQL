@@ -1,0 +1,21 @@
+{
+    "order_id": 907276,
+    "client_id": 4696,
+    "produits": [
+        {
+            "produit_id": "P3824",
+            "nom": "Incredible Towels",
+            "quantite": 1,
+            "prix_unitaire": 32.78
+        },
+        {
+            "produit_id": "P6228",
+            "nom": "Fantastic Pizza",
+            "quantite": 1,
+            "prix_unitaire": 51.03
+        }
+    ],
+    "date_commande": "2023-06-30T02:10:27",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

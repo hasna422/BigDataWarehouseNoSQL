@@ -1,0 +1,15 @@
+{
+    "order_id": 301628,
+    "client_id": 2990,
+    "produits": [
+        {
+            "produit_id": "P1736",
+            "nom": "Refined Rubber Computer",
+            "quantite": 4,
+            "prix_unitaire": 436.77
+        }
+    ],
+    "date_commande": "2024-03-21T20:16:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

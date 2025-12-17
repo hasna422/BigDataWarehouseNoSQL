@@ -1,0 +1,25 @@
+{
+    "order_id": 788225,
+    "client_id": 7790,
+    "produits": [
+        {
+            "produit_id": "P8306",
+            "nom": "Granite Pizza",
+            "quantite": 4,
+            "prix_unitaire": 274.18
+        },
+        {
+            "produit_id": "P4892",
+            "nom": "Wooden Sausages",
+            "quantite": 2,
+            "prix_unitaire": 203.33
+        }
+    ],
+    "date_commande": "2024-01-09T09:15:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "611 Lydia",
+        "ville": "Belton"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 897410,
+    "client_id": 6051,
+    "produits": [
+        {
+            "produit_id": "P4608",
+            "nom": "Handmade Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 396.11
+        },
+        {
+            "produit_id": "P9744",
+            "nom": "Incredible Wooden Tuna",
+            "quantite": 1,
+            "prix_unitaire": 66.76
+        }
+    ],
+    "date_commande": "2023-12-19T23:54:57",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1112 Newcomb",
+        "ville": "West Jordan"
+    }
+}

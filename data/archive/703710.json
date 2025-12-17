@@ -1,0 +1,31 @@
+{
+    "order_id": 703710,
+    "client_id": 2529,
+    "produits": [
+        {
+            "produit_id": "P9959",
+            "nom": "Gently Used Table",
+            "quantite": 1,
+            "prix_unitaire": 112.11
+        },
+        {
+            "produit_id": "P1369",
+            "nom": "Sleek Plastic Shirt",
+            "quantite": 1,
+            "prix_unitaire": 323.07
+        },
+        {
+            "produit_id": "P1483",
+            "nom": "Awesome Car",
+            "quantite": 4,
+            "prix_unitaire": 199.49
+        }
+    ],
+    "date_commande": "2024-01-29T02:35:08",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1030 Gerard",
+        "ville": "Pekin"
+    }
+}

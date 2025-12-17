@@ -1,0 +1,31 @@
+{
+    "order_id": 319911,
+    "client_id": 3277,
+    "produits": [
+        {
+            "produit_id": "P3434",
+            "nom": "Gorgeous Soft Hat",
+            "quantite": 3,
+            "prix_unitaire": 98.51
+        },
+        {
+            "produit_id": "P5830",
+            "nom": "Handcrafted Metal Chair",
+            "quantite": 5,
+            "prix_unitaire": 189.48
+        },
+        {
+            "produit_id": "P0812",
+            "nom": "Intelligent Plastic Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 301.5
+        }
+    ],
+    "date_commande": "2024-06-02T20:21:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "681 Revello",
+        "ville": "Fishers"
+    }
+}

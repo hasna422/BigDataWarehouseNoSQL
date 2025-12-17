@@ -1,0 +1,19 @@
+{
+    "order_id": 278473,
+    "client_id": 1100,
+    "produits": [
+        {
+            "produit_id": "P2823",
+            "nom": "Small Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 401.55
+        }
+    ],
+    "date_commande": "2024-04-14T10:14:03",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "775 De Forest",
+        "ville": "Gilbert"
+    }
+}

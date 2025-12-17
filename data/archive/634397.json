@@ -1,0 +1,19 @@
+{
+    "order_id": 634397,
+    "client_id": 4449,
+    "produits": [
+        {
+            "produit_id": "P1602",
+            "nom": "Gorgeous Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 58.57
+        }
+    ],
+    "date_commande": "2024-05-17T07:38:43",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "648 Moscow",
+        "ville": "San Juan Capistrano"
+    }
+}

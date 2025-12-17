@@ -1,0 +1,15 @@
+{
+    "order_id": 120766,
+    "client_id": 1894,
+    "produits": [
+        {
+            "produit_id": "P6165",
+            "nom": "Small Fresh Salad",
+            "quantite": 1,
+            "prix_unitaire": 170.72
+        }
+    ],
+    "date_commande": "2025-01-10T05:09:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

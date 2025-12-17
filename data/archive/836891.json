@@ -1,0 +1,27 @@
+{
+    "order_id": 836891,
+    "client_id": 1976,
+    "produits": [
+        {
+            "produit_id": "P3326",
+            "nom": "Ergonomic Cotton Cheese",
+            "quantite": 4,
+            "prix_unitaire": 411.26
+        },
+        {
+            "produit_id": "P0979",
+            "nom": "Rustic Soft Shoes",
+            "quantite": 4,
+            "prix_unitaire": 345.64
+        },
+        {
+            "produit_id": "P5528",
+            "nom": "Rustic Cotton Chips",
+            "quantite": 4,
+            "prix_unitaire": 178.25
+        }
+    ],
+    "date_commande": "2024-02-26T04:18:01",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

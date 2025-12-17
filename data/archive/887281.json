@@ -1,0 +1,27 @@
+{
+    "order_id": 887281,
+    "client_id": 2004,
+    "produits": [
+        {
+            "produit_id": "P6557",
+            "nom": "Unbranded Plastic Towels",
+            "quantite": 5,
+            "prix_unitaire": 172.86
+        },
+        {
+            "produit_id": "P2504",
+            "nom": "Small Fresh Fish",
+            "quantite": 1,
+            "prix_unitaire": 91.81
+        },
+        {
+            "produit_id": "P2341",
+            "nom": "Intelligent Tuna",
+            "quantite": 2,
+            "prix_unitaire": 394.31
+        }
+    ],
+    "date_commande": "2024-11-23T18:14:50",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

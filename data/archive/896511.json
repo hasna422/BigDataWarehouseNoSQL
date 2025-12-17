@@ -1,0 +1,25 @@
+{
+    "order_id": 896511,
+    "client_id": 1258,
+    "produits": [
+        {
+            "produit_id": "P6413",
+            "nom": "Gorgeous Soft Car",
+            "quantite": 1,
+            "prix_unitaire": 285.24
+        },
+        {
+            "produit_id": "P4147",
+            "nom": "Gently Used Concrete Pants",
+            "quantite": 5,
+            "prix_unitaire": 338.13
+        }
+    ],
+    "date_commande": "2023-09-27T00:52:39",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "701 Blythdale",
+        "ville": "Racine"
+    }
+}

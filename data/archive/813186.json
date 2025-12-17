@@ -1,0 +1,25 @@
+{
+    "order_id": 813186,
+    "client_id": 8199,
+    "produits": [
+        {
+            "produit_id": "P7274",
+            "nom": "Practical Fresh Sausages",
+            "quantite": 2,
+            "prix_unitaire": 141.14
+        },
+        {
+            "produit_id": "P7626",
+            "nom": "Unbranded Rubber Towels",
+            "quantite": 5,
+            "prix_unitaire": 354.59
+        }
+    ],
+    "date_commande": "2023-07-12T01:38:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "723 Union",
+        "ville": "Sebastian"
+    }
+}

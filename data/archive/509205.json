@@ -1,0 +1,21 @@
+{
+    "order_id": 509205,
+    "client_id": 1458,
+    "produits": [
+        {
+            "produit_id": "P6549",
+            "nom": "Handcrafted Concrete Chips",
+            "quantite": 4,
+            "prix_unitaire": 310.24
+        },
+        {
+            "produit_id": "P4269",
+            "nom": "Used Steel Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 122.84
+        }
+    ],
+    "date_commande": "2024-06-23T19:08:50",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

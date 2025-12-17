@@ -1,0 +1,19 @@
+{
+    "order_id": 281876,
+    "client_id": 1363,
+    "produits": [
+        {
+            "produit_id": "P3920",
+            "nom": "Rustic Cotton Shoes",
+            "quantite": 1,
+            "prix_unitaire": 402.86
+        }
+    ],
+    "date_commande": "2023-07-19T00:40:25",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "803 Baker",
+        "ville": "Schererville"
+    }
+}

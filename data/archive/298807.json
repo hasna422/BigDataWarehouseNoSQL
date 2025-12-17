@@ -1,0 +1,19 @@
+{
+    "order_id": 298807,
+    "client_id": 9232,
+    "produits": [
+        {
+            "produit_id": "P8698",
+            "nom": "Intelligent Cotton Hat",
+            "quantite": 5,
+            "prix_unitaire": 17.84
+        }
+    ],
+    "date_commande": "2024-10-04T11:20:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "939 Aloha",
+        "ville": "Cambridge"
+    }
+}

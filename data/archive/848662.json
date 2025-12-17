@@ -1,0 +1,31 @@
+{
+    "order_id": 848662,
+    "client_id": 8677,
+    "produits": [
+        {
+            "produit_id": "P1127",
+            "nom": "Licensed Soap",
+            "quantite": 3,
+            "prix_unitaire": 452.04
+        },
+        {
+            "produit_id": "P3436",
+            "nom": "Metal Shirt",
+            "quantite": 5,
+            "prix_unitaire": 324.68
+        },
+        {
+            "produit_id": "P7267",
+            "nom": "Sleek Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 287.13
+        }
+    ],
+    "date_commande": "2024-11-24T15:02:08",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1255 Ruger",
+        "ville": "Pembroke Pines"
+    }
+}

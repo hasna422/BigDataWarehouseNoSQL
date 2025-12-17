@@ -1,0 +1,19 @@
+{
+    "order_id": 163634,
+    "client_id": 6601,
+    "produits": [
+        {
+            "produit_id": "P8151",
+            "nom": "Small Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 302.04
+        }
+    ],
+    "date_commande": "2024-07-23T17:22:03",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "763 Executive Park",
+        "ville": "Wheeling"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 194391,
+    "client_id": 4147,
+    "produits": [
+        {
+            "produit_id": "P9434",
+            "nom": "Used Gloves",
+            "quantite": 4,
+            "prix_unitaire": 173.99
+        }
+    ],
+    "date_commande": "2023-07-07T02:12:25",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

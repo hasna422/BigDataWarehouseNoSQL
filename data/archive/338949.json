@@ -1,0 +1,31 @@
+{
+    "order_id": 338949,
+    "client_id": 6863,
+    "produits": [
+        {
+            "produit_id": "P5864",
+            "nom": "Generic Plastic Chicken",
+            "quantite": 4,
+            "prix_unitaire": 20.3
+        },
+        {
+            "produit_id": "P5579",
+            "nom": "Sleek Soft Pants",
+            "quantite": 2,
+            "prix_unitaire": 243.39
+        },
+        {
+            "produit_id": "P1571",
+            "nom": "Incredible Soft Soap",
+            "quantite": 1,
+            "prix_unitaire": 464.61
+        }
+    ],
+    "date_commande": "2024-05-06T14:59:55",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1241 Morrell",
+        "ville": "Universal City"
+    }
+}

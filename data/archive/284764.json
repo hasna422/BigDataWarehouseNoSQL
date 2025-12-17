@@ -1,0 +1,21 @@
+{
+    "order_id": 284764,
+    "client_id": 6437,
+    "produits": [
+        {
+            "produit_id": "P5150",
+            "nom": "Tasty Concrete Gloves",
+            "quantite": 2,
+            "prix_unitaire": 400.06
+        },
+        {
+            "produit_id": "P6590",
+            "nom": "Awesome Metal Car",
+            "quantite": 2,
+            "prix_unitaire": 236.21
+        }
+    ],
+    "date_commande": "2023-10-06T11:57:37",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

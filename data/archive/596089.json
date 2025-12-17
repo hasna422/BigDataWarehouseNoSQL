@@ -1,0 +1,25 @@
+{
+    "order_id": 596089,
+    "client_id": 6232,
+    "produits": [
+        {
+            "produit_id": "P3810",
+            "nom": "Handmade Soft Soap",
+            "quantite": 5,
+            "prix_unitaire": 142.7
+        },
+        {
+            "produit_id": "P3774",
+            "nom": "Small Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 405.72
+        }
+    ],
+    "date_commande": "2024-12-27T07:08:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1205 Duncan",
+        "ville": "Valley Stream"
+    }
+}

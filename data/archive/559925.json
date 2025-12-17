@@ -1,0 +1,25 @@
+{
+    "order_id": 559925,
+    "client_id": 7295,
+    "produits": [
+        {
+            "produit_id": "P6441",
+            "nom": "New Frozen Car",
+            "quantite": 2,
+            "prix_unitaire": 6.53
+        },
+        {
+            "produit_id": "P6923",
+            "nom": "Awesome Steel Chicken",
+            "quantite": 1,
+            "prix_unitaire": 310.87
+        }
+    ],
+    "date_commande": "2025-05-18T18:54:18",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "902 Malvina",
+        "ville": "Ventura"
+    }
+}

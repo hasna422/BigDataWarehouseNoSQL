@@ -1,0 +1,25 @@
+{
+    "order_id": 755875,
+    "client_id": 2103,
+    "produits": [
+        {
+            "produit_id": "P9193",
+            "nom": "Fantastic Wooden Mouse",
+            "quantite": 1,
+            "prix_unitaire": 218.64
+        },
+        {
+            "produit_id": "P5229",
+            "nom": "Generic Fresh Fish",
+            "quantite": 4,
+            "prix_unitaire": 155.11
+        }
+    ],
+    "date_commande": "2023-08-14T05:02:49",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "320 Marengo",
+        "ville": "Aventura"
+    }
+}

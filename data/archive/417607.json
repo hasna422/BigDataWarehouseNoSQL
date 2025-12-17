@@ -1,0 +1,25 @@
+{
+    "order_id": 417607,
+    "client_id": 8275,
+    "produits": [
+        {
+            "produit_id": "P6938",
+            "nom": "Gorgeous Wooden Chair",
+            "quantite": 5,
+            "prix_unitaire": 306.69
+        },
+        {
+            "produit_id": "P7384",
+            "nom": "Practical Cotton Tuna",
+            "quantite": 1,
+            "prix_unitaire": 186.65
+        }
+    ],
+    "date_commande": "2023-12-09T01:14:55",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "745 Graham",
+        "ville": "Maplewood"
+    }
+}

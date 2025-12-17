@@ -1,0 +1,27 @@
+{
+    "order_id": 990458,
+    "client_id": 9167,
+    "produits": [
+        {
+            "produit_id": "P2547",
+            "nom": "New Pants",
+            "quantite": 2,
+            "prix_unitaire": 62.39
+        },
+        {
+            "produit_id": "P4824",
+            "nom": "Handmade Fresh Pizza",
+            "quantite": 2,
+            "prix_unitaire": 207.88
+        },
+        {
+            "produit_id": "P9456",
+            "nom": "Sleek Cotton Shirt",
+            "quantite": 2,
+            "prix_unitaire": 284.32
+        }
+    ],
+    "date_commande": "2023-10-28T02:44:24",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

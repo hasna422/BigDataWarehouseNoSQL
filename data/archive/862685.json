@@ -1,0 +1,15 @@
+{
+    "order_id": 862685,
+    "client_id": 3537,
+    "produits": [
+        {
+            "produit_id": "P9781",
+            "nom": "Gently Used Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 382.13
+        }
+    ],
+    "date_commande": "2024-11-04T15:47:36",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

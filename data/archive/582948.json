@@ -1,0 +1,31 @@
+{
+    "order_id": 582948,
+    "client_id": 4806,
+    "produits": [
+        {
+            "produit_id": "P0942",
+            "nom": "Gently Used Fresh Chair",
+            "quantite": 5,
+            "prix_unitaire": 306.62
+        },
+        {
+            "produit_id": "P2285",
+            "nom": "Ergonomic Ball",
+            "quantite": 5,
+            "prix_unitaire": 367.07
+        },
+        {
+            "produit_id": "P0203",
+            "nom": "Steel Sausages",
+            "quantite": 5,
+            "prix_unitaire": 381.51
+        }
+    ],
+    "date_commande": "2024-09-22T19:17:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "227 Reno",
+        "ville": "Park Forest"
+    }
+}

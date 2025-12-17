@@ -1,0 +1,31 @@
+{
+    "order_id": 443329,
+    "client_id": 1626,
+    "produits": [
+        {
+            "produit_id": "P0641",
+            "nom": "New Rubber Ball",
+            "quantite": 4,
+            "prix_unitaire": 471.51
+        },
+        {
+            "produit_id": "P7333",
+            "nom": "Rustic Wooden Shoes",
+            "quantite": 4,
+            "prix_unitaire": 72.31
+        },
+        {
+            "produit_id": "P1965",
+            "nom": "Gorgeous Metal Shoes",
+            "quantite": 2,
+            "prix_unitaire": 93.32
+        }
+    ],
+    "date_commande": "2025-05-15T07:06:49",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "720 Wawona",
+        "ville": "Brook Park"
+    }
+}

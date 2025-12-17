@@ -1,0 +1,15 @@
+{
+    "order_id": 453626,
+    "client_id": 9170,
+    "produits": [
+        {
+            "produit_id": "P9875",
+            "nom": "Ergonomic Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 27.32
+        }
+    ],
+    "date_commande": "2023-09-13T09:06:35",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

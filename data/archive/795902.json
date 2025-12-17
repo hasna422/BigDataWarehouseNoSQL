@@ -1,0 +1,31 @@
+{
+    "order_id": 795902,
+    "client_id": 3752,
+    "produits": [
+        {
+            "produit_id": "P2361",
+            "nom": "Fantastic Frozen Ball",
+            "quantite": 5,
+            "prix_unitaire": 46.17
+        },
+        {
+            "produit_id": "P4840",
+            "nom": "Practical Wooden Soap",
+            "quantite": 1,
+            "prix_unitaire": 452.22
+        },
+        {
+            "produit_id": "P1871",
+            "nom": "Intelligent Wooden Shoes",
+            "quantite": 2,
+            "prix_unitaire": 351.28
+        }
+    ],
+    "date_commande": "2024-09-14T21:29:56",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "260 Sixth",
+        "ville": "Clearwater"
+    }
+}

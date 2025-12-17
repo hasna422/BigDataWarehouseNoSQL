@@ -1,0 +1,19 @@
+{
+    "order_id": 718812,
+    "client_id": 4378,
+    "produits": [
+        {
+            "produit_id": "P9670",
+            "nom": "Concrete Bike",
+            "quantite": 2,
+            "prix_unitaire": 170.75
+        }
+    ],
+    "date_commande": "2024-05-07T04:25:27",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1061 Banneker",
+        "ville": "San Juan Capistrano"
+    }
+}

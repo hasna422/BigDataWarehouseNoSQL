@@ -1,0 +1,31 @@
+{
+    "order_id": 701376,
+    "client_id": 2492,
+    "produits": [
+        {
+            "produit_id": "P7666",
+            "nom": "Handcrafted Rubber Gloves",
+            "quantite": 1,
+            "prix_unitaire": 321.6
+        },
+        {
+            "produit_id": "P0962",
+            "nom": "Metal Shirt",
+            "quantite": 4,
+            "prix_unitaire": 145.99
+        },
+        {
+            "produit_id": "P9654",
+            "nom": "Rustic Salad",
+            "quantite": 1,
+            "prix_unitaire": 145.04
+        }
+    ],
+    "date_commande": "2023-07-26T07:49:47",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "556 Blake",
+        "ville": "Holladay"
+    }
+}

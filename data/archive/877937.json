@@ -1,0 +1,19 @@
+{
+    "order_id": 877937,
+    "client_id": 9510,
+    "produits": [
+        {
+            "produit_id": "P3079",
+            "nom": "Unbranded Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 419.39
+        }
+    ],
+    "date_commande": "2024-01-22T06:41:36",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "497 Edward",
+        "ville": "Imperial Beach"
+    }
+}

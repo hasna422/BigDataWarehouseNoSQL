@@ -1,0 +1,19 @@
+{
+    "order_id": 419226,
+    "client_id": 5166,
+    "produits": [
+        {
+            "produit_id": "P7696",
+            "nom": "Gently Used Bike",
+            "quantite": 2,
+            "prix_unitaire": 412.15
+        }
+    ],
+    "date_commande": "2024-12-24T12:59:11",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "729 Santa Barbara",
+        "ville": "Oceanside"
+    }
+}

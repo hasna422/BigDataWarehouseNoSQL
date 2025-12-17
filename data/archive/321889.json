@@ -1,0 +1,31 @@
+{
+    "order_id": 321889,
+    "client_id": 9134,
+    "produits": [
+        {
+            "produit_id": "P6521",
+            "nom": "Incredible Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 131.15
+        },
+        {
+            "produit_id": "P5587",
+            "nom": "Handmade Fresh Cheese",
+            "quantite": 2,
+            "prix_unitaire": 81.0
+        },
+        {
+            "produit_id": "P6415",
+            "nom": "Practical Plastic Gloves",
+            "quantite": 4,
+            "prix_unitaire": 281.96
+        }
+    ],
+    "date_commande": "2024-12-30T02:45:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "865 Myra",
+        "ville": "Malden"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 380293,
+    "client_id": 6822,
+    "produits": [
+        {
+            "produit_id": "P3864",
+            "nom": "Handcrafted Granite Chair",
+            "quantite": 2,
+            "prix_unitaire": 181.34
+        }
+    ],
+    "date_commande": "2024-07-16T07:39:59",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1027 Hoffman",
+        "ville": "Lehi"
+    }
+}

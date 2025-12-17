@@ -1,0 +1,25 @@
+{
+    "order_id": 544378,
+    "client_id": 2509,
+    "produits": [
+        {
+            "produit_id": "P3091",
+            "nom": "Concrete Computer",
+            "quantite": 2,
+            "prix_unitaire": 96.39
+        },
+        {
+            "produit_id": "P0066",
+            "nom": "Handmade Metal Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 319.31
+        }
+    ],
+    "date_commande": "2025-04-25T11:46:46",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "169 Somerset",
+        "ville": "Woodstock"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 793747,
+    "client_id": 5255,
+    "produits": [
+        {
+            "produit_id": "P2349",
+            "nom": "Fantastic Pants",
+            "quantite": 1,
+            "prix_unitaire": 264.85
+        }
+    ],
+    "date_commande": "2025-01-09T19:42:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "462 Rutledge",
+        "ville": "Dunedin"
+    }
+}

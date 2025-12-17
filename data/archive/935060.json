@@ -1,0 +1,25 @@
+{
+    "order_id": 935060,
+    "client_id": 2353,
+    "produits": [
+        {
+            "produit_id": "P4851",
+            "nom": "Plastic Table",
+            "quantite": 1,
+            "prix_unitaire": 322.81
+        },
+        {
+            "produit_id": "P6454",
+            "nom": "Soft Salad",
+            "quantite": 5,
+            "prix_unitaire": 419.67
+        }
+    ],
+    "date_commande": "2023-11-22T11:00:29",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "554 Culebra",
+        "ville": "New Brunswick"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 374998,
+    "client_id": 6184,
+    "produits": [
+        {
+            "produit_id": "P3707",
+            "nom": "Fantastic Wooden Towels",
+            "quantite": 4,
+            "prix_unitaire": 488.07
+        }
+    ],
+    "date_commande": "2023-11-22T03:47:28",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "914 Sola",
+        "ville": "Torrance"
+    }
+}

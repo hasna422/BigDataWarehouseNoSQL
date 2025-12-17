@@ -1,0 +1,25 @@
+{
+    "order_id": 112943,
+    "client_id": 2893,
+    "produits": [
+        {
+            "produit_id": "P9723",
+            "nom": "Ergonomic Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 35.99
+        },
+        {
+            "produit_id": "P3109",
+            "nom": "Generic Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 498.7
+        }
+    ],
+    "date_commande": "2024-12-06T19:23:48",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1091 Wyton",
+        "ville": "St. Paul"
+    }
+}

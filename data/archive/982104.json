@@ -1,0 +1,31 @@
+{
+    "order_id": 982104,
+    "client_id": 5739,
+    "produits": [
+        {
+            "produit_id": "P0532",
+            "nom": "Handmade Rubber Bike",
+            "quantite": 5,
+            "prix_unitaire": 471.47
+        },
+        {
+            "produit_id": "P6726",
+            "nom": "Used Plastic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 352.61
+        },
+        {
+            "produit_id": "P9039",
+            "nom": "Gently Used Concrete Table",
+            "quantite": 2,
+            "prix_unitaire": 41.86
+        }
+    ],
+    "date_commande": "2023-10-24T14:44:38",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "897 Harrington",
+        "ville": "Altus"
+    }
+}

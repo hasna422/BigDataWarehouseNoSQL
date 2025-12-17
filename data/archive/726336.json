@@ -1,0 +1,27 @@
+{
+    "order_id": 726336,
+    "client_id": 7348,
+    "produits": [
+        {
+            "produit_id": "P8700",
+            "nom": "Handcrafted Rubber Salad",
+            "quantite": 1,
+            "prix_unitaire": 352.87
+        },
+        {
+            "produit_id": "P8361",
+            "nom": "For repair Rubber Table",
+            "quantite": 4,
+            "prix_unitaire": 203.56
+        },
+        {
+            "produit_id": "P4358",
+            "nom": "Practical Metal Table",
+            "quantite": 2,
+            "prix_unitaire": 308.8
+        }
+    ],
+    "date_commande": "2025-05-19T10:47:46",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

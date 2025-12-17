@@ -1,0 +1,19 @@
+{
+    "order_id": 306210,
+    "client_id": 3984,
+    "produits": [
+        {
+            "produit_id": "P1588",
+            "nom": "Tasty Granite Pants",
+            "quantite": 5,
+            "prix_unitaire": 285.41
+        }
+    ],
+    "date_commande": "2025-03-02T03:08:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "194 Old Decatur",
+        "ville": "Ypsilanti"
+    }
+}

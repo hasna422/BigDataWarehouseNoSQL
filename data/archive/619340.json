@@ -1,0 +1,31 @@
+{
+    "order_id": 619340,
+    "client_id": 5470,
+    "produits": [
+        {
+            "produit_id": "P0622",
+            "nom": "Fresh Gloves",
+            "quantite": 2,
+            "prix_unitaire": 48.77
+        },
+        {
+            "produit_id": "P7585",
+            "nom": "Fantastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 486.56
+        },
+        {
+            "produit_id": "P6919",
+            "nom": "Gorgeous Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 157.42
+        }
+    ],
+    "date_commande": "2024-11-07T03:03:27",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "69 Freeman",
+        "ville": "Rocky River"
+    }
+}

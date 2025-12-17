@@ -1,0 +1,19 @@
+{
+    "order_id": 986109,
+    "client_id": 9178,
+    "produits": [
+        {
+            "produit_id": "P9496",
+            "nom": "Handcrafted Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 141.93
+        }
+    ],
+    "date_commande": "2023-06-15T14:11:47",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "927 Ellis",
+        "ville": "Aliso Viejo"
+    }
+}

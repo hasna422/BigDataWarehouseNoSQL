@@ -1,0 +1,21 @@
+{
+    "order_id": 258990,
+    "client_id": 5578,
+    "produits": [
+        {
+            "produit_id": "P8724",
+            "nom": "Small Tuna",
+            "quantite": 1,
+            "prix_unitaire": 110.67
+        },
+        {
+            "produit_id": "P7170",
+            "nom": "Gorgeous Chicken",
+            "quantite": 4,
+            "prix_unitaire": 338.7
+        }
+    ],
+    "date_commande": "2025-03-10T13:38:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

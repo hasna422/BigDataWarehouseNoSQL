@@ -1,0 +1,31 @@
+{
+    "order_id": 612079,
+    "client_id": 1519,
+    "produits": [
+        {
+            "produit_id": "P8364",
+            "nom": "Rustic Chips",
+            "quantite": 1,
+            "prix_unitaire": 124.12
+        },
+        {
+            "produit_id": "P4796",
+            "nom": "Intelligent Sausages",
+            "quantite": 3,
+            "prix_unitaire": 378.8
+        },
+        {
+            "produit_id": "P8789",
+            "nom": "Fantastic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 85.36
+        }
+    ],
+    "date_commande": "2023-12-07T23:14:23",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "936 Bank",
+        "ville": "Cuyahoga Falls"
+    }
+}

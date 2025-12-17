@@ -1,0 +1,21 @@
+{
+    "order_id": 173425,
+    "client_id": 8418,
+    "produits": [
+        {
+            "produit_id": "P5035",
+            "nom": "Cotton Pants",
+            "quantite": 1,
+            "prix_unitaire": 432.39
+        },
+        {
+            "produit_id": "P8341",
+            "nom": "For repair Shirt",
+            "quantite": 5,
+            "prix_unitaire": 37.1
+        }
+    ],
+    "date_commande": "2023-10-30T01:24:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

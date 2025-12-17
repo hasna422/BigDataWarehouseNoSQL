@@ -1,0 +1,27 @@
+{
+    "order_id": 348149,
+    "client_id": 5031,
+    "produits": [
+        {
+            "produit_id": "P5128",
+            "nom": "Refined Rubber Soap",
+            "quantite": 1,
+            "prix_unitaire": 20.91
+        },
+        {
+            "produit_id": "P9282",
+            "nom": "Generic Wooden Pizza",
+            "quantite": 1,
+            "prix_unitaire": 129.54
+        },
+        {
+            "produit_id": "P1735",
+            "nom": "Rustic Concrete Fish",
+            "quantite": 5,
+            "prix_unitaire": 329.63
+        }
+    ],
+    "date_commande": "2024-05-19T00:06:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

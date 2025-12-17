@@ -1,0 +1,31 @@
+{
+    "order_id": 133788,
+    "client_id": 5278,
+    "produits": [
+        {
+            "produit_id": "P8232",
+            "nom": "Refined Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 36.85
+        },
+        {
+            "produit_id": "P1139",
+            "nom": "Unbranded Fresh Ball",
+            "quantite": 3,
+            "prix_unitaire": 484.47
+        },
+        {
+            "produit_id": "P1627",
+            "nom": "New Rubber Ball",
+            "quantite": 5,
+            "prix_unitaire": 404.0
+        }
+    ],
+    "date_commande": "2024-06-23T00:13:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "331 South Van Ness",
+        "ville": "Urbandale"
+    }
+}

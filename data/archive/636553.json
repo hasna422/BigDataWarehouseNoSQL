@@ -1,0 +1,25 @@
+{
+    "order_id": 636553,
+    "client_id": 5712,
+    "produits": [
+        {
+            "produit_id": "P1968",
+            "nom": "Fantastic Wooden Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 135.56
+        },
+        {
+            "produit_id": "P4291",
+            "nom": "Incredible Rubber Hat",
+            "quantite": 5,
+            "prix_unitaire": 361.03
+        }
+    ],
+    "date_commande": "2023-06-24T18:07:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "359 Lulu",
+        "ville": "Hannibal"
+    }
+}

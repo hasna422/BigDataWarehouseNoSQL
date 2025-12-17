@@ -1,0 +1,25 @@
+{
+    "order_id": 967380,
+    "client_id": 8142,
+    "produits": [
+        {
+            "produit_id": "P9118",
+            "nom": "Handmade Cotton Cheese",
+            "quantite": 2,
+            "prix_unitaire": 146.34
+        },
+        {
+            "produit_id": "P6848",
+            "nom": "Gently Used Wooden Chair",
+            "quantite": 3,
+            "prix_unitaire": 188.47
+        }
+    ],
+    "date_commande": "2024-10-04T09:33:11",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "100 Oriole",
+        "ville": "Royal Palm Beach"
+    }
+}

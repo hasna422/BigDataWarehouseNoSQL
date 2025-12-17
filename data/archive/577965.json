@@ -1,0 +1,25 @@
+{
+    "order_id": 577965,
+    "client_id": 8458,
+    "produits": [
+        {
+            "produit_id": "P7915",
+            "nom": "Tasty Fresh Keyboard",
+            "quantite": 3,
+            "prix_unitaire": 179.75
+        },
+        {
+            "produit_id": "P2014",
+            "nom": "Refined Rubber Towels",
+            "quantite": 2,
+            "prix_unitaire": 6.26
+        }
+    ],
+    "date_commande": "2024-06-25T00:41:24",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "774 Union",
+        "ville": "Mauldin"
+    }
+}

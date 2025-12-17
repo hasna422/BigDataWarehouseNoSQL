@@ -1,0 +1,31 @@
+{
+    "order_id": 561984,
+    "client_id": 9960,
+    "produits": [
+        {
+            "produit_id": "P0589",
+            "nom": "Awesome Pizza",
+            "quantite": 5,
+            "prix_unitaire": 81.78
+        },
+        {
+            "produit_id": "P0427",
+            "nom": "Unbranded Shirt",
+            "quantite": 3,
+            "prix_unitaire": 5.31
+        },
+        {
+            "produit_id": "P6830",
+            "nom": "Used Salad",
+            "quantite": 2,
+            "prix_unitaire": 399.52
+        }
+    ],
+    "date_commande": "2024-04-12T22:42:19",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "128 Marin",
+        "ville": "Pelham"
+    }
+}

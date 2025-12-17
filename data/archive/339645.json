@@ -1,0 +1,15 @@
+{
+    "order_id": 339645,
+    "client_id": 7689,
+    "produits": [
+        {
+            "produit_id": "P4406",
+            "nom": "Fantastic Pants",
+            "quantite": 3,
+            "prix_unitaire": 197.44
+        }
+    ],
+    "date_commande": "2024-12-18T14:05:59",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

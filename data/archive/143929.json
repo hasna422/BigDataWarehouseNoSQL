@@ -1,0 +1,31 @@
+{
+    "order_id": 143929,
+    "client_id": 6787,
+    "produits": [
+        {
+            "produit_id": "P1862",
+            "nom": "Ergonomic Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 26.57
+        },
+        {
+            "produit_id": "P8998",
+            "nom": "Licensed Steel Towels",
+            "quantite": 2,
+            "prix_unitaire": 292.54
+        },
+        {
+            "produit_id": "P7398",
+            "nom": "Small Frozen Computer",
+            "quantite": 1,
+            "prix_unitaire": 311.56
+        }
+    ],
+    "date_commande": "2025-04-01T18:23:41",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1371 Ortega",
+        "ville": "North Miami Beach"
+    }
+}

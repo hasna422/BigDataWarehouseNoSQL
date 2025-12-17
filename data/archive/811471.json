@@ -1,0 +1,31 @@
+{
+    "order_id": 811471,
+    "client_id": 2540,
+    "produits": [
+        {
+            "produit_id": "P4319",
+            "nom": "Fantastic Cotton Mouse",
+            "quantite": 4,
+            "prix_unitaire": 291.29
+        },
+        {
+            "produit_id": "P6267",
+            "nom": "Used Fresh Chair",
+            "quantite": 3,
+            "prix_unitaire": 219.49
+        },
+        {
+            "produit_id": "P7063",
+            "nom": "Handmade Metal Chips",
+            "quantite": 4,
+            "prix_unitaire": 7.77
+        }
+    ],
+    "date_commande": "2023-09-15T20:00:07",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1064 Cordova",
+        "ville": "Anniston"
+    }
+}

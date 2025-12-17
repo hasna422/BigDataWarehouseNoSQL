@@ -1,0 +1,25 @@
+{
+    "order_id": 503643,
+    "client_id": 4385,
+    "produits": [
+        {
+            "produit_id": "P9154",
+            "nom": "Handcrafted Plastic Mouse",
+            "quantite": 4,
+            "prix_unitaire": 151.11
+        },
+        {
+            "produit_id": "P3897",
+            "nom": "Sleek Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 95.58
+        }
+    ],
+    "date_commande": "2023-06-07T21:18:18",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "822 Pueblo",
+        "ville": "South Pasadena"
+    }
+}

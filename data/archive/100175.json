@@ -1,0 +1,15 @@
+{
+    "order_id": 100175,
+    "client_id": 9459,
+    "produits": [
+        {
+            "produit_id": "P4575",
+            "nom": "Ergonomic Frozen Chips",
+            "quantite": 1,
+            "prix_unitaire": 136.08
+        }
+    ],
+    "date_commande": "2023-09-11T18:27:56",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

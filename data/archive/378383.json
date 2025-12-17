@@ -1,0 +1,19 @@
+{
+    "order_id": 378383,
+    "client_id": 5794,
+    "produits": [
+        {
+            "produit_id": "P3719",
+            "nom": "Frozen Salad",
+            "quantite": 4,
+            "prix_unitaire": 439.18
+        }
+    ],
+    "date_commande": "2025-02-27T22:45:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1304 Redondo",
+        "ville": "Gallatin"
+    }
+}

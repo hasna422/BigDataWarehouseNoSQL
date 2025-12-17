@@ -1,0 +1,31 @@
+{
+    "order_id": 826714,
+    "client_id": 5731,
+    "produits": [
+        {
+            "produit_id": "P9750",
+            "nom": "Unbranded Chicken",
+            "quantite": 5,
+            "prix_unitaire": 99.69
+        },
+        {
+            "produit_id": "P5218",
+            "nom": "Unbranded Bike",
+            "quantite": 1,
+            "prix_unitaire": 306.72
+        },
+        {
+            "produit_id": "P4376",
+            "nom": "Rustic Granite Pizza",
+            "quantite": 3,
+            "prix_unitaire": 312.27
+        }
+    ],
+    "date_commande": "2023-07-15T22:40:28",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "322 Hegal",
+        "ville": "Mount Prospect"
+    }
+}

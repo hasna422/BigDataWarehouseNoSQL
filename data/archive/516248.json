@@ -1,0 +1,21 @@
+{
+    "order_id": 516248,
+    "client_id": 8004,
+    "produits": [
+        {
+            "produit_id": "P7224",
+            "nom": "Handcrafted Soft Shirt",
+            "quantite": 3,
+            "prix_unitaire": 450.19
+        },
+        {
+            "produit_id": "P4503",
+            "nom": "Gorgeous Metal Cheese",
+            "quantite": 1,
+            "prix_unitaire": 92.66
+        }
+    ],
+    "date_commande": "2024-12-22T17:08:38",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

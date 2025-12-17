@@ -1,0 +1,19 @@
+{
+    "order_id": 110152,
+    "client_id": 3201,
+    "produits": [
+        {
+            "produit_id": "P7932",
+            "nom": "Intelligent Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 341.34
+        }
+    ],
+    "date_commande": "2025-02-01T04:33:49",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "585 Lenox",
+        "ville": "Cutler Bay"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "order_id": 381940,
+    "client_id": 4592,
+    "produits": [
+        {
+            "produit_id": "P3800",
+            "nom": "Sleek Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 327.68
+        },
+        {
+            "produit_id": "P6796",
+            "nom": "For repair Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 247.04
+        },
+        {
+            "produit_id": "P3181",
+            "nom": "New Granite Shirt",
+            "quantite": 4,
+            "prix_unitaire": 372.84
+        }
+    ],
+    "date_commande": "2023-11-27T23:57:31",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

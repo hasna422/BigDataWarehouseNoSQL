@@ -1,0 +1,31 @@
+{
+    "order_id": 102885,
+    "client_id": 5665,
+    "produits": [
+        {
+            "produit_id": "P0891",
+            "nom": "Practical Soft Tuna",
+            "quantite": 5,
+            "prix_unitaire": 135.54
+        },
+        {
+            "produit_id": "P2969",
+            "nom": "Handmade Soft Fish",
+            "quantite": 1,
+            "prix_unitaire": 150.66
+        },
+        {
+            "produit_id": "P0301",
+            "nom": "Generic Metal Shoes",
+            "quantite": 4,
+            "prix_unitaire": 406.14
+        }
+    ],
+    "date_commande": "2024-10-28T22:01:02",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1272 Bliss",
+        "ville": "Grand Rapids"
+    }
+}

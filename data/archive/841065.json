@@ -1,0 +1,25 @@
+{
+    "order_id": 841065,
+    "client_id": 4208,
+    "produits": [
+        {
+            "produit_id": "P5246",
+            "nom": "Ergonomic Gloves",
+            "quantite": 5,
+            "prix_unitaire": 445.45
+        },
+        {
+            "produit_id": "P8037",
+            "nom": "Unbranded Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 464.47
+        }
+    ],
+    "date_commande": "2023-07-16T18:45:24",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "356 Gilman",
+        "ville": "McDonough"
+    }
+}

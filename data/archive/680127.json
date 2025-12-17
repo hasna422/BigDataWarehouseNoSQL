@@ -1,0 +1,19 @@
+{
+    "order_id": 680127,
+    "client_id": 2065,
+    "produits": [
+        {
+            "produit_id": "P8069",
+            "nom": "Unbranded Shirt",
+            "quantite": 5,
+            "prix_unitaire": 273.88
+        }
+    ],
+    "date_commande": "2025-01-14T17:56:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "356 Drummond",
+        "ville": "Rutherford"
+    }
+}

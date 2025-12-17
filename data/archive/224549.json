@@ -1,0 +1,25 @@
+{
+    "order_id": 224549,
+    "client_id": 6916,
+    "produits": [
+        {
+            "produit_id": "P4827",
+            "nom": "Unbranded Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 387.65
+        },
+        {
+            "produit_id": "P8754",
+            "nom": "Used Frozen Salad",
+            "quantite": 2,
+            "prix_unitaire": 415.72
+        }
+    ],
+    "date_commande": "2024-08-25T15:41:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "111 Stillman",
+        "ville": "Wenatchee"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 106684,
+    "client_id": 6297,
+    "produits": [
+        {
+            "produit_id": "P4961",
+            "nom": "Gently Used Fresh Ball",
+            "quantite": 5,
+            "prix_unitaire": 481.28
+        }
+    ],
+    "date_commande": "2023-10-30T01:23:39",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

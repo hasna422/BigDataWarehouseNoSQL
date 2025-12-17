@@ -1,0 +1,25 @@
+{
+    "order_id": 705160,
+    "client_id": 2715,
+    "produits": [
+        {
+            "produit_id": "P7930",
+            "nom": "Ergonomic Frozen Pizza",
+            "quantite": 1,
+            "prix_unitaire": 343.05
+        },
+        {
+            "produit_id": "P2924",
+            "nom": "Gently Used Frozen Shoes",
+            "quantite": 3,
+            "prix_unitaire": 335.12
+        }
+    ],
+    "date_commande": "2024-08-12T21:19:25",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1199 Nido",
+        "ville": "Hilton Head Island"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 799554,
+    "client_id": 6791,
+    "produits": [
+        {
+            "produit_id": "P5771",
+            "nom": "Gorgeous Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 281.29
+        },
+        {
+            "produit_id": "P5721",
+            "nom": "Ergonomic Soft Pizza",
+            "quantite": 5,
+            "prix_unitaire": 265.93
+        },
+        {
+            "produit_id": "P9638",
+            "nom": "Licensed Granite Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 87.42
+        }
+    ],
+    "date_commande": "2024-12-03T12:16:07",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1237 Peter Yorke",
+        "ville": "Beavercreek"
+    }
+}

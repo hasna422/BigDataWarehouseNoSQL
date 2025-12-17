@@ -1,0 +1,15 @@
+{
+    "order_id": 389809,
+    "client_id": 5504,
+    "produits": [
+        {
+            "produit_id": "P4371",
+            "nom": "Cotton Soap",
+            "quantite": 5,
+            "prix_unitaire": 269.09
+        }
+    ],
+    "date_commande": "2024-02-09T06:22:32",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

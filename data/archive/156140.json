@@ -1,0 +1,25 @@
+{
+    "order_id": 156140,
+    "client_id": 5252,
+    "produits": [
+        {
+            "produit_id": "P3206",
+            "nom": "Unbranded Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 277.73
+        },
+        {
+            "produit_id": "P4675",
+            "nom": "Intelligent Granite Mouse",
+            "quantite": 5,
+            "prix_unitaire": 36.88
+        }
+    ],
+    "date_commande": "2023-10-09T09:13:09",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "862 Rae",
+        "ville": "Schertz"
+    }
+}

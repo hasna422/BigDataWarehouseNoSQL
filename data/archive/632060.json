@@ -1,0 +1,25 @@
+{
+    "order_id": 632060,
+    "client_id": 3532,
+    "produits": [
+        {
+            "produit_id": "P8205",
+            "nom": "Sleek Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 149.68
+        },
+        {
+            "produit_id": "P4712",
+            "nom": "For repair Fresh Chicken",
+            "quantite": 3,
+            "prix_unitaire": 61.75
+        }
+    ],
+    "date_commande": "2024-10-18T21:06:20",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "710 Union",
+        "ville": "Elmwood Park"
+    }
+}

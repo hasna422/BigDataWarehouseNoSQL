@@ -1,0 +1,21 @@
+{
+    "order_id": 689188,
+    "client_id": 7952,
+    "produits": [
+        {
+            "produit_id": "P5451",
+            "nom": "Small Plastic Mouse",
+            "quantite": 2,
+            "prix_unitaire": 435.65
+        },
+        {
+            "produit_id": "P4682",
+            "nom": "Gorgeous Granite Chips",
+            "quantite": 2,
+            "prix_unitaire": 225.59
+        }
+    ],
+    "date_commande": "2025-04-13T03:47:21",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 642944,
+    "client_id": 7918,
+    "produits": [
+        {
+            "produit_id": "P2255",
+            "nom": "Refined Steel Towels",
+            "quantite": 5,
+            "prix_unitaire": 77.47
+        },
+        {
+            "produit_id": "P5251",
+            "nom": "Gorgeous Fresh Car",
+            "quantite": 2,
+            "prix_unitaire": 309.24
+        }
+    ],
+    "date_commande": "2023-12-26T05:44:52",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1093 Bonview",
+        "ville": "Hawthorne"
+    }
+}

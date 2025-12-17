@@ -1,0 +1,31 @@
+{
+    "order_id": 582131,
+    "client_id": 2509,
+    "produits": [
+        {
+            "produit_id": "P2077",
+            "nom": "Small Granite Towels",
+            "quantite": 5,
+            "prix_unitaire": 445.74
+        },
+        {
+            "produit_id": "P5139",
+            "nom": "Used Cotton Cheese",
+            "quantite": 5,
+            "prix_unitaire": 396.18
+        },
+        {
+            "produit_id": "P3389",
+            "nom": "Sleek Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 91.76
+        }
+    ],
+    "date_commande": "2024-08-05T17:02:09",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1339 Jewett",
+        "ville": "Burien"
+    }
+}

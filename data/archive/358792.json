@@ -1,0 +1,27 @@
+{
+    "order_id": 358792,
+    "client_id": 1479,
+    "produits": [
+        {
+            "produit_id": "P1258",
+            "nom": "Licensed Granite Car",
+            "quantite": 3,
+            "prix_unitaire": 401.0
+        },
+        {
+            "produit_id": "P4234",
+            "nom": "Fantastic Rubber Car",
+            "quantite": 2,
+            "prix_unitaire": 138.09
+        },
+        {
+            "produit_id": "P5445",
+            "nom": "Used Fresh Chair",
+            "quantite": 2,
+            "prix_unitaire": 321.28
+        }
+    ],
+    "date_commande": "2025-03-20T12:50:35",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

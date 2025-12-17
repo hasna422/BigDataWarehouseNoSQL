@@ -1,0 +1,27 @@
+{
+    "order_id": 810407,
+    "client_id": 3655,
+    "produits": [
+        {
+            "produit_id": "P8444",
+            "nom": "Small Plastic Shirt",
+            "quantite": 4,
+            "prix_unitaire": 164.92
+        },
+        {
+            "produit_id": "P2446",
+            "nom": "For repair Plastic Tuna",
+            "quantite": 1,
+            "prix_unitaire": 252.25
+        },
+        {
+            "produit_id": "P3774",
+            "nom": "Fantastic Table",
+            "quantite": 1,
+            "prix_unitaire": 287.31
+        }
+    ],
+    "date_commande": "2023-11-18T04:33:02",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

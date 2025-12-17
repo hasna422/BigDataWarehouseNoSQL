@@ -1,0 +1,19 @@
+{
+    "order_id": 441799,
+    "client_id": 5694,
+    "produits": [
+        {
+            "produit_id": "P6375",
+            "nom": "Gently Used Frozen Shoes",
+            "quantite": 5,
+            "prix_unitaire": 85.19
+        }
+    ],
+    "date_commande": "2024-07-27T21:35:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "148 Spears",
+        "ville": "Moreno Valley"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 728445,
+    "client_id": 6202,
+    "produits": [
+        {
+            "produit_id": "P3553",
+            "nom": "Unbranded Plastic Towels",
+            "quantite": 4,
+            "prix_unitaire": 402.22
+        },
+        {
+            "produit_id": "P7163",
+            "nom": "Fantastic Fresh Pants",
+            "quantite": 4,
+            "prix_unitaire": 40.57
+        }
+    ],
+    "date_commande": "2024-07-31T15:51:13",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1126 Gorham",
+        "ville": "Waterbury"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 308290,
+    "client_id": 7653,
+    "produits": [
+        {
+            "produit_id": "P3159",
+            "nom": "Gorgeous Metal Pizza",
+            "quantite": 2,
+            "prix_unitaire": 395.93
+        }
+    ],
+    "date_commande": "2024-05-31T15:08:25",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1052 Colonial",
+        "ville": "Clovis"
+    }
+}

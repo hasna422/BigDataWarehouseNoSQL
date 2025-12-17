@@ -1,0 +1,19 @@
+{
+    "order_id": 300673,
+    "client_id": 2220,
+    "produits": [
+        {
+            "produit_id": "P3055",
+            "nom": "Fantastic Steel Chair",
+            "quantite": 3,
+            "prix_unitaire": 279.47
+        }
+    ],
+    "date_commande": "2024-06-26T02:54:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "694 Bernard",
+        "ville": "Apex"
+    }
+}

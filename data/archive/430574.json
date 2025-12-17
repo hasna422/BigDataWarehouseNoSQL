@@ -1,0 +1,25 @@
+{
+    "order_id": 430574,
+    "client_id": 1437,
+    "produits": [
+        {
+            "produit_id": "P5664",
+            "nom": "Refined Concrete Computer",
+            "quantite": 4,
+            "prix_unitaire": 424.46
+        },
+        {
+            "produit_id": "P7408",
+            "nom": "Rustic Plastic Car",
+            "quantite": 1,
+            "prix_unitaire": 247.8
+        }
+    ],
+    "date_commande": "2023-10-17T21:26:29",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "647 Arguello",
+        "ville": "Kankakee"
+    }
+}

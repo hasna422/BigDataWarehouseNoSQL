@@ -1,0 +1,27 @@
+{
+    "order_id": 123886,
+    "client_id": 6316,
+    "produits": [
+        {
+            "produit_id": "P9879",
+            "nom": "Gorgeous Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 179.94
+        },
+        {
+            "produit_id": "P9549",
+            "nom": "Generic Wooden Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 211.44
+        },
+        {
+            "produit_id": "P8429",
+            "nom": "Rubber Chips",
+            "quantite": 3,
+            "prix_unitaire": 420.25
+        }
+    ],
+    "date_commande": "2025-02-10T15:36:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

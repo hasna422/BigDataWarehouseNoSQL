@@ -1,0 +1,15 @@
+{
+    "order_id": 480124,
+    "client_id": 5041,
+    "produits": [
+        {
+            "produit_id": "P3892",
+            "nom": "Small Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 260.76
+        }
+    ],
+    "date_commande": "2025-03-17T14:16:34",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

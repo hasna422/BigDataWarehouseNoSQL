@@ -1,0 +1,25 @@
+{
+    "order_id": 501895,
+    "client_id": 8431,
+    "produits": [
+        {
+            "produit_id": "P2124",
+            "nom": "Refined Metal Tuna",
+            "quantite": 1,
+            "prix_unitaire": 372.4
+        },
+        {
+            "produit_id": "P1806",
+            "nom": "Unbranded Concrete Bike",
+            "quantite": 5,
+            "prix_unitaire": 357.84
+        }
+    ],
+    "date_commande": "2025-01-01T22:47:11",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "118 Chattanooga",
+        "ville": "San Marcos"
+    }
+}

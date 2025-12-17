@@ -1,0 +1,25 @@
+{
+    "order_id": 873907,
+    "client_id": 8344,
+    "produits": [
+        {
+            "produit_id": "P4940",
+            "nom": "Generic Steel Ball",
+            "quantite": 5,
+            "prix_unitaire": 391.78
+        },
+        {
+            "produit_id": "P0072",
+            "nom": "Small Steel Hat",
+            "quantite": 1,
+            "prix_unitaire": 310.68
+        }
+    ],
+    "date_commande": "2024-10-24T21:16:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "597 Marne",
+        "ville": "Nampa"
+    }
+}

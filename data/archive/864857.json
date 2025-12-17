@@ -1,0 +1,31 @@
+{
+    "order_id": 864857,
+    "client_id": 3282,
+    "produits": [
+        {
+            "produit_id": "P7641",
+            "nom": "Generic Soft Ball",
+            "quantite": 4,
+            "prix_unitaire": 368.13
+        },
+        {
+            "produit_id": "P4711",
+            "nom": "Fantastic Granite Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 295.43
+        },
+        {
+            "produit_id": "P0214",
+            "nom": "Licensed Concrete Cheese",
+            "quantite": 5,
+            "prix_unitaire": 222.14
+        }
+    ],
+    "date_commande": "2023-08-26T02:01:52",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "123 Fair",
+        "ville": "Seminole"
+    }
+}

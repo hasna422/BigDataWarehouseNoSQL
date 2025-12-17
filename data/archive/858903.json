@@ -1,0 +1,15 @@
+{
+    "order_id": 858903,
+    "client_id": 6136,
+    "produits": [
+        {
+            "produit_id": "P6984",
+            "nom": "Awesome Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 228.38
+        }
+    ],
+    "date_commande": "2025-05-11T04:49:08",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

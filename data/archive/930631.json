@@ -1,0 +1,25 @@
+{
+    "order_id": 930631,
+    "client_id": 6756,
+    "produits": [
+        {
+            "produit_id": "P5324",
+            "nom": "Licensed Wooden Cheese",
+            "quantite": 3,
+            "prix_unitaire": 9.25
+        },
+        {
+            "produit_id": "P6215",
+            "nom": "Licensed Cotton Ball",
+            "quantite": 1,
+            "prix_unitaire": 49.88
+        }
+    ],
+    "date_commande": "2025-03-04T10:34:27",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "705 Colusa",
+        "ville": "Vero Beach"
+    }
+}

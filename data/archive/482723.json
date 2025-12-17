@@ -1,0 +1,19 @@
+{
+    "order_id": 482723,
+    "client_id": 6502,
+    "produits": [
+        {
+            "produit_id": "P2288",
+            "nom": "Gorgeous Rubber Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 489.69
+        }
+    ],
+    "date_commande": "2024-04-07T22:49:16",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1318 Cresta Vista",
+        "ville": "St. Charles"
+    }
+}

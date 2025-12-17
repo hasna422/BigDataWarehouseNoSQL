@@ -1,0 +1,19 @@
+{
+    "order_id": 856691,
+    "client_id": 5997,
+    "produits": [
+        {
+            "produit_id": "P8993",
+            "nom": "Tasty Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 325.1
+        }
+    ],
+    "date_commande": "2024-06-23T17:46:09",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "891 Monte Vista",
+        "ville": "Cleveland"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 932266,
+    "client_id": 5393,
+    "produits": [
+        {
+            "produit_id": "P3336",
+            "nom": "Sleek Granite Cheese",
+            "quantite": 2,
+            "prix_unitaire": 291.62
+        },
+        {
+            "produit_id": "P2854",
+            "nom": "Fantastic Soft Computer",
+            "quantite": 1,
+            "prix_unitaire": 35.99
+        }
+    ],
+    "date_commande": "2025-02-14T03:59:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "824 Aquavista",
+        "ville": "Haverhill"
+    }
+}

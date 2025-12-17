@@ -1,0 +1,31 @@
+{
+    "order_id": 656434,
+    "client_id": 2626,
+    "produits": [
+        {
+            "produit_id": "P2656",
+            "nom": "Handmade Chips",
+            "quantite": 1,
+            "prix_unitaire": 370.28
+        },
+        {
+            "produit_id": "P1980",
+            "nom": "Soft Salad",
+            "quantite": 3,
+            "prix_unitaire": 441.59
+        },
+        {
+            "produit_id": "P4404",
+            "nom": "Handcrafted Hat",
+            "quantite": 5,
+            "prix_unitaire": 199.21
+        }
+    ],
+    "date_commande": "2023-12-16T12:02:13",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1359 Broderick",
+        "ville": "Nicholasville"
+    }
+}

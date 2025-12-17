@@ -1,0 +1,21 @@
+{
+    "order_id": 629143,
+    "client_id": 1847,
+    "produits": [
+        {
+            "produit_id": "P3629",
+            "nom": "Handcrafted Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 105.94
+        },
+        {
+            "produit_id": "P6033",
+            "nom": "Generic Rubber Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 56.88
+        }
+    ],
+    "date_commande": "2024-05-29T08:37:22",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

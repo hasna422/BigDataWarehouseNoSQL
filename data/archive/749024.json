@@ -1,0 +1,31 @@
+{
+    "order_id": 749024,
+    "client_id": 7488,
+    "produits": [
+        {
+            "produit_id": "P8706",
+            "nom": "Gently Used Rubber Bacon",
+            "quantite": 2,
+            "prix_unitaire": 326.49
+        },
+        {
+            "produit_id": "P2624",
+            "nom": "Used Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 128.81
+        },
+        {
+            "produit_id": "P0400",
+            "nom": "Refined Concrete Fish",
+            "quantite": 3,
+            "prix_unitaire": 452.48
+        }
+    ],
+    "date_commande": "2024-08-10T23:39:34",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "866 Fremont",
+        "ville": "Pelham"
+    }
+}

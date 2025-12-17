@@ -1,0 +1,19 @@
+{
+    "order_id": 714816,
+    "client_id": 1421,
+    "produits": [
+        {
+            "produit_id": "P6730",
+            "nom": "Incredible Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 479.76
+        }
+    ],
+    "date_commande": "2023-08-05T09:48:11",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "672 Carver",
+        "ville": "Hercules"
+    }
+}

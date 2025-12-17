@@ -1,0 +1,31 @@
+{
+    "order_id": 264243,
+    "client_id": 9760,
+    "produits": [
+        {
+            "produit_id": "P1613",
+            "nom": "Generic Concrete Mouse",
+            "quantite": 4,
+            "prix_unitaire": 232.37
+        },
+        {
+            "produit_id": "P9532",
+            "nom": "Ergonomic Plastic Chair",
+            "quantite": 1,
+            "prix_unitaire": 390.89
+        },
+        {
+            "produit_id": "P1514",
+            "nom": "For repair Metal Mouse",
+            "quantite": 2,
+            "prix_unitaire": 305.77
+        }
+    ],
+    "date_commande": "2024-06-30T07:38:39",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "636 Edgewood",
+        "ville": "Gladstone"
+    }
+}

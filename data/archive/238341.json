@@ -1,0 +1,19 @@
+{
+    "order_id": 238341,
+    "client_id": 8056,
+    "produits": [
+        {
+            "produit_id": "P5336",
+            "nom": "Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 429.79
+        }
+    ],
+    "date_commande": "2025-01-01T19:19:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "163 Fella",
+        "ville": "De Pere"
+    }
+}

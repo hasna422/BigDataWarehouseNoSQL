@@ -1,0 +1,15 @@
+{
+    "order_id": 485846,
+    "client_id": 3618,
+    "produits": [
+        {
+            "produit_id": "P5124",
+            "nom": "Tasty Wooden Gloves",
+            "quantite": 5,
+            "prix_unitaire": 151.55
+        }
+    ],
+    "date_commande": "2023-07-22T03:29:37",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

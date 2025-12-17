@@ -1,0 +1,31 @@
+{
+    "order_id": 772435,
+    "client_id": 9031,
+    "produits": [
+        {
+            "produit_id": "P8161",
+            "nom": "Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 407.61
+        },
+        {
+            "produit_id": "P8783",
+            "nom": "Used Plastic Ball",
+            "quantite": 5,
+            "prix_unitaire": 34.47
+        },
+        {
+            "produit_id": "P5211",
+            "nom": "Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 254.19
+        }
+    ],
+    "date_commande": "2024-02-15T04:41:56",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1092 Dartmouth",
+        "ville": "Missouri City"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 179116,
+    "client_id": 1065,
+    "produits": [
+        {
+            "produit_id": "P0040",
+            "nom": "Plastic Chicken",
+            "quantite": 1,
+            "prix_unitaire": 179.18
+        },
+        {
+            "produit_id": "P1365",
+            "nom": "Licensed Sausages",
+            "quantite": 3,
+            "prix_unitaire": 49.16
+        }
+    ],
+    "date_commande": "2023-06-16T21:38:35",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "440 Parkridge",
+        "ville": "Summerville"
+    }
+}

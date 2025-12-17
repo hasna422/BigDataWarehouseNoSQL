@@ -1,0 +1,19 @@
+{
+    "order_id": 481852,
+    "client_id": 6444,
+    "produits": [
+        {
+            "produit_id": "P3849",
+            "nom": "Sleek Soft Hat",
+            "quantite": 5,
+            "prix_unitaire": 301.14
+        }
+    ],
+    "date_commande": "2023-10-10T07:41:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "335 Ford",
+        "ville": "Broadview Heights"
+    }
+}

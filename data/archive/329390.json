@@ -1,0 +1,21 @@
+{
+    "order_id": 329390,
+    "client_id": 3644,
+    "produits": [
+        {
+            "produit_id": "P4156",
+            "nom": "Refined Plastic Computer",
+            "quantite": 2,
+            "prix_unitaire": 465.98
+        },
+        {
+            "produit_id": "P1199",
+            "nom": "Small Mouse",
+            "quantite": 4,
+            "prix_unitaire": 63.64
+        }
+    ],
+    "date_commande": "2024-08-26T09:07:06",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

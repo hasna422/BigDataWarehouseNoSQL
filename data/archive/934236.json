@@ -1,0 +1,25 @@
+{
+    "order_id": 934236,
+    "client_id": 7245,
+    "produits": [
+        {
+            "produit_id": "P0351",
+            "nom": "Ergonomic Frozen Bacon",
+            "quantite": 5,
+            "prix_unitaire": 494.68
+        },
+        {
+            "produit_id": "P6689",
+            "nom": "Used Chair",
+            "quantite": 1,
+            "prix_unitaire": 235.73
+        }
+    ],
+    "date_commande": "2023-09-03T19:18:24",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "999 Menoher",
+        "ville": "Gresham"
+    }
+}

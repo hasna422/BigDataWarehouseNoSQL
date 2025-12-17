@@ -1,0 +1,19 @@
+{
+    "order_id": 227161,
+    "client_id": 2237,
+    "produits": [
+        {
+            "produit_id": "P3545",
+            "nom": "New Frozen Bike",
+            "quantite": 1,
+            "prix_unitaire": 453.89
+        }
+    ],
+    "date_commande": "2023-11-03T13:26:33",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "524 Bemis",
+        "ville": "Crystal"
+    }
+}

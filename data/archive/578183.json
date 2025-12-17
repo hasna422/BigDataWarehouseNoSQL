@@ -1,0 +1,19 @@
+{
+    "order_id": 578183,
+    "client_id": 6910,
+    "produits": [
+        {
+            "produit_id": "P7536",
+            "nom": "Refined Fresh Cheese",
+            "quantite": 1,
+            "prix_unitaire": 449.05
+        }
+    ],
+    "date_commande": "2023-09-29T13:50:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "856 Dunsmuir",
+        "ville": "Plum"
+    }
+}

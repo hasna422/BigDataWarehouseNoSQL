@@ -1,0 +1,19 @@
+{
+    "order_id": 207317,
+    "client_id": 7751,
+    "produits": [
+        {
+            "produit_id": "P1944",
+            "nom": "Licensed Metal Soap",
+            "quantite": 2,
+            "prix_unitaire": 49.18
+        }
+    ],
+    "date_commande": "2024-12-13T07:58:18",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "653 Bernice",
+        "ville": "Marysville"
+    }
+}

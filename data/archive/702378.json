@@ -1,0 +1,19 @@
+{
+    "order_id": 702378,
+    "client_id": 4308,
+    "produits": [
+        {
+            "produit_id": "P7205",
+            "nom": "Handmade Wooden Car",
+            "quantite": 2,
+            "prix_unitaire": 289.79
+        }
+    ],
+    "date_commande": "2024-04-05T08:21:21",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "254 Dewey",
+        "ville": "Wellington"
+    }
+}

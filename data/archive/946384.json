@@ -1,0 +1,25 @@
+{
+    "order_id": 946384,
+    "client_id": 7689,
+    "produits": [
+        {
+            "produit_id": "P6855",
+            "nom": "Cotton Car",
+            "quantite": 5,
+            "prix_unitaire": 13.4
+        },
+        {
+            "produit_id": "P3667",
+            "nom": "For repair Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 476.13
+        }
+    ],
+    "date_commande": "2025-04-09T06:40:04",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "157 Crescent",
+        "ville": "Keizer"
+    }
+}

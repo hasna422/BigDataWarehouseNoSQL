@@ -1,0 +1,19 @@
+{
+    "order_id": 324985,
+    "client_id": 9457,
+    "produits": [
+        {
+            "produit_id": "P2872",
+            "nom": "Ergonomic Rubber Mouse",
+            "quantite": 5,
+            "prix_unitaire": 157.9
+        }
+    ],
+    "date_commande": "2024-05-14T04:55:45",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "979 Agnon",
+        "ville": "Normal"
+    }
+}

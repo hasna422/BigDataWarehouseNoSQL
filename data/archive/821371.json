@@ -1,0 +1,19 @@
+{
+    "order_id": 821371,
+    "client_id": 8267,
+    "produits": [
+        {
+            "produit_id": "P3313",
+            "nom": "Table",
+            "quantite": 5,
+            "prix_unitaire": 279.91
+        }
+    ],
+    "date_commande": "2023-10-11T08:52:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "756 Pink",
+        "ville": "Forest Park"
+    }
+}

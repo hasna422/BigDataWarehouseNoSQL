@@ -1,0 +1,25 @@
+{
+    "order_id": 121392,
+    "client_id": 2318,
+    "produits": [
+        {
+            "produit_id": "P5513",
+            "nom": "Sleek Car",
+            "quantite": 1,
+            "prix_unitaire": 230.92
+        },
+        {
+            "produit_id": "P3150",
+            "nom": "Rustic Bike",
+            "quantite": 1,
+            "prix_unitaire": 138.32
+        }
+    ],
+    "date_commande": "2023-06-15T04:05:00",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1343 Banks",
+        "ville": "Rowlett"
+    }
+}

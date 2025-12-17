@@ -1,0 +1,25 @@
+{
+    "order_id": 321071,
+    "client_id": 2591,
+    "produits": [
+        {
+            "produit_id": "P2884",
+            "nom": "Ergonomic Soft Gloves",
+            "quantite": 3,
+            "prix_unitaire": 183.11
+        },
+        {
+            "produit_id": "P9210",
+            "nom": "Refined Metal Gloves",
+            "quantite": 2,
+            "prix_unitaire": 186.1
+        }
+    ],
+    "date_commande": "2024-10-02T00:27:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "509 Gold Mine",
+        "ville": "Tyler"
+    }
+}

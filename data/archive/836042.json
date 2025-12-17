@@ -1,0 +1,31 @@
+{
+    "order_id": 836042,
+    "client_id": 9911,
+    "produits": [
+        {
+            "produit_id": "P5387",
+            "nom": "Fantastic Concrete Shoes",
+            "quantite": 3,
+            "prix_unitaire": 237.71
+        },
+        {
+            "produit_id": "P2769",
+            "nom": "Incredible Steel Gloves",
+            "quantite": 5,
+            "prix_unitaire": 325.08
+        },
+        {
+            "produit_id": "P7302",
+            "nom": "Unbranded Granite Pants",
+            "quantite": 5,
+            "prix_unitaire": 292.81
+        }
+    ],
+    "date_commande": "2023-12-08T18:19:14",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "675 Tiffany",
+        "ville": "Alexandria"
+    }
+}

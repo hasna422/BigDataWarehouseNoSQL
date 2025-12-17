@@ -1,0 +1,25 @@
+{
+    "order_id": 477639,
+    "client_id": 2156,
+    "produits": [
+        {
+            "produit_id": "P3741",
+            "nom": "Tasty Soft Car",
+            "quantite": 2,
+            "prix_unitaire": 300.86
+        },
+        {
+            "produit_id": "P2442",
+            "nom": "Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 454.28
+        }
+    ],
+    "date_commande": "2025-04-07T03:45:56",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "5 Paramount",
+        "ville": "Pittsburgh"
+    }
+}

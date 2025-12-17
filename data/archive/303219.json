@@ -1,0 +1,31 @@
+{
+    "order_id": 303219,
+    "client_id": 7412,
+    "produits": [
+        {
+            "produit_id": "P2312",
+            "nom": "Generic Rubber Ball",
+            "quantite": 3,
+            "prix_unitaire": 389.65
+        },
+        {
+            "produit_id": "P7854",
+            "nom": "Sleek Fish",
+            "quantite": 4,
+            "prix_unitaire": 280.5
+        },
+        {
+            "produit_id": "P0787",
+            "nom": "Practical Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 215.94
+        }
+    ],
+    "date_commande": "2023-09-05T22:23:26",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "539 Dolphin",
+        "ville": "Henderson"
+    }
+}

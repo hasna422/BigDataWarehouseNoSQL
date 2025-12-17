@@ -1,0 +1,31 @@
+{
+    "order_id": 302568,
+    "client_id": 3366,
+    "produits": [
+        {
+            "produit_id": "P8965",
+            "nom": "Ergonomic Cotton Sausages",
+            "quantite": 2,
+            "prix_unitaire": 232.03
+        },
+        {
+            "produit_id": "P8738",
+            "nom": "Unbranded Steel Bacon",
+            "quantite": 2,
+            "prix_unitaire": 276.71
+        },
+        {
+            "produit_id": "P0485",
+            "nom": "Intelligent Frozen Table",
+            "quantite": 2,
+            "prix_unitaire": 28.89
+        }
+    ],
+    "date_commande": "2025-01-20T11:01:45",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1230 Scotland",
+        "ville": "Ocoee"
+    }
+}

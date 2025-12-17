@@ -1,0 +1,19 @@
+{
+    "order_id": 899051,
+    "client_id": 9299,
+    "produits": [
+        {
+            "produit_id": "P5630",
+            "nom": "Refined Metal Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 377.82
+        }
+    ],
+    "date_commande": "2023-07-01T03:58:21",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "719 El Dorado",
+        "ville": "Cape Coral"
+    }
+}

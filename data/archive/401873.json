@@ -1,0 +1,25 @@
+{
+    "order_id": 401873,
+    "client_id": 9637,
+    "produits": [
+        {
+            "produit_id": "P7948",
+            "nom": "Intelligent Cotton Car",
+            "quantite": 3,
+            "prix_unitaire": 52.34
+        },
+        {
+            "produit_id": "P4609",
+            "nom": "Tasty Frozen Ball",
+            "quantite": 3,
+            "prix_unitaire": 463.68
+        }
+    ],
+    "date_commande": "2024-01-06T23:36:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "77 Rose",
+        "ville": "Plainfield"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 595200,
+    "client_id": 5663,
+    "produits": [
+        {
+            "produit_id": "P3119",
+            "nom": "Generic Metal Tuna",
+            "quantite": 2,
+            "prix_unitaire": 188.13
+        },
+        {
+            "produit_id": "P4736",
+            "nom": "Licensed Mouse",
+            "quantite": 1,
+            "prix_unitaire": 244.25
+        }
+    ],
+    "date_commande": "2024-03-18T18:59:51",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

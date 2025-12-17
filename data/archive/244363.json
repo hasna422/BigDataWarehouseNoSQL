@@ -1,0 +1,19 @@
+{
+    "order_id": 244363,
+    "client_id": 1721,
+    "produits": [
+        {
+            "produit_id": "P4848",
+            "nom": "Tasty Soft Car",
+            "quantite": 2,
+            "prix_unitaire": 497.06
+        }
+    ],
+    "date_commande": "2023-11-17T23:35:50",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "64 Winston",
+        "ville": "Santa Maria"
+    }
+}

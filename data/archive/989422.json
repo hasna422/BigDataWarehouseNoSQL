@@ -1,0 +1,21 @@
+{
+    "order_id": 989422,
+    "client_id": 9529,
+    "produits": [
+        {
+            "produit_id": "P5363",
+            "nom": "Small Steel Table",
+            "quantite": 5,
+            "prix_unitaire": 395.38
+        },
+        {
+            "produit_id": "P6350",
+            "nom": "Handcrafted Soft Car",
+            "quantite": 4,
+            "prix_unitaire": 415.68
+        }
+    ],
+    "date_commande": "2024-09-23T12:44:04",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

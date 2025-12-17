@@ -1,0 +1,19 @@
+{
+    "order_id": 690320,
+    "client_id": 9327,
+    "produits": [
+        {
+            "produit_id": "P8365",
+            "nom": "Rustic Cotton Salad",
+            "quantite": 1,
+            "prix_unitaire": 258.51
+        }
+    ],
+    "date_commande": "2024-02-13T05:14:34",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "717 Fayette",
+        "ville": "Liberal"
+    }
+}

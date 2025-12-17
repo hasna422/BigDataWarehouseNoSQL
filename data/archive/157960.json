@@ -1,0 +1,25 @@
+{
+    "order_id": 157960,
+    "client_id": 1205,
+    "produits": [
+        {
+            "produit_id": "P6696",
+            "nom": "Unbranded Plastic Pizza",
+            "quantite": 2,
+            "prix_unitaire": 416.22
+        },
+        {
+            "produit_id": "P5343",
+            "nom": "Unbranded Fresh Salad",
+            "quantite": 5,
+            "prix_unitaire": 237.89
+        }
+    ],
+    "date_commande": "2023-10-26T17:11:13",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1181 Candyland",
+        "ville": "Eau Claire"
+    }
+}

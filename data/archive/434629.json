@@ -1,0 +1,21 @@
+{
+    "order_id": 434629,
+    "client_id": 1926,
+    "produits": [
+        {
+            "produit_id": "P2884",
+            "nom": "Generic Fresh Mouse",
+            "quantite": 3,
+            "prix_unitaire": 298.61
+        },
+        {
+            "produit_id": "P3426",
+            "nom": "Generic Concrete Chips",
+            "quantite": 2,
+            "prix_unitaire": 370.06
+        }
+    ],
+    "date_commande": "2024-07-09T22:47:43",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 777734,
+    "client_id": 2992,
+    "produits": [
+        {
+            "produit_id": "P3026",
+            "nom": "Intelligent Plastic Salad",
+            "quantite": 4,
+            "prix_unitaire": 41.25
+        }
+    ],
+    "date_commande": "2024-05-27T04:11:14",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "153 Saratoga",
+        "ville": "Plattsburgh"
+    }
+}

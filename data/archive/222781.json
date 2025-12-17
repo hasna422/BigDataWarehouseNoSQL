@@ -1,0 +1,25 @@
+{
+    "order_id": 222781,
+    "client_id": 1459,
+    "produits": [
+        {
+            "produit_id": "P6293",
+            "nom": "Gently Used Wooden Bike",
+            "quantite": 2,
+            "prix_unitaire": 157.3
+        },
+        {
+            "produit_id": "P3337",
+            "nom": "Awesome Wooden Cheese",
+            "quantite": 2,
+            "prix_unitaire": 89.37
+        }
+    ],
+    "date_commande": "2023-10-14T01:59:18",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "811 Sturgeon",
+        "ville": "Scranton"
+    }
+}

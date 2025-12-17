@@ -1,0 +1,27 @@
+{
+    "order_id": 756563,
+    "client_id": 5173,
+    "produits": [
+        {
+            "produit_id": "P0857",
+            "nom": "Licensed Cotton Shoes",
+            "quantite": 5,
+            "prix_unitaire": 356.18
+        },
+        {
+            "produit_id": "P3127",
+            "nom": "For repair Fish",
+            "quantite": 1,
+            "prix_unitaire": 16.82
+        },
+        {
+            "produit_id": "P2025",
+            "nom": "Frozen Pizza",
+            "quantite": 2,
+            "prix_unitaire": 101.07
+        }
+    ],
+    "date_commande": "2024-02-26T20:43:09",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

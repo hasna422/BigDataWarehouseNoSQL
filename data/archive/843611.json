@@ -1,0 +1,15 @@
+{
+    "order_id": 843611,
+    "client_id": 4741,
+    "produits": [
+        {
+            "produit_id": "P1175",
+            "nom": "Practical Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 301.48
+        }
+    ],
+    "date_commande": "2025-05-07T09:37:10",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

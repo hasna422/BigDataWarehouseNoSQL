@@ -1,0 +1,19 @@
+{
+    "order_id": 368067,
+    "client_id": 6761,
+    "produits": [
+        {
+            "produit_id": "P5165",
+            "nom": "Small Frozen Mouse",
+            "quantite": 2,
+            "prix_unitaire": 81.54
+        }
+    ],
+    "date_commande": "2024-09-18T18:56:28",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "397 Armistead",
+        "ville": "Grand Island"
+    }
+}

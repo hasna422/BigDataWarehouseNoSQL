@@ -1,0 +1,31 @@
+{
+    "order_id": 850448,
+    "client_id": 6784,
+    "produits": [
+        {
+            "produit_id": "P2989",
+            "nom": "Ergonomic Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 280.73
+        },
+        {
+            "produit_id": "P5590",
+            "nom": "Licensed Soft Car",
+            "quantite": 4,
+            "prix_unitaire": 238.91
+        },
+        {
+            "produit_id": "P5832",
+            "nom": "Used Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 329.74
+        }
+    ],
+    "date_commande": "2025-02-20T21:00:16",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1035 Napoleon",
+        "ville": "Fairfax"
+    }
+}

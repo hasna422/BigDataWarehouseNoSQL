@@ -1,0 +1,19 @@
+{
+    "order_id": 746796,
+    "client_id": 5079,
+    "produits": [
+        {
+            "produit_id": "P5370",
+            "nom": "Fresh Computer",
+            "quantite": 1,
+            "prix_unitaire": 87.19
+        }
+    ],
+    "date_commande": "2023-11-16T11:00:04",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "360 Rhine",
+        "ville": "Charlottesville"
+    }
+}

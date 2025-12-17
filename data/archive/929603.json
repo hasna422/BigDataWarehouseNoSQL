@@ -1,0 +1,25 @@
+{
+    "order_id": 929603,
+    "client_id": 8890,
+    "produits": [
+        {
+            "produit_id": "P2651",
+            "nom": "Gently Used Concrete Ball",
+            "quantite": 2,
+            "prix_unitaire": 421.96
+        },
+        {
+            "produit_id": "P5201",
+            "nom": "Handcrafted Concrete Chips",
+            "quantite": 1,
+            "prix_unitaire": 372.31
+        }
+    ],
+    "date_commande": "2024-04-15T01:00:57",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "501 Lusk",
+        "ville": "Joliet"
+    }
+}

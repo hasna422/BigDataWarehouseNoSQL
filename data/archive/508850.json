@@ -1,0 +1,31 @@
+{
+    "order_id": 508850,
+    "client_id": 9888,
+    "produits": [
+        {
+            "produit_id": "P1852",
+            "nom": "Fantastic Cotton Sausages",
+            "quantite": 1,
+            "prix_unitaire": 437.0
+        },
+        {
+            "produit_id": "P7025",
+            "nom": "Refined Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 386.87
+        },
+        {
+            "produit_id": "P9379",
+            "nom": "Ergonomic Granite Cheese",
+            "quantite": 3,
+            "prix_unitaire": 80.0
+        }
+    ],
+    "date_commande": "2025-04-28T10:45:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1341 Muir",
+        "ville": "Mountain View"
+    }
+}

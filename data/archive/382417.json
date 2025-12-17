@@ -1,0 +1,19 @@
+{
+    "order_id": 382417,
+    "client_id": 5142,
+    "produits": [
+        {
+            "produit_id": "P3054",
+            "nom": "For repair Rubber Table",
+            "quantite": 2,
+            "prix_unitaire": 392.85
+        }
+    ],
+    "date_commande": "2025-03-10T22:06:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1300 Fisher",
+        "ville": "Oklahoma City"
+    }
+}

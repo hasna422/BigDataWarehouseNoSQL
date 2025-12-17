@@ -1,0 +1,21 @@
+{
+    "order_id": 570582,
+    "client_id": 2707,
+    "produits": [
+        {
+            "produit_id": "P6403",
+            "nom": "Gorgeous Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 335.86
+        },
+        {
+            "produit_id": "P6764",
+            "nom": "Awesome Frozen Mouse",
+            "quantite": 1,
+            "prix_unitaire": 348.85
+        }
+    ],
+    "date_commande": "2023-10-20T11:52:24",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

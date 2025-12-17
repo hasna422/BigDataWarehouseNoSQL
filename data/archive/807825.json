@@ -1,0 +1,25 @@
+{
+    "order_id": 807825,
+    "client_id": 8337,
+    "produits": [
+        {
+            "produit_id": "P1656",
+            "nom": "Sleek Cotton Ball",
+            "quantite": 3,
+            "prix_unitaire": 396.78
+        },
+        {
+            "produit_id": "P2076",
+            "nom": "Incredible Plastic Pizza",
+            "quantite": 4,
+            "prix_unitaire": 48.98
+        }
+    ],
+    "date_commande": "2025-05-05T12:43:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "54 Idora",
+        "ville": "Gretna"
+    }
+}

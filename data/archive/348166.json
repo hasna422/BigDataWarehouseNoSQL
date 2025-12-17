@@ -1,0 +1,21 @@
+{
+    "order_id": 348166,
+    "client_id": 8249,
+    "produits": [
+        {
+            "produit_id": "P6065",
+            "nom": "Small Steel Soap",
+            "quantite": 1,
+            "prix_unitaire": 236.3
+        },
+        {
+            "produit_id": "P7481",
+            "nom": "Handmade Steel Gloves",
+            "quantite": 2,
+            "prix_unitaire": 70.08
+        }
+    ],
+    "date_commande": "2025-04-03T21:56:38",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

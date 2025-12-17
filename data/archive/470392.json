@@ -1,0 +1,15 @@
+{
+    "order_id": 470392,
+    "client_id": 3936,
+    "produits": [
+        {
+            "produit_id": "P8544",
+            "nom": "Used Sausages",
+            "quantite": 5,
+            "prix_unitaire": 282.67
+        }
+    ],
+    "date_commande": "2024-04-06T13:56:04",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

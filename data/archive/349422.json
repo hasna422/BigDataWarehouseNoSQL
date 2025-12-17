@@ -1,0 +1,15 @@
+{
+    "order_id": 349422,
+    "client_id": 6366,
+    "produits": [
+        {
+            "produit_id": "P5305",
+            "nom": "Awesome Sausages",
+            "quantite": 2,
+            "prix_unitaire": 380.04
+        }
+    ],
+    "date_commande": "2024-08-08T20:40:11",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

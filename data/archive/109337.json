@@ -1,0 +1,27 @@
+{
+    "order_id": 109337,
+    "client_id": 4084,
+    "produits": [
+        {
+            "produit_id": "P8338",
+            "nom": "Tasty Steel Chicken",
+            "quantite": 5,
+            "prix_unitaire": 339.74
+        },
+        {
+            "produit_id": "P0981",
+            "nom": "Used Wooden Chair",
+            "quantite": 5,
+            "prix_unitaire": 225.59
+        },
+        {
+            "produit_id": "P4523",
+            "nom": "Ergonomic Metal Bike",
+            "quantite": 2,
+            "prix_unitaire": 37.58
+        }
+    ],
+    "date_commande": "2023-11-15T15:39:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 768992,
+    "client_id": 8485,
+    "produits": [
+        {
+            "produit_id": "P9226",
+            "nom": "For repair Rubber Cheese",
+            "quantite": 3,
+            "prix_unitaire": 403.15
+        },
+        {
+            "produit_id": "P1554",
+            "nom": "Handmade Rubber Chicken",
+            "quantite": 3,
+            "prix_unitaire": 330.94
+        }
+    ],
+    "date_commande": "2023-10-22T18:39:51",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "522 Ruger",
+        "ville": "Nogales"
+    }
+}

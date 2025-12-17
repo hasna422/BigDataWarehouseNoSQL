@@ -1,0 +1,31 @@
+{
+    "order_id": 129885,
+    "client_id": 8290,
+    "produits": [
+        {
+            "produit_id": "P1642",
+            "nom": "Licensed Wooden Sausages",
+            "quantite": 4,
+            "prix_unitaire": 432.7
+        },
+        {
+            "produit_id": "P4937",
+            "nom": "Sleek Metal Shoes",
+            "quantite": 3,
+            "prix_unitaire": 257.72
+        },
+        {
+            "produit_id": "P7379",
+            "nom": "Awesome Tuna",
+            "quantite": 1,
+            "prix_unitaire": 212.53
+        }
+    ],
+    "date_commande": "2024-05-10T11:01:58",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1155 Castillo",
+        "ville": "Waukesha"
+    }
+}

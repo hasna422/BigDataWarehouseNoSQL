@@ -1,0 +1,19 @@
+{
+    "order_id": 339511,
+    "client_id": 8089,
+    "produits": [
+        {
+            "produit_id": "P6936",
+            "nom": "Frozen Gloves",
+            "quantite": 5,
+            "prix_unitaire": 181.36
+        }
+    ],
+    "date_commande": "2025-05-06T14:42:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1266 The Embarcadero",
+        "ville": "Bellwood"
+    }
+}

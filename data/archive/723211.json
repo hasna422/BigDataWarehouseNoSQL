@@ -1,0 +1,27 @@
+{
+    "order_id": 723211,
+    "client_id": 7329,
+    "produits": [
+        {
+            "produit_id": "P0810",
+            "nom": "Used Granite Cheese",
+            "quantite": 1,
+            "prix_unitaire": 222.29
+        },
+        {
+            "produit_id": "P0344",
+            "nom": "Rustic Frozen Chicken",
+            "quantite": 2,
+            "prix_unitaire": 363.3
+        },
+        {
+            "produit_id": "P8022",
+            "nom": "Sleek Rubber Table",
+            "quantite": 5,
+            "prix_unitaire": 165.16
+        }
+    ],
+    "date_commande": "2023-12-08T11:44:54",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

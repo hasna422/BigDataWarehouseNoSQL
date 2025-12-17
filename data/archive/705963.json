@@ -1,0 +1,31 @@
+{
+    "order_id": 705963,
+    "client_id": 3153,
+    "produits": [
+        {
+            "produit_id": "P5367",
+            "nom": "Concrete Pizza",
+            "quantite": 4,
+            "prix_unitaire": 427.18
+        },
+        {
+            "produit_id": "P7611",
+            "nom": "Ergonomic Granite Fish",
+            "quantite": 2,
+            "prix_unitaire": 344.44
+        },
+        {
+            "produit_id": "P3413",
+            "nom": "Granite Ball",
+            "quantite": 5,
+            "prix_unitaire": 389.86
+        }
+    ],
+    "date_commande": "2023-07-26T06:57:31",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "603 Brooks",
+        "ville": "Peoria"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 138703,
+    "client_id": 8837,
+    "produits": [
+        {
+            "produit_id": "P0572",
+            "nom": "Gorgeous Cotton Fish",
+            "quantite": 3,
+            "prix_unitaire": 448.48
+        }
+    ],
+    "date_commande": "2025-04-28T20:55:15",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "947 Jack London",
+        "ville": "Elmhurst"
+    }
+}

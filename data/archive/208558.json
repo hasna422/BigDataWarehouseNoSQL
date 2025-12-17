@@ -1,0 +1,15 @@
+{
+    "order_id": 208558,
+    "client_id": 3383,
+    "produits": [
+        {
+            "produit_id": "P2970",
+            "nom": "Gently Used Granite Chair",
+            "quantite": 1,
+            "prix_unitaire": 24.23
+        }
+    ],
+    "date_commande": "2024-07-06T17:48:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

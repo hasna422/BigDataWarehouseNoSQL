@@ -1,0 +1,27 @@
+{
+    "order_id": 507917,
+    "client_id": 1786,
+    "produits": [
+        {
+            "produit_id": "P6346",
+            "nom": "Ergonomic Frozen Chicken",
+            "quantite": 3,
+            "prix_unitaire": 293.96
+        },
+        {
+            "produit_id": "P1603",
+            "nom": "For repair Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 469.16
+        },
+        {
+            "produit_id": "P5288",
+            "nom": "Ergonomic Frozen Shoes",
+            "quantite": 4,
+            "prix_unitaire": 461.52
+        }
+    ],
+    "date_commande": "2024-02-22T22:16:07",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

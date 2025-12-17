@@ -1,0 +1,21 @@
+{
+    "order_id": 732097,
+    "client_id": 6749,
+    "produits": [
+        {
+            "produit_id": "P1188",
+            "nom": "Fresh Keyboard",
+            "quantite": 4,
+            "prix_unitaire": 15.73
+        },
+        {
+            "produit_id": "P6958",
+            "nom": "New Soft Sausages",
+            "quantite": 5,
+            "prix_unitaire": 13.18
+        }
+    ],
+    "date_commande": "2024-07-07T02:56:29",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

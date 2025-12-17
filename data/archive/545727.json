@@ -1,0 +1,19 @@
+{
+    "order_id": 545727,
+    "client_id": 2686,
+    "produits": [
+        {
+            "produit_id": "P7149",
+            "nom": "For repair Metal Soap",
+            "quantite": 4,
+            "prix_unitaire": 94.71
+        }
+    ],
+    "date_commande": "2023-12-27T18:35:12",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "73 Avalon",
+        "ville": "Coeur d'Alene"
+    }
+}

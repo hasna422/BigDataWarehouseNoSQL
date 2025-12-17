@@ -1,0 +1,19 @@
+{
+    "order_id": 933985,
+    "client_id": 4239,
+    "produits": [
+        {
+            "produit_id": "P9577",
+            "nom": "Rustic Frozen Salad",
+            "quantite": 1,
+            "prix_unitaire": 289.93
+        }
+    ],
+    "date_commande": "2023-09-23T02:49:40",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "645 Constanso",
+        "ville": "Mountain View"
+    }
+}

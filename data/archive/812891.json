@@ -1,0 +1,19 @@
+{
+    "order_id": 812891,
+    "client_id": 1910,
+    "produits": [
+        {
+            "produit_id": "P3035",
+            "nom": "Gorgeous Rubber Soap",
+            "quantite": 4,
+            "prix_unitaire": 53.82
+        }
+    ],
+    "date_commande": "2024-01-12T03:44:54",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "459 Vale",
+        "ville": "Hobbs"
+    }
+}

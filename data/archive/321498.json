@@ -1,0 +1,27 @@
+{
+    "order_id": 321498,
+    "client_id": 3158,
+    "produits": [
+        {
+            "produit_id": "P5861",
+            "nom": "Unbranded Steel Fish",
+            "quantite": 1,
+            "prix_unitaire": 407.93
+        },
+        {
+            "produit_id": "P0103",
+            "nom": "Sleek Rubber Fish",
+            "quantite": 3,
+            "prix_unitaire": 302.46
+        },
+        {
+            "produit_id": "P4721",
+            "nom": "Refined Metal Chair",
+            "quantite": 2,
+            "prix_unitaire": 49.49
+        }
+    ],
+    "date_commande": "2024-10-15T05:33:14",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

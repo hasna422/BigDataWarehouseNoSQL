@@ -1,0 +1,19 @@
+{
+    "order_id": 952656,
+    "client_id": 3246,
+    "produits": [
+        {
+            "produit_id": "P4900",
+            "nom": "Ergonomic Soft Gloves",
+            "quantite": 4,
+            "prix_unitaire": 261.82
+        }
+    ],
+    "date_commande": "2024-07-25T02:35:55",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "57 Lenox",
+        "ville": "Hilton Head Island"
+    }
+}

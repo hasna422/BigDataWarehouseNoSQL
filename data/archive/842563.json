@@ -1,0 +1,15 @@
+{
+    "order_id": 842563,
+    "client_id": 2568,
+    "produits": [
+        {
+            "produit_id": "P1844",
+            "nom": "Small Chips",
+            "quantite": 1,
+            "prix_unitaire": 68.21
+        }
+    ],
+    "date_commande": "2024-03-30T10:34:07",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 603601,
+    "client_id": 6309,
+    "produits": [
+        {
+            "produit_id": "P0074",
+            "nom": "Handmade Granite Pants",
+            "quantite": 2,
+            "prix_unitaire": 167.23
+        }
+    ],
+    "date_commande": "2025-05-06T14:14:36",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1177 Stow Lake",
+        "ville": "Chandler"
+    }
+}

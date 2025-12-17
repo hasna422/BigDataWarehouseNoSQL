@@ -1,0 +1,31 @@
+{
+    "order_id": 271433,
+    "client_id": 2223,
+    "produits": [
+        {
+            "produit_id": "P8099",
+            "nom": "New Computer",
+            "quantite": 4,
+            "prix_unitaire": 443.48
+        },
+        {
+            "produit_id": "P7845",
+            "nom": "Unbranded Wooden Fish",
+            "quantite": 4,
+            "prix_unitaire": 43.12
+        },
+        {
+            "produit_id": "P9838",
+            "nom": "Sleek Hat",
+            "quantite": 2,
+            "prix_unitaire": 330.6
+        }
+    ],
+    "date_commande": "2025-02-28T13:35:32",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "366 Moneta",
+        "ville": "Melrose"
+    }
+}

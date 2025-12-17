@@ -1,0 +1,25 @@
+{
+    "order_id": 670237,
+    "client_id": 2829,
+    "produits": [
+        {
+            "produit_id": "P4254",
+            "nom": "Gently Used Chair",
+            "quantite": 4,
+            "prix_unitaire": 220.49
+        },
+        {
+            "produit_id": "P1068",
+            "nom": "Used Wooden Gloves",
+            "quantite": 4,
+            "prix_unitaire": 155.52
+        }
+    ],
+    "date_commande": "2023-08-09T16:47:00",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "879 Roanoke",
+        "ville": "Forest Grove"
+    }
+}

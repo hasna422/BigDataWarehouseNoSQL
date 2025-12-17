@@ -1,0 +1,21 @@
+{
+    "order_id": 542740,
+    "client_id": 4690,
+    "produits": [
+        {
+            "produit_id": "P1050",
+            "nom": "Awesome Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 151.16
+        },
+        {
+            "produit_id": "P5538",
+            "nom": "Awesome Steel Ball",
+            "quantite": 1,
+            "prix_unitaire": 442.72
+        }
+    ],
+    "date_commande": "2023-08-02T21:41:45",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

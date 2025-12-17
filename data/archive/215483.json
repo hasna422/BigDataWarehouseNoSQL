@@ -1,0 +1,25 @@
+{
+    "order_id": 215483,
+    "client_id": 2276,
+    "produits": [
+        {
+            "produit_id": "P2253",
+            "nom": "Ergonomic Soap",
+            "quantite": 5,
+            "prix_unitaire": 74.98
+        },
+        {
+            "produit_id": "P4015",
+            "nom": "Handcrafted Plastic Chicken",
+            "quantite": 5,
+            "prix_unitaire": 195.23
+        }
+    ],
+    "date_commande": "2025-03-30T22:13:21",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "224 East Fort Miley",
+        "ville": "Scarsdale"
+    }
+}

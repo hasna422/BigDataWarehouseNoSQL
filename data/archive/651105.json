@@ -1,0 +1,25 @@
+{
+    "order_id": 651105,
+    "client_id": 6466,
+    "produits": [
+        {
+            "produit_id": "P6887",
+            "nom": "Awesome Steel Computer",
+            "quantite": 2,
+            "prix_unitaire": 341.54
+        },
+        {
+            "produit_id": "P5227",
+            "nom": "Generic Bike",
+            "quantite": 5,
+            "prix_unitaire": 282.14
+        }
+    ],
+    "date_commande": "2023-11-14T13:38:49",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "283 Langdon",
+        "ville": "Enid"
+    }
+}

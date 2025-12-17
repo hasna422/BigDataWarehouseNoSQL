@@ -1,0 +1,25 @@
+{
+    "order_id": 174880,
+    "client_id": 8268,
+    "produits": [
+        {
+            "produit_id": "P3102",
+            "nom": "Small Plastic Fish",
+            "quantite": 2,
+            "prix_unitaire": 72.22
+        },
+        {
+            "produit_id": "P4274",
+            "nom": "Handmade Soft Gloves",
+            "quantite": 2,
+            "prix_unitaire": 225.8
+        }
+    ],
+    "date_commande": "2025-01-05T06:43:47",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "124 Stern Grove",
+        "ville": "Rancho Palos Verdes"
+    }
+}

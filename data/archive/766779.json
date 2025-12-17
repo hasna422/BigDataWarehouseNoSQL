@@ -1,0 +1,27 @@
+{
+    "order_id": 766779,
+    "client_id": 9325,
+    "produits": [
+        {
+            "produit_id": "P9805",
+            "nom": "Practical Concrete Mouse",
+            "quantite": 2,
+            "prix_unitaire": 134.77
+        },
+        {
+            "produit_id": "P4438",
+            "nom": "Licensed Fresh Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 492.13
+        },
+        {
+            "produit_id": "P3458",
+            "nom": "Rustic Wooden Chips",
+            "quantite": 2,
+            "prix_unitaire": 92.27
+        }
+    ],
+    "date_commande": "2023-10-28T14:24:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

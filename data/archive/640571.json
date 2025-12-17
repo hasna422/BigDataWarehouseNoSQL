@@ -1,0 +1,19 @@
+{
+    "order_id": 640571,
+    "client_id": 9626,
+    "produits": [
+        {
+            "produit_id": "P0699",
+            "nom": "Tasty Frozen Cheese",
+            "quantite": 4,
+            "prix_unitaire": 443.48
+        }
+    ],
+    "date_commande": "2024-05-22T06:10:54",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "574 Le Conte",
+        "ville": "Lima"
+    }
+}

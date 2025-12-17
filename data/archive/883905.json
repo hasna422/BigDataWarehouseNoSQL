@@ -1,0 +1,19 @@
+{
+    "order_id": 883905,
+    "client_id": 7341,
+    "produits": [
+        {
+            "produit_id": "P7197",
+            "nom": "Practical Wooden Salad",
+            "quantite": 3,
+            "prix_unitaire": 182.7
+        }
+    ],
+    "date_commande": "2024-11-11T08:26:04",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "858 Middlefield",
+        "ville": "Chicago"
+    }
+}

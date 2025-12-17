@@ -1,0 +1,25 @@
+{
+    "order_id": 652452,
+    "client_id": 1219,
+    "produits": [
+        {
+            "produit_id": "P9414",
+            "nom": "Handmade Wooden Salad",
+            "quantite": 2,
+            "prix_unitaire": 361.11
+        },
+        {
+            "produit_id": "P5507",
+            "nom": "Intelligent Granite Mouse",
+            "quantite": 1,
+            "prix_unitaire": 481.65
+        }
+    ],
+    "date_commande": "2023-10-30T01:33:43",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "950 Frank Norris",
+        "ville": "Valparaiso"
+    }
+}

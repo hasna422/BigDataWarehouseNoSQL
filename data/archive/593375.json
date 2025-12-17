@@ -1,0 +1,31 @@
+{
+    "order_id": 593375,
+    "client_id": 1621,
+    "produits": [
+        {
+            "produit_id": "P2075",
+            "nom": "Small Fresh Tuna",
+            "quantite": 1,
+            "prix_unitaire": 20.5
+        },
+        {
+            "produit_id": "P6437",
+            "nom": "For repair Rubber Chips",
+            "quantite": 1,
+            "prix_unitaire": 372.22
+        },
+        {
+            "produit_id": "P6134",
+            "nom": "For repair Soap",
+            "quantite": 5,
+            "prix_unitaire": 217.92
+        }
+    ],
+    "date_commande": "2024-05-21T03:43:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "135 Zeno",
+        "ville": "Marietta"
+    }
+}

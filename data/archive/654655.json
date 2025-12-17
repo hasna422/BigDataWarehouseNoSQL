@@ -1,0 +1,31 @@
+{
+    "order_id": 654655,
+    "client_id": 5784,
+    "produits": [
+        {
+            "produit_id": "P6682",
+            "nom": "Awesome Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 129.66
+        },
+        {
+            "produit_id": "P2469",
+            "nom": "Gorgeous Plastic Car",
+            "quantite": 4,
+            "prix_unitaire": 210.63
+        },
+        {
+            "produit_id": "P4999",
+            "nom": "New Concrete Mouse",
+            "quantite": 1,
+            "prix_unitaire": 456.04
+        }
+    ],
+    "date_commande": "2025-05-15T02:35:06",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1301 Reardon",
+        "ville": "Universal City"
+    }
+}

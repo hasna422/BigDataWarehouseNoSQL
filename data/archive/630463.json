@@ -1,0 +1,25 @@
+{
+    "order_id": 630463,
+    "client_id": 7680,
+    "produits": [
+        {
+            "produit_id": "P5537",
+            "nom": "Incredible Fresh Mouse",
+            "quantite": 1,
+            "prix_unitaire": 286.45
+        },
+        {
+            "produit_id": "P0657",
+            "nom": "For repair Cotton Pants",
+            "quantite": 2,
+            "prix_unitaire": 45.75
+        }
+    ],
+    "date_commande": "2025-03-23T09:35:33",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1263 Halyburton",
+        "ville": "Schererville"
+    }
+}

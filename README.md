@@ -1,19 +1,5 @@
-Parfait ! Je peux te rédiger un **README.md complet et professionnel** pour ton **mini-projet Big Data Warehouse NoSQL – Simulation de flux de commandes multicanal**, prêt à être poussé sur GitHub. Il inclura :
 
-* Contexte et objectifs
-* Structure du projet et scripts Python
-* Instructions pour MongoDB et l’intégration des données
-* Reporting avec MongoDB Charts et Power BI
-
-Voici le code complet à copier-coller dans ton `README.md` :
-
-```markdown
 # 🛒 Mini-Projet Big Data Warehouse NoSQL – Simulation de flux de commandes multicanal
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)](https://www.mongodb.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Report-orange)](https://powerbi.microsoft.com/)
-
 ---
 
 ## 📌 Contexte général

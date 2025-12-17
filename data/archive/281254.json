@@ -1,0 +1,31 @@
+{
+    "order_id": 281254,
+    "client_id": 4978,
+    "produits": [
+        {
+            "produit_id": "P4418",
+            "nom": "For repair Plastic Chicken",
+            "quantite": 2,
+            "prix_unitaire": 341.61
+        },
+        {
+            "produit_id": "P3928",
+            "nom": "For repair Wooden Soap",
+            "quantite": 5,
+            "prix_unitaire": 51.93
+        },
+        {
+            "produit_id": "P4184",
+            "nom": "Rustic Concrete Shirt",
+            "quantite": 4,
+            "prix_unitaire": 33.24
+        }
+    ],
+    "date_commande": "2023-11-30T02:59:30",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "796 Divisadero",
+        "ville": "La Crosse"
+    }
+}

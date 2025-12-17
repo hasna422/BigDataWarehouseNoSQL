@@ -1,0 +1,19 @@
+{
+    "order_id": 764930,
+    "client_id": 4048,
+    "produits": [
+        {
+            "produit_id": "P1872",
+            "nom": "Ergonomic Plastic Chips",
+            "quantite": 1,
+            "prix_unitaire": 95.21
+        }
+    ],
+    "date_commande": "2025-01-05T14:44:51",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1373 Keystone",
+        "ville": "Westfield"
+    }
+}

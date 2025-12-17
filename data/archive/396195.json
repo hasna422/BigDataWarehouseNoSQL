@@ -1,0 +1,19 @@
+{
+    "order_id": 396195,
+    "client_id": 9084,
+    "produits": [
+        {
+            "produit_id": "P2468",
+            "nom": "Rustic Rubber Chair",
+            "quantite": 5,
+            "prix_unitaire": 318.71
+        }
+    ],
+    "date_commande": "2023-09-23T04:12:13",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1375 Pelican Cove",
+        "ville": "Owasso"
+    }
+}

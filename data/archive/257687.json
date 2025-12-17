@@ -1,0 +1,31 @@
+{
+    "order_id": 257687,
+    "client_id": 3711,
+    "produits": [
+        {
+            "produit_id": "P4400",
+            "nom": "New Steel Bike",
+            "quantite": 1,
+            "prix_unitaire": 177.34
+        },
+        {
+            "produit_id": "P4074",
+            "nom": "Generic Rubber Pizza",
+            "quantite": 3,
+            "prix_unitaire": 165.91
+        },
+        {
+            "produit_id": "P4549",
+            "nom": "Handcrafted Table",
+            "quantite": 4,
+            "prix_unitaire": 436.62
+        }
+    ],
+    "date_commande": "2024-02-19T12:52:10",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "310 Rhode Island",
+        "ville": "Lima"
+    }
+}

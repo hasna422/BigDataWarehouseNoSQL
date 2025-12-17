@@ -1,0 +1,25 @@
+{
+    "order_id": 955547,
+    "client_id": 6886,
+    "produits": [
+        {
+            "produit_id": "P1211",
+            "nom": "Gorgeous Metal Chicken",
+            "quantite": 2,
+            "prix_unitaire": 145.15
+        },
+        {
+            "produit_id": "P2221",
+            "nom": "Small Wooden Keyboard",
+            "quantite": 1,
+            "prix_unitaire": 455.69
+        }
+    ],
+    "date_commande": "2024-12-30T07:43:51",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "155 Brotherhood",
+        "ville": "Douglasville"
+    }
+}

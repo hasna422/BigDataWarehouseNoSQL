@@ -1,0 +1,31 @@
+{
+    "order_id": 372636,
+    "client_id": 8368,
+    "produits": [
+        {
+            "produit_id": "P4548",
+            "nom": "Unbranded Fresh Cheese",
+            "quantite": 5,
+            "prix_unitaire": 321.23
+        },
+        {
+            "produit_id": "P6123",
+            "nom": "Handmade Concrete Soap",
+            "quantite": 4,
+            "prix_unitaire": 394.53
+        },
+        {
+            "produit_id": "P2206",
+            "nom": "New Wooden Tuna",
+            "quantite": 5,
+            "prix_unitaire": 89.83
+        }
+    ],
+    "date_commande": "2024-06-20T00:30:43",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1025 Diamond Heights",
+        "ville": "Fountain Valley"
+    }
+}

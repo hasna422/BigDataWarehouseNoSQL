@@ -1,0 +1,31 @@
+{
+    "order_id": 272120,
+    "client_id": 5670,
+    "produits": [
+        {
+            "produit_id": "P8150",
+            "nom": "For repair Metal Computer",
+            "quantite": 1,
+            "prix_unitaire": 162.7
+        },
+        {
+            "produit_id": "P6353",
+            "nom": "Gently Used Concrete Soap",
+            "quantite": 3,
+            "prix_unitaire": 113.65
+        },
+        {
+            "produit_id": "P9138",
+            "nom": "Handcrafted Ball",
+            "quantite": 2,
+            "prix_unitaire": 34.21
+        }
+    ],
+    "date_commande": "2023-12-14T14:11:15",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "147 Cottage",
+        "ville": "Monrovia"
+    }
+}

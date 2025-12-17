@@ -1,0 +1,31 @@
+{
+    "order_id": 610345,
+    "client_id": 7350,
+    "produits": [
+        {
+            "produit_id": "P4789",
+            "nom": "Licensed Frozen Shoes",
+            "quantite": 2,
+            "prix_unitaire": 123.38
+        },
+        {
+            "produit_id": "P0566",
+            "nom": "Used Rubber Pizza",
+            "quantite": 4,
+            "prix_unitaire": 126.04
+        },
+        {
+            "produit_id": "P0415",
+            "nom": "Gorgeous Fresh Hat",
+            "quantite": 5,
+            "prix_unitaire": 153.22
+        }
+    ],
+    "date_commande": "2023-09-04T03:48:51",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "993 Stilwell",
+        "ville": "McAlester"
+    }
+}

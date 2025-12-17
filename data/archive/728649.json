@@ -1,0 +1,25 @@
+{
+    "order_id": 728649,
+    "client_id": 5918,
+    "produits": [
+        {
+            "produit_id": "P8537",
+            "nom": "Tasty Granite Bacon",
+            "quantite": 5,
+            "prix_unitaire": 406.19
+        },
+        {
+            "produit_id": "P6342",
+            "nom": "Gently Used Wooden Computer",
+            "quantite": 2,
+            "prix_unitaire": 446.84
+        }
+    ],
+    "date_commande": "2023-06-27T07:44:38",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "116 North View",
+        "ville": "New Smyrna Beach"
+    }
+}

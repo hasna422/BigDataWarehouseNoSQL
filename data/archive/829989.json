@@ -1,0 +1,19 @@
+{
+    "order_id": 829989,
+    "client_id": 9440,
+    "produits": [
+        {
+            "produit_id": "P1735",
+            "nom": "Cotton Ball",
+            "quantite": 2,
+            "prix_unitaire": 35.65
+        }
+    ],
+    "date_commande": "2024-05-26T07:01:20",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "630 Venard",
+        "ville": "Shelbyville"
+    }
+}

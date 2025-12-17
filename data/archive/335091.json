@@ -1,0 +1,19 @@
+{
+    "order_id": 335091,
+    "client_id": 4486,
+    "produits": [
+        {
+            "produit_id": "P6050",
+            "nom": "Incredible Soft Chips",
+            "quantite": 1,
+            "prix_unitaire": 38.81
+        }
+    ],
+    "date_commande": "2024-03-05T07:40:42",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1267 Halyburton",
+        "ville": "Washington"
+    }
+}

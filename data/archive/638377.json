@@ -1,0 +1,31 @@
+{
+    "order_id": 638377,
+    "client_id": 8973,
+    "produits": [
+        {
+            "produit_id": "P8718",
+            "nom": "For repair Hat",
+            "quantite": 3,
+            "prix_unitaire": 34.12
+        },
+        {
+            "produit_id": "P4223",
+            "nom": "Cotton Chicken",
+            "quantite": 4,
+            "prix_unitaire": 498.94
+        },
+        {
+            "produit_id": "P6819",
+            "nom": "Tasty Salad",
+            "quantite": 3,
+            "prix_unitaire": 460.71
+        }
+    ],
+    "date_commande": "2024-06-28T05:07:23",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "454 Decatur",
+        "ville": "Carlisle"
+    }
+}

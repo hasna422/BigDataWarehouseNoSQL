@@ -1,0 +1,25 @@
+{
+    "order_id": 298503,
+    "client_id": 2930,
+    "produits": [
+        {
+            "produit_id": "P2283",
+            "nom": "Unbranded Fresh Gloves",
+            "quantite": 1,
+            "prix_unitaire": 208.77
+        },
+        {
+            "produit_id": "P7757",
+            "nom": "Incredible Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 367.06
+        }
+    ],
+    "date_commande": "2023-12-05T00:50:46",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "610 Robinhood",
+        "ville": "Ponca City"
+    }
+}

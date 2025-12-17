@@ -1,0 +1,25 @@
+{
+    "order_id": 500579,
+    "client_id": 6904,
+    "produits": [
+        {
+            "produit_id": "P4129",
+            "nom": "Steel Salad",
+            "quantite": 4,
+            "prix_unitaire": 400.44
+        },
+        {
+            "produit_id": "P5388",
+            "nom": "Granite Chicken",
+            "quantite": 1,
+            "prix_unitaire": 245.62
+        }
+    ],
+    "date_commande": "2023-10-22T00:27:50",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1128 Moffitt",
+        "ville": "Davenport"
+    }
+}

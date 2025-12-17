@@ -1,0 +1,21 @@
+{
+    "order_id": 895173,
+    "client_id": 6797,
+    "produits": [
+        {
+            "produit_id": "P1979",
+            "nom": "Awesome Metal Salad",
+            "quantite": 1,
+            "prix_unitaire": 303.55
+        },
+        {
+            "produit_id": "P0919",
+            "nom": "Tasty Cotton Shirt",
+            "quantite": 5,
+            "prix_unitaire": 207.41
+        }
+    ],
+    "date_commande": "2024-08-16T17:39:49",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

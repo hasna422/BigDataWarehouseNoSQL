@@ -1,0 +1,19 @@
+{
+    "order_id": 618501,
+    "client_id": 3243,
+    "produits": [
+        {
+            "produit_id": "P2960",
+            "nom": "Licensed Wooden Mouse",
+            "quantite": 2,
+            "prix_unitaire": 468.28
+        }
+    ],
+    "date_commande": "2023-05-30T20:15:07",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "313 Nelson Rising",
+        "ville": "McDonough"
+    }
+}

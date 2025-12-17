@@ -1,0 +1,31 @@
+{
+    "order_id": 750756,
+    "client_id": 9216,
+    "produits": [
+        {
+            "produit_id": "P7007",
+            "nom": "Licensed Shirt",
+            "quantite": 5,
+            "prix_unitaire": 421.11
+        },
+        {
+            "produit_id": "P5705",
+            "nom": "New Concrete Towels",
+            "quantite": 5,
+            "prix_unitaire": 205.9
+        },
+        {
+            "produit_id": "P2231",
+            "nom": "Ergonomic Shoes",
+            "quantite": 4,
+            "prix_unitaire": 44.35
+        }
+    ],
+    "date_commande": "2025-05-19T06:10:25",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "838 Toyon",
+        "ville": "El Mirage"
+    }
+}

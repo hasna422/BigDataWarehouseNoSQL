@@ -1,0 +1,15 @@
+{
+    "order_id": 577045,
+    "client_id": 6656,
+    "produits": [
+        {
+            "produit_id": "P9428",
+            "nom": "Gently Used Frozen Bike",
+            "quantite": 4,
+            "prix_unitaire": 41.23
+        }
+    ],
+    "date_commande": "2024-05-29T22:19:16",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

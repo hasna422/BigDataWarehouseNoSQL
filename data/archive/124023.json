@@ -1,0 +1,19 @@
+{
+    "order_id": 124023,
+    "client_id": 1308,
+    "produits": [
+        {
+            "produit_id": "P1157",
+            "nom": "Practical Steel Soap",
+            "quantite": 2,
+            "prix_unitaire": 289.84
+        }
+    ],
+    "date_commande": "2024-01-04T04:27:47",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1213 Dublin",
+        "ville": "Melbourne"
+    }
+}

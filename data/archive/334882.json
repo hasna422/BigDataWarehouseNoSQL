@@ -1,0 +1,25 @@
+{
+    "order_id": 334882,
+    "client_id": 3960,
+    "produits": [
+        {
+            "produit_id": "P6101",
+            "nom": "Handmade Metal Computer",
+            "quantite": 4,
+            "prix_unitaire": 100.64
+        },
+        {
+            "produit_id": "P9882",
+            "nom": "Incredible Metal Pants",
+            "quantite": 5,
+            "prix_unitaire": 123.52
+        }
+    ],
+    "date_commande": "2024-02-08T13:25:01",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "793 Rotteck",
+        "ville": "Deerfield Beach"
+    }
+}

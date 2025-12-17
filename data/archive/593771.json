@@ -1,0 +1,21 @@
+{
+    "order_id": 593771,
+    "client_id": 3590,
+    "produits": [
+        {
+            "produit_id": "P2451",
+            "nom": "Licensed Cotton Cheese",
+            "quantite": 1,
+            "prix_unitaire": 496.58
+        },
+        {
+            "produit_id": "P6469",
+            "nom": "Handcrafted Rubber Shoes",
+            "quantite": 4,
+            "prix_unitaire": 102.36
+        }
+    ],
+    "date_commande": "2023-07-11T13:15:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

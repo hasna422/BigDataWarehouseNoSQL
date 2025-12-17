@@ -1,0 +1,31 @@
+{
+    "order_id": 229393,
+    "client_id": 4472,
+    "produits": [
+        {
+            "produit_id": "P6899",
+            "nom": "Ergonomic Concrete Hat",
+            "quantite": 2,
+            "prix_unitaire": 328.38
+        },
+        {
+            "produit_id": "P9125",
+            "nom": "Rustic Rubber Pants",
+            "quantite": 2,
+            "prix_unitaire": 97.76
+        },
+        {
+            "produit_id": "P8518",
+            "nom": "Gently Used Frozen Car",
+            "quantite": 4,
+            "prix_unitaire": 236.59
+        }
+    ],
+    "date_commande": "2024-11-27T21:22:44",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1354 Sunglow",
+        "ville": "Eagle Mountain"
+    }
+}

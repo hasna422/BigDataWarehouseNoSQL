@@ -1,0 +1,19 @@
+{
+    "order_id": 635506,
+    "client_id": 3992,
+    "produits": [
+        {
+            "produit_id": "P9387",
+            "nom": "Gently Used Rubber Shoes",
+            "quantite": 3,
+            "prix_unitaire": 385.65
+        }
+    ],
+    "date_commande": "2025-04-02T08:19:46",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1206 Bergen",
+        "ville": "Richmond"
+    }
+}

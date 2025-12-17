@@ -1,0 +1,25 @@
+{
+    "order_id": 275068,
+    "client_id": 4430,
+    "produits": [
+        {
+            "produit_id": "P2120",
+            "nom": "Refined Fish",
+            "quantite": 2,
+            "prix_unitaire": 292.8
+        },
+        {
+            "produit_id": "P9436",
+            "nom": "Licensed Metal Car",
+            "quantite": 4,
+            "prix_unitaire": 478.16
+        }
+    ],
+    "date_commande": "2024-08-05T01:57:50",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "508 Alberta",
+        "ville": "Livonia"
+    }
+}

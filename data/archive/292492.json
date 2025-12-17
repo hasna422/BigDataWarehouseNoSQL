@@ -1,0 +1,19 @@
+{
+    "order_id": 292492,
+    "client_id": 3661,
+    "produits": [
+        {
+            "produit_id": "P7271",
+            "nom": "Tasty Frozen Towels",
+            "quantite": 3,
+            "prix_unitaire": 279.57
+        }
+    ],
+    "date_commande": "2024-11-09T19:39:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "923 Jasper",
+        "ville": "Bessemer"
+    }
+}

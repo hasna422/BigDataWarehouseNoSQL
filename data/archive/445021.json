@@ -1,0 +1,15 @@
+{
+    "order_id": 445021,
+    "client_id": 8772,
+    "produits": [
+        {
+            "produit_id": "P5090",
+            "nom": "Generic Plastic Gloves",
+            "quantite": 2,
+            "prix_unitaire": 234.84
+        }
+    ],
+    "date_commande": "2025-02-22T00:31:30",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

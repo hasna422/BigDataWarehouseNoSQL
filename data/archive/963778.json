@@ -1,0 +1,19 @@
+{
+    "order_id": 963778,
+    "client_id": 2229,
+    "produits": [
+        {
+            "produit_id": "P8251",
+            "nom": "For repair Bike",
+            "quantite": 3,
+            "prix_unitaire": 202.54
+        }
+    ],
+    "date_commande": "2023-09-10T20:38:48",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1146 Homewood",
+        "ville": "Miami Beach"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "order_id": 246482,
+    "client_id": 1664,
+    "produits": [
+        {
+            "produit_id": "P9317",
+            "nom": "Used Fresh Pizza",
+            "quantite": 4,
+            "prix_unitaire": 307.26
+        },
+        {
+            "produit_id": "P7146",
+            "nom": "Incredible Fresh Table",
+            "quantite": 5,
+            "prix_unitaire": 439.78
+        }
+    ],
+    "date_commande": "2025-01-09T12:39:30",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

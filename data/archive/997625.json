@@ -1,0 +1,15 @@
+{
+    "order_id": 997625,
+    "client_id": 7355,
+    "produits": [
+        {
+            "produit_id": "P0148",
+            "nom": "Awesome Wooden Fish",
+            "quantite": 5,
+            "prix_unitaire": 151.36
+        }
+    ],
+    "date_commande": "2024-11-16T00:20:28",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 579827,
+    "client_id": 9530,
+    "produits": [
+        {
+            "produit_id": "P4098",
+            "nom": "Generic Cotton Shirt",
+            "quantite": 4,
+            "prix_unitaire": 435.94
+        },
+        {
+            "produit_id": "P1309",
+            "nom": "Sleek Granite Pizza",
+            "quantite": 2,
+            "prix_unitaire": 293.03
+        },
+        {
+            "produit_id": "P7908",
+            "nom": "Refined Concrete Pizza",
+            "quantite": 1,
+            "prix_unitaire": 478.33
+        }
+    ],
+    "date_commande": "2024-08-30T22:04:26",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1298 Wedemeyer",
+        "ville": "Clarksville"
+    }
+}

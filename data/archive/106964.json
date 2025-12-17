@@ -1,0 +1,15 @@
+{
+    "order_id": 106964,
+    "client_id": 5036,
+    "produits": [
+        {
+            "produit_id": "P7294",
+            "nom": "Gorgeous Concrete Shoes",
+            "quantite": 1,
+            "prix_unitaire": 324.65
+        }
+    ],
+    "date_commande": "2025-02-17T11:56:42",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

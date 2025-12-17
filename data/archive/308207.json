@@ -1,0 +1,31 @@
+{
+    "order_id": 308207,
+    "client_id": 5530,
+    "produits": [
+        {
+            "produit_id": "P4115",
+            "nom": "New Concrete Fish",
+            "quantite": 5,
+            "prix_unitaire": 478.77
+        },
+        {
+            "produit_id": "P6052",
+            "nom": "Licensed Steel Chair",
+            "quantite": 5,
+            "prix_unitaire": 339.48
+        },
+        {
+            "produit_id": "P5432",
+            "nom": "Awesome Plastic Bacon",
+            "quantite": 3,
+            "prix_unitaire": 349.18
+        }
+    ],
+    "date_commande": "2025-04-21T15:48:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "983 Anza",
+        "ville": "Rio Rancho"
+    }
+}

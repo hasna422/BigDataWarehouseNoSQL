@@ -1,0 +1,19 @@
+{
+    "order_id": 397087,
+    "client_id": 5107,
+    "produits": [
+        {
+            "produit_id": "P2808",
+            "nom": "Generic Rubber Cheese",
+            "quantite": 4,
+            "prix_unitaire": 445.34
+        }
+    ],
+    "date_commande": "2025-04-21T23:38:38",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1360 Burlwood",
+        "ville": "Stillwater"
+    }
+}

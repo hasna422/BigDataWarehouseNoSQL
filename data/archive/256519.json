@@ -1,0 +1,25 @@
+{
+    "order_id": 256519,
+    "client_id": 8983,
+    "produits": [
+        {
+            "produit_id": "P4182",
+            "nom": "Handmade Plastic Gloves",
+            "quantite": 5,
+            "prix_unitaire": 499.67
+        },
+        {
+            "produit_id": "P2751",
+            "nom": "Unbranded Wooden Hat",
+            "quantite": 2,
+            "prix_unitaire": 486.52
+        }
+    ],
+    "date_commande": "2024-02-18T13:40:23",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1340 Brannan",
+        "ville": "Poway"
+    }
+}

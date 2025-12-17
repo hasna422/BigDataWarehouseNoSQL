@@ -1,0 +1,27 @@
+{
+    "order_id": 893218,
+    "client_id": 8603,
+    "produits": [
+        {
+            "produit_id": "P3474",
+            "nom": "Tasty Cotton Computer",
+            "quantite": 4,
+            "prix_unitaire": 286.46
+        },
+        {
+            "produit_id": "P9436",
+            "nom": "Handcrafted Metal Hat",
+            "quantite": 4,
+            "prix_unitaire": 482.48
+        },
+        {
+            "produit_id": "P6974",
+            "nom": "Refined Fresh Soap",
+            "quantite": 4,
+            "prix_unitaire": 127.64
+        }
+    ],
+    "date_commande": "2023-07-27T11:51:40",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

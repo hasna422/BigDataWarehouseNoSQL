@@ -1,0 +1,15 @@
+{
+    "order_id": 853595,
+    "client_id": 3698,
+    "produits": [
+        {
+            "produit_id": "P5642",
+            "nom": "Ergonomic Wooden Mouse",
+            "quantite": 5,
+            "prix_unitaire": 348.56
+        }
+    ],
+    "date_commande": "2023-07-26T08:16:01",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

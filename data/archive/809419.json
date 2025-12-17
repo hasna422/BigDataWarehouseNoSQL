@@ -1,0 +1,25 @@
+{
+    "order_id": 809419,
+    "client_id": 2946,
+    "produits": [
+        {
+            "produit_id": "P0104",
+            "nom": "Incredible Wooden Pants",
+            "quantite": 4,
+            "prix_unitaire": 243.0
+        },
+        {
+            "produit_id": "P0596",
+            "nom": "Fantastic Plastic Hat",
+            "quantite": 1,
+            "prix_unitaire": 221.57
+        }
+    ],
+    "date_commande": "2025-01-18T17:08:37",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1268 Ludlow",
+        "ville": "Biloxi"
+    }
+}

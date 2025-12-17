@@ -1,0 +1,31 @@
+{
+    "order_id": 226952,
+    "client_id": 4434,
+    "produits": [
+        {
+            "produit_id": "P5910",
+            "nom": "Ergonomic Soft Mouse",
+            "quantite": 2,
+            "prix_unitaire": 143.84
+        },
+        {
+            "produit_id": "P9519",
+            "nom": "New Rubber Sausages",
+            "quantite": 4,
+            "prix_unitaire": 394.36
+        },
+        {
+            "produit_id": "P2234",
+            "nom": "Unbranded Granite Shoes",
+            "quantite": 4,
+            "prix_unitaire": 470.97
+        }
+    ],
+    "date_commande": "2024-10-27T09:31:31",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1217 Twin Peaks",
+        "ville": "Wilmington"
+    }
+}

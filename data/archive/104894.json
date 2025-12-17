@@ -1,0 +1,15 @@
+{
+    "order_id": 104894,
+    "client_id": 3353,
+    "produits": [
+        {
+            "produit_id": "P9235",
+            "nom": "Awesome Tuna",
+            "quantite": 2,
+            "prix_unitaire": 227.11
+        }
+    ],
+    "date_commande": "2025-03-28T08:59:18",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

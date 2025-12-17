@@ -1,0 +1,25 @@
+{
+    "order_id": 835702,
+    "client_id": 3332,
+    "produits": [
+        {
+            "produit_id": "P6607",
+            "nom": "Unbranded Metal Ball",
+            "quantite": 1,
+            "prix_unitaire": 237.72
+        },
+        {
+            "produit_id": "P4087",
+            "nom": "Refined Frozen Pants",
+            "quantite": 5,
+            "prix_unitaire": 259.27
+        }
+    ],
+    "date_commande": "2024-11-03T03:04:09",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "593 Pelican Cove",
+        "ville": "SeaTac"
+    }
+}

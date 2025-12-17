@@ -1,0 +1,31 @@
+{
+    "order_id": 327577,
+    "client_id": 8315,
+    "produits": [
+        {
+            "produit_id": "P5557",
+            "nom": "Ergonomic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 177.21
+        },
+        {
+            "produit_id": "P8603",
+            "nom": "Practical Tuna",
+            "quantite": 2,
+            "prix_unitaire": 475.77
+        },
+        {
+            "produit_id": "P0362",
+            "nom": "Fantastic Cheese",
+            "quantite": 2,
+            "prix_unitaire": 481.52
+        }
+    ],
+    "date_commande": "2024-12-03T10:54:44",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "1011 Quint",
+        "ville": "Brownwood"
+    }
+}

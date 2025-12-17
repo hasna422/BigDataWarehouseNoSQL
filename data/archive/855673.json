@@ -1,0 +1,19 @@
+{
+    "order_id": 855673,
+    "client_id": 7730,
+    "produits": [
+        {
+            "produit_id": "P7991",
+            "nom": "Licensed Wooden Pants",
+            "quantite": 2,
+            "prix_unitaire": 480.8
+        }
+    ],
+    "date_commande": "2024-05-09T19:25:37",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "7 Overlook",
+        "ville": "Hermosa Beach"
+    }
+}

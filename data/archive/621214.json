@@ -1,0 +1,27 @@
+{
+    "order_id": 621214,
+    "client_id": 5545,
+    "produits": [
+        {
+            "produit_id": "P9430",
+            "nom": "Refined Towels",
+            "quantite": 5,
+            "prix_unitaire": 486.54
+        },
+        {
+            "produit_id": "P0645",
+            "nom": "New Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 477.99
+        },
+        {
+            "produit_id": "P8253",
+            "nom": "Refined Plastic Car",
+            "quantite": 5,
+            "prix_unitaire": 376.23
+        }
+    ],
+    "date_commande": "2023-08-20T07:35:25",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

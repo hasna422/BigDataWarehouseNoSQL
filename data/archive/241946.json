@@ -1,0 +1,19 @@
+{
+    "order_id": 241946,
+    "client_id": 1665,
+    "produits": [
+        {
+            "produit_id": "P3508",
+            "nom": "Pants",
+            "quantite": 1,
+            "prix_unitaire": 385.31
+        }
+    ],
+    "date_commande": "2023-12-19T21:23:03",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "105 Portola",
+        "ville": "Cleveland"
+    }
+}

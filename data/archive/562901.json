@@ -1,0 +1,25 @@
+{
+    "order_id": 562901,
+    "client_id": 4941,
+    "produits": [
+        {
+            "produit_id": "P9764",
+            "nom": "Refined Plastic Bacon",
+            "quantite": 5,
+            "prix_unitaire": 48.47
+        },
+        {
+            "produit_id": "P7426",
+            "nom": "Refined Steel Bacon",
+            "quantite": 4,
+            "prix_unitaire": 292.27
+        }
+    ],
+    "date_commande": "2024-07-18T15:38:42",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "671 Natick",
+        "ville": "Plainview"
+    }
+}

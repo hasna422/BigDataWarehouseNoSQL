@@ -1,0 +1,31 @@
+{
+    "order_id": 958340,
+    "client_id": 5532,
+    "produits": [
+        {
+            "produit_id": "P7601",
+            "nom": "New Metal Pizza",
+            "quantite": 4,
+            "prix_unitaire": 244.39
+        },
+        {
+            "produit_id": "P6723",
+            "nom": "Handcrafted Cotton Soap",
+            "quantite": 4,
+            "prix_unitaire": 278.38
+        },
+        {
+            "produit_id": "P0307",
+            "nom": "Granite Chips",
+            "quantite": 3,
+            "prix_unitaire": 166.6
+        }
+    ],
+    "date_commande": "2025-05-28T15:52:26",
+    "canal": "web",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1195 Hallam",
+        "ville": "Bentonville"
+    }
+}

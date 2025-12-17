@@ -1,0 +1,31 @@
+{
+    "order_id": 974880,
+    "client_id": 8041,
+    "produits": [
+        {
+            "produit_id": "P4874",
+            "nom": "Intelligent Ball",
+            "quantite": 1,
+            "prix_unitaire": 476.14
+        },
+        {
+            "produit_id": "P7062",
+            "nom": "New Plastic Gloves",
+            "quantite": 1,
+            "prix_unitaire": 328.91
+        },
+        {
+            "produit_id": "P3674",
+            "nom": "Soft Chair",
+            "quantite": 2,
+            "prix_unitaire": 60.55
+        }
+    ],
+    "date_commande": "2024-06-01T10:12:14",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "719 Norton",
+        "ville": "Coralville"
+    }
+}

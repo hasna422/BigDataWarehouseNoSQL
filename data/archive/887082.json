@@ -1,0 +1,15 @@
+{
+    "order_id": 887082,
+    "client_id": 8951,
+    "produits": [
+        {
+            "produit_id": "P6019",
+            "nom": "Unbranded Fresh Chips",
+            "quantite": 5,
+            "prix_unitaire": 289.67
+        }
+    ],
+    "date_commande": "2023-06-19T16:03:12",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

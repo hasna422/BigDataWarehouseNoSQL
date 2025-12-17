@@ -1,0 +1,19 @@
+{
+    "order_id": 590193,
+    "client_id": 6418,
+    "produits": [
+        {
+            "produit_id": "P4962",
+            "nom": "Ergonomic Wooden Gloves",
+            "quantite": 2,
+            "prix_unitaire": 196.78
+        }
+    ],
+    "date_commande": "2023-08-29T17:58:20",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "253 Bigler",
+        "ville": "Bethlehem"
+    }
+}

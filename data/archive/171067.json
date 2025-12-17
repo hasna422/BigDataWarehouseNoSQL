@@ -1,0 +1,31 @@
+{
+    "order_id": 171067,
+    "client_id": 1100,
+    "produits": [
+        {
+            "produit_id": "P8291",
+            "nom": "Sleek Steel Tuna",
+            "quantite": 1,
+            "prix_unitaire": 310.31
+        },
+        {
+            "produit_id": "P3636",
+            "nom": "Generic Plastic Sausages",
+            "quantite": 2,
+            "prix_unitaire": 155.99
+        },
+        {
+            "produit_id": "P7046",
+            "nom": "Gently Used Bacon",
+            "quantite": 2,
+            "prix_unitaire": 207.57
+        }
+    ],
+    "date_commande": "2025-03-01T23:05:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1369 San Buenaventura",
+        "ville": "Dunedin"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 764424,
+    "client_id": 1398,
+    "produits": [
+        {
+            "produit_id": "P4465",
+            "nom": "Handcrafted Frozen Towels",
+            "quantite": 1,
+            "prix_unitaire": 92.51
+        }
+    ],
+    "date_commande": "2024-02-28T07:47:54",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "986 Keystone",
+        "ville": "Hammond"
+    }
+}

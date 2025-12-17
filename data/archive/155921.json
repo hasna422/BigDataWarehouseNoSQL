@@ -1,0 +1,19 @@
+{
+    "order_id": 155921,
+    "client_id": 3029,
+    "produits": [
+        {
+            "produit_id": "P6688",
+            "nom": "Licensed Hat",
+            "quantite": 3,
+            "prix_unitaire": 32.44
+        }
+    ],
+    "date_commande": "2023-11-28T08:00:04",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "228 Oneida",
+        "ville": "Charleston"
+    }
+}

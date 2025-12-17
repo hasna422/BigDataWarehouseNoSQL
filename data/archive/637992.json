@@ -1,0 +1,19 @@
+{
+    "order_id": 637992,
+    "client_id": 5671,
+    "produits": [
+        {
+            "produit_id": "P9682",
+            "nom": "Cotton Chips",
+            "quantite": 2,
+            "prix_unitaire": 332.46
+        }
+    ],
+    "date_commande": "2024-11-02T09:49:12",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "618 Rose",
+        "ville": "Bakersfield"
+    }
+}

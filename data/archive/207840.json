@@ -1,0 +1,21 @@
+{
+    "order_id": 207840,
+    "client_id": 5475,
+    "produits": [
+        {
+            "produit_id": "P3212",
+            "nom": "Generic Wooden Soap",
+            "quantite": 2,
+            "prix_unitaire": 307.01
+        },
+        {
+            "produit_id": "P7809",
+            "nom": "Refined Car",
+            "quantite": 5,
+            "prix_unitaire": 13.64
+        }
+    ],
+    "date_commande": "2024-10-19T14:06:37",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

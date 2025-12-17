@@ -1,0 +1,21 @@
+{
+    "order_id": 249542,
+    "client_id": 6582,
+    "produits": [
+        {
+            "produit_id": "P8227",
+            "nom": "Sleek Rubber Chair",
+            "quantite": 2,
+            "prix_unitaire": 363.82
+        },
+        {
+            "produit_id": "P9312",
+            "nom": "For repair Soft Towels",
+            "quantite": 5,
+            "prix_unitaire": 118.87
+        }
+    ],
+    "date_commande": "2024-10-19T06:07:05",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

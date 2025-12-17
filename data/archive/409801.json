@@ -1,0 +1,25 @@
+{
+    "order_id": 409801,
+    "client_id": 4794,
+    "produits": [
+        {
+            "produit_id": "P0837",
+            "nom": "Practical Concrete Chair",
+            "quantite": 4,
+            "prix_unitaire": 426.31
+        },
+        {
+            "produit_id": "P6103",
+            "nom": "Rustic Cotton Bike",
+            "quantite": 5,
+            "prix_unitaire": 351.1
+        }
+    ],
+    "date_commande": "2024-07-16T18:31:54",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "808 Morgan",
+        "ville": "Albert Lea"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "order_id": 910243,
+    "client_id": 1448,
+    "produits": [
+        {
+            "produit_id": "P0046",
+            "nom": "Small Pants",
+            "quantite": 1,
+            "prix_unitaire": 39.54
+        }
+    ],
+    "date_commande": "2024-09-22T03:34:58",
+    "canal": "boutique",
+    "statut_commande": "en attente"
+}

@@ -1,0 +1,25 @@
+{
+    "order_id": 501041,
+    "client_id": 4340,
+    "produits": [
+        {
+            "produit_id": "P5857",
+            "nom": "Licensed Concrete Pants",
+            "quantite": 4,
+            "prix_unitaire": 468.86
+        },
+        {
+            "produit_id": "P6041",
+            "nom": "Unbranded Rubber Shoes",
+            "quantite": 1,
+            "prix_unitaire": 144.57
+        }
+    ],
+    "date_commande": "2024-12-07T13:48:44",
+    "canal": "web",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "1331 Redwood",
+        "ville": "Plattsburgh"
+    }
+}

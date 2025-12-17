@@ -1,0 +1,31 @@
+{
+    "order_id": 590015,
+    "client_id": 7748,
+    "produits": [
+        {
+            "produit_id": "P2153",
+            "nom": "Concrete Hat",
+            "quantite": 5,
+            "prix_unitaire": 348.98
+        },
+        {
+            "produit_id": "P6164",
+            "nom": "Incredible Gloves",
+            "quantite": 2,
+            "prix_unitaire": 47.75
+        },
+        {
+            "produit_id": "P1255",
+            "nom": "Gorgeous Soft Pants",
+            "quantite": 2,
+            "prix_unitaire": 340.34
+        }
+    ],
+    "date_commande": "2023-07-31T11:22:30",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "568 Capen",
+        "ville": "Highland Park"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "order_id": 987296,
+    "client_id": 7359,
+    "produits": [
+        {
+            "produit_id": "P9223",
+            "nom": "Gorgeous Bacon",
+            "quantite": 3,
+            "prix_unitaire": 216.03
+        },
+        {
+            "produit_id": "P9256",
+            "nom": "Rubber Chair",
+            "quantite": 3,
+            "prix_unitaire": 377.85
+        },
+        {
+            "produit_id": "P7765",
+            "nom": "Intelligent Rubber Car",
+            "quantite": 3,
+            "prix_unitaire": 104.45
+        }
+    ],
+    "date_commande": "2025-01-14T09:05:02",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "399 Carr",
+        "ville": "Deerfield Beach"
+    }
+}

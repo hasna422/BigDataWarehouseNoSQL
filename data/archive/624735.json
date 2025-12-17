@@ -1,0 +1,31 @@
+{
+    "order_id": 624735,
+    "client_id": 6049,
+    "produits": [
+        {
+            "produit_id": "P2397",
+            "nom": "Practical Granite Ball",
+            "quantite": 4,
+            "prix_unitaire": 154.1
+        },
+        {
+            "produit_id": "P1958",
+            "nom": "Generic Steel Pants",
+            "quantite": 2,
+            "prix_unitaire": 63.0
+        },
+        {
+            "produit_id": "P4466",
+            "nom": "Incredible Fresh Car",
+            "quantite": 1,
+            "prix_unitaire": 446.73
+        }
+    ],
+    "date_commande": "2025-02-12T09:32:16",
+    "canal": "mobile",
+    "statut_commande": "annulée",
+    "livraison": {
+        "adresse": "86 Modoc",
+        "ville": "Orem"
+    }
+}

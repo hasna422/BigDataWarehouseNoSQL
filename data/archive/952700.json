@@ -1,0 +1,15 @@
+{
+    "order_id": 952700,
+    "client_id": 4184,
+    "produits": [
+        {
+            "produit_id": "P4578",
+            "nom": "Fresh Car",
+            "quantite": 4,
+            "prix_unitaire": 438.84
+        }
+    ],
+    "date_commande": "2024-02-27T18:56:50",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 458757,
+    "client_id": 7105,
+    "produits": [
+        {
+            "produit_id": "P7861",
+            "nom": "Handcrafted Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 201.71
+        }
+    ],
+    "date_commande": "2023-07-06T09:22:30",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "47 Rock",
+        "ville": "Central Falls"
+    }
+}

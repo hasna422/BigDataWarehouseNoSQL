@@ -1,0 +1,27 @@
+{
+    "order_id": 657288,
+    "client_id": 1658,
+    "produits": [
+        {
+            "produit_id": "P4110",
+            "nom": "Unbranded Rubber Computer",
+            "quantite": 2,
+            "prix_unitaire": 311.8
+        },
+        {
+            "produit_id": "P4657",
+            "nom": "Incredible Wooden Soap",
+            "quantite": 4,
+            "prix_unitaire": 436.11
+        },
+        {
+            "produit_id": "P7055",
+            "nom": "Used Metal Chair",
+            "quantite": 4,
+            "prix_unitaire": 256.15
+        }
+    ],
+    "date_commande": "2023-11-04T23:24:00",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

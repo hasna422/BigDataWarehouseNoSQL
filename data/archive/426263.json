@@ -1,0 +1,21 @@
+{
+    "order_id": 426263,
+    "client_id": 5012,
+    "produits": [
+        {
+            "produit_id": "P7684",
+            "nom": "Unbranded Concrete Pants",
+            "quantite": 3,
+            "prix_unitaire": 356.45
+        },
+        {
+            "produit_id": "P1365",
+            "nom": "Used Wooden Car",
+            "quantite": 1,
+            "prix_unitaire": 225.82
+        }
+    ],
+    "date_commande": "2023-09-23T11:14:03",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

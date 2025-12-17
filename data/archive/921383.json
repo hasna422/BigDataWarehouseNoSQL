@@ -1,0 +1,19 @@
+{
+    "order_id": 921383,
+    "client_id": 9298,
+    "produits": [
+        {
+            "produit_id": "P0422",
+            "nom": "Gently Used Cotton Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 87.99
+        }
+    ],
+    "date_commande": "2024-01-05T21:57:17",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "481 Belden",
+        "ville": "Bentonville"
+    }
+}

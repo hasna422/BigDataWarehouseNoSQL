@@ -1,0 +1,25 @@
+{
+    "order_id": 655804,
+    "client_id": 1312,
+    "produits": [
+        {
+            "produit_id": "P6112",
+            "nom": "Tasty Soft Pants",
+            "quantite": 5,
+            "prix_unitaire": 112.72
+        },
+        {
+            "produit_id": "P6978",
+            "nom": "Practical Soft Sausages",
+            "quantite": 2,
+            "prix_unitaire": 283.98
+        }
+    ],
+    "date_commande": "2023-10-17T16:26:43",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "1245 Heritage",
+        "ville": "Medford"
+    }
+}

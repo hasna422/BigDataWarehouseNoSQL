@@ -1,0 +1,19 @@
+{
+    "order_id": 293236,
+    "client_id": 5654,
+    "produits": [
+        {
+            "produit_id": "P4516",
+            "nom": "Used Granite Salad",
+            "quantite": 4,
+            "prix_unitaire": 290.85
+        }
+    ],
+    "date_commande": "2025-05-06T12:45:19",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "866 Tioga",
+        "ville": "Wellington"
+    }
+}

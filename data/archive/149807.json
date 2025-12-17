@@ -1,0 +1,25 @@
+{
+    "order_id": 149807,
+    "client_id": 2434,
+    "produits": [
+        {
+            "produit_id": "P6013",
+            "nom": "Incredible Plastic Mouse",
+            "quantite": 5,
+            "prix_unitaire": 261.3
+        },
+        {
+            "produit_id": "P0466",
+            "nom": "New Steel Mouse",
+            "quantite": 1,
+            "prix_unitaire": 295.01
+        }
+    ],
+    "date_commande": "2023-11-04T19:14:06",
+    "canal": "mobile",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "944 Rockaway",
+        "ville": "Ankeny"
+    }
+}

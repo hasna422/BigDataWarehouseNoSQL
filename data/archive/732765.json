@@ -1,0 +1,19 @@
+{
+    "order_id": 732765,
+    "client_id": 7121,
+    "produits": [
+        {
+            "produit_id": "P3092",
+            "nom": "Generic Concrete Bike",
+            "quantite": 3,
+            "prix_unitaire": 168.48
+        }
+    ],
+    "date_commande": "2024-05-18T10:12:30",
+    "canal": "web",
+    "statut_commande": "en attente",
+    "livraison": {
+        "adresse": "701 Timothy Pflueger",
+        "ville": "Missoula"
+    }
+}

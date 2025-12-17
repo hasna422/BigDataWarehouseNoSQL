@@ -1,0 +1,27 @@
+{
+    "order_id": 242567,
+    "client_id": 2496,
+    "produits": [
+        {
+            "produit_id": "P1810",
+            "nom": "Rustic Soft Keyboard",
+            "quantite": 2,
+            "prix_unitaire": 151.6
+        },
+        {
+            "produit_id": "P6928",
+            "nom": "Gently Used Steel Keyboard",
+            "quantite": 5,
+            "prix_unitaire": 203.43
+        },
+        {
+            "produit_id": "P5791",
+            "nom": "Refined Chair",
+            "quantite": 4,
+            "prix_unitaire": 497.68
+        }
+    ],
+    "date_commande": "2023-10-24T10:24:15",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

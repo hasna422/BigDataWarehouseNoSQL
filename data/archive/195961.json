@@ -1,0 +1,21 @@
+{
+    "order_id": 195961,
+    "client_id": 3957,
+    "produits": [
+        {
+            "produit_id": "P2059",
+            "nom": "Tasty Plastic Computer",
+            "quantite": 1,
+            "prix_unitaire": 283.68
+        },
+        {
+            "produit_id": "P8412",
+            "nom": "Refined Wooden Shoes",
+            "quantite": 5,
+            "prix_unitaire": 88.58
+        }
+    ],
+    "date_commande": "2024-07-06T15:16:32",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

@@ -1,0 +1,19 @@
+{
+    "order_id": 477768,
+    "client_id": 4722,
+    "produits": [
+        {
+            "produit_id": "P5504",
+            "nom": "Sleek Soft Shirt",
+            "quantite": 5,
+            "prix_unitaire": 456.46
+        }
+    ],
+    "date_commande": "2025-03-24T04:39:11",
+    "canal": "mobile",
+    "statut_commande": "payée",
+    "livraison": {
+        "adresse": "846 Mulford",
+        "ville": "Chino"
+    }
+}

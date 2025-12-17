@@ -1,0 +1,21 @@
+{
+    "order_id": 551133,
+    "client_id": 7869,
+    "produits": [
+        {
+            "produit_id": "P4219",
+            "nom": "For repair Granite Bike",
+            "quantite": 1,
+            "prix_unitaire": 169.21
+        },
+        {
+            "produit_id": "P4502",
+            "nom": "Handcrafted Steel Hat",
+            "quantite": 4,
+            "prix_unitaire": 146.64
+        }
+    ],
+    "date_commande": "2024-02-24T21:10:27",
+    "canal": "boutique",
+    "statut_commande": "payée"
+}

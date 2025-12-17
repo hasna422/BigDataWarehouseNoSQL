@@ -1,0 +1,27 @@
+{
+    "order_id": 625177,
+    "client_id": 7255,
+    "produits": [
+        {
+            "produit_id": "P0962",
+            "nom": "Refined Cotton Car",
+            "quantite": 2,
+            "prix_unitaire": 182.68
+        },
+        {
+            "produit_id": "P0640",
+            "nom": "Licensed Cotton Towels",
+            "quantite": 5,
+            "prix_unitaire": 272.48
+        },
+        {
+            "produit_id": "P1747",
+            "nom": "Refined Steel Tuna",
+            "quantite": 5,
+            "prix_unitaire": 249.36
+        }
+    ],
+    "date_commande": "2024-11-17T20:05:39",
+    "canal": "boutique",
+    "statut_commande": "annulée"
+}
