@@ -1,0 +1,29 @@
+### .gitignore pour ce projet
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv
+venv/
+env/
+
+# Données
+data/sources/
+data/archive/
+*.csv
+*.json
+*.xlsx
+
+# Power BI
+*.pbix
+*.pbit
+
+# VS Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+````
